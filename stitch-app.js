@@ -189,6 +189,7 @@ function renderWatchlistChips() {
 // Unified routing helpers
 function openTicker(symbol) {
   closeSheet();
+  setActiveChip(symbol, 'ticker');
   const isDesktop = window.innerWidth >= 1024;
   if (isDesktop) {
     openTickerInPanel(symbol);
@@ -199,12 +200,29 @@ function openTicker(symbol) {
 
 function openConcept(conceptId) {
   closeSheet();
+  setActiveChip(conceptId, 'concept');
   const isDesktop = window.innerWidth >= 1024;
   if (isDesktop) {
     openConceptInPanel(conceptId);
   } else {
     openConceptSheet(conceptId);
   }
+}
+
+function setActiveChip(identifier, type) {
+  document.querySelectorAll('.chip').forEach(chip => chip.classList.remove('active'));
+  
+  if (type === 'ticker') {
+    const targetChip = document.querySelector(`.chip[data-ticker="${identifier}"]`);
+    if (targetChip) targetChip.classList.add('active');
+  } else if (type === 'concept') {
+    const targetChip = document.querySelector(`.chip[data-concept-id="${identifier}"]`);
+    if (targetChip) targetChip.classList.add('active');
+  }
+}
+
+function clearActiveChips() {
+  document.querySelectorAll('.chip').forEach(chip => chip.classList.remove('active'));
 }
 
 // Render Concept Chips
@@ -627,6 +645,7 @@ function renderSheetChart(symbol, period, containerId = 'sheetChart') {
 
 // Open Story Sheet (mobile only)
 function openStorySheet(storyId) {
+  clearActiveChips();
   const story = briefData.stories.find(s => s.id === storyId);
   if (!story) return;
   
@@ -1054,6 +1073,7 @@ function closeSheet() {
   sheet.classList.remove('active');
   
   document.body.style.overflow = '';
+  clearActiveChips();
 }
 
 // Setup Event Listeners
@@ -1078,6 +1098,7 @@ function autoSelectFirstStoryOnDesktop() {
 
 // Open story in desktop panel or mobile sheet
 function openStoryInPanel(storyId) {
+  clearActiveChips();
   if (window.innerWidth >= 1024) {
     // Desktop: show in right panel
     const story = briefData.stories.find(s => s.id === storyId);
@@ -1231,6 +1252,7 @@ function closePanel() {
   
   panel.classList.remove('has-content');
   contentLayout.classList.remove('panel-active');
+  clearActiveChips();
 }
 
 // Error Handling

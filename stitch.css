@@ -405,6 +405,20 @@ body {
   color: #00201d;
 }
 
+.chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #00201d;
+  box-shadow: 0 2px 8px rgba(46, 230, 214, 0.3);
+}
+
+[data-theme="dark"] .chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #00201d;
+  box-shadow: 0 2px 8px rgba(46, 230, 214, 0.4);
+}
+
 .chip:active {
   transform: translateY(0);
 }
