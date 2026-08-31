@@ -148,7 +148,7 @@
       "symbol": "NVDA",
       "nameCn": "英偉達",
       "exchange": "NASDAQ",
-      "role": "持仓",
+      "role": "研究",
       "notesUrl": "https://app.notion.com/p/3cd99f70bc568174a354f22f3d1c3a61",
       "lastFiling": {
         "title": "Q2 FY2027 Earnings Release",
@@ -168,7 +168,7 @@
       "symbol": "SPCX",
       "nameCn": "SpaceX",
       "exchange": "NASDAQ",
-      "role": "学习",
+      "role": "研究",
       "notesUrl": null,
       "lastFiling": null
     },
@@ -184,7 +184,7 @@
       "symbol": "SPYM",
       "nameCn": "標普 500 ETF",
       "exchange": "NYSE Arca",
-      "role": "对照",
+      "role": "對照",
       "notesUrl": null,
       "lastFiling": null
     },
@@ -192,7 +192,7 @@
       "symbol": "VEU",
       "nameCn": "全球非美 ETF",
       "exchange": "NYSE Arca",
-      "role": "对照",
+      "role": "對照",
       "notesUrl": null,
       "lastFiling": null
     },
@@ -200,7 +200,7 @@
       "symbol": "GLD",
       "nameCn": "黃金 ETF",
       "exchange": "NYSE Arca",
-      "role": "对照",
+      "role": "對照",
       "notesUrl": null,
       "lastFiling": null
     },

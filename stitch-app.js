@@ -434,6 +434,101 @@ function renderChart(symbol, period) {
   });
 }
 
+// Render Chart in Sheet (with explicit sizing)
+function renderSheetChart(symbol, period) {
+  const ticker = watchlistData.tickers.find(t => t.symbol === symbol);
+  if (!ticker || !ticker.prices[period] || ticker.prices[period].length === 0) return;
+  
+  const canvasId = 'sheetChart';
+  const container = document.getElementById(canvasId);
+  if (!container) return;
+  
+  // Set explicit dimensions
+  container.style.height = '180px';
+  container.style.position = 'relative';
+  
+  // Clear and create canvas
+  container.innerHTML = '<canvas style="width: 100% !important; height: 180px !important;"></canvas>';
+  const canvas = container.querySelector('canvas');
+  
+  // Destroy existing chart
+  if (charts[canvasId]) {
+    charts[canvasId].destroy();
+    delete charts[canvasId];
+  }
+  
+  const ctx = canvas.getContext('2d');
+  const data = ticker.prices[period];
+  const labels = data.map(d => d.date);
+  const prices = data.map(d => d.close);
+  
+  const gradient = ctx.createLinearGradient(0, 0, 0, 180);
+  gradient.addColorStop(0, 'rgba(46, 230, 214, 0.3)');
+  gradient.addColorStop(1, 'rgba(46, 230, 214, 0)');
+  
+  charts[canvasId] = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: labels,
+      datasets: [{
+        data: prices,
+        borderColor: '#2EE6D6',
+        backgroundColor: gradient,
+        borderWidth: 2.5,
+        fill: true,
+        tension: 0.4,
+        pointRadius: 0,
+        pointHoverRadius: 6,
+        pointHoverBackgroundColor: '#2EE6D6',
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          mode: 'index',
+          intersect: false,
+          backgroundColor: 'rgba(24, 28, 28, 0.95)',
+          titleColor: '#e0e3e1',
+          bodyColor: '#bec9c6',
+          borderColor: '#3f4946',
+          borderWidth: 1,
+          padding: 12,
+          displayColors: false,
+          callbacks: {
+            label: (context) => `$${context.parsed.y.toFixed(2)}`
+          }
+        }
+      },
+      scales: {
+        x: { display: false },
+        y: {
+          border: { display: false },
+          grid: {
+            color: 'rgba(190, 201, 198, 0.1)',
+            drawTicks: false
+          },
+          ticks: {
+            color: '#bec9c6',
+            padding: 10,
+            callback: (value) => '$' + value.toFixed(0)
+          }
+        }
+      },
+      interaction: {
+        intersect: false,
+        mode: 'index'
+      },
+      animation: {
+        duration: 750,
+        easing: 'easeInOutQuart'
+      }
+    }
+  });
+}
+
 // Open Story Sheet
 function openStorySheet(storyId) {
   const story = briefData.stories.find(s => s.id === storyId);
@@ -580,7 +675,8 @@ function openTickerSheet(symbol) {
     '持仓': '持倉',
     '研究': '研究',
     '学习': '學習',
-    '对照': '對照'
+    '对照': '對照',
+    '對照': '對照'
   };
   
   const relatedStories = briefData.stories.filter(s => s.ticker === symbol);
@@ -663,18 +759,19 @@ function openTickerSheet(symbol) {
   showSheet(html);
   
   if (hasData) {
+    // Wait for sheet animation to complete before rendering chart
     setTimeout(() => {
-      renderChart(symbol, '1M');
+      renderSheetChart(symbol, '1M');
       
       document.querySelectorAll('#sheetTimeframeSelector .timeframe-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
           const period = e.target.dataset.period;
           document.querySelectorAll('#sheetTimeframeSelector .timeframe-btn').forEach(b => b.classList.remove('active'));
           e.target.classList.add('active');
-          renderChart(symbol, period);
+          renderSheetChart(symbol, period);
         });
       });
-    }, 100);
+    }, 350);
   }
 }
 
