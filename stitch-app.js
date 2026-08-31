@@ -92,8 +92,22 @@ function capitalize(str) {
 // Data Loading
 async function loadData() {
   try {
+    let latestBriefFile = '2026-08-31.json';
+    
+    try {
+      const indexRes = await fetch('data/briefs-index.json');
+      if (indexRes.ok) {
+        const indexData = await indexRes.json();
+        if (indexData.briefs && indexData.briefs.length > 0) {
+          latestBriefFile = indexData.briefs[0];
+        }
+      }
+    } catch (e) {
+      console.warn('Could not load briefs index, using fallback');
+    }
+    
     const [briefRes, watchlistRes, techNewsRes] = await Promise.all([
-      fetch('data/briefs/2026-08-31.json'),
+      fetch(`data/briefs/${latestBriefFile}`),
       fetch('data/watchlist.json'),
       fetch('data/tech-news.json').catch(() => null)
     ]);
@@ -104,10 +118,24 @@ async function loadData() {
     if (techNewsRes && techNewsRes.ok) {
       techNewsData = await techNewsRes.json();
     }
+    
+    updateDateLabel();
   } catch (error) {
     console.error('Error loading data:', error);
     showError('無法載入數據');
   }
+}
+
+function updateDateLabel() {
+  if (!briefData || !briefData.date) return;
+  
+  const date = new Date(briefData.date);
+  const year = date.getFullYear();
+  const month = date.getMonth() + 1;
+  const day = date.getDate();
+  
+  const dateLabels = document.querySelectorAll('.date-label');
+  dateLabels[0].textContent = `${year}年${month}月${day}日`;
 }
 
 // Render UI
@@ -130,11 +158,11 @@ function renderWatchlistChips() {
     const watchlistTicker = watchlistData.tickers.find(t => t.symbol === ticker.symbol);
     let changeHtml = '';
     
-    if (watchlistTicker && watchlistTicker.prices['1M'].length > 1) {
+    if (watchlistTicker && watchlistTicker.prices['1M'].length >= 2) {
       const prices = watchlistTicker.prices['1M'];
       const latest = prices[prices.length - 1].close;
-      const first = prices[0].close;
-      const change = ((latest - first) / first * 100).toFixed(2);
+      const previous = prices[prices.length - 2].close;
+      const change = ((latest - previous) / previous * 100).toFixed(2);
       const isPositive = change >= 0;
       
       changeHtml = `<span class="chip-change ${isPositive ? 'up' : 'down'}">${isPositive ? '+' : ''}${change}%</span>`;
@@ -153,7 +181,12 @@ function renderWatchlistChips() {
   container.querySelectorAll('.chip').forEach(chip => {
     chip.addEventListener('click', () => {
       const ticker = chip.dataset.ticker;
-      openTickerSheet(ticker);
+      const isDesktop = window.innerWidth >= 1024;
+      if (isDesktop) {
+        openTickerInPanel(ticker);
+      } else {
+        openTickerSheet(ticker);
+      }
     });
   });
 }
@@ -174,9 +207,22 @@ function renderConceptChips() {
   container.querySelectorAll('.chip').forEach(chip => {
     chip.addEventListener('click', () => {
       const conceptId = chip.dataset.conceptId;
-      openConceptSheet(conceptId);
+      const isDesktop = window.innerWidth >= 1024;
+      if (isDesktop) {
+        openConceptInPanel(conceptId);
+      } else {
+        openConceptSheet(conceptId);
+      }
     });
   });
+}
+
+function formatBriefDate(dateString) {
+  if (!dateString) return '';
+  const date = new Date(dateString);
+  const month = date.getMonth() + 1;
+  const day = date.getDate();
+  return `${month}月${day}日`;
 }
 
 // Render Stories
@@ -184,17 +230,23 @@ function renderStories() {
   const container = document.getElementById('storyGrid');
   const stories = briefData.stories || [];
   
+  const briefDate = formatBriefDate(briefData.date);
+  
   const html = stories.map(story => {
     const sourcesCount = story.sources?.length || 0;
     const sourceText = sourcesCount > 0 
       ? `來源：${story.sources[0].publisher}${sourcesCount > 1 ? ` +${sourcesCount - 1}` : ''}`
       : '來源：未核實';
     
+    const truncatedWhy = story.whyItMatters && story.whyItMatters.length > 100 
+      ? story.whyItMatters.substring(0, 100) + '...'
+      : story.whyItMatters;
+    
     return `
       <div class="story-card" data-story-id="${story.id}">
         <div class="story-header">
           ${story.ticker ? `<span class="story-ticker">${story.ticker}</span>` : ''}
-          <span class="story-time">2 小時前</span>
+          <span class="story-time">${briefDate}</span>
         </div>
         <h3 class="story-title">${story.title}</h3>
         <p class="story-summary">${story.summary}</p>
@@ -208,7 +260,7 @@ function renderStories() {
               </svg>
               新手點解要理？
             </div>
-            <p class="story-callout-text">${story.whyItMatters.substring(0, 100)}...</p>
+            <p class="story-callout-text">${truncatedWhy}</p>
           </div>
         ` : ''}
         <div class="story-footer">
@@ -238,46 +290,6 @@ function renderStories() {
   });
 }
 
-// Render Past Briefs
-function renderPastBriefs() {
-  const container = document.getElementById('pastBriefs');
-  
-  const html = `
-    <div class="past-brief-item">
-      <div class="past-brief-icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-          <polyline points="14 2 14 8 20 8"></polyline>
-        </svg>
-      </div>
-      <div class="past-brief-content">
-        <div class="past-brief-date">2026年8月24日</div>
-        <div class="past-brief-preview">Jackson Hole 會議 / 等待開學季</div>
-      </div>
-      <svg class="past-brief-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <polyline points="9 18 15 12 9 6"></polyline>
-      </svg>
-    </div>
-    <div class="past-brief-item">
-      <div class="past-brief-icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-          <polyline points="14 2 14 8 20 8"></polyline>
-        </svg>
-      </div>
-      <div class="past-brief-content">
-        <div class="past-brief-date">2026年8月17日</div>
-        <div class="past-brief-preview">美股 Q2 財報季尾聲 / 日圓套息交易</div>
-      </div>
-      <svg class="past-brief-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <polyline points="9 18 15 12 9 6"></polyline>
-      </svg>
-    </div>
-  `;
-  
-  container.innerHTML = html;
-}
-
 // Render Glossary
 function renderGlossary() {
   const container = document.getElementById('glossaryGrid');
@@ -296,7 +308,12 @@ function renderGlossary() {
   container.querySelectorAll('.glossary-card').forEach(card => {
     card.addEventListener('click', () => {
       const conceptId = card.dataset.conceptId;
-      openConceptSheet(conceptId);
+      const isDesktop = window.innerWidth >= 1024;
+      if (isDesktop) {
+        openConceptInPanel(conceptId);
+      } else {
+        openConceptSheet(conceptId);
+      }
     });
   });
 }
@@ -352,7 +369,12 @@ function renderTechNews() {
     chip.addEventListener('click', (e) => {
       e.stopPropagation();
       const ticker = chip.dataset.ticker;
-      openTickerSheet(ticker);
+      const isDesktop = window.innerWidth >= 1024;
+      if (isDesktop) {
+        openTickerInPanel(ticker);
+      } else {
+        openTickerSheet(ticker);
+      }
     });
   });
 }
@@ -611,6 +633,16 @@ function openStorySheet(storyId) {
 }
 
 // Open Ticker Sheet
+function getCurrencySymbol(symbol, exchange) {
+  if (symbol.includes('.HK') || (exchange && exchange.includes('HK'))) {
+    return 'HK$';
+  }
+  if (exchange && (exchange.includes('NASDAQ') || exchange.includes('NYSE'))) {
+    return '$';
+  }
+  return '';
+}
+
 function openTickerSheet(symbol) {
   const tickerMeta = briefData.tickers.find(t => t.symbol === symbol);
   const watchlistTicker = watchlistData.tickers.find(t => t.symbol === symbol);
@@ -619,6 +651,7 @@ function openTickerSheet(symbol) {
   
   const hasData = watchlistTicker.prices['1M'].length > 0;
   const latestPrice = hasData ? watchlistTicker.prices['1M'][watchlistTicker.prices['1M'].length - 1].close : 0;
+  const currencySymbol = getCurrencySymbol(symbol, tickerMeta.exchange);
   
   const roleLabels = {
     '持仓': '持倉',
@@ -678,7 +711,7 @@ function openTickerSheet(symbol) {
       <span class="sheet-role-pill">${roleLabels[tickerMeta.role] || tickerMeta.role}</span>
     </div>
     
-    ${hasData ? `<div class="sheet-price">$${latestPrice.toFixed(2)}</div>` : ''}
+    ${hasData ? `<div class="sheet-price">${currencySymbol}${latestPrice.toFixed(2)}</div>` : ''}
     
     ${hasData ? `
       <div class="chart-container" id="sheetChart" style="height: 200px; margin-bottom: 16px;"></div>
@@ -708,7 +741,122 @@ function openTickerSheet(symbol) {
   showSheet(html);
   
   if (hasData) {
-    // Wait for sheet animation to complete before rendering chart
+    setTimeout(() => {
+      renderSheetChart(symbol, '1M');
+      
+      document.querySelectorAll('#sheetTimeframeSelector .timeframe-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          const period = e.target.dataset.period;
+          document.querySelectorAll('#sheetTimeframeSelector .timeframe-btn').forEach(b => b.classList.remove('active'));
+          e.target.classList.add('active');
+          renderSheetChart(symbol, period);
+        });
+      });
+    }, 350);
+  }
+}
+
+function openTickerInPanel(symbol) {
+  const tickerMeta = briefData.tickers.find(t => t.symbol === symbol);
+  const watchlistTicker = watchlistData.tickers.find(t => t.symbol === symbol);
+  
+  if (!tickerMeta || !watchlistTicker) return;
+  
+  const hasData = watchlistTicker.prices['1M'].length > 0;
+  const latestPrice = hasData ? watchlistTicker.prices['1M'][watchlistTicker.prices['1M'].length - 1].close : 0;
+  const currencySymbol = getCurrencySymbol(symbol, tickerMeta.exchange);
+  
+  const roleLabels = {
+    '持仓': '持倉',
+    '研究': '研究',
+    '学习': '學習',
+    '对照': '對照',
+    '對照': '對照'
+  };
+  
+  const relatedStories = briefData.stories.filter(s => s.ticker === symbol);
+  
+  const storiesHtml = relatedStories.length > 0 ? `
+    <div class="sheet-section">
+      <h3>✨ 今期簡報提及</h3>
+      ${relatedStories.map(story => `
+        <div class="story-card" onclick="openStoryInPanel('${story.id}')" style="margin-bottom: 12px; cursor: pointer;">
+          <h4 style="font-size: 1rem; font-weight: 600; margin-bottom: 8px;">${story.title}</h4>
+          <p style="font-size: 0.875rem; color: var(--on-surface-variant);">${story.summary.substring(0, 80)}...</p>
+        </div>
+      `).join('')}
+    </div>
+  ` : '';
+  
+  const notionHtml = tickerMeta.notesUrl ? `
+    <a href="${tickerMeta.notesUrl}" target="_blank" rel="noopener" class="notion-link">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+        <polyline points="14 2 14 8 20 8"></polyline>
+      </svg>
+      在 Notion 打開筆記
+    </a>
+  ` : '<p style="color: var(--on-surface-variant); font-style: italic;">還沒有筆記頁</p>';
+  
+  const filingHtml = tickerMeta.lastFiling ? `
+    <div class="sheet-section">
+      <h3>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+          <polyline points="14 2 14 8 20 8"></polyline>
+        </svg>
+        最新披露
+      </h3>
+      <a href="${tickerMeta.lastFiling.url}" target="_blank" rel="noopener" class="source-link">
+        <div class="source-title">${tickerMeta.lastFiling.title}</div>
+        <div class="source-date">${tickerMeta.lastFiling.date}</div>
+      </a>
+    </div>
+  ` : '';
+  
+  const html = `
+    <div class="sheet-ticker-header">
+      <div class="sheet-ticker-info">
+        <h2>${tickerMeta.nameCn || symbol}</h2>
+        <div class="sheet-ticker-code">${symbol}</div>
+        <div class="sheet-ticker-exchange">${tickerMeta.exchange}</div>
+      </div>
+      <span class="sheet-role-pill">${roleLabels[tickerMeta.role] || tickerMeta.role}</span>
+    </div>
+    
+    ${hasData ? `<div class="sheet-price">${currencySymbol}${latestPrice.toFixed(2)}</div>` : ''}
+    
+    ${hasData ? `
+      <div class="chart-container" id="sheetChart" style="height: 200px; margin-bottom: 16px;"></div>
+      <div class="timeframe-selector" id="sheetTimeframeSelector">
+        <button class="timeframe-btn active" data-period="1M">1M</button>
+        <button class="timeframe-btn" data-period="3M">3M</button>
+        <button class="timeframe-btn" data-period="1Y">1Y</button>
+      </div>
+    ` : '<div class="chart-empty">無可用數據</div>'}
+    
+    ${storiesHtml}
+    
+    ${filingHtml}
+    
+    <div class="sheet-section">
+      <h3>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+          <polyline points="14 2 14 8 20 8"></polyline>
+        </svg>
+        筆記
+      </h3>
+      ${notionHtml}
+    </div>
+  `;
+  
+  const panel = document.getElementById('rightPanel');
+  panel.innerHTML = html;
+  panel.classList.add('has-content');
+  document.querySelector('.content-layout').classList.add('panel-active');
+  
+  if (hasData) {
     setTimeout(() => {
       renderSheetChart(symbol, '1M');
       
@@ -798,6 +946,84 @@ function openConceptSheet(conceptId) {
   `;
   
   showSheet(html);
+}
+
+function openConceptInPanel(conceptId) {
+  const concept = briefData.concepts.find(c => c.id === conceptId);
+  if (!concept) return;
+  
+  const relatedChipsHtml = concept.relatedTickers && concept.relatedTickers.length > 0 ? `
+    <div class="chip-row">
+      ${concept.relatedTickers.map(ticker => `
+        <button class="chip" onclick="openTickerInPanel('${ticker}')">
+          ${ticker}
+        </button>
+      `).join('')}
+    </div>
+  ` : '';
+  
+  const notionHtml = concept.notionUrl ? `
+    <a href="${concept.notionUrl}" target="_blank" rel="noopener" class="notion-link">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+        <polyline points="14 2 14 8 20 8"></polyline>
+      </svg>
+      在 Notion 了解更多
+    </a>
+  ` : '';
+  
+  const html = `
+    <div style="margin-bottom: 24px;">
+      <h2 style="font-family: var(--font-label); font-size: 1.5rem; font-weight: 700; margin-bottom: 8px;">
+        ${concept.title}
+      </h2>
+      <div style="font-size: 0.875rem; color: var(--on-surface-variant);">${concept.titleEn}</div>
+    </div>
+    
+    <div class="sheet-section">
+      <h3>它是什麼？</h3>
+      <p style="color: var(--on-surface); line-height: 1.6;">${concept.what}</p>
+    </div>
+    
+    <div class="sheet-section">
+      <h3>新手點解要理？</h3>
+      <p style="color: var(--on-surface); line-height: 1.6;">${concept.whyItMatters}</p>
+    </div>
+    
+    <div class="sheet-section">
+      <h3>今天邊度出現？</h3>
+      <p style="color: var(--on-surface); line-height: 1.6;">${concept.whereToday}</p>
+    </div>
+    
+    ${concept.whatToWatch ? `
+      <div class="sheet-section">
+        <h3>接下來睇什麼？</h3>
+        <p style="color: var(--on-surface); line-height: 1.6;">${concept.whatToWatch}</p>
+      </div>
+    ` : ''}
+    
+    ${relatedChipsHtml ? `
+      <div class="sheet-section">
+        <h3>相關名稱</h3>
+        ${relatedChipsHtml}
+      </div>
+    ` : ''}
+    
+    ${notionHtml ? `
+      <div class="sheet-section">
+        ${notionHtml}
+      </div>
+    ` : ''}
+    
+    <div style="margin-top: 24px; padding: 16px; background: var(--warning-container); border-radius: 12px; font-size: 0.875rem;">
+      <strong>非投資建議</strong> · 本簡報僅供參考，唔構成買賣建議。
+    </div>
+  `;
+  
+  const panel = document.getElementById('rightPanel');
+  panel.innerHTML = html;
+  panel.classList.add('has-content');
+  document.querySelector('.content-layout').classList.add('panel-active');
 }
 
 // Sheet Management
@@ -921,10 +1147,12 @@ function renderStoryContent(story) {
     </div>
   ` : '';
   
+  const briefDate = formatBriefDate(briefData.date);
+  
   return `
     <div class="sheet-ticker-header">
       ${story.ticker ? `<span class="story-ticker">${story.ticker}</span>` : ''}
-      <span class="story-time">2 小時前</span>
+      <span class="story-time">${briefDate}</span>
     </div>
     
     <h2 style="font-family: var(--font-label); font-size: 1.5rem; font-weight: 700; margin-bottom: 24px;">
