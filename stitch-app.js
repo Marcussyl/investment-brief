@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   await loadData();
   renderUI();
   setupEventListeners();
+  autoSelectFirstStoryOnDesktop();
 });
 
 // Theme Management
@@ -217,7 +218,7 @@ function renderStories() {
   container.querySelectorAll('.story-card').forEach(card => {
     card.addEventListener('click', () => {
       const storyId = card.dataset.storyId;
-      openStorySheet(storyId);
+      openStoryInPanel(storyId);
     });
   });
 }
@@ -529,135 +530,12 @@ function renderSheetChart(symbol, period) {
   });
 }
 
-// Open Story Sheet
+// Open Story Sheet (mobile only)
 function openStorySheet(storyId) {
   const story = briefData.stories.find(s => s.id === storyId);
   if (!story) return;
   
-  const groupedSources = {
-    company: [],
-    exchange: [],
-    news: [],
-    thirdParty: []
-  };
-  
-  (story.sources || []).forEach(source => {
-    const category = source.category === 'company' ? 'company' :
-                    source.category === 'exchange' ? 'exchange' :
-                    source.category === 'news' ? 'news' : 'thirdParty';
-    groupedSources[category].push(source);
-  });
-  
-  const sourcesHtml = Object.entries(groupedSources).map(([category, sources]) => {
-    if (sources.length === 0) return '';
-    
-    const categoryTitle = {
-      company: '公司 / IR / SEC / 港交所',
-      exchange: '交易所公告',
-      news: '通訊社',
-      thirdParty: '第三方 · 非公告'
-    }[category];
-    
-    return `
-      <div class="source-group">
-        <div class="source-group-title">${categoryTitle}</div>
-        ${sources.map(source => `
-          ${source.url ? `
-            <a href="${source.url}" target="_blank" rel="noopener" class="source-link ${source.verified === false ? 'unverified' : ''}">
-              <div class="source-publisher">${source.publisher}</div>
-              <div class="source-title">${source.title}</div>
-              <div class="source-date">${source.date}</div>
-              ${source.verified === false ? '<span class="source-unverified-badge">未核實</span>' : ''}
-            </a>
-          ` : `
-            <div class="source-link unverified">
-              <div class="source-publisher">${source.publisher}</div>
-              <div class="source-title">${source.title}</div>
-              <div class="source-date">${source.date}</div>
-              <span class="source-unverified-badge">未核實</span>
-            </div>
-          `}
-        `).join('')}
-      </div>
-    `;
-  }).join('');
-  
-  const relatedChipsHtml = story.ticker ? `
-    <div class="chip-row">
-      <button class="chip" onclick="closeSheet(); openTickerSheet('${story.ticker}')">
-        ${story.ticker}
-      </button>
-    </div>
-  ` : '';
-  
-  const html = `
-    <div class="sheet-ticker-header">
-      ${story.ticker ? `<span class="story-ticker">${story.ticker}</span>` : ''}
-      <span class="story-time">2 小時前</span>
-    </div>
-    
-    <h2 style="font-family: var(--font-label); font-size: 1.5rem; font-weight: 700; margin-bottom: 24px;">
-      ${story.title}
-    </h2>
-    
-    <div class="sheet-section" style="border-top: none; padding-top: 0; margin-top: 0;">
-      <h3>
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <circle cx="12" cy="12" r="10"></circle>
-          <line x1="12" y1="16" x2="12" y2="12"></line>
-          <line x1="12" y1="8" x2="12.01" y2="8"></line>
-        </svg>
-        發生了什麼？
-      </h3>
-      <p style="color: var(--on-surface); line-height: 1.6;">${story.summary}</p>
-    </div>
-    
-    ${story.whyItMatters ? `
-      <div class="sheet-section">
-        <h3>
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <circle cx="12" cy="12" r="10"></circle>
-            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
-            <line x1="12" y1="17" x2="12.01" y2="17"></line>
-          </svg>
-          新手點解要理？
-        </h3>
-        <p style="color: var(--on-surface); line-height: 1.6;">${story.whyItMatters}</p>
-        ${relatedChipsHtml}
-      </div>
-    ` : ''}
-    
-    ${story.whatToWatch ? `
-      <div class="sheet-section">
-        <h3>
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
-            <circle cx="12" cy="12" r="3"></circle>
-          </svg>
-          接下來睇什麼？
-        </h3>
-        <p style="color: var(--on-surface); line-height: 1.6;">${story.whatToWatch}</p>
-      </div>
-    ` : ''}
-    
-    ${story.sources && story.sources.length > 0 ? `
-      <div class="sheet-section">
-        <h3>
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
-            <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
-          </svg>
-          來源
-        </h3>
-        ${sourcesHtml}
-      </div>
-    ` : ''}
-    
-    <div style="margin-top: 24px; padding: 16px; background: var(--warning-container); border-radius: 12px; font-size: 0.875rem;">
-      <strong>非投資建議</strong> · 本簡報僅供參考，唔構成買賣建議。
-    </div>
-  `;
-  
+  const html = renderStoryContent(story);
   showSheet(html);
 }
 
@@ -885,6 +763,169 @@ function setupEventListeners() {
       closeSheet();
     }
   });
+}
+
+// Auto-select first story on desktop
+function autoSelectFirstStoryOnDesktop() {
+  if (window.innerWidth >= 1024 && briefData && briefData.stories && briefData.stories.length > 0) {
+    const firstStory = briefData.stories[0];
+    openStoryInPanel(firstStory.id);
+  }
+}
+
+// Open story in desktop panel or mobile sheet
+function openStoryInPanel(storyId) {
+  if (window.innerWidth >= 1024) {
+    // Desktop: show in right panel
+    const story = briefData.stories.find(s => s.id === storyId);
+    if (!story) return;
+    
+    const panel = document.getElementById('rightPanel');
+    const contentLayout = document.querySelector('.content-layout');
+    
+    panel.innerHTML = renderStoryContent(story);
+    panel.classList.add('has-content');
+    contentLayout.classList.add('panel-active');
+  } else {
+    // Mobile: show in bottom sheet
+    openStorySheet(storyId);
+  }
+}
+
+// Render story content (shared between panel and sheet)
+function renderStoryContent(story) {
+  const groupedSources = {
+    company: [],
+    exchange: [],
+    news: [],
+    thirdParty: []
+  };
+  
+  (story.sources || []).forEach(source => {
+    const category = source.category === 'company' ? 'company' :
+                    source.category === 'exchange' ? 'exchange' :
+                    source.category === 'news' ? 'news' : 'thirdParty';
+    groupedSources[category].push(source);
+  });
+  
+  const sourcesHtml = Object.entries(groupedSources).map(([category, sources]) => {
+    if (sources.length === 0) return '';
+    
+    const categoryTitle = {
+      company: '公司 / IR / SEC / 港交所',
+      exchange: '交易所公告',
+      news: '通訊社',
+      thirdParty: '第三方 · 非公告'
+    }[category];
+    
+    return `
+      <div class="source-group">
+        <div class="source-group-title">${categoryTitle}</div>
+        ${sources.map(source => `
+          ${source.url ? `
+            <a href="${source.url}" target="_blank" rel="noopener" class="source-link ${source.verified === false ? 'unverified' : ''}">
+              <div class="source-publisher">${source.publisher}</div>
+              <div class="source-title">${source.title}</div>
+              <div class="source-date">${source.date}</div>
+              ${source.verified === false ? '<span class="source-unverified-badge">未核實</span>' : ''}
+            </a>
+          ` : `
+            <div class="source-link unverified">
+              <div class="source-publisher">${source.publisher}</div>
+              <div class="source-title">${source.title}</div>
+              <div class="source-date">${source.date}</div>
+              <span class="source-unverified-badge">未核實</span>
+            </div>
+          `}
+        `).join('')}
+      </div>
+    `;
+  }).join('');
+  
+  const relatedChipsHtml = story.ticker ? `
+    <div class="chip-row">
+      <button class="chip" onclick="closePanel(); openTickerSheet('${story.ticker}')">
+        ${story.ticker}
+      </button>
+    </div>
+  ` : '';
+  
+  return `
+    <div class="sheet-ticker-header">
+      ${story.ticker ? `<span class="story-ticker">${story.ticker}</span>` : ''}
+      <span class="story-time">2 小時前</span>
+    </div>
+    
+    <h2 style="font-family: var(--font-label); font-size: 1.5rem; font-weight: 700; margin-bottom: 24px;">
+      ${story.title}
+    </h2>
+    
+    <div class="sheet-section" style="border-top: none; padding-top: 0; margin-top: 0;">
+      <h3>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="12" y1="16" x2="12" y2="12"></line>
+          <line x1="12" y1="8" x2="12.01" y2="8"></line>
+        </svg>
+        發生了什麼？
+      </h3>
+      <p style="color: var(--on-surface); line-height: 1.6;">${story.summary}</p>
+    </div>
+    
+    ${story.whyItMatters ? `
+      <div class="sheet-section">
+        <h3>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+          </svg>
+          新手點解要理？
+        </h3>
+        <p style="color: var(--on-surface); line-height: 1.6;">${story.whyItMatters}</p>
+        ${relatedChipsHtml}
+      </div>
+    ` : ''}
+    
+    ${story.whatToWatch ? `
+      <div class="sheet-section">
+        <h3>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+            <circle cx="12" cy="12" r="3"></circle>
+          </svg>
+          接下來睇什麼？
+        </h3>
+        <p style="color: var(--on-surface); line-height: 1.6;">${story.whatToWatch}</p>
+      </div>
+    ` : ''}
+    
+    ${story.sources && story.sources.length > 0 ? `
+      <div class="sheet-section">
+        <h3>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+            <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+          </svg>
+          來源
+        </h3>
+        ${sourcesHtml}
+      </div>
+    ` : ''}
+    
+    <div style="margin-top: 24px; padding: 16px; background: var(--warning-container); border-radius: 12px; font-size: 0.875rem;">
+      <strong>非投資建議</strong> · 本簡報僅供參考，唔構成買賣建議。
+    </div>
+  `;
+}
+
+// Close desktop panel
+function closePanel() {
+  const panel = document.getElementById('rightPanel');
+  const contentLayout = document.querySelector('.content-layout');
+  
+  panel.classList.remove('has-content');
+  contentLayout.classList.remove('panel-active');
 }
 
 // Error Handling
