@@ -1,69 +1,248 @@
 {
   "date": "2026-08-31",
-  "names": [
-    "NVDA",
-    "GOOGL",
-    "SPCX",
-    "1810.HK",
-    "SPYM",
-    "VEU",
-    "GLD"
-  ],
-  "movements": [
+  "stories": [
     {
-      "name": "NVDA (NVIDIA)",
-      "description": "Q2 FY2027 results (ended Jul 26, 2026, reported Aug 26-27): Revenue US$96.221B, Data Center US$89.023B. Q3 guidance US$108.0B ±2%, assumes China DC compute revenue zero.",
-      "source": "Earnings"
+      "id": "nvda-q2-fy2027",
+      "ticker": "NVDA",
+      "title": "NVIDIA Q2 FY2027 大超預期",
+      "summary": "數據中心收入 US$89.023B，Q3 指引 US$108.0B ±2%，假設中國數據中心收入為零",
+      "whyItMatters": "NVIDIA Q2 收入 US$96.221B 大幅超出市場預期，數據中心業務達 US$89.023B，顯示 AI 基礎設施需求持續強勁。Q3 指引 US$108B 更高，但已假設中國數據中心運算收入完全歸零，凸顯地緣政治風險。對新手投資者：這驗證了 AI 基建主題，但要留意政策風險。",
+      "whatToWatch": "Q3 財報（預計 2026 年 11 月）、中美科技政策、競爭對手 AMD / Intel 動態",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Investor Relations",
+          "date": "2026-08-26",
+          "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+          "url": "https://investor.nvidia.com/financial-info/quarterly-results/default.aspx"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA",
+          "date": "2026-08-26",
+          "title": "Q2 FY2027 Earnings Call Transcript",
+          "url": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx"
+        }
+      ]
     },
     {
-      "name": "SPCX (SpaceX)",
-      "description": "Listed on NASDAQ Jun 12, 2026. First publicly traded SpaceX entity.",
-      "source": "IPO"
+      "id": "spcx-listing",
+      "ticker": "SPCX",
+      "title": "SpaceX 納斯達克上市",
+      "summary": "SPCX 於 2026 年 6 月 12 日在納斯達克上市，首次公開交易 SpaceX 相關資產",
+      "whyItMatters": "這是首個公開交易的 SpaceX 實體，讓散戶投資者首次能直接參與太空經濟。對新手：太空產業長期潛力大，但波動性高，需要較高風險承受能力。",
+      "whatToWatch": "Starship 發射計劃、Starlink 用戶增長、NASA 合約進展",
+      "sources": [
+        {
+          "category": "exchange",
+          "publisher": "NASDAQ",
+          "date": "2026-06-12",
+          "title": "SPCX Begins Trading",
+          "url": null,
+          "verified": false
+        }
+      ]
     },
     {
-      "name": "SPYM (SPDR Portfolio S&P 500)",
-      "description": "Low-cost S&P 500 ETF alternative to SPY. Tracking broad US equity market exposure.",
-      "source": "Market"
+      "id": "macro-fomc",
+      "ticker": null,
+      "title": "FOMC 會議臨近，市場關注利率走向",
+      "summary": "9 月 15-16 日 FOMC 會議，美國 8 月就業數據（9 月 4 日 20:30 HKT）將影響利率決定",
+      "whyItMatters": "聯儲局利率決定直接影響全球資金成本。美國就業數據強勁可能推遲減息，弱勢則可能加速減息。香港金管局通常跟隨聯儲局，影響港元利率和樓市。對新手：利率變化影響所有資產類別。",
+      "whatToWatch": "美國 NFP 就業數據（9/4）、FOMC 會議（9/15-16）、鮑威爾記者會、金管局跟隨動作",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Federal Reserve",
+          "date": "2026-08-20",
+          "title": "FOMC Meeting Schedule",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        }
+      ]
     },
     {
-      "name": "VEU (Vanguard FTSE All-World ex-US)",
-      "description": "International equity exposure excluding US markets. Diversification play.",
-      "source": "Market"
+      "id": "shein-ipo",
+      "ticker": "625.HK",
+      "title": "SHEIN 明日香港上市",
+      "summary": "SHEIN（港交所 625）9 月 1 日掛牌，快時尚電商巨頭，中國消費信心指標",
+      "whyItMatters": "SHEIN IPO 是今年香港最大新股之一。其表現反映市場對中國消費復甦和跨境電商的信心。對新手：新股首日波動大，建議等穩定後再考慮。",
+      "whatToWatch": "9/1 掛牌表現、首份季報、中國零售數據",
+      "sources": [
+        {
+          "category": "exchange",
+          "publisher": "HKEX",
+          "date": "2026-08-25",
+          "title": "SHEIN Listing Announcement",
+          "url": null,
+          "verified": false
+        }
+      ]
     },
     {
-      "name": "GLD (SPDR Gold Shares)",
-      "description": "Gold ETF tracking spot prices. Safe haven positioning amid macro uncertainty.",
-      "source": "Market"
+      "id": "watchlist-etfs",
+      "ticker": null,
+      "title": "組合多元化：SPYM、VEU、GLD",
+      "summary": "SPYM（低成本標普 500）、VEU（全球非美股票）、GLD（黃金）提供分散配置",
+      "whyItMatters": "在政策不確定期，分散投資降低單一市場風險。SPYM 追蹤美國大盤，VEU 提供國際曝險，GLD 是傳統避險資產。對新手：ETF 是學習投資的好起點，費用低、分散度高。",
+      "whatToWatch": "美聯儲政策、美元走勢、地緣政治風險",
+      "sources": []
     },
     {
-      "name": "1810.HK (Xiaomi)",
-      "description": "Hong Kong-listed technology and consumer electronics company. EV and smartphone segments.",
-      "source": "Market"
+      "id": "xiaomi-1810",
+      "ticker": "1810.HK",
+      "title": "小米持續推進電動車和智能手機業務",
+      "summary": "小米（1810.HK）在電動車和智能手機雙線發展",
+      "whyItMatters": "小米是少數同時佈局消費電子和電動車的科技公司。電動車業務仍在投入期，手機業務面對激烈競爭。對新手：成長股潛力大但風險高。",
+      "whatToWatch": "電動車銷量、手機市占率、下一季財報",
+      "sources": []
     }
   ],
-  "whyItMatters": "NVIDIA's massive Q2 beat (US$96.2B revenue, DC US$89B) and strong Q3 guide (US$108B) despite zero China DC assumptions shows AI infrastructure demand remains robust. For newbie investors: this validates the AI infrastructure thesis but highlights geopolitical risk. SPCX's NASDAQ listing creates first public access to SpaceX exposure. Macro backdrop: Fed decision Sep 15-16 and US Aug jobs data (Sep 4, 20:30 HKT) will set rate trajectory. China luxury watch: SHEIN (HK 625) debuts Sep 1 - consumer sentiment indicator. Portfolio diversification across SPYM (US), VEU (ex-US), and GLD (safe haven) provides balanced exposure during policy uncertainty.",
-  "whatToWatch": [
+  "concepts": [
     {
-      "event": "SHEIN (HK 625) IPO debut",
-      "date": "Monday, Sep 1, 2026"
+      "id": "china-dc-zero",
+      "title": "中國數據中心假設為零",
+      "titleEn": "China DC Revenue Assumed Zero",
+      "what": "NVIDIA Q3 指引假設來自中國數據中心運算的收入完全歸零",
+      "whyItMatters": "美國對華晶片出口管制持續收緊，NVIDIA 保守假設無法向中國出售高階 AI 晶片。這是地緣政治風險的量化體現。",
+      "whereToday": "NVIDIA Q2 財報 Q3 指引",
+      "whatToWatch": "美國商務部出口管制政策、中美科技談判",
+      "relatedTickers": ["NVDA"],
+      "notionUrl": null
     },
     {
-      "event": "US August employment report (NFP, unemployment, wages)",
-      "date": "Friday, Sep 4, 20:30 HKT"
+      "id": "fomc-hkma",
+      "title": "FOMC vs 金管局",
+      "titleEn": "FOMC vs HKMA",
+      "what": "美國聯邦公開市場委員會（FOMC）決定美元利率，香港金融管理局（金管局）因聯繫匯率制度通常跟隨",
+      "whyItMatters": "港元與美元掛鉤（7.75-7.85），金管局利率必須跟隨聯儲局以維持匯率穩定。聯儲局加息，香港銀行利率上升，影響樓市和借貸成本。",
+      "whereToday": "9 月 FOMC 會議前瞻",
+      "whatToWatch": "FOMC 會議（9/15-16）、金管局跟隨動作、港元匯率",
+      "relatedTickers": [],
+      "notionUrl": "https://app.notion.com/p/3cd99f70bc5681c3a77df4ba6dddb242"
     },
     {
-      "event": "FOMC meeting (rate decision expected)",
-      "date": "Sep 15-16, 2026"
+      "id": "gaap-non-gaap",
+      "title": "GAAP vs 非 GAAP",
+      "titleEn": "GAAP vs Non-GAAP",
+      "what": "GAAP（一般公認會計原則）是標準財報，非 GAAP 排除一次性項目（如股權激勵、併購費用）",
+      "whyItMatters": "公司常用非 GAAP 突出「核心業務」表現，但可能美化數字。新手要同時看兩者，理解差異來源。",
+      "whereToday": "閱讀財報時比較 GAAP 與非 GAAP 盈利",
+      "whatToWatch": "財報附註解釋調整項目",
+      "relatedTickers": ["NVDA"],
+      "notionUrl": null
     },
     {
-      "event": "Fed Chair Powell press conference",
-      "date": "Post-FOMC, likely Sep 16"
+      "id": "jackson-hole",
+      "title": "傑克遜霍爾",
+      "titleEn": "Jackson Hole",
+      "what": "美國懷俄明州傑克遜霍爾每年 8 月舉辦全球央行年會，聯儲局主席常在此釋放政策信號",
+      "whyItMatters": "這是觀察全球貨幣政策風向的關鍵場合。鮑威爾演講常引發市場劇烈波動。",
+      "whereToday": "宏觀經濟背景",
+      "whatToWatch": "鮑威爾演講內容、各國央行官員表態",
+      "relatedTickers": [],
+      "notionUrl": "https://app.notion.com/p/3cd99f70bc568186a843ccf254b977a7"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568174a354f22f3d1c3a61",
+      "lastFiling": {
+        "title": "Q2 FY2027 Earnings Release",
+        "date": "2026-08-26",
+        "url": "https://investor.nvidia.com/financial-info/quarterly-results/default.aspx"
+      }
     },
     {
-      "event": "HKMA policy updates (tracking Fed moves)"
+      "symbol": "GOOGL",
+      "nameCn": "谷歌",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
     },
     {
-      "event": "China luxury retail data (SHEIN debut proxy for consumer health)"
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "学习",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "標普 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "对照",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "全球非美 ETF",
+      "exchange": "NYSE Arca",
+      "role": "对照",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "对照",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "AAPL",
+      "nameCn": "蘋果",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "AMZN",
+      "nameCn": "亞馬遜",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "META",
+      "nameCn": "Meta",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "TSLA",
+      "nameCn": "特斯拉",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
     }
   ]
 }
