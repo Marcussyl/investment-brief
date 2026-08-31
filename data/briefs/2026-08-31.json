@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-31",
+  "names": [
+    "NVDA",
+    "GOOGL",
+    "SPCX",
+    "1810.HK",
+    "SPYM",
+    "VEU",
+    "GLD"
+  ],
+  "movements": [
+    {
+      "name": "NVDA (NVIDIA)",
+      "description": "Q2 FY2027 results (ended Jul 26, 2026, reported Aug 26-27): Revenue US$96.221B, Data Center US$89.023B. Q3 guidance US$108.0B ±2%, assumes China DC compute revenue zero.",
+      "source": "Earnings"
+    },
+    {
+      "name": "SPCX (SpaceX)",
+      "description": "Listed on NASDAQ Jun 12, 2026. First publicly traded SpaceX entity.",
+      "source": "IPO"
+    },
+    {
+      "name": "SPYM (SPDR Portfolio S&P 500)",
+      "description": "Low-cost S&P 500 ETF alternative to SPY. Tracking broad US equity market exposure.",
+      "source": "Market"
+    },
+    {
+      "name": "VEU (Vanguard FTSE All-World ex-US)",
+      "description": "International equity exposure excluding US markets. Diversification play.",
+      "source": "Market"
+    },
+    {
+      "name": "GLD (SPDR Gold Shares)",
+      "description": "Gold ETF tracking spot prices. Safe haven positioning amid macro uncertainty.",
+      "source": "Market"
+    },
+    {
+      "name": "1810.HK (Xiaomi)",
+      "description": "Hong Kong-listed technology and consumer electronics company. EV and smartphone segments.",
+      "source": "Market"
+    }
+  ],
+  "whyItMatters": "NVIDIA's massive Q2 beat (US$96.2B revenue, DC US$89B) and strong Q3 guide (US$108B) despite zero China DC assumptions shows AI infrastructure demand remains robust. For newbie investors: this validates the AI infrastructure thesis but highlights geopolitical risk. SPCX's NASDAQ listing creates first public access to SpaceX exposure. Macro backdrop: Fed decision Sep 15-16 and US Aug jobs data (Sep 4, 20:30 HKT) will set rate trajectory. China luxury watch: SHEIN (HK 625) debuts Sep 1 - consumer sentiment indicator. Portfolio diversification across SPYM (US), VEU (ex-US), and GLD (safe haven) provides balanced exposure during policy uncertainty.",
+  "whatToWatch": [
+    {
+      "event": "SHEIN (HK 625) IPO debut",
+      "date": "Monday, Sep 1, 2026"
+    },
+    {
+      "event": "US August employment report (NFP, unemployment, wages)",
+      "date": "Friday, Sep 4, 20:30 HKT"
+    },
+    {
+      "event": "FOMC meeting (rate decision expected)",
+      "date": "Sep 15-16, 2026"
+    },
+    {
+      "event": "Fed Chair Powell press conference",
+      "date": "Post-FOMC, likely Sep 16"
+    },
+    {
+      "event": "HKMA policy updates (tracking Fed moves)"
+    },
+    {
+      "event": "China luxury retail data (SHEIN debut proxy for consumer health)"
+    }
+  ]
+}
