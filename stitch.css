@@ -679,6 +679,153 @@ body {
   color: #00201d;
 }
 
+/* Tech News List */
+.tech-news-list {
+  display: grid;
+  gap: 16px;
+}
+
+.tech-news-item {
+  background: var(--surface);
+  border: 1px solid var(--outline-variant);
+  border-radius: var(--radius-card);
+  padding: 20px;
+  transition: all var(--duration-quick) var(--easing);
+}
+
+.tech-news-item:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px var(--shadow);
+}
+
+.tech-news-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.tech-news-source {
+  font-family: var(--font-label);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  padding: 4px 12px;
+  background: var(--surface-container);
+  color: var(--on-surface-variant);
+  border-radius: var(--radius-chip);
+}
+
+[data-theme="dark"] .tech-news-source {
+  background: rgba(46, 230, 214, 0.12);
+  border: 1px solid var(--outline);
+  color: #b2ebe6;
+}
+
+.tech-news-date {
+  font-size: 0.8125rem;
+  color: var(--on-surface-variant);
+}
+
+.tech-news-title {
+  font-family: var(--font-label);
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--on-surface);
+  margin-bottom: 12px;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+}
+
+.tech-news-summary {
+  font-size: 0.9375rem;
+  color: var(--on-surface-variant);
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+.tech-news-footer {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.tech-news-tickers {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  flex: 1;
+}
+
+.tech-news-ticker-chip {
+  font-family: var(--font-label);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  background: color-mix(in srgb, var(--accent) 15%, var(--surface));
+  border: 1px solid var(--accent);
+  color: var(--primary);
+  border-radius: var(--radius-chip);
+  cursor: pointer;
+  transition: all var(--duration-quick) var(--easing);
+}
+
+[data-theme="dark"] .tech-news-ticker-chip {
+  background: rgba(46, 230, 214, 0.12);
+  border: 1px solid #2EE6D6;
+  color: #eef1f0;
+}
+
+.tech-news-ticker-chip:hover {
+  background: var(--accent);
+  color: var(--on-primary-container);
+  transform: translateY(-1px);
+}
+
+[data-theme="dark"] .tech-news-ticker-chip:hover {
+  background: var(--accent);
+  color: #00201d;
+}
+
+.tech-news-link {
+  font-family: var(--font-label);
+  font-size: 0.875rem;
+  font-weight: 600;
+  padding: 8px 16px;
+  background: var(--accent);
+  color: var(--on-primary-container);
+  border-radius: var(--radius-chip);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: all var(--duration-quick) var(--easing);
+}
+
+[data-theme="dark"] .tech-news-link {
+  background: var(--accent);
+  color: #00201d;
+}
+
+.tech-news-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px var(--shadow);
+}
+
+.tech-news-link svg {
+  width: 14px;
+  height: 14px;
+}
+
+.tech-news-empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--on-surface-variant);
+  font-size: 0.9375rem;
+}
+
 /* Past Briefs */
 .past-briefs-list {
   display: grid;

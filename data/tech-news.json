@@ -1,0 +1,54 @@
+{
+  "updated": "2026-08-31",
+  "disclaimer": "第三方·非公告，唯供參考，唔構成買賣建議。",
+  "items": [
+    {
+      "title": "NVIDIA AI 機櫃世代交替，估 2027 年 NVL72 產值可破 7,100 億美元",
+      "summary": "TrendForce 估 2027 年 GB300／VR200／VR300 等 NVL72 機櫃合計產值貢獻可破 7,100 億美元，年增約 214%。GB300 仍是今年出貨主力，2027 下半年 VR200 接棒。",
+      "source": "科技新報",
+      "date": "2026-08-28",
+      "url": "https://finance.technews.tw/2026/08/28/nvidia-nvl72-over-710000000000usd-2027/",
+      "tickers": ["NVDA"]
+    },
+    {
+      "title": "OpenAI 自研晶片首測數據曝光，職稱推理效能超越 NVIDIA GB200 / GB300",
+      "summary": "Hot Chips 上 OpenAI 公布 Jalapeño：職稱推理吞吐高於 GB200／GB300 NVL72。今年底小量進自家機房；官方仍說會繼續買 NVIDIA。",
+      "source": "科技新報",
+      "date": "2026-08-26",
+      "url": "https://technews.tw/2026/08/26/jalapeno-is-working-first-party-silicon-with-measured-results/",
+      "tickers": ["NVDA"]
+    },
+    {
+      "title": "小米發表自研晶片玄戒 O3，路透：將採台積電 3 奈米製程",
+      "summary": "路透：小米自研玄戒 O3 將由台積電 3 納米代工，目標折疊旗艦約 20–30 萬支。小米／台積電未即時回應。",
+      "source": "科技新報",
+      "date": "2026-08-24",
+      "url": "https://technews.tw/2026/08/24/xiaomi-unveils-self-developed-xuanjie-o3-chip-reuters-reports-tsmc-3nm-process/",
+      "tickers": ["1810.HK"]
+    },
+    {
+      "title": "小米玄戒 3nm 自研晶片正式發表：O3 / O100 / D100",
+      "summary": "T客邦展開：玄戒 O3（台積電 3nm 手機 SoC）、O100（邊緣 AI）、D100（自駖 3nm）。非公司 IR。",
+      "source": "T客邦",
+      "date": "2026-08-26",
+      "url": "https://www.techbang.com/posts/132628-xiaomi-xuanjie-o100-ai-chip-flagship-soc-3nm-auto-chip",
+      "tickers": ["1810.HK"]
+    },
+    {
+      "title": "OpenAI 秘密開發 Codex「持續模式」：AI 變身 24 小時主動特助",
+      "summary": "Wired 披露 Codex Persistent Mode：做完不休眠、會自己開下一件工。官方證實、暫無大規模上線。",
+      "source": "T客邦",
+      "date": "2026-08-29",
+      "url": "https://www.techbang.com/posts/132718-openai-codex-persistent-mode-autonomous-ai",
+      "tickers": []
+    },
+    {
+      "title": "Appier 研究讓 LLM 學會「誠實拒答」並可切換推理語言",
+      "summary": "測 28 款模型，「以上皆非」時準確率掉 30–50%；DPO 可把「無正解」辨識拉高約 30 個百分點。",
+      "source": "T客邦",
+      "date": "2026-08-31",
+      "url": "https://www.techbang.com/posts/132747-appier-llm-research-honest-refusal-reasoning",
+      "tickers": []
+    }
+  ]
+}

@@ -183,6 +183,33 @@ Bottom navigation: 今日重點 / 市場動態 / 投資組合 / 專業術語
 
 Newest first. Site displays in reverse chronological order.
 
+#### Tech News (`data/tech-news.json`)
+
+```json
+{
+  "updated": "YYYY-MM-DD",
+  "disclaimer": "第三方·非公告，唯供參考，唔構成買賣建議。",
+  "items": [
+    {
+      "title": "Traditional Chinese headline",
+      "summary": "1–2 sentence summary",
+      "source": "科技新報|T客邦|...",
+      "date": "YYYY-MM-DD",
+      "url": "https://...",
+      "tickers": ["NVDA", "1810.HK"] or []
+    }
+  ]
+}
+```
+
+**Tech News Rules:**
+- Only real articles from trusted tech sources (科技新報, T客邦, TechCrunch, etc.)
+- Complete URLs required (no placeholders)
+- Can be empty array if no relevant news
+- Shown in 市場動態 (Market) tab as Google News-style digest
+- Ticker chips open the per-name drawer
+- Overwrite entire file daily from automation (8:18 AM weekday job)
+
 ## Design System
 
 **Stitch Teal Insight Theme:**

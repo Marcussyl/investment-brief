@@ -131,6 +131,24 @@
         <!-- View: Market -->
         <div class="view" id="viewMarket">
           <div class="date-label">市場動態</div>
+
+          <!-- Tech News Disclaimer -->
+          <div class="disclaimer-card" id="techNewsDisclaimer" style="display: none;">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="12" y1="8" x2="12" y2="12"></line>
+              <line x1="12" y1="16" x2="12.01" y2="16"></line>
+            </svg>
+            <p id="techNewsDisclaimerText"></p>
+          </div>
+
+          <!-- Tech News Digest -->
+          <section class="section" id="techNewsSection">
+            <h2 class="section-title">📰 科技新聞摘要</h2>
+            <div class="tech-news-list" id="techNewsList"></div>
+          </section>
+
+          <!-- Market Charts -->
           <section class="section">
             <h2 class="section-title">觀察名單走勢</h2>
             <div class="charts-grid" id="marketCharts"></div>

@@ -3,6 +3,7 @@
 
 let briefData = null;
 let watchlistData = null;
+let techNewsData = null;
 let currentTheme = 'auto';
 let charts = {};
 
@@ -82,13 +83,18 @@ function capitalize(str) {
 // Data Loading
 async function loadData() {
   try {
-    const [briefRes, watchlistRes] = await Promise.all([
+    const [briefRes, watchlistRes, techNewsRes] = await Promise.all([
       fetch('data/briefs/2026-08-31.json'),
-      fetch('data/watchlist.json')
+      fetch('data/watchlist.json'),
+      fetch('data/tech-news.json').catch(() => null)
     ]);
     
     briefData = await briefRes.json();
     watchlistData = await watchlistRes.json();
+    
+    if (techNewsRes && techNewsRes.ok) {
+      techNewsData = await techNewsRes.json();
+    }
   } catch (error) {
     console.error('Error loading data:', error);
     showError('無法載入數據');
@@ -104,6 +110,7 @@ function renderUI() {
   renderStories();
   renderPastBriefs();
   renderGlossary();
+  renderTechNews();
 }
 
 // Render Watchlist Chips
@@ -282,6 +289,62 @@ function renderGlossary() {
     card.addEventListener('click', () => {
       const conceptId = card.dataset.conceptId;
       openConceptSheet(conceptId);
+    });
+  });
+}
+
+// Render Tech News
+function renderTechNews() {
+  const container = document.getElementById('techNewsList');
+  const disclaimerDiv = document.getElementById('techNewsDisclaimer');
+  const disclaimerText = document.getElementById('techNewsDisclaimerText');
+  
+  if (!techNewsData || !techNewsData.items || techNewsData.items.length === 0) {
+    container.innerHTML = '<div class="tech-news-empty">今朝未有篩過的科技新聞</div>';
+    disclaimerDiv.style.display = 'none';
+    return;
+  }
+  
+  disclaimerText.textContent = techNewsData.disclaimer;
+  disclaimerDiv.style.display = 'flex';
+  
+  const html = techNewsData.items.map(item => {
+    const tickerChipsHtml = item.tickers.map(ticker => 
+      `<button class="tech-news-ticker-chip" data-ticker="${ticker}">${ticker}</button>`
+    ).join('');
+    
+    return `
+      <div class="tech-news-item">
+        <div class="tech-news-header">
+          <span class="tech-news-source">${item.source}</span>
+          <span class="tech-news-date">${item.date}</span>
+        </div>
+        <h3 class="tech-news-title">${item.title}</h3>
+        <p class="tech-news-summary">${item.summary}</p>
+        <div class="tech-news-footer">
+          <div class="tech-news-tickers">
+            ${tickerChipsHtml}
+          </div>
+          <a href="${item.url}" class="tech-news-link" target="_blank" rel="noopener noreferrer">
+            原文
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+              <polyline points="15 3 21 3 21 9"></polyline>
+              <line x1="10" y1="14" x2="21" y2="3"></line>
+            </svg>
+          </a>
+        </div>
+      </div>
+    `;
+  }).join('');
+  
+  container.innerHTML = html;
+  
+  container.querySelectorAll('.tech-news-ticker-chip').forEach(chip => {
+    chip.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const ticker = chip.dataset.ticker;
+      openTickerSheet(ticker);
     });
   });
 }
