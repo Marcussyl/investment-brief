@@ -77,6 +77,20 @@ Bottom navigation: 今日重點 / 市場動態 / 投資組合 / 專業術語
 3. **Update watchlist:** `data/watchlist.json` (optional, refresh prices)
 4. **Push to main:** `git push origin main` (GitHub Pages auto-rebuilds)
 
+### Cache Busting
+
+GitHub Pages caches static assets. When updating `stitch.css` or `stitch-app.js`:
+
+1. Increment the version query string in `index.html`:
+   ```html
+   <link rel="stylesheet" href="stitch.css?v=YYYYMMDD-NN">
+   <script src="stitch-app.js?v=YYYYMMDD-NN"></script>
+   ```
+2. Use format: `YYYYMMDD-NN` (e.g., `20260831-01`, `20260831-02`, etc.)
+3. Bump both CSS and JS versions together when either file changes
+
+**Note:** `index.html` itself is cached by GitHub Pages (~10 min TTL). Users may need to hard-refresh (Ctrl+Shift+R / Cmd+Shift+R) after deployments.
+
 ### JSON Schema
 
 #### Brief File (`data/briefs/YYYY-MM-DD.json`)

@@ -181,14 +181,30 @@ function renderWatchlistChips() {
   container.querySelectorAll('.chip').forEach(chip => {
     chip.addEventListener('click', () => {
       const ticker = chip.dataset.ticker;
-      const isDesktop = window.innerWidth >= 1024;
-      if (isDesktop) {
-        openTickerInPanel(ticker);
-      } else {
-        openTickerSheet(ticker);
-      }
+      openTicker(ticker);
     });
   });
+}
+
+// Unified routing helpers
+function openTicker(symbol) {
+  closeSheet();
+  const isDesktop = window.innerWidth >= 1024;
+  if (isDesktop) {
+    openTickerInPanel(symbol);
+  } else {
+    openTickerSheet(symbol);
+  }
+}
+
+function openConcept(conceptId) {
+  closeSheet();
+  const isDesktop = window.innerWidth >= 1024;
+  if (isDesktop) {
+    openConceptInPanel(conceptId);
+  } else {
+    openConceptSheet(conceptId);
+  }
 }
 
 // Render Concept Chips
@@ -207,12 +223,7 @@ function renderConceptChips() {
   container.querySelectorAll('.chip').forEach(chip => {
     chip.addEventListener('click', () => {
       const conceptId = chip.dataset.conceptId;
-      const isDesktop = window.innerWidth >= 1024;
-      if (isDesktop) {
-        openConceptInPanel(conceptId);
-      } else {
-        openConceptSheet(conceptId);
-      }
+      openConcept(conceptId);
     });
   });
 }
@@ -308,12 +319,7 @@ function renderGlossary() {
   container.querySelectorAll('.glossary-card').forEach(card => {
     card.addEventListener('click', () => {
       const conceptId = card.dataset.conceptId;
-      const isDesktop = window.innerWidth >= 1024;
-      if (isDesktop) {
-        openConceptInPanel(conceptId);
-      } else {
-        openConceptSheet(conceptId);
-      }
+      openConcept(conceptId);
     });
   });
 }
@@ -369,12 +375,7 @@ function renderTechNews() {
     chip.addEventListener('click', (e) => {
       e.stopPropagation();
       const ticker = chip.dataset.ticker;
-      const isDesktop = window.innerWidth >= 1024;
-      if (isDesktop) {
-        openTickerInPanel(ticker);
-      } else {
-        openTickerSheet(ticker);
-      }
+      openTicker(ticker);
     });
   });
 }
@@ -529,16 +530,16 @@ function renderChart(symbol, period) {
 }
 
 // Render Chart in Sheet (with explicit sizing)
-function renderSheetChart(symbol, period) {
+function renderSheetChart(symbol, period, containerId = 'sheetChart') {
   const ticker = watchlistData.tickers.find(t => t.symbol === symbol);
   if (!ticker || !ticker.prices[period] || ticker.prices[period].length === 0) return;
   
-  const canvasId = 'sheetChart';
-  const container = document.getElementById(canvasId);
+  const container = document.getElementById(containerId);
   if (!container) return;
   
   // Set explicit dimensions
   container.style.height = '180px';
+  container.style.minHeight = '180px';
   container.style.position = 'relative';
   
   // Clear and create canvas
@@ -546,9 +547,10 @@ function renderSheetChart(symbol, period) {
   const canvas = container.querySelector('canvas');
   
   // Destroy existing chart
-  if (charts[canvasId]) {
-    charts[canvasId].destroy();
-    delete charts[canvasId];
+  const chartKey = `${containerId}_${symbol}`;
+  if (charts[chartKey]) {
+    charts[chartKey].destroy();
+    delete charts[chartKey];
   }
   
   const ctx = canvas.getContext('2d');
@@ -560,7 +562,7 @@ function renderSheetChart(symbol, period) {
   gradient.addColorStop(0, 'rgba(46, 230, 214, 0.3)');
   gradient.addColorStop(1, 'rgba(46, 230, 214, 0)');
   
-  charts[canvasId] = new Chart(ctx, {
+  charts[chartKey] = new Chart(ctx, {
     type: 'line',
     data: {
       labels: labels,
@@ -616,8 +618,8 @@ function renderSheetChart(symbol, period) {
         mode: 'index'
       },
       animation: {
-        duration: 750,
-        easing: 'easeInOutQuart'
+        duration: 200,
+        easing: 'easeOutQuart'
       }
     }
   });
@@ -667,7 +669,7 @@ function openTickerSheet(symbol) {
     <div class="sheet-section">
       <h3>✨ 今期簡報提及</h3>
       ${relatedStories.map(story => `
-        <div class="story-card" onclick="closeSheet(); openStorySheet('${story.id}')" style="margin-bottom: 12px;">
+        <div class="story-card" onclick="openStoryInPanel('${story.id}')" style="margin-bottom: 12px; cursor: pointer;">
           <h4 style="font-size: 1rem; font-weight: 600; margin-bottom: 8px;">${story.title}</h4>
           <p style="font-size: 0.875rem; color: var(--on-surface-variant);">${story.summary.substring(0, 80)}...</p>
         </div>
@@ -714,7 +716,7 @@ function openTickerSheet(symbol) {
     ${hasData ? `<div class="sheet-price">${currencySymbol}${latestPrice.toFixed(2)}</div>` : ''}
     
     ${hasData ? `
-      <div class="chart-container" id="sheetChart" style="height: 200px; margin-bottom: 16px;"></div>
+      <div class="chart-container" id="sheetChart" style="height: 200px; min-height: 200px; margin-bottom: 16px;"></div>
       <div class="timeframe-selector" id="sheetTimeframeSelector">
         <button class="timeframe-btn active" data-period="1M">1M</button>
         <button class="timeframe-btn" data-period="3M">3M</button>
@@ -741,18 +743,20 @@ function openTickerSheet(symbol) {
   showSheet(html);
   
   if (hasData) {
-    setTimeout(() => {
-      renderSheetChart(symbol, '1M');
-      
-      document.querySelectorAll('#sheetTimeframeSelector .timeframe-btn').forEach(btn => {
-        btn.addEventListener('click', (e) => {
-          const period = e.target.dataset.period;
-          document.querySelectorAll('#sheetTimeframeSelector .timeframe-btn').forEach(b => b.classList.remove('active'));
-          e.target.classList.add('active');
-          renderSheetChart(symbol, period);
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        renderSheetChart(symbol, '1M', 'sheetChart');
+        
+        document.querySelectorAll('#sheetTimeframeSelector .timeframe-btn').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            const period = e.target.dataset.period;
+            document.querySelectorAll('#sheetTimeframeSelector .timeframe-btn').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            renderSheetChart(symbol, period, 'sheetChart');
+          });
         });
       });
-    }, 350);
+    });
   }
 }
 
@@ -827,8 +831,8 @@ function openTickerInPanel(symbol) {
     ${hasData ? `<div class="sheet-price">${currencySymbol}${latestPrice.toFixed(2)}</div>` : ''}
     
     ${hasData ? `
-      <div class="chart-container" id="sheetChart" style="height: 200px; margin-bottom: 16px;"></div>
-      <div class="timeframe-selector" id="sheetTimeframeSelector">
+      <div class="chart-container" id="panelChart" style="height: 200px; min-height: 200px; margin-bottom: 16px;"></div>
+      <div class="timeframe-selector" id="panelTimeframeSelector">
         <button class="timeframe-btn active" data-period="1M">1M</button>
         <button class="timeframe-btn" data-period="3M">3M</button>
         <button class="timeframe-btn" data-period="1Y">1Y</button>
@@ -857,18 +861,20 @@ function openTickerInPanel(symbol) {
   document.querySelector('.content-layout').classList.add('panel-active');
   
   if (hasData) {
-    setTimeout(() => {
-      renderSheetChart(symbol, '1M');
-      
-      document.querySelectorAll('#sheetTimeframeSelector .timeframe-btn').forEach(btn => {
-        btn.addEventListener('click', (e) => {
-          const period = e.target.dataset.period;
-          document.querySelectorAll('#sheetTimeframeSelector .timeframe-btn').forEach(b => b.classList.remove('active'));
-          e.target.classList.add('active');
-          renderSheetChart(symbol, period);
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        renderSheetChart(symbol, '1M', 'panelChart');
+        
+        document.querySelectorAll('#panelTimeframeSelector .timeframe-btn').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            const period = e.target.dataset.period;
+            document.querySelectorAll('#panelTimeframeSelector .timeframe-btn').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            renderSheetChart(symbol, period, 'panelChart');
+          });
         });
       });
-    }, 350);
+    });
   }
 }
 
@@ -880,7 +886,7 @@ function openConceptSheet(conceptId) {
   const relatedChipsHtml = concept.relatedTickers && concept.relatedTickers.length > 0 ? `
     <div class="chip-row">
       ${concept.relatedTickers.map(ticker => `
-        <button class="chip" onclick="closeSheet(); openTickerSheet('${ticker}')">
+        <button class="chip" onclick="openTicker('${ticker}')">
           ${ticker}
         </button>
       `).join('')}
@@ -955,7 +961,7 @@ function openConceptInPanel(conceptId) {
   const relatedChipsHtml = concept.relatedTickers && concept.relatedTickers.length > 0 ? `
     <div class="chip-row">
       ${concept.relatedTickers.map(ticker => `
-        <button class="chip" onclick="openTickerInPanel('${ticker}')">
+        <button class="chip" onclick="openTicker('${ticker}')">
           ${ticker}
         </button>
       `).join('')}
@@ -1141,7 +1147,7 @@ function renderStoryContent(story) {
   
   const relatedChipsHtml = story.ticker ? `
     <div class="chip-row">
-      <button class="chip" onclick="closePanel(); openTickerSheet('${story.ticker}')">
+      <button class="chip" onclick="openTicker('${story.ticker}')">
         ${story.ticker}
       </button>
     </div>
