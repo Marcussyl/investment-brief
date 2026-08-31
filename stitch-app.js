@@ -54,14 +54,23 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () 
 
 // Navigation
 function initNavigation() {
-  const navItems = document.querySelectorAll('.nav-item');
-  navItems.forEach(item => {
+  const mobileNavItems = document.querySelectorAll('.nav-item');
+  const desktopNavItems = document.querySelectorAll('.desktop-nav-item');
+  const allNavItems = [...mobileNavItems, ...desktopNavItems];
+  
+  allNavItems.forEach(item => {
     item.addEventListener('click', () => {
       const view = item.dataset.view;
       switchView(view);
       
-      navItems.forEach(n => n.classList.remove('active'));
-      item.classList.add('active');
+      allNavItems.forEach(n => n.classList.remove('active'));
+      
+      mobileNavItems.forEach(n => {
+        if (n.dataset.view === view) n.classList.add('active');
+      });
+      desktopNavItems.forEach(n => {
+        if (n.dataset.view === view) n.classList.add('active');
+      });
     });
   });
 }
