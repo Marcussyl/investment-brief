@@ -108,7 +108,6 @@ function renderUI() {
   renderWatchlistChips();
   renderConceptChips();
   renderStories();
-  renderPastBriefs();
   renderGlossary();
   renderTechNews();
 }
