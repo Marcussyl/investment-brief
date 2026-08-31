@@ -471,6 +471,12 @@ body {
   letter-spacing: 0.02em;
 }
 
+[data-theme="dark"] .story-ticker {
+  background: rgba(46, 230, 214, 0.12);
+  border: 1px solid #2EE6D6;
+  color: #eef1f0;
+}
+
 .story-time {
   font-size: 0.8125rem;
   color: var(--on-surface-variant);
@@ -665,6 +671,12 @@ body {
   background: var(--accent);
   border-color: var(--accent);
   color: var(--on-primary-container);
+}
+
+[data-theme="dark"] .timeframe-btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #00201d;
 }
 
 /* Past Briefs */
@@ -1012,6 +1024,12 @@ body {
   border-radius: var(--radius-chip);
 }
 
+[data-theme="dark"] .sheet-role-pill {
+  background: rgba(46, 230, 214, 0.12);
+  border: 1px solid #2EE6D6;
+  color: #eef1f0;
+}
+
 .sheet-price {
   font-family: var(--font-label);
   font-size: 2rem;
@@ -1119,6 +1137,11 @@ body {
   font-weight: 600;
   transition: all var(--duration-quick) var(--easing);
   margin-top: 12px;
+}
+
+[data-theme="dark"] .notion-link {
+  background: var(--accent);
+  color: #00201d;
 }
 
 .notion-link:hover {
