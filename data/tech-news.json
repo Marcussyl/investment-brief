@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-01T09:24:11Z",
   "disclaimer": "第三方·非公告，唯供參考，唔構成買賣建議。",
   "items": [
+    {
+      "title": "港股內銀股延續近期漲勢，工中建交等多家大行創歷史新高，六大行分紅比例將集體提升至31%",
+      "summary": "報道指港股內銀股延續漲勢，工商銀行等大行股價創歷史新高，並提到六大行分紅比例將集體提升至31%。僅供參考，唔構成買賣建議。（原文來源：智通財經）",
+      "source": "富途快訊",
+      "date": "2026-09-01",
+      "url": "https://news.futunn.com/post/78609836/hong-kong-listed-chinese-bank-stocks-have-extended-their-recent",
+      "tickers": [
+        "1398.HK"
+      ]
+    },
+    {
+      "title": "英偉達當“紅娘”，Anthropic與“AI雲”Lamda達成350億美元“算力協議”",
+      "summary": "報道指英偉達牽線，Anthropic與AI雲端業者Lamda達成約350億美元算力／雲服務協議，凸顯AI算力需求與雲端供應鏈合作。（原文來源：華爾街見聞）",
+      "source": "富途快訊",
+      "date": "2026-09-01",
+      "url": "https://news.futunn.com/post/78589767/nvidia-acts-as-intermediary-facilitating-a-35-billion-computing-power",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "title": "知名投資人Gavin Baker訪談：英偉達的護城河到底有多深？",
+      "summary": "華爾街見聞專訪知名科技投資人Gavin Baker，討論英偉達護城河深度，以及AI基礎設施競爭格局等議題。（原文來源：華爾街見聞）",
+      "source": "富途快訊",
+      "date": "2026-09-01",
+      "url": "https://news.futunn.com/post/78600837/interview-with-renowned-investor-gavin-baker-how-deep-is-nvidia",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "title": "中國AI模型監測：升級加速、用量猛增，雲端進入新一輪上行週期",
+      "summary": "報道觀察中國AI模型升級節奏加快、用量明顯上升，並指雲端算力與推理服務正進入新一輪上行週期。（原文來源：華爾街見聞）",
+      "source": "富途快訊",
+      "date": "2026-09-01",
+      "url": "https://news.futunn.com/post/78600830/china-ai-model-monitoring-accelerated-upgrades-surge-in-usage-and",
+      "tickers": []
+    },
+    {
+      "title": "造車新勢力8月數據：零跑單月交付再破10萬；小鵬、理想、蔚來維持3-4萬輛區間",
+      "summary": "財聯社整理造車新勢力8月交付：零跑單月交付再破10萬輛，小鵬、理想、蔚來則維持約3至4萬輛區間。（原文來源：財聯社）",
+      "source": "富途快訊",
+      "date": "2026-09-01",
+      "url": "https://news.futunn.com/post/78610991/august-data-for-new-energy-vehicle-startups-leapmotor-s-monthly",
+      "tickers": []
+    },
+    {
+      "title": "機構：存儲芯片第三季度價格漲幅明顯收窄 部分環比漲幅在10%以內",
+      "summary": "調研機構羣智諮詢（Sigmaintell）發佈存儲價格風向標顯示，2026年第三季度，全球存儲市場整體供需依舊緊缺，DRAM（動態隨機存取存儲器）、NAND Flash（閃存）全品類價格維持環比上行，但相較於二季度的漲價幅度已明顯放緩，部分存儲芯片的環比漲幅已收窄到10%以內。",
+      "source": "富途快訊",
+      "date": "2026-09-01",
+      "url": "https://news.futunn.com/flash/20701628/institution-the-quarter-on-quarter-price-increase-for-memory-chips",
+      "tickers": []
+    },
     {
       "title": "輝達聯發科深化合作，黃仁勳蔡力行解說 35 億美元可轉債",
       "summary": "輝達宣布以約 35 億美元認購聯發科海外可轉債，並深化 NVLink Fusion、邊緣 AI 與車用合作；黃仁勳與蔡力行接受專訪說明技術路線與資金用途。",
@@ -140,48 +194,6 @@
       "tickers": [
         "NVDA",
         "SPCX"
-      ]
-    },
-    {
-      "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
-      "summary": "路透報導輝達投資約 35 億美元於聯發科可轉債，Alphabet 亦參與該發行案；合作核心含 NVLink Fusion 讓客製 AI 晶片接入輝達系統。",
-      "source": "Reuters",
-      "date": "2026-08-31",
-      "url": "https://www.reuters.com/world/asia-pacific/nvidia-invests-35-billion-mediatek-convertible-bonds-2026-08-31/",
-      "tickers": [
-        "NVDA",
-        "GOOGL"
-      ]
-    },
-    {
-      "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence",
-      "summary": "CNBC 報導輝達強勁財報提振 AI 信心，市值一日增加逾 4,000 億美元；管理層並重申需求強勁、供給仍是約束。",
-      "source": "CNBC",
-      "date": "2026-08-27",
-      "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
-      "summary": "輝達新聞稿宣布與聯發科深化雲端 AI 工廠、本地 AI 運算與車用合作，聯發科將採 NVLink Fusion，輝達並投資 35 億美元可轉債。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-08-31",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
-      "summary": "輝達與 AWS 宣布擴大合作，計劃於 2027–2028 再部署約 200 萬顆輝達 GPU，並導入 Vera CPU、NVLink Fusion／NVHBM 等下一世代基礎設施。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-08-26",
-      "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
-      "tickers": [
-        "NVDA",
-        "AMZN"
       ]
     }
   ]
