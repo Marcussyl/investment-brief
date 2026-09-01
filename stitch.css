@@ -1134,19 +1134,39 @@ body {
   }
 }
 
-.sheet-handle {
-  width: 48px;
-  height: 4px;
-  background: var(--accent);
-  border-radius: 2px;
-  margin: 12px auto 8px;
+.sheet-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 44px;
+  height: 44px;
+  min-width: 44px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  color: var(--on-surface);
+  transition: all var(--duration-quick) var(--easing);
+  z-index: 2;
   flex-shrink: 0;
-  cursor: grab;
-  touch-action: none;
 }
 
-.sheet-handle:active {
-  cursor: grabbing;
+.sheet-close:hover {
+  background: var(--surface-container-high);
+  color: var(--accent);
+}
+
+.sheet-close:active {
+  transform: scale(0.95);
+}
+
+.sheet-close svg {
+  width: 24px;
+  height: 24px;
 }
 
 .sheet-content {

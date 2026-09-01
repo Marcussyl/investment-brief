@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Hanken+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="stitch.css?v=20260901-07">
+  <link rel="stylesheet" href="stitch.css?v=20260901-08">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body data-theme="auto">
@@ -206,10 +206,15 @@
   
   <!-- Bottom Sheet Container -->
   <div class="bottom-sheet" id="bottomSheet">
-    <div class="sheet-handle"></div>
+    <button class="sheet-close" id="sheetClose" aria-label="關閉">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <line x1="18" y1="6" x2="6" y2="18"></line>
+        <line x1="6" y1="6" x2="18" y2="18"></line>
+      </svg>
+    </button>
     <div class="sheet-content" id="sheetContent"></div>
   </div>
 
-  <script src="stitch-app.js?v=20260901-07"></script>
+  <script src="stitch-app.js?v=20260901-08"></script>
 </body>
 </html>
