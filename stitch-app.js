@@ -77,12 +77,38 @@ function initNavigation() {
       });
     });
   });
+  
+  // Restore saved view from localStorage
+  restoreSavedView(mobileNavItems, desktopNavItems);
+}
+
+function restoreSavedView(mobileNavItems, desktopNavItems) {
+  const savedView = localStorage.getItem('ib_active_view');
+  const validViews = ['today', 'market', 'portfolio', 'glossary'];
+  const viewToRestore = validViews.includes(savedView) ? savedView : 'today';
+  
+  // Switch to the saved/default view
+  switchView(viewToRestore);
+  
+  // Update nav item active states
+  const allNavItems = [...mobileNavItems, ...desktopNavItems];
+  allNavItems.forEach(n => n.classList.remove('active'));
+  
+  mobileNavItems.forEach(n => {
+    if (n.dataset.view === viewToRestore) n.classList.add('active');
+  });
+  desktopNavItems.forEach(n => {
+    if (n.dataset.view === viewToRestore) n.classList.add('active');
+  });
 }
 
 function switchView(viewName) {
   const views = document.querySelectorAll('.view');
   views.forEach(v => v.classList.remove('active'));
   document.getElementById(`view${capitalize(viewName)}`).classList.add('active');
+  
+  // Save active view to localStorage
+  localStorage.setItem('ib_active_view', viewName);
 }
 
 function capitalize(str) {
