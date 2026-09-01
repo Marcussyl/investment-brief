@@ -1,6 +1,9 @@
 // Stitch App - Investment Brief
 // Traditional Chinese UI with dark/light theme
 
+// Built-in Vercel proxy for refresh webhook (avoids CORS from browser to api2.cursor.sh)
+const DEFAULT_REFRESH_PROXY = 'https://investment-brief.vercel.app/api/refresh';
+
 let briefData = null;
 let watchlistData = null;
 let techNewsData = null;
@@ -252,11 +255,22 @@ function getWebhookConfig() {
   try {
     const url = localStorage.getItem('ib_refresh_webhook_url');
     const auth = localStorage.getItem('ib_refresh_webhook_auth');
-    if (!url || !auth) return null;
-    return { url, auth };
+    
+    // If custom URL is set, use it (requires auth)
+    if (url && url.trim()) {
+      if (!auth || !auth.trim()) {
+        console.warn('Custom webhook URL set but auth missing');
+        return null;
+      }
+      return { url: url.trim(), auth: auth.trim() };
+    }
+    
+    // Otherwise use built-in Vercel proxy (no auth needed from browser)
+    return { url: DEFAULT_REFRESH_PROXY, auth: null };
   } catch (e) {
     console.error('Failed to read webhook config:', e);
-    return null;
+    // Fallback to proxy on error
+    return { url: DEFAULT_REFRESH_PROXY, auth: null };
   }
 }
 
@@ -289,14 +303,12 @@ function openSettingsModal() {
   const urlInput = document.getElementById('webhookUrl');
   const authInput = document.getElementById('webhookAuth');
   
-  const config = getWebhookConfig();
-  if (config) {
-    urlInput.value = config.url;
-    authInput.value = config.auth;
-  } else {
-    urlInput.value = '';
-    authInput.value = '';
-  }
+  // Show custom settings if set, otherwise leave empty (indicates using built-in proxy)
+  const customUrl = localStorage.getItem('ib_refresh_webhook_url') || '';
+  const customAuth = localStorage.getItem('ib_refresh_webhook_auth') || '';
+  
+  urlInput.value = customUrl;
+  authInput.value = customAuth;
   
   scrim.classList.add('active');
   modal.classList.add('active');
@@ -319,14 +331,23 @@ function saveSettings() {
   const url = urlInput.value.trim();
   const auth = authInput.value.trim();
   
+  // If both empty, use built-in proxy (clear custom config)
+  if (!url && !auth) {
+    clearWebhookConfig();
+    closeSettingsModal();
+    showAlert('將使用內置 proxy', 'success');
+    return;
+  }
+  
+  // If setting custom webhook, both URL and auth are required
   if (!url || !auth) {
-    showAlert('請填寫 URL 同 Authorization', 'error');
+    showAlert('自訂 webhook 需要 URL 同 Authorization，或兩者都留空使用內置 proxy', 'error');
     return;
   }
   
   setWebhookConfig(url, auth);
   closeSettingsModal();
-  showAlert('設定已儲存', 'success');
+  showAlert('自訂設定已儲存', 'success');
 }
 
 function clearSettings() {
@@ -349,17 +370,23 @@ function setUpdateButtonLoading(isLoading) {
 }
 
 async function triggerWebhook(url, auth) {
-  const authHeader = auth.startsWith('Bearer ') || auth.startsWith('Key ') 
-    ? auth 
-    : `Bearer ${auth}`;
-  
   try {
+    const headers = {
+      'Content-Type': 'application/json'
+    };
+    
+    // Only add Authorization header if auth is provided (custom webhook)
+    // Built-in proxy doesn't need auth from browser (holds secrets server-side)
+    if (auth) {
+      const authHeader = auth.startsWith('Bearer ') || auth.startsWith('Key ') 
+        ? auth 
+        : `Bearer ${auth}`;
+      headers['Authorization'] = authHeader;
+    }
+    
     const res = await fetch(url, {
       method: 'POST',
-      headers: {
-        'Authorization': authHeader,
-        'Content-Type': 'application/json'
-      },
+      headers,
       body: JSON.stringify({ source: 'investment-brief-update-btn' })
     });
     
@@ -377,7 +404,15 @@ async function triggerWebhook(url, auth) {
     return { ok: true };
   } catch (error) {
     console.error('Webhook failed:', error);
-    return { ok: false, detail: error.message || 'Network error' };
+    const isCorsError = error.message && (
+      error.message.includes('Failed to fetch') ||
+      error.message.includes('NetworkError') ||
+      error.message.includes('CORS')
+    );
+    const detail = isCorsError 
+      ? 'CORS error (browser blocked). Use built-in proxy or check webhook URL.'
+      : (error.message || 'Network error');
+    return { ok: false, detail };
   }
 }
 
@@ -386,11 +421,7 @@ async function refreshSiteData() {
   if (btn && btn.disabled) return;
 
   const config = getWebhookConfig();
-  
-  if (!config) {
-    openSettingsModal();
-    return;
-  }
+  // config always exists (either custom or built-in proxy)
 
   setUpdateButtonLoading(true);
   showAlert('同步中…', 'info');
@@ -400,10 +431,11 @@ async function refreshSiteData() {
     
     if (!result.ok) {
       const statusInfo = result.status ? `HTTP ${result.status}` : result.detail || '未知錯誤';
-      showAlert(
-        `Webhook 失敗（${statusInfo}）。請檢查 ⚙️ URL／Authorization，同 On-demand site refresh 例行工作一致。`,
-        'error'
-      );
+      const isCors = result.detail && result.detail.includes('CORS');
+      const message = isCors
+        ? `Webhook 失敗（CORS）。瀏覽器無法直接調用 Cursor webhook。請確保使用內置 proxy（清空設置），或配置支援 CORS 嘅自訂 webhook。`
+        : `Webhook 失敗（${statusInfo}）。如使用自訂 URL，請檢查 ⚙️ URL／Authorization 同 On-demand site refresh 例行工作一致。`;
+      showAlert(message, 'error');
       setUpdateButtonLoading(false);
       return;
     }

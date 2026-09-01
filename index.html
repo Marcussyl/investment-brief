@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght=400;500;600;700&family=Hanken+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="stitch.css?v=20260901-20">
+  <link rel="stylesheet" href="stitch.css?v=20260901-21">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body data-theme="auto">
@@ -294,7 +294,11 @@
         <label for="webhookAuth">Authorization / Key</label>
         <input type="password" id="webhookAuth" placeholder="Bearer ... 或 Key ..." autocomplete="off">
       </div>
-      <p class="help-text">從 Grok Bot routine「On-demand site refresh」面板複製完整 Webhook URL 同 Authorization header（例如 <code>Bearer xxx...</code> 或 <code>Key xxx...</code>）。請勿自己編造值。只存在呢部瀏覽器，唔會上傳到 GitHub。</p>
+      <p class="help-text">
+        <strong>內置 proxy（推薦）：</strong>留空兩個欄位，使用 Vercel serverless proxy（由 repo 管理員配置）。瀏覽器無法直接調用 <code>api2.cursor.sh</code>（CORS 限制），proxy 會代為轉發。
+        <br><br>
+        <strong>自訂 webhook：</strong>如需覆蓋，從 Grok Bot routine「On-demand site refresh」面板複製完整 Webhook URL 同 Authorization header（<code>Bearer xxx...</code> 或 <code>Key xxx...</code>）。但自訂 URL 亦可能遇到 CORS。只存呢部瀏覽器，唔會上傳到 GitHub。
+      </p>
     </div>
     <div class="modal-footer">
       <button class="btn-secondary" id="clearSettings">清除</button>
@@ -318,6 +322,6 @@
     <button class="alert-close" aria-label="關閉">×</button>
   </div>
 
-  <script src="stitch-app.js?v=20260901-20"></script>
+  <script src="stitch-app.js?v=20260901-21"></script>
 </body>
 </html>

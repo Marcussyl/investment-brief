@@ -95,24 +95,50 @@ GitHub Pages caches static assets. When updating `stitch.css` or `stitch-app.js`
 
 The site has an「更新」(Update) button in the header that triggers a webhook to rebuild data and reload the page.
 
-### Setup
+### Built-in Vercel Proxy (Recommended)
+
+**Why?** Browsers cannot directly call `api2.cursor.sh` webhooks due to CORS restrictions. The built-in Vercel serverless proxy forwards requests with proper CORS headers.
+
+**Setup (for repo maintainer):**
+
+1. **Connect repo to Vercel:**
+   - Go to [vercel.com](https://vercel.com) and import `Marcussyl/investment-brief`
+   - Deploy with default settings (GitHub Pages stays primary; Vercel only for API routes)
+
+2. **Set environment variables in Vercel project settings:**
+   - `REFRESH_WEBHOOK_URL` = Full webhook URL from Grok Bot routine "On-demand site refresh"
+   - `REFRESH_WEBHOOK_AUTH` = Full Authorization header value (e.g., `Bearer xyz123...`)
+   - Scope: Production + Preview (optional)
+
+3. **Verify proxy URL:**
+   - Default: `https://investment-brief.vercel.app/api/refresh`
+   - Update `DEFAULT_REFRESH_PROXY` in `stitch-app.js` if custom domain used
+
+4. **Deploy:**
+   - Push `api/refresh.js` to main → Vercel auto-deploys
+   - Test: `curl -X POST https://investment-brief.vercel.app/api/refresh`
+   - Should return webhook result (200/401/500)
+
+**For end users:**
+- Click「更新」without any setup → uses built-in proxy automatically
+- Secrets stay on Vercel server (never exposed to browser)
+
+### Custom Webhook (Advanced)
+
+If you need to override the built-in proxy:
 
 1. Open the Grok Bot routine **"On-demand site refresh"** in the Grok dashboard
-2. Copy the **Webhook URL** (e.g., `https://api.example.com/webhooks/...`)
-3. Copy the **Authorization** header value (the full value shown, e.g., `Bearer xyz123` or `Key xyz123`)
-4. On the live site, click the ⚙️ settings button (next to「更新」)
-5. Paste:
-   - **Webhook URL** → into the first field
-   - **Authorization / Key** → into the second field (paste exactly as copied)
-6. Click「儲存」(Save)
+2. Copy the **Webhook URL** and **Authorization** header
+3. On the live site, click the ⚙️ settings button
+4. Paste both values → Click「儲存」
 
-**Privacy:** Credentials are stored only in your browser's `localStorage`. They are never committed to git or sent anywhere except the webhook endpoint.
+**Note:** Custom webhooks may also encounter CORS issues if the endpoint doesn't support browser requests.
 
 ### Usage
 
-- Click「更新」→ POST to webhook → wait ~20s → reload JSON data → toast「已同步」
-- If credentials are missing, the settings modal opens automatically
-- To clear credentials: open settings → click「清除」(Clear)
+- Click「更新」→ POST to webhook (via proxy) → wait ~22s → reload JSON → toast「已同步」
+- To revert to built-in proxy: open settings → clear both fields → save
+- Credentials (if custom) are stored only in browser `localStorage`, never committed to git
 
 ### JSON Schema
 
