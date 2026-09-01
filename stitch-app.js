@@ -1079,15 +1079,18 @@ function closeSheet() {
   
   sheet.style.transition = '';
   sheet.style.transform = '';
+  scrim.style.transition = '';
   scrim.style.opacity = '';
 }
 
 // Sheet drag-to-close functionality
 let dragState = {
+  isPending: false,
   isDragging: false,
   startY: 0,
   currentY: 0,
-  startTime: 0
+  startTime: 0,
+  pointerId: null
 };
 
 function initSheetDrag() {
@@ -1104,25 +1107,51 @@ function initSheetDrag() {
     
     if (!isHandle && !isTopOfContent) return;
     
-    dragState.isDragging = true;
     dragState.startY = e.clientY;
     dragState.currentY = e.clientY;
     dragState.startTime = Date.now();
+    dragState.pointerId = e.pointerId;
     
-    sheet.style.transition = 'none';
-    scrim.style.transition = 'none';
-    
-    sheet.setPointerCapture(e.pointerId);
-    e.preventDefault();
+    if (isHandle) {
+      dragState.isDragging = true;
+      dragState.isPending = false;
+      
+      sheet.style.transition = 'none';
+      scrim.style.transition = 'none';
+      
+      sheet.setPointerCapture(e.pointerId);
+      e.preventDefault();
+    } else {
+      dragState.isPending = true;
+      dragState.isDragging = false;
+    }
   };
   
   const onPointerMove = (e) => {
-    if (!dragState.isDragging) return;
+    if (!dragState.isDragging && !dragState.isPending) return;
     
     dragState.currentY = e.clientY;
     const deltaY = dragState.currentY - dragState.startY;
     
-    if (deltaY > 0) {
+    if (dragState.isPending) {
+      if (deltaY > 10 && sheetContent.scrollTop === 0) {
+        dragState.isPending = false;
+        dragState.isDragging = true;
+        
+        sheet.style.transition = 'none';
+        scrim.style.transition = 'none';
+        
+        sheet.setPointerCapture(dragState.pointerId);
+        e.preventDefault();
+      } else if (deltaY < -10) {
+        dragState.isPending = false;
+        return;
+      } else {
+        return;
+      }
+    }
+    
+    if (dragState.isDragging && deltaY > 0) {
       sheet.style.transform = `translateY(${deltaY}px)`;
       
       const opacity = Math.max(0, 1 - (deltaY / 300));
@@ -1131,7 +1160,12 @@ function initSheetDrag() {
   };
   
   const onPointerUp = (e) => {
-    if (!dragState.isDragging) return;
+    if (!dragState.isDragging && !dragState.isPending) return;
+    
+    if (dragState.isPending) {
+      dragState.isPending = false;
+      return;
+    }
     
     const deltaY = dragState.currentY - dragState.startY;
     const deltaTime = Date.now() - dragState.startTime;
@@ -1151,9 +1185,10 @@ function initSheetDrag() {
   };
   
   const onPointerCancel = () => {
-    if (!dragState.isDragging) return;
+    if (!dragState.isDragging && !dragState.isPending) return;
     
     dragState.isDragging = false;
+    dragState.isPending = false;
     sheet.style.transition = '';
     scrim.style.transition = '';
     sheet.style.transform = '';
