@@ -505,57 +505,6 @@ body {
   margin-bottom: var(--gap-stack);
 }
 
-/* Audio Player */
-.audio-player-container {
-  background: var(--surface);
-  border: 1px solid var(--outline-variant);
-  border-radius: var(--radius-card);
-  padding: 16px 20px;
-  margin: 0 var(--margin-mobile) 24px;
-}
-
-[data-theme='dark'] .audio-player-container {
-  background: var(--surface-container);
-  border-color: var(--outline);
-}
-
-.audio-player-header {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 12px;
-}
-
-.audio-icon {
-  width: 20px;
-  height: 20px;
-  color: var(--accent);
-  flex-shrink: 0;
-}
-
-.audio-label {
-  font-family: var(--font-label);
-  font-size: 0.9375rem;
-  font-weight: 600;
-  color: var(--on-surface);
-}
-
-.audio-element {
-  width: 100%;
-  height: 44px;
-  border-radius: 8px;
-  outline: none;
-}
-
-.audio-element::-webkit-media-controls-panel {
-  background: var(--surface-container);
-  border-radius: 8px;
-}
-
-[data-theme='dark'] .audio-element::-webkit-media-controls-panel {
-  background: var(--surface-container-low);
-}
-
 .section-title {
   font-family: var(--font-label);
   font-size: 1.125rem;
