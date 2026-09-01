@@ -1,8 +1,9 @@
 # 投資簡報 📊
 
-Visual weekday investment news brief with charts, hosted on GitHub Pages. Traditional Chinese UI with dark/light theme toggle.
+Visual weekday investment news brief with charts, hosted on Vercel. Traditional Chinese UI with dark/light theme toggle.
 
-**Live Site:** https://marcussyl.github.io/investment-brief/
+**Live Site:** https://investment-brief.vercel.app/ (Vercel primary)  
+**Legacy:** https://marcussyl.github.io/investment-brief/ (GitHub Pages, optional)
 
 ## Overview
 
@@ -75,21 +76,23 @@ Bottom navigation: 今日重點 / 市場動態 / 投資組合 / 專業術語
 1. **Create brief file:** `data/briefs/YYYY-MM-DD.json`
 2. **Update index:** `data/briefs-index.json` (add filename to array)
 3. **Update watchlist:** `data/watchlist.json` (optional, refresh prices)
-4. **Push to main:** `git push origin main` (GitHub Pages auto-rebuilds)
+4. **Update tech news:** `data/tech-news.json` (optional, daily tech digest)
+5. **Update portfolio analysis:** `data/portfolio-analysis.json` (optional, when holdings change)
+6. **Push to main:** `git push origin main` → Vercel auto-deploys (production + GitHub Pages if enabled)
 
 ### Cache Busting
 
-GitHub Pages caches static assets. When updating `stitch.css` or `stitch-app.js`:
+Static assets are cached by CDN. When updating `stitch.css` or `stitch-app.js`:
 
 1. Increment the version query string in `index.html`:
    ```html
    <link rel="stylesheet" href="stitch.css?v=YYYYMMDD-NN">
    <script src="stitch-app.js?v=YYYYMMDD-NN"></script>
    ```
-2. Use format: `YYYYMMDD-NN` (e.g., `20260831-01`, `20260831-02`, etc.)
+2. Use format: `YYYYMMDD-NN` (e.g., `20260901-22`, `20260901-23`, etc.)
 3. Bump both CSS and JS versions together when either file changes
 
-**Note:** `index.html` itself is cached by GitHub Pages (~10 min TTL). Users may need to hard-refresh (Ctrl+Shift+R / Cmd+Shift+R) after deployments.
+**Note:** Vercel CDN caches aggressively. Query string busting ensures fresh files. Users may need to hard-refresh (Ctrl+Shift+R / Cmd+Shift+R) if HTML is cached.
 
 ## Manual Update
 
@@ -101,23 +104,26 @@ The site has an「更新」(Update) button in the header that triggers a webhook
 
 **Setup (for repo maintainer):**
 
-1. **Connect repo to Vercel:**
+1. **Connect repo to Vercel (primary host):**
    - Go to [vercel.com](https://vercel.com) and import `Marcussyl/investment-brief`
-   - Deploy with default settings (GitHub Pages stays primary; Vercel only for API routes)
+   - Deploy with default settings (root directory, auto-detect framework)
+   - Vercel serves static files (`index.html`, CSS, JS, data) + API routes (`/api/refresh`)
 
 2. **Set environment variables in Vercel project settings:**
    - `REFRESH_WEBHOOK_URL` = Full webhook URL from Grok Bot routine "On-demand site refresh"
    - `REFRESH_WEBHOOK_AUTH` = Full Authorization header value (e.g., `Bearer xyz123...`)
-   - Scope: Production + Preview (optional)
+   - Optional: `ALLOWED_ORIGIN` = Custom domain if not using `*.vercel.app`
+   - Scope: Production + Preview
 
-3. **Verify proxy URL:**
-   - Default: `https://investment-brief.vercel.app/api/refresh`
-   - Update `DEFAULT_REFRESH_PROXY` in `stitch-app.js` if custom domain used
-
-4. **Deploy:**
-   - Push `api/refresh.js` to main → Vercel auto-deploys
-   - Test: `curl -X POST https://investment-brief.vercel.app/api/refresh`
+3. **Verify deployment:**
+   - Primary URL: `https://investment-brief.vercel.app/`
+   - API endpoint: `https://investment-brief.vercel.app/api/refresh`
+   - Test refresh proxy: `curl -X POST https://investment-brief.vercel.app/api/refresh`
    - Should return webhook result (200/401/500)
+
+4. **Auto-deploy:**
+   - Push to `main` → Vercel auto-deploys
+   - Morning sync job: update JSON → `git push main` → Vercel redeploys within ~30s
 
 **For end users:**
 - Click「更新」without any setup → uses built-in proxy automatically
@@ -340,10 +346,11 @@ Current tickers tracked:
 
 - **Frontend:** Static HTML, CSS, JavaScript (no build process)
 - **Charts:** Chart.js 4.4.0 (CDN)
-- **Hosting:** GitHub Pages (static site from `main` branch)
-- **Data:** JSON files (no backend, no API at runtime)
+- **Hosting:** Vercel (primary), GitHub Pages (optional/legacy)
+- **API:** Vercel Serverless Functions (`/api/refresh` - CORS proxy for webhook)
+- **Data:** JSON files (static, pushed to git)
 - **Theme:** Dark/light with system default, persisted in localStorage
-- **Base Path:** `/investment-brief/` (GitHub Pages project site)
+- **Base Path:** `/` (root deploy on Vercel; GitHub Pages uses `/investment-brief/` if enabled)
 
 ## Local Development
 
@@ -401,10 +408,33 @@ Price data is fetched from Yahoo Finance using the `fetch_market_data.py` script
 - Requires JavaScript enabled
 - Responsive: 320px – 2560px viewports
 
+## Deployment
+
+### Vercel (Primary - Recommended)
+
+1. **Import repo** at [vercel.com](https://vercel.com)
+2. **Set environment variables:**
+   - `REFRESH_WEBHOOK_URL` (from Grok Bot routine)
+   - `REFRESH_WEBHOOK_AUTH` (full Bearer token)
+   - `ALLOWED_ORIGIN` (optional, for custom domains)
+3. **Deploy** - Vercel auto-detects static site + serverless functions
+4. **Access** - `https://investment-brief.vercel.app/` or custom domain
+
+Pushing to `main` triggers automatic redeployment (~30s).
+
+### GitHub Pages (Legacy - Optional)
+
+1. Enable Pages: repo Settings → Pages → Source: `main` branch, root `/`
+2. **Note:** Requires `<base href="/investment-brief/">` in `index.html` if using project site
+3. Access: `https://marcussyl.github.io/investment-brief/`
+4. **Limitation:** Cannot use `/api/refresh` proxy (GitHub Pages doesn't support serverless functions)
+
+For full functionality (Update button), use Vercel deployment.
+
 ## License
 
 Personal project for educational purposes. Not financial advice.
 
 ---
 
-**Maintained by Marcus** • [GitHub](https://github.com/Marcussyl/investment-brief) • [Live Site](https://marcussyl.github.io/investment-brief/)
+**Maintained by Marcus** • [GitHub](https://github.com/Marcussyl/investment-brief) • [Live Site](https://investment-brief.vercel.app/)

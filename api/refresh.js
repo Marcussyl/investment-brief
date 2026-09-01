@@ -3,16 +3,29 @@
 
 export default async function handler(req, res) {
   // CORS configuration
-  const allowedOrigins = [
-    'https://marcussyl.github.io',
-    'http://localhost:3000',
-    'http://localhost:8000',
-    'http://127.0.0.1:3000',
-    'http://127.0.0.1:8000'
-  ];
-  
   const origin = req.headers.origin;
-  const allowOrigin = allowedOrigins.includes(origin) ? origin : allowedOrigins[0];
+  
+  // Determine allowed origin
+  let allowOrigin = 'https://marcussyl.github.io'; // fallback
+  
+  if (origin) {
+    // Allow Vercel deployments (*.vercel.app)
+    if (origin.endsWith('.vercel.app')) {
+      allowOrigin = origin;
+    }
+    // Allow custom domain from environment (optional)
+    else if (process.env.ALLOWED_ORIGIN && origin === process.env.ALLOWED_ORIGIN) {
+      allowOrigin = origin;
+    }
+    // Allow localhost development
+    else if (origin.startsWith('http://localhost') || origin.startsWith('http://127.0.0.1')) {
+      allowOrigin = origin;
+    }
+    // Allow GitHub Pages (transition)
+    else if (origin === 'https://marcussyl.github.io') {
+      allowOrigin = origin;
+    }
+  }
   
   // Handle preflight OPTIONS request
   if (req.method === 'OPTIONS') {

@@ -2,7 +2,8 @@
 // Traditional Chinese UI with dark/light theme
 
 // Built-in Vercel proxy for refresh webhook (avoids CORS from browser to api2.cursor.sh)
-const DEFAULT_REFRESH_PROXY = 'https://investment-brief.vercel.app/api/refresh';
+// Relative path works for same-origin requests (Vercel deployment or any custom domain)
+const DEFAULT_REFRESH_PROXY = '/api/refresh';
 
 let briefData = null;
 let watchlistData = null;
