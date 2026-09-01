@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Hanken+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="stitch.css?v=20260831-02">
+  <link rel="stylesheet" href="stitch.css?v=20260901-01">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body data-theme="auto">
@@ -22,6 +22,15 @@
   <header class="header-glass">
     <div class="header-content">
       <h1 class="header-title">📊 投資簡報</h1>
+      
+      <!-- Desktop Navigation (inline with header) -->
+      <nav class="desktop-nav desktop-only">
+        <button class="desktop-nav-item active" data-view="today">今日重點</button>
+        <button class="desktop-nav-item" data-view="market">市場動態</button>
+        <button class="desktop-nav-item" data-view="portfolio">投資組合</button>
+        <button class="desktop-nav-item" data-view="glossary">專業術語</button>
+      </nav>
+      
       <button class="theme-toggle" id="themeToggle" aria-label="切換主題">
         <svg class="theme-icon moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
@@ -40,16 +49,6 @@
       </button>
     </div>
   </header>
-
-  <!-- Desktop Navigation -->
-  <nav class="desktop-nav desktop-only">
-    <div class="desktop-nav-content">
-      <button class="desktop-nav-item active" data-view="today">今日重點</button>
-      <button class="desktop-nav-item" data-view="market">市場動態</button>
-      <button class="desktop-nav-item" data-view="portfolio">投資組合</button>
-      <button class="desktop-nav-item" data-view="glossary">專業術語</button>
-    </div>
-  </nav>
 
   <!-- Main Container -->
   <div class="app-container">
@@ -211,6 +210,6 @@
     <div class="sheet-content" id="sheetContent"></div>
   </div>
 
-  <script src="stitch-app.js?v=20260831-02"></script>
+  <script src="stitch-app.js?v=20260901-01"></script>
 </body>
 </html>
