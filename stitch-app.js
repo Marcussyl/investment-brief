@@ -354,7 +354,7 @@ async function triggerWebhook(url, auth) {
     : `Bearer ${auth}`;
   
   try {
-    await fetch(url, {
+    const res = await fetch(url, {
       method: 'POST',
       headers: {
         'Authorization': authHeader,
@@ -362,23 +362,22 @@ async function triggerWebhook(url, auth) {
       },
       body: JSON.stringify({ source: 'investment-brief-update-btn' })
     });
-    return true;
-  } catch (corsError) {
-    try {
-      await fetch(url, {
-        method: 'POST',
-        mode: 'no-cors',
-        headers: {
-          'Authorization': authHeader,
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ source: 'investment-brief-update-btn' })
-      });
-      return true;
-    } catch (e) {
-      console.error('Webhook failed:', e);
-      return false;
+    
+    if (!res.ok) {
+      let detail = `HTTP ${res.status}`;
+      try {
+        const text = await res.text();
+        if (text && text.length < 200) detail += `: ${text}`;
+      } catch (e) {
+        // ignore body read error
+      }
+      return { ok: false, status: res.status, detail };
     }
+    
+    return { ok: true };
+  } catch (error) {
+    console.error('Webhook failed:', error);
+    return { ok: false, detail: error.message || 'Network error' };
   }
 }
 
@@ -397,20 +396,32 @@ async function refreshSiteData() {
   showAlert('同步中…', 'info');
 
   try {
-    await triggerWebhook(config.url, config.auth);
+    const result = await triggerWebhook(config.url, config.auth);
     
-    await new Promise(resolve => setTimeout(resolve, 20000));
+    if (!result.ok) {
+      const statusInfo = result.status ? `HTTP ${result.status}` : result.detail || '未知錯誤';
+      showAlert(
+        `Webhook 失敗（${statusInfo}）。請檢查 ⚙️ URL／Authorization，同 On-demand site refresh 例行工作一致。`,
+        'error'
+      );
+      setUpdateButtonLoading(false);
+      return;
+    }
+    
+    // Webhook succeeded, wait for rebuild
+    showAlert('已觸發遠端同步', 'info');
+    await new Promise(resolve => setTimeout(resolve, 22000));
     
     const ok = await loadSiteData({ bustCache: true });
     if (!ok) {
-      showAlert('同步已觸發，請稍後再撳更新', 'info');
+      showAlert('重新載入失敗，請稍後再試', 'error');
     } else {
       refreshRenderedViews();
       showAlert('已同步', 'success');
     }
   } catch (error) {
     console.error('Refresh failed:', error);
-    showAlert('同步已觸發，請稍後再撳更新', 'info');
+    showAlert('同步失敗，請檢查網絡連接', 'error');
   } finally {
     setUpdateButtonLoading(false);
   }
