@@ -328,16 +328,62 @@ async function refreshSiteData() {
       return;
     }
     
-    // Webhook succeeded, wait for rebuild
+    // Webhook succeeded, start polling for data update
     showAlert('已觸發遠端同步', 'info');
-    await new Promise(resolve => setTimeout(resolve, 22000));
     
-    const ok = await loadSiteData({ bustCache: true });
-    if (!ok) {
-      showAlert('重新載入失敗，請稍後再試', 'error');
+    // Capture baseline lastUpdated from current watchlistData
+    const baselineLastUpdated = watchlistData?.lastUpdated || null;
+    
+    // Short grace period before first poll
+    await new Promise(resolve => setTimeout(resolve, 3000));
+    showAlert('同步中，等待資料更新…', 'info');
+    
+    // Poll for data update (check every 4.5 seconds, timeout after 3 minutes)
+    const pollInterval = 4500;
+    const pollTimeout = 180000;
+    const startTime = Date.now();
+    let synced = false;
+    
+    while (Date.now() - startTime < pollTimeout) {
+      try {
+        // Poll watchlist.json with cache-bust
+        const freshWatchlist = await fetchJson('data/watchlist.json', { bustCache: true, optional: true });
+        
+        if (freshWatchlist) {
+          const newLastUpdated = freshWatchlist.lastUpdated || null;
+          
+          // Success condition: lastUpdated changed from baseline
+          if (baselineLastUpdated && newLastUpdated && newLastUpdated !== baselineLastUpdated) {
+            synced = true;
+            break;
+          }
+          
+          // Fallback: if baseline was missing but now we have data with tickers, consider it success
+          if (!baselineLastUpdated && newLastUpdated && freshWatchlist.tickers && freshWatchlist.tickers.length > 0) {
+            synced = true;
+            break;
+          }
+        }
+      } catch (pollError) {
+        console.warn('Poll attempt failed:', pollError);
+      }
+      
+      // Wait before next poll
+      await new Promise(resolve => setTimeout(resolve, pollInterval));
+    }
+    
+    if (synced) {
+      // Data updated! Reload all data and refresh UI
+      const ok = await loadSiteData({ bustCache: true });
+      if (!ok) {
+        showAlert('重新載入失敗，請稍後再試', 'error');
+      } else {
+        refreshRenderedViews();
+        showAlert('已同步', 'success');
+      }
     } else {
-      refreshRenderedViews();
-      showAlert('已同步', 'success');
+      // Timeout: sync might still be in progress
+      showAlert('同步可能仍在進行，請稍後再手動重新整理', 'info');
     }
   } catch (error) {
     console.error('Refresh failed:', error);
