@@ -232,6 +232,68 @@
   ],
   "tickers": [
     {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "SpaceX Q2 2026 results",
+        "date": "2026-08-04",
+        "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+      },
+      "Role": "Holding"
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "Xiaomi Q2 / interim results 2026",
+        "date": "2026-08-18",
+        "url": "https://ir.mi.com/"
+      },
+      "Role": "Holding"
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Holding"
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "全球非美 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Holding"
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "標普 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Holding"
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Research"
+    },
+    {
       "symbol": "NVDA",
       "nameCn": "英偉達",
       "exchange": "NASDAQ",
@@ -241,83 +303,8 @@
         "title": "NVIDIA–MediaTek partnership and $3.5B convertible bonds",
         "date": "2026-08-31",
         "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
-      }
-    },
-    {
-      "symbol": "GOOGL",
-      "nameCn": "Alphabet",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": {
-        "title": "Alphabet Q2 2026 results",
-        "date": "2026-07-22",
-        "url": "https://abc.xyz/investor/"
-      }
-    },
-    {
-      "symbol": "AMZN",
-      "nameCn": "亞馬遜",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": null
-    },
-    {
-      "symbol": "AAPL",
-      "nameCn": "蘋果",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": null
-    },
-    {
-      "symbol": "META",
-      "nameCn": "Meta",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": null
-    },
-    {
-      "symbol": "MSFT",
-      "nameCn": "微軟",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": null
-    },
-    {
-      "symbol": "TSLA",
-      "nameCn": "特斯拉",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": null
-    },
-    {
-      "symbol": "SPCX",
-      "nameCn": "SpaceX",
-      "exchange": "NASDAQ",
-      "role": "持仓",
-      "notesUrl": null,
-      "lastFiling": {
-        "title": "SpaceX Q2 2026 results",
-        "date": "2026-08-04",
-        "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
-      }
-    },
-    {
-      "symbol": "1810.HK",
-      "nameCn": "小米集團",
-      "exchange": "HKEX",
-      "role": "持仓",
-      "notesUrl": null,
-      "lastFiling": {
-        "title": "Xiaomi Q2 / interim results 2026",
-        "date": "2026-08-18",
-        "url": "https://ir.mi.com/"
-      }
+      },
+      "Role": "Research"
     },
     {
       "symbol": "1398.HK",
@@ -325,31 +312,8 @@
       "exchange": "HKEX",
       "role": "研究",
       "notesUrl": null,
-      "lastFiling": null
-    },
-    {
-      "symbol": "SPYM",
-      "nameCn": "標普 500 ETF",
-      "exchange": "NYSE Arca",
-      "role": "持仓",
-      "notesUrl": null,
-      "lastFiling": null
-    },
-    {
-      "symbol": "VEU",
-      "nameCn": "全球非美 ETF",
-      "exchange": "NYSE Arca",
-      "role": "持仓",
-      "notesUrl": null,
-      "lastFiling": null
-    },
-    {
-      "symbol": "GLD",
-      "nameCn": "黃金 ETF",
-      "exchange": "NYSE Arca",
-      "role": "持仓",
-      "notesUrl": null,
-      "lastFiling": null
+      "lastFiling": null,
+      "Role": "Research"
     }
   ]
 }
