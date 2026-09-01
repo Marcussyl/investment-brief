@@ -301,6 +301,28 @@ async function refreshSiteData() {
   const btn = document.getElementById('updateBtn');
   if (btn && btn.disabled) return;
 
+  // Check 5-minute rate limit
+  const RATE_LIMIT_MS = 5 * 60 * 1000;
+  const RATE_LIMIT_KEY = 'ib_last_refresh_trigger_at';
+  
+  try {
+    const lastTriggerStr = localStorage.getItem(RATE_LIMIT_KEY);
+    if (lastTriggerStr) {
+      const lastTrigger = parseInt(lastTriggerStr, 10);
+      const now = Date.now();
+      const elapsed = now - lastTrigger;
+      
+      if (elapsed < RATE_LIMIT_MS) {
+        const remainingMs = RATE_LIMIT_MS - elapsed;
+        const remainingMin = Math.ceil(remainingMs / 60000);
+        showAlert(`請稍後再試（約 ${remainingMin} 分鐘限速）`, 'info');
+        return;
+      }
+    }
+  } catch (e) {
+    console.warn('Failed to check rate limit:', e);
+  }
+
   setUpdateButtonLoading(true);
   showAlert('同步中…', 'info');
 
@@ -328,7 +350,14 @@ async function refreshSiteData() {
       return;
     }
     
-    // Webhook succeeded, start polling for data update
+    // Webhook succeeded! Record timestamp for rate-limiting
+    try {
+      localStorage.setItem(RATE_LIMIT_KEY, Date.now().toString());
+    } catch (e) {
+      console.warn('Failed to record refresh timestamp:', e);
+    }
+    
+    // Start polling for data update
     showAlert('已觸發遠端同步', 'info');
     
     // Capture baseline lastUpdated from current watchlistData
