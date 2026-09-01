@@ -170,28 +170,25 @@ function refreshRenderedViews() {
   }
 }
 
-function showUpdateToast(message, type = 'info') {
-  const toast = document.getElementById('updateToast');
-  if (!toast) return;
+function showAlert(message, type = 'info') {
+  const alert = document.getElementById('alert');
+  if (!alert) return;
 
-  toast.hidden = false;
-  toast.textContent = message;
-  toast.classList.remove('is-visible', 'is-success', 'is-error', 'is-info');
-  toast.classList.add(`is-${type}`);
+  alert.textContent = message;
+  alert.classList.remove('show', 'success', 'error', 'info');
+  alert.classList.add(type);
 
-  // Force reflow so transition restarts
-  void toast.offsetWidth;
-  toast.classList.add('is-visible');
+  void alert.offsetWidth;
+  alert.classList.add('show');
 
-  clearTimeout(showUpdateToast._timer);
-  showUpdateToast._timer = setTimeout(() => {
-    toast.classList.remove('is-visible');
+  clearTimeout(showAlert._timer);
+  showAlert._timer = setTimeout(() => {
+    alert.classList.remove('show');
     setTimeout(() => {
-      toast.hidden = true;
-      toast.textContent = '';
-      toast.classList.remove('is-success', 'is-error', 'is-info');
-    }, 220);
-  }, 2800);
+      alert.textContent = '';
+      alert.classList.remove('success', 'error', 'info');
+    }, 300);
+  }, 3500);
 }
 
 // Webhook credentials (localStorage)
@@ -267,20 +264,20 @@ function saveSettings() {
   const auth = authInput.value.trim();
   
   if (!url || !auth) {
-    showUpdateToast('請填寫 URL 同 Authorization', 'error');
+    showAlert('請填寫 URL 同 Authorization', 'error');
     return;
   }
   
   setWebhookConfig(url, auth);
   closeSettingsModal();
-  showUpdateToast('設定已儲存', 'success');
+  showAlert('設定已儲存', 'success');
 }
 
 function clearSettings() {
   clearWebhookConfig();
   document.getElementById('webhookUrl').value = '';
   document.getElementById('webhookAuth').value = '';
-  showUpdateToast('設定已清除', 'info');
+  showAlert('設定已清除', 'info');
 }
 
 function setUpdateButtonLoading(isLoading) {
@@ -341,7 +338,7 @@ async function refreshSiteData() {
   }
 
   setUpdateButtonLoading(true);
-  showUpdateToast('同步中…', 'info');
+  showAlert('同步中…', 'info');
 
   try {
     await triggerWebhook(config.url, config.auth);
@@ -350,14 +347,14 @@ async function refreshSiteData() {
     
     const ok = await loadSiteData({ bustCache: true });
     if (!ok) {
-      showUpdateToast('同步已觸發，請稍後再撳更新', 'info');
+      showAlert('同步已觸發，請稍後再撳更新', 'info');
     } else {
       refreshRenderedViews();
-      showUpdateToast('已同步', 'success');
+      showAlert('已同步', 'success');
     }
   } catch (error) {
     console.error('Refresh failed:', error);
-    showUpdateToast('同步已觸發，請稍後再撳更新', 'info');
+    showAlert('同步已觸發，請稍後再撳更新', 'info');
   } finally {
     setUpdateButtonLoading(false);
   }
