@@ -285,42 +285,6 @@
       "Role": "Holding"
     },
     {
-      "symbol": "GOOGL",
-      "nameCn": "Alphabet",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": null,
-      "Role": "Research"
-    },
-    {
-      "symbol": "AMZN",
-      "nameCn": "亞馬遜",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": null,
-      "Role": "Research"
-    },
-    {
-      "symbol": "AAPL",
-      "nameCn": "蘋果",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": null,
-      "Role": "Research"
-    },
-    {
-      "symbol": "META",
-      "nameCn": "Meta",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": null,
-      "Role": "Research"
-    },
-    {
       "symbol": "MSFT",
       "nameCn": "微軟",
       "exchange": "NASDAQ",
