@@ -1161,6 +1161,123 @@ body {
   font-size: 0.9375rem;
 }
 
+/* Portfolio List */
+.portfolio-list {
+  display: grid;
+  gap: 16px;
+}
+
+@media (min-width: 640px) {
+  .portfolio-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.portfolio-item {
+  background: var(--surface);
+  border: 1px solid var(--outline-variant);
+  border-radius: var(--radius-card);
+  padding: 20px;
+  cursor: pointer;
+  transition: all var(--duration-quick) var(--easing);
+}
+
+.portfolio-item:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px var(--shadow);
+}
+
+.portfolio-header {
+  margin-bottom: 16px;
+}
+
+.portfolio-symbol {
+  font-family: var(--font-label);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: 0.01em;
+  margin-bottom: 4px;
+}
+
+.portfolio-name {
+  font-size: 0.875rem;
+  color: var(--on-surface-variant);
+}
+
+.portfolio-stats {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.portfolio-price-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.portfolio-price {
+  font-family: var(--font-label);
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--on-surface);
+}
+
+.portfolio-change {
+  font-family: var(--font-label);
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.portfolio-change.up {
+  color: #2EE6D6;
+}
+
+.portfolio-change.down {
+  color: #ef4444;
+}
+
+.portfolio-sparkline {
+  width: 80px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.portfolio-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 80px 20px;
+  color: var(--on-surface-variant);
+}
+
+.portfolio-empty svg {
+  width: 64px;
+  height: 64px;
+  margin-bottom: 20px;
+  opacity: 0.5;
+}
+
+.portfolio-empty h3 {
+  font-family: var(--font-head);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--on-surface);
+  margin: 0 0 8px 0;
+}
+
+.portfolio-empty p {
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  margin: 0;
+  max-width: 400px;
+}
+
 /* Past Briefs */
 .past-briefs-list {
   display: grid;

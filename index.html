@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght=400;500;600;700&family=Hanken+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="stitch.css?v=20260901-16">
+  <link rel="stylesheet" href="stitch.css?v=20260901-17">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body data-theme="auto">
@@ -191,14 +191,17 @@
         <!-- View: Portfolio -->
         <div class="view" id="viewPortfolio">
           <div class="date-label">投資組合</div>
-          <div class="empty-state">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
-              <circle cx="12" cy="7" r="4"></circle>
-            </svg>
-            <h3>未標持倉</h3>
-            <p>在名稱抽屜中標記持倉後，這裡會顯示你的投資組合。</p>
-          </div>
+          <section class="section">
+            <div class="portfolio-list" id="portfolioList"></div>
+            <div class="portfolio-empty" id="portfolioEmpty" style="display: none;">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                <circle cx="12" cy="7" r="4"></circle>
+              </svg>
+              <h3>暫時未有持倉名稱</h3>
+              <p>喺 Notion Watchlist 將 Role 設為持倉後，撳更新同步。</p>
+            </div>
+          </section>
         </div>
 
         <!-- View: Glossary -->
@@ -287,6 +290,6 @@
     <button class="alert-close" aria-label="關閉">×</button>
   </div>
 
-  <script src="stitch-app.js?v=20260901-16"></script>
+  <script src="stitch-app.js?v=20260901-17"></script>
 </body>
 </html>

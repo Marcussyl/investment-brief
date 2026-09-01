@@ -458,6 +458,7 @@ function renderUI() {
   renderStories();
   renderGlossary();
   renderTechNews();
+  renderPortfolio();
 }
 
 // Render Watchlist Chips
@@ -800,6 +801,125 @@ function renderTechNews() {
   
   renderTechNewsFilters();
   renderTechNewsList();
+}
+
+// Render Portfolio
+function renderPortfolio() {
+  const container = document.getElementById('portfolioList');
+  const emptyState = document.getElementById('portfolioEmpty');
+  
+  if (!watchlistData || !watchlistData.tickers) {
+    container.style.display = 'none';
+    emptyState.style.display = 'flex';
+    return;
+  }
+  
+  // Get holdings from watchlist tickers
+  const holdings = watchlistData.tickers.filter(ticker => {
+    // Check role from briefData first
+    const briefTicker = (briefData.tickers || []).find(t => t.symbol === ticker.symbol);
+    const briefRole = briefTicker ? briefTicker.role : null;
+    
+    // Also check role from watchlistData
+    const watchlistRole = ticker.role || null;
+    
+    // Accept various forms: Holding, 持倉, 持仓
+    const role = briefRole || watchlistRole;
+    return role && (
+      role === 'Holding' || 
+      role === '持倉' || 
+      role === '持仓' ||
+      role.toLowerCase() === 'holding'
+    );
+  });
+  
+  if (holdings.length === 0) {
+    container.style.display = 'none';
+    emptyState.style.display = 'flex';
+    return;
+  }
+  
+  container.style.display = 'grid';
+  emptyState.style.display = 'none';
+  
+  const html = holdings.map(ticker => {
+    const briefTicker = (briefData.tickers || []).find(t => t.symbol === ticker.symbol);
+    const name = briefTicker ? briefTicker.name : '';
+    
+    // Get latest price from 1M series
+    let priceHtml = '';
+    let changeHtml = '';
+    let sparklineData = [];
+    
+    if (ticker.prices['1M'] && ticker.prices['1M'].length > 0) {
+      const prices = ticker.prices['1M'];
+      const latest = prices[prices.length - 1].close;
+      const currency = getCurrencySymbol(ticker.symbol, ticker.exchange);
+      priceHtml = `<div class="portfolio-price">${currency}${latest.toFixed(2)}</div>`;
+      
+      // Calculate 1D change if we have at least 2 data points
+      if (prices.length >= 2) {
+        const previous = prices[prices.length - 2].close;
+        const change = ((latest - previous) / previous * 100).toFixed(2);
+        const isPositive = change >= 0;
+        changeHtml = `<div class="portfolio-change ${isPositive ? 'up' : 'down'}">${isPositive ? '+' : ''}${change}%</div>`;
+      }
+      
+      // Get sparkline data (last 10 points)
+      sparklineData = prices.slice(-10).map(p => p.close);
+    }
+    
+    // Generate sparkline SVG
+    let sparklineHtml = '';
+    if (sparklineData.length > 1) {
+      const min = Math.min(...sparklineData);
+      const max = Math.max(...sparklineData);
+      const range = max - min || 1;
+      const width = 80;
+      const height = 24;
+      
+      const points = sparklineData.map((value, i) => {
+        const x = (i / (sparklineData.length - 1)) * width;
+        const y = height - ((value - min) / range) * height;
+        return `${x},${y}`;
+      }).join(' ');
+      
+      const isUp = sparklineData[sparklineData.length - 1] >= sparklineData[0];
+      const color = isUp ? '#2EE6D6' : '#ef4444';
+      
+      sparklineHtml = `
+        <svg class="portfolio-sparkline" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none">
+          <polyline points="${points}" fill="none" stroke="${color}" stroke-width="2" />
+        </svg>
+      `;
+    }
+    
+    return `
+      <div class="portfolio-item" data-ticker="${ticker.symbol}">
+        <div class="portfolio-header">
+          <div class="portfolio-symbol">${ticker.symbol}</div>
+          ${name ? `<div class="portfolio-name">${name}</div>` : ''}
+        </div>
+        <div class="portfolio-stats">
+          <div class="portfolio-price-group">
+            ${priceHtml}
+            ${changeHtml}
+          </div>
+          ${sparklineHtml}
+        </div>
+      </div>
+    `;
+  }).join('');
+  
+  container.innerHTML = html;
+  
+  // Add click handlers to open ticker drawer
+  container.querySelectorAll('.portfolio-item').forEach(item => {
+    item.addEventListener('click', () => {
+      const ticker = item.dataset.ticker;
+      openTicker(ticker);
+    });
+  });
 }
 
 // Render Market Charts
