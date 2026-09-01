@@ -716,6 +716,27 @@ function renderTechNewsList() {
       `<button class="tech-news-ticker-chip" data-ticker="${ticker}">${ticker}</button>`
     ).join('');
     
+    // Build insight block if impact or newbieTake exists
+    let insightBlockHtml = '';
+    if (item.impact || item.newbieTake) {
+      insightBlockHtml = `
+        <div class="tech-news-insight">
+          ${item.impact ? `
+            <div class="insight-item">
+              <div class="insight-label">市場含義</div>
+              <div class="insight-text">${item.impact}</div>
+            </div>
+          ` : ''}
+          ${item.newbieTake ? `
+            <div class="insight-item">
+              <div class="insight-label">新手點睇</div>
+              <div class="insight-text">${item.newbieTake}</div>
+            </div>
+          ` : ''}
+        </div>
+      `;
+    }
+    
     return `
       <div class="tech-news-item">
         <div class="tech-news-header">
@@ -724,6 +745,7 @@ function renderTechNewsList() {
         </div>
         <h3 class="tech-news-title">${item.title}</h3>
         <p class="tech-news-summary">${item.summary}</p>
+        ${insightBlockHtml}
         <div class="tech-news-footer">
           <div class="tech-news-tickers">
             ${tickerChipsHtml}
