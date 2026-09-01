@@ -436,13 +436,13 @@ function renderUI() {
 // Render Watchlist Chips
 function renderWatchlistChips() {
   const container = document.getElementById('watchlistChips');
-  const tickerMeta = briefData.tickers || [];
+  const watchlistTickers = watchlistData.tickers || [];
   
-  const html = tickerMeta.slice(0, 7).map(ticker => {
-    const watchlistTicker = watchlistData.tickers.find(t => t.symbol === ticker.symbol);
+  const html = watchlistTickers.map(watchlistTicker => {
+    const briefTicker = (briefData.tickers || []).find(t => t.symbol === watchlistTicker.symbol);
     let changeHtml = '';
     
-    if (watchlistTicker && watchlistTicker.prices['1M'].length >= 2) {
+    if (watchlistTicker.prices['1M'].length >= 2) {
       const prices = watchlistTicker.prices['1M'];
       const latest = prices[prices.length - 1].close;
       const previous = prices[prices.length - 2].close;
@@ -453,8 +453,8 @@ function renderWatchlistChips() {
     }
     
     return `
-      <button class="chip" data-ticker="${ticker.symbol}">
-        ${ticker.symbol}
+      <button class="chip" data-ticker="${watchlistTicker.symbol}">
+        ${watchlistTicker.symbol}
         ${changeHtml}
       </button>
     `;
@@ -514,7 +514,7 @@ function renderConceptChips() {
   const container = document.getElementById('conceptChips');
   const concepts = briefData.concepts || [];
   
-  const html = concepts.slice(0, 6).map(concept => `
+  const html = concepts.map(concept => `
     <button class="chip concept" data-concept-id="${concept.id}">
       ${concept.title}
     </button>
