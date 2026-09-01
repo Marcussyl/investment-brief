@@ -1388,39 +1388,41 @@ function openTickerInPanel(symbol) {
   ` : '';
   
   const html = `
-    <div class="sheet-ticker-header">
-      <div class="sheet-ticker-info">
-        <h2>${tickerMeta.nameCn || symbol}</h2>
-        <div class="sheet-ticker-code">${symbol}</div>
-        <div class="sheet-ticker-exchange">${tickerMeta.exchange}</div>
+    <div class="right-panel-body">
+      <div class="sheet-ticker-header">
+        <div class="sheet-ticker-info">
+          <h2>${tickerMeta.nameCn || symbol}</h2>
+          <div class="sheet-ticker-code">${symbol}</div>
+          <div class="sheet-ticker-exchange">${tickerMeta.exchange}</div>
+        </div>
+        <span class="sheet-role-pill">${roleLabels[tickerMeta.role] || tickerMeta.role}</span>
       </div>
-      <span class="sheet-role-pill">${roleLabels[tickerMeta.role] || tickerMeta.role}</span>
-    </div>
-    
-    ${hasData ? `<div class="sheet-price">${currencySymbol}${latestPrice.toFixed(2)}</div>` : ''}
-    
-    ${hasData ? `
-      <div class="chart-container" id="panelChart" style="height: 200px; min-height: 200px; margin-bottom: 16px;"></div>
-      <div class="timeframe-selector" id="panelTimeframeSelector">
-        <button class="timeframe-btn active" data-period="1M">1M</button>
-        <button class="timeframe-btn" data-period="3M">3M</button>
-        <button class="timeframe-btn" data-period="1Y">1Y</button>
+      
+      ${hasData ? `<div class="sheet-price">${currencySymbol}${latestPrice.toFixed(2)}</div>` : ''}
+      
+      ${hasData ? `
+        <div class="chart-container" id="panelChart" style="height: 200px; min-height: 200px; margin-bottom: 16px;"></div>
+        <div class="timeframe-selector" id="panelTimeframeSelector">
+          <button class="timeframe-btn active" data-period="1M">1M</button>
+          <button class="timeframe-btn" data-period="3M">3M</button>
+          <button class="timeframe-btn" data-period="1Y">1Y</button>
+        </div>
+      ` : '<div class="chart-empty">無可用數據</div>'}
+      
+      ${storiesHtml}
+      
+      ${filingHtml}
+      
+      <div class="sheet-section">
+        <h3>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+            <polyline points="14 2 14 8 20 8"></polyline>
+          </svg>
+          筆記
+        </h3>
+        ${notionHtml}
       </div>
-    ` : '<div class="chart-empty">無可用數據</div>'}
-    
-    ${storiesHtml}
-    
-    ${filingHtml}
-    
-    <div class="sheet-section">
-      <h3>
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-          <polyline points="14 2 14 8 20 8"></polyline>
-        </svg>
-        筆記
-      </h3>
-      ${notionHtml}
     </div>
   `;
   
@@ -1548,50 +1550,52 @@ function openConceptInPanel(conceptId) {
   ` : '';
   
   const html = `
-    <div style="margin-bottom: 24px;">
-      <h2 style="font-family: var(--font-label); font-size: 1.5rem; font-weight: 700; margin-bottom: 8px;">
-        ${concept.title}
-      </h2>
-      <div style="font-size: 0.875rem; color: var(--on-surface-variant);">${concept.titleEn}</div>
-    </div>
-    
-    <div class="sheet-section">
-      <h3>它是什麼？</h3>
-      <p style="color: var(--on-surface); line-height: 1.6;">${concept.what}</p>
-    </div>
-    
-    <div class="sheet-section">
-      <h3>新手點解要理？</h3>
-      <p style="color: var(--on-surface); line-height: 1.6;">${concept.whyItMatters}</p>
-    </div>
-    
-    <div class="sheet-section">
-      <h3>今天邊度出現？</h3>
-      <p style="color: var(--on-surface); line-height: 1.6;">${concept.whereToday}</p>
-    </div>
-    
-    ${concept.whatToWatch ? `
-      <div class="sheet-section">
-        <h3>接下來睇什麼？</h3>
-        <p style="color: var(--on-surface); line-height: 1.6;">${concept.whatToWatch}</p>
+    <div class="right-panel-body">
+      <div style="margin-bottom: 24px;">
+        <h2 style="font-family: var(--font-label); font-size: 1.5rem; font-weight: 700; margin-bottom: 8px;">
+          ${concept.title}
+        </h2>
+        <div style="font-size: 0.875rem; color: var(--on-surface-variant);">${concept.titleEn}</div>
       </div>
-    ` : ''}
-    
-    ${relatedChipsHtml ? `
+      
       <div class="sheet-section">
-        <h3>相關名稱</h3>
-        ${relatedChipsHtml}
+        <h3>它是什麼？</h3>
+        <p style="color: var(--on-surface); line-height: 1.6;">${concept.what}</p>
       </div>
-    ` : ''}
-    
-    ${notionHtml ? `
+      
       <div class="sheet-section">
-        ${notionHtml}
+        <h3>新手點解要理？</h3>
+        <p style="color: var(--on-surface); line-height: 1.6;">${concept.whyItMatters}</p>
       </div>
-    ` : ''}
-    
-    <div style="margin-top: 24px; padding: 16px; background: var(--warning-container); border-radius: 12px; font-size: 0.875rem;">
-      <strong>非投資建議</strong> · 本簡報僅供參考，唔構成買賣建議。
+      
+      <div class="sheet-section">
+        <h3>今天邊度出現？</h3>
+        <p style="color: var(--on-surface); line-height: 1.6;">${concept.whereToday}</p>
+      </div>
+      
+      ${concept.whatToWatch ? `
+        <div class="sheet-section">
+          <h3>接下來睇什麼？</h3>
+          <p style="color: var(--on-surface); line-height: 1.6;">${concept.whatToWatch}</p>
+        </div>
+      ` : ''}
+      
+      ${relatedChipsHtml ? `
+        <div class="sheet-section">
+          <h3>相關名稱</h3>
+          ${relatedChipsHtml}
+        </div>
+      ` : ''}
+      
+      ${notionHtml ? `
+        <div class="sheet-section">
+          ${notionHtml}
+        </div>
+      ` : ''}
+      
+      <div style="margin-top: 24px; padding: 16px; background: var(--warning-container); border-radius: 12px; font-size: 0.875rem;">
+        <strong>非投資建議</strong> · 本簡報僅供參考，唔構成買賣建議。
+      </div>
     </div>
   `;
   
@@ -1607,7 +1611,7 @@ function showSheet(content) {
   const scrim = document.getElementById('sheetScrim');
   const sheetContent = document.getElementById('sheetContent');
   
-  sheetContent.innerHTML = content;
+  sheetContent.innerHTML = `<div class="sheet-content-body">${content}</div>`;
   
   scrim.classList.add('active');
   sheet.classList.add('active');
@@ -1658,7 +1662,7 @@ function openStoryInPanel(storyId) {
     const panel = document.getElementById('rightPanel');
     const contentLayout = document.querySelector('.content-layout');
     
-    panel.innerHTML = renderStoryContent(story);
+    panel.innerHTML = `<div class="right-panel-body">${renderStoryContent(story)}</div>`;
     panel.classList.add('has-content');
     contentLayout.classList.add('panel-active');
   } else {
