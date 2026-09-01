@@ -17,7 +17,6 @@ document.addEventListener('DOMContentLoaded', async () => {
   initTheme();
   initNavigation();
   initUpdateButton();
-  initSettingsModal();
   initAlertClose();
   await loadSiteData();
   renderUI();
@@ -252,111 +251,7 @@ function initAlertClose() {
 }
 
 // Webhook credentials (localStorage)
-function getWebhookConfig() {
-  try {
-    const url = localStorage.getItem('ib_refresh_webhook_url');
-    const auth = localStorage.getItem('ib_refresh_webhook_auth');
-    
-    // If custom URL is set, use it (requires auth)
-    if (url && url.trim()) {
-      if (!auth || !auth.trim()) {
-        console.warn('Custom webhook URL set but auth missing');
-        return null;
-      }
-      return { url: url.trim(), auth: auth.trim() };
-    }
-    
-    // Otherwise use built-in Vercel proxy (no auth needed from browser)
-    return { url: DEFAULT_REFRESH_PROXY, auth: null };
-  } catch (e) {
-    console.error('Failed to read webhook config:', e);
-    // Fallback to proxy on error
-    return { url: DEFAULT_REFRESH_PROXY, auth: null };
-  }
-}
-
-function setWebhookConfig(url, auth) {
-  try {
-    if (!url || !auth) {
-      clearWebhookConfig();
-      return;
-    }
-    localStorage.setItem('ib_refresh_webhook_url', url.trim());
-    localStorage.setItem('ib_refresh_webhook_auth', auth.trim());
-  } catch (e) {
-    console.error('Failed to save webhook config:', e);
-  }
-}
-
-function clearWebhookConfig() {
-  try {
-    localStorage.removeItem('ib_refresh_webhook_url');
-    localStorage.removeItem('ib_refresh_webhook_auth');
-  } catch (e) {
-    console.error('Failed to clear webhook config:', e);
-  }
-}
-
-// Settings modal
-function openSettingsModal() {
-  const modal = document.getElementById('settingsModal');
-  const scrim = document.getElementById('settingsScrim');
-  const urlInput = document.getElementById('webhookUrl');
-  const authInput = document.getElementById('webhookAuth');
-  
-  // Show custom settings if set, otherwise leave empty (indicates using built-in proxy)
-  const customUrl = localStorage.getItem('ib_refresh_webhook_url') || '';
-  const customAuth = localStorage.getItem('ib_refresh_webhook_auth') || '';
-  
-  urlInput.value = customUrl;
-  authInput.value = customAuth;
-  
-  scrim.classList.add('active');
-  modal.classList.add('active');
-  document.body.style.overflow = 'hidden';
-}
-
-function closeSettingsModal() {
-  const modal = document.getElementById('settingsModal');
-  const scrim = document.getElementById('settingsScrim');
-  
-  scrim.classList.remove('active');
-  modal.classList.remove('active');
-  document.body.style.overflow = '';
-}
-
-function saveSettings() {
-  const urlInput = document.getElementById('webhookUrl');
-  const authInput = document.getElementById('webhookAuth');
-  
-  const url = urlInput.value.trim();
-  const auth = authInput.value.trim();
-  
-  // If both empty, use built-in proxy (clear custom config)
-  if (!url && !auth) {
-    clearWebhookConfig();
-    closeSettingsModal();
-    showAlert('將使用內置 proxy', 'success');
-    return;
-  }
-  
-  // If setting custom webhook, both URL and auth are required
-  if (!url || !auth) {
-    showAlert('自訂 webhook 需要 URL 同 Authorization，或兩者都留空使用內置 proxy', 'error');
-    return;
-  }
-  
-  setWebhookConfig(url, auth);
-  closeSettingsModal();
-  showAlert('自訂設定已儲存', 'success');
-}
-
-function clearSettings() {
-  clearWebhookConfig();
-  document.getElementById('webhookUrl').value = '';
-  document.getElementById('webhookAuth').value = '';
-  showAlert('設定已清除', 'info');
-}
+// Webhook always uses same-origin Vercel proxy (no browser config needed)
 
 function setUpdateButtonLoading(isLoading) {
   const btn = document.getElementById('updateBtn');
@@ -370,34 +265,27 @@ function setUpdateButtonLoading(isLoading) {
   }
 }
 
-async function triggerWebhook(url, auth) {
+async function triggerWebhook() {
   try {
-    const headers = {
-      'Content-Type': 'application/json'
-    };
-    
-    // Only add Authorization header if auth is provided (custom webhook)
-    // Built-in proxy doesn't need auth from browser (holds secrets server-side)
-    if (auth) {
-      const authHeader = auth.startsWith('Bearer ') || auth.startsWith('Key ') 
-        ? auth 
-        : `Bearer ${auth}`;
-      headers['Authorization'] = authHeader;
-    }
-    
-    const res = await fetch(url, {
+    const res = await fetch(DEFAULT_REFRESH_PROXY, {
       method: 'POST',
-      headers,
+      headers: {
+        'Content-Type': 'application/json'
+      },
       body: JSON.stringify({ source: 'investment-brief-update-btn' })
     });
     
     if (!res.ok) {
       let detail = `HTTP ${res.status}`;
       try {
-        const text = await res.text();
-        if (text && text.length < 200) detail += `: ${text}`;
+        const body = await res.json();
+        if (body && body.message) {
+          detail = body.message;
+        } else if (body && body.error) {
+          detail = body.error;
+        }
       } catch (e) {
-        // ignore body read error
+        // ignore JSON parse error
       }
       return { ok: false, status: res.status, detail };
     }
@@ -405,15 +293,7 @@ async function triggerWebhook(url, auth) {
     return { ok: true };
   } catch (error) {
     console.error('Webhook failed:', error);
-    const isCorsError = error.message && (
-      error.message.includes('Failed to fetch') ||
-      error.message.includes('NetworkError') ||
-      error.message.includes('CORS')
-    );
-    const detail = isCorsError 
-      ? 'CORS error (browser blocked). Use built-in proxy or check webhook URL.'
-      : (error.message || 'Network error');
-    return { ok: false, detail };
+    return { ok: false, detail: error.message || 'Network error' };
   }
 }
 
@@ -421,21 +301,28 @@ async function refreshSiteData() {
   const btn = document.getElementById('updateBtn');
   if (btn && btn.disabled) return;
 
-  const config = getWebhookConfig();
-  // config always exists (either custom or built-in proxy)
-
   setUpdateButtonLoading(true);
   showAlert('同步中…', 'info');
 
   try {
-    const result = await triggerWebhook(config.url, config.auth);
+    const result = await triggerWebhook();
     
     if (!result.ok) {
-      const statusInfo = result.status ? `HTTP ${result.status}` : result.detail || '未知錯誤';
-      const isCors = result.detail && result.detail.includes('CORS');
-      const message = isCors
-        ? `Webhook 失敗（CORS）。瀏覽器無法直接調用 Cursor webhook。請確保使用內置 proxy（清空設置），或配置支援 CORS 嘅自訂 webhook。`
-        : `Webhook 失敗（${statusInfo}）。如使用自訂 URL，請檢查 ⚙️ URL／Authorization 同 On-demand site refresh 例行工作一致。`;
+      let message = '同步失敗，請稍後再試。';
+      
+      // Check for 500 server configuration error
+      if (result.status === 500 && result.detail) {
+        if (result.detail.includes('not configured') || result.detail.includes('configuration error')) {
+          message = 'Webhook 未配置。請聯絡管理員在 Vercel 設定 REFRESH_WEBHOOK_URL 同 REFRESH_WEBHOOK_AUTH 環境變量。';
+        } else {
+          message = `伺服器錯誤（${result.detail}）。`;
+        }
+      } else if (result.status) {
+        message = `Webhook 失敗（HTTP ${result.status}）。${result.detail || ''}`;
+      } else if (result.detail) {
+        message = `網絡錯誤：${result.detail}`;
+      }
+      
       showAlert(message, 'error');
       setUpdateButtonLoading(false);
       return;
@@ -465,48 +352,6 @@ function initUpdateButton() {
   if (!btn) return;
   btn.addEventListener('click', () => {
     refreshSiteData();
-  });
-}
-
-function initSettingsModal() {
-  const settingsBtn = document.getElementById('settingsBtn');
-  const settingsClose = document.getElementById('settingsClose');
-  const settingsScrim = document.getElementById('settingsScrim');
-  const saveBtn = document.getElementById('saveSettings');
-  const clearBtn = document.getElementById('clearSettings');
-  const cancelBtn = document.getElementById('cancelSettings');
-  
-  if (settingsBtn) {
-    settingsBtn.addEventListener('click', openSettingsModal);
-  }
-  
-  if (settingsClose) {
-    settingsClose.addEventListener('click', closeSettingsModal);
-  }
-  
-  if (settingsScrim) {
-    settingsScrim.addEventListener('click', closeSettingsModal);
-  }
-  
-  if (saveBtn) {
-    saveBtn.addEventListener('click', saveSettings);
-  }
-  
-  if (clearBtn) {
-    clearBtn.addEventListener('click', clearSettings);
-  }
-  
-  if (cancelBtn) {
-    cancelBtn.addEventListener('click', closeSettingsModal);
-  }
-  
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') {
-      const modal = document.getElementById('settingsModal');
-      if (modal && modal.classList.contains('active')) {
-        closeSettingsModal();
-      }
-    }
   });
 }
 
