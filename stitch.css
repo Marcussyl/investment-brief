@@ -1755,16 +1755,11 @@ body {
 }
 
 .analysis-card {
-  background: var(--surface-container-low);
+  background: var(--surface);
   border: 1px solid var(--outline-variant);
-  border-radius: var(--radius-m);
+  border-radius: var(--radius-card);
   padding: 20px;
   margin-bottom: 16px;
-}
-
-[data-theme="dark"] .analysis-card {
-  background: var(--surface-container);
-  border-color: var(--outline);
 }
 
 .analysis-card-title {
