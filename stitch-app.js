@@ -442,10 +442,44 @@ function updateDateLabel() {
   dateLabels[0].textContent = `${year}年${month}月${day}日`;
 }
 
+// Render Audio Player
+function renderAudioPlayer() {
+  const container = document.getElementById('audioBriefPlayer');
+  const audioElement = document.getElementById('audioBriefElement');
+  
+  if (!container || !audioElement) return;
+  
+  const audioUrl = briefData.audioUrl;
+  
+  if (!audioUrl) {
+    // No audio URL, hide player
+    container.style.display = 'none';
+    return;
+  }
+  
+  // Check if audio file exists by trying to fetch it
+  fetch(audioUrl, { method: 'HEAD' })
+    .then(response => {
+      if (response.ok) {
+        // Audio file exists, show player
+        audioElement.src = audioUrl;
+        container.style.display = 'block';
+      } else {
+        // Audio file not found, hide player
+        container.style.display = 'none';
+      }
+    })
+    .catch(() => {
+      // Network error or file not found, hide player
+      container.style.display = 'none';
+    });
+}
+
 // Render UI
 function renderUI() {
   if (!briefData || !watchlistData) return;
   
+  renderAudioPlayer();
   renderWatchlistChips();
   renderConceptChips();
   renderStories();

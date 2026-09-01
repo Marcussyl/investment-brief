@@ -20,7 +20,42 @@ Marcus's daily investment brief for HK retail investors. This site provides:
 
 ## Features
 
-### 1. Expanded News (Story Cards)
+### 1. Morning Brief Audio (今日口播)
+
+Each day's brief can include a pre-generated MP3 audio narration in Traditional Chinese. When available, an HTML5 audio player appears at the top of the 今日焦點 view.
+
+**Audio Generation:**
+- Path convention: `data/audio/YYYY-MM-DD.mp3` (audio file) and `data/audio/YYYY-MM-DD.txt` (spoken script for debugging)
+- Script: `scripts/generate-brief-audio.py [YYYY-MM-DD]`
+- TTS: Azure Cognitive Services Speech (primary) or edge-tts (fallback)
+- Voice: `zh-TW-HsiaoChenNeural` (Taiwan Mandarin female)
+- Content: Date intro + each story (title, summary, whyItMatters, whatToWatch)
+- Length: Capped at ~2500-3500 characters (~3-4 minutes)
+
+**Environment Variables (for Azure TTS):**
+- `AZURE_SPEECH_KEY` - Azure Speech service key
+- `AZURE_SPEECH_REGION` - Azure region (e.g., `eastasia`)
+
+If Azure env vars are missing, the script automatically falls back to edge-tts (free, no auth required).
+
+**Brief JSON Schema:**
+```json
+{
+  "date": "YYYY-MM-DD",
+  "audioUrl": "data/audio/YYYY-MM-DD.mp3",
+  "audioScriptChars": 2847,
+  "audioVoice": "zh-TW-HsiaoChenNeural",
+  "stories": [...]
+}
+```
+
+If `audioUrl` is missing or the file doesn't exist, the player is hidden gracefully (no broken UI).
+
+**Retention:**
+- Keep last ~60 days of audio in repo (prune older files as needed)
+- Do NOT commit large unrelated binaries
+
+### 2. Expanded News (Story Cards)
 
 Stories are shown as cards on the home screen. Tap to open a bottom sheet with:
 - 發生了什麼？(What happened)
@@ -78,7 +113,18 @@ Bottom navigation: 今日重點 / 市場動態 / 投資組合 / 專業術語
 3. **Update watchlist:** `data/watchlist.json` (optional, refresh prices)
 4. **Update tech news:** `data/tech-news.json` (optional, daily tech digest)
 5. **Update portfolio analysis:** `data/portfolio-analysis.json` (optional, when holdings change)
-6. **Push to main:** `git push origin main` → Vercel auto-deploys (production + GitHub Pages if enabled)
+6. **Generate audio (optional):**
+   ```bash
+   # Using Azure (preferred):
+   export AZURE_SPEECH_KEY='your-key'
+   export AZURE_SPEECH_REGION='eastasia'
+   python scripts/generate-brief-audio.py
+
+   # Or using edge-tts (fallback):
+   pip install edge-tts
+   python scripts/generate-brief-audio.py
+   ```
+7. **Push to main:** `git push origin main` → Vercel auto-deploys (production + GitHub Pages if enabled)
 
 ### Cache Busting
 
@@ -153,6 +199,9 @@ If you need to override the built-in proxy:
 ```json
 {
   "date": "YYYY-MM-DD",
+  "audioUrl": "data/audio/YYYY-MM-DD.mp3" (optional),
+  "audioScriptChars": 2847 (optional),
+  "audioVoice": "zh-TW-HsiaoChenNeural" (optional),
   "stories": [
     {
       "id": "unique-story-id",
