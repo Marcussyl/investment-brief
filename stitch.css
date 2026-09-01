@@ -458,7 +458,7 @@ body {
 
 @media (min-width: 1024px) {
   .content-layout {
-    padding: 0 var(--margin-mobile);
+    padding: 24px var(--margin-mobile);
     display: grid;
     gap: 24px;
   }
@@ -1625,8 +1625,8 @@ body {
 /* Right Panel (Desktop) */
 .right-panel {
   position: sticky;
-  top: 76px;
-  height: calc(100vh - 92px);
+  top: 100px;
+  height: calc(100vh - 124px);
   background: var(--surface);
   border: 1px solid var(--outline-variant);
   border-radius: var(--radius-card);
