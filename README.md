@@ -2,8 +2,7 @@
 
 Visual weekday investment news brief with charts, hosted on Vercel. Traditional Chinese UI with dark/light theme toggle.
 
-**Live Site:** https://investment-brief.vercel.app/ (Vercel primary)  
-**Legacy:** https://marcussyl.github.io/investment-brief/ (GitHub Pages, optional)
+**Live Site:** https://investment-brief.vercel.app/
 
 ## Overview
 
@@ -124,7 +123,7 @@ Bottom navigation: 今日重點 / 市場動態 / 投資組合 / 專業術語
    pip install edge-tts
    python scripts/generate-brief-audio.py
    ```
-7. **Push to main:** `git push origin main` → Vercel auto-deploys (production + GitHub Pages if enabled)
+7. **Push to main:** `git push origin main` → Vercel auto-deploys
 
 ### Cache Busting
 
@@ -402,11 +401,11 @@ Current tickers tracked:
 
 - **Frontend:** Static HTML, CSS, JavaScript (no build process)
 - **Charts:** Chart.js 4.4.0 (CDN)
-- **Hosting:** Vercel (primary), GitHub Pages (optional/legacy)
+- **Hosting:** Vercel
 - **API:** Vercel Serverless Functions (`/api/refresh` - CORS proxy for webhook)
 - **Data:** JSON files (static, pushed to git)
 - **Theme:** Dark/light with system default, persisted in localStorage
-- **Base Path:** `/` (root deploy on Vercel; GitHub Pages uses `/investment-brief/` if enabled)
+- **Base Path:** `/` (root deploy)
 
 ## Local Development
 
@@ -466,7 +465,7 @@ Price data is fetched from Yahoo Finance using the `fetch_market_data.py` script
 
 ## Deployment
 
-### Vercel (Primary - Recommended)
+### Vercel
 
 1. **Import repo** at [vercel.com](https://vercel.com)
 2. **Set environment variables:**
@@ -477,15 +476,6 @@ Price data is fetched from Yahoo Finance using the `fetch_market_data.py` script
 4. **Access** - `https://investment-brief.vercel.app/` or custom domain
 
 Pushing to `main` triggers automatic redeployment (~30s).
-
-### GitHub Pages (Legacy - Optional)
-
-1. Enable Pages: repo Settings → Pages → Source: `main` branch, root `/`
-2. **Note:** Requires `<base href="/investment-brief/">` in `index.html` if using project site
-3. Access: `https://marcussyl.github.io/investment-brief/`
-4. **Limitation:** Cannot use `/api/refresh` proxy (GitHub Pages doesn't support serverless functions)
-
-For full functionality (Update button), use Vercel deployment.
 
 ## License
 

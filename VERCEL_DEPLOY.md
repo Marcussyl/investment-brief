@@ -83,20 +83,6 @@ If you want to use a custom domain (e.g., `brief.marcussyl.com`):
    - Visit custom domain
    - Test Update button
 
-### 6. Update GitHub Pages (Optional)
-
-If you want to keep GitHub Pages as a fallback:
-
-1. Restore base path in `index.html`:
-   ```html
-   <base href="/investment-brief/">
-   ```
-2. Push to `main`
-3. GitHub Pages will use `/investment-brief/` path
-4. **Note:** Update button won't work on GitHub Pages (no API support)
-
-**Recommended:** Disable GitHub Pages and use Vercel exclusively for full functionality.
-
 ## Troubleshooting
 
 ### Update button shows「Webhook 失敗」
@@ -162,7 +148,6 @@ No user credentials needed (proxy holds secrets server-side).
 - [ ] API endpoint `/api/refresh` responds (test with curl)
 - [ ] Update button works (triggers webhook, reloads data)
 - [ ] Custom domain configured (optional)
-- [ ] GitHub Pages disabled or kept as legacy fallback (optional)
 
 ## Support
 

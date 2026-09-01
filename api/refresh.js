@@ -6,7 +6,7 @@ export default async function handler(req, res) {
   const origin = req.headers.origin;
   
   // Determine allowed origin
-  let allowOrigin = 'https://marcussyl.github.io'; // fallback
+  let allowOrigin = 'https://investment-brief.vercel.app'; // fallback
   
   if (origin) {
     // Allow Vercel deployments (*.vercel.app)
@@ -19,10 +19,6 @@ export default async function handler(req, res) {
     }
     // Allow localhost development
     else if (origin.startsWith('http://localhost') || origin.startsWith('http://127.0.0.1')) {
-      allowOrigin = origin;
-    }
-    // Allow GitHub Pages (transition)
-    else if (origin === 'https://marcussyl.github.io') {
       allowOrigin = origin;
     }
   }
