@@ -1134,10 +1134,15 @@ body {
   }
 }
 
+.sheet-topbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 8px 8px 0 8px;
+  flex-shrink: 0;
+}
+
 .sheet-close {
-  position: absolute;
-  top: 12px;
-  right: 12px;
   width: 44px;
   height: 44px;
   min-width: 44px;
@@ -1151,7 +1156,6 @@ body {
   cursor: pointer;
   color: var(--on-surface);
   transition: all var(--duration-quick) var(--easing);
-  z-index: 2;
   flex-shrink: 0;
 }
 
