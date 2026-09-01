@@ -482,6 +482,7 @@ function renderUI() {
   renderAudioPlayer();
   renderWatchlistChips();
   renderConceptChips();
+  renderAudioPlayer();
   renderStories();
   renderTechNews();
   renderPortfolio();
@@ -590,6 +591,38 @@ function formatBriefDate(dateString) {
   const month = date.getMonth() + 1;
   const day = date.getDate();
   return `${month}月${day}日`;
+}
+
+// Render Audio Player
+function renderAudioPlayer() {
+  const audioPlayerContainer = document.getElementById('audioPlayerContainer');
+  if (!audioPlayerContainer) return;
+  
+  const audioUrl = briefData.audioUrl;
+  
+  if (!audioUrl) {
+    audioPlayerContainer.style.display = 'none';
+    audioPlayerContainer.innerHTML = '';
+    return;
+  }
+  
+  audioPlayerContainer.style.display = 'block';
+  audioPlayerContainer.innerHTML = `
+    <div class="audio-player-wrapper">
+      <div class="audio-player-header">
+        <svg class="audio-player-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M9 18V5l12-2v13"></path>
+          <circle cx="6" cy="18" r="3"></circle>
+          <circle cx="18" cy="16" r="3"></circle>
+        </svg>
+        <span class="audio-player-label">今日口播</span>
+      </div>
+      <audio class="audio-player" controls preload="metadata">
+        <source src="${audioUrl}" type="audio/mpeg">
+        您的瀏覽器不支持音頻播放。
+      </audio>
+    </div>
+  `;
 }
 
 // Render Stories
