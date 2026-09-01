@@ -310,11 +310,13 @@ Newest first. Site displays in reverse chronological order.
   "items": [
     {
       "title": "Traditional Chinese headline",
-      "summary": "1–2 sentence summary",
+      "summary": "1–2 sentence summary (factual what-happened)",
       "source": "科技新報|T客邦|電子時報|iThome|Reuters|CNBC|NVIDIA Newsroom|...",
       "date": "YYYY-MM-DD",
       "url": "https://...",
-      "tickers": ["NVDA", "1810.HK"] or []
+      "tickers": ["NVDA", "1810.HK"] or [],
+      "impact": "1–2 sentences: market/sector/narrative implication (Traditional Chinese, educational tone, 可能/市場關注 phrasing)",
+      "newbieTake": "1 sentence: what a newbie can watch next (filing, peer print, data point) — never buy/sell advice"
     }
   ]
 }
@@ -328,6 +330,11 @@ Newest first. Site displays in reverse chronological order.
 - Shown in 市場動態 (Market) tab as Google News-style digest
 - Ticker chips open the per-name drawer
 - Overwrite entire file daily from automation (8:18 AM weekday job)
+- **New schema fields (2026-09-01):**
+  - `impact` (optional): 1–2 sentences explaining general market/sector/narrative implication in Traditional Chinese. Use educational tone (可能／市場關注). Tie to Active watchlist tickers when relevant, otherwise sector-level.
+  - `newbieTake` (optional): 1 sentence suggesting what a newbie can watch next (filing, peer print, data point). Never buy/sell advice.
+  - Keep existing `summary` as factual what-happened blurb.
+  - UI shows compact insight block below summary when fields exist; hides gracefully when absent.
 
 #### Portfolio Analysis (`data/portfolio-analysis.json`)
 
