@@ -1135,19 +1135,27 @@ body {
 }
 
 .sheet-handle {
-  width: 48px;
-  height: 4px;
-  background: var(--outline-variant);
-  border-radius: 2px;
-  margin: 12px auto 8px;
+  width: 100%;
+  min-height: 44px;
   flex-shrink: 0;
-  padding: 20px 0;
   cursor: grab;
   touch-action: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
 }
 
 .sheet-handle:active {
   cursor: grabbing;
+}
+
+.sheet-handle::after {
+  content: '';
+  width: 48px;
+  height: 4px;
+  background: var(--outline-variant);
+  border-radius: 2px;
 }
 
 .sheet-content {
