@@ -15,6 +15,8 @@ TICKERS = [
   'AMZN',
   'AAPL',
   'META',
+  'MSFT',
+  'TSLA',
   'SPCX',
   '1810.HK',
   '1398.HK',

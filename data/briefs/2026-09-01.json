@@ -280,6 +280,22 @@
       "lastFiling": null
     },
     {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "TSLA",
+      "nameCn": "特斯拉",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
       "symbol": "SPCX",
       "nameCn": "SpaceX",
       "exchange": "NASDAQ",
