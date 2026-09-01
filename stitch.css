@@ -1137,7 +1137,7 @@ body {
 .sheet-handle {
   width: 48px;
   height: 4px;
-  background: var(--outline-variant);
+  background: var(--accent);
   border-radius: 2px;
   margin: 12px auto 8px;
   flex-shrink: 0;
