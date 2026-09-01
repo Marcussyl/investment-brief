@@ -4,7 +4,7 @@
   "items": [
     {
       "title": "輝達聯發科深化合作，黃仁勳蔡力行解說 35 億美元可轉債",
-      "summary": "雙方 31 Aug 宣布擴大 AI 基建、邊緣運算與車用合作；輝達投資 35 億美元聯發科海外可轉債。科技新報轉述彭博專訪，黃仁勳否認「循環資助」。",
+      "summary": "輝達宣布以約 35 億美元認購聯發科海外可轉債，並深化 NVLink Fusion、邊緣 AI 與車用合作；黃仁勳與蔡力行接受專訪說明技術路線與資金用途。",
       "source": "科技新報",
       "date": "2026-09-01",
       "url": "https://finance.technews.tw/2026/09/01/nvidia-and-mediatek-deepen-cooperation/",
@@ -13,18 +13,38 @@
       ]
     },
     {
-      "title": "台積電揭 COUPE 藍圖：光源到 SOA 全整合，挑戰光學中介層",
-      "summary": "SEMICON Taiwan 2026 矽光子論壇上，台積電分享 COUPE 路徑，把光源、調變器與 SOA 做進封裝，目標進一步挑戰光學中介層。",
+      "title": "巴克萊：AI 公司每賺 100 美元，雲端巨頭抽走近四成",
+      "summary": "巴克萊報告指模型公司每創造約 100 美元收入，雲端供應商可抽走近四成；凸顯超大規模雲端在 AI 價值鏈的議價與抽成角色。",
       "source": "科技新報",
-      "date": "2026-08-31",
-      "url": "https://technews.tw/2026/08/31/tsmc-coupe-semicon-taiwan-2026/",
+      "date": "2026-09-01",
+      "url": "https://finance.technews.tw/2026/09/01/for-every-100-earned-by-model-companies-cloud-providers-take-nearly-40/",
       "tickers": [
-        "NVDA"
+        "GOOGL",
+        "MSFT",
+        "AMZN"
       ]
     },
     {
+      "title": "ChatGPT 廣告上線約 200 天，年化營收跑出 10 億美元",
+      "summary": "科技新報引述 ChatGPT 廣告業務上線約 200 天後，年化營收跑率已達約 10 億美元，顯示生成式 AI 消費端變現加速。",
+      "source": "科技新報",
+      "date": "2026-09-01",
+      "url": "https://technews.tw/2026/09/01/chatgpt-ads-reaches-1-billion-in-annualized-revenue-run-rate/",
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    {
+      "title": "台積電揭 COUPE 藍圖：光源到 SOA 全整合，挑戰光學中介層",
+      "summary": "台積電於 SEMICON Taiwan 揭示 COUPE 矽光子整合藍圖，涵蓋光源、調變器到 SOA，並瞄準光學中介層等先進互連方向。",
+      "source": "科技新報",
+      "date": "2026-08-31",
+      "url": "https://technews.tw/2026/08/31/tsmc-coupe-semicon-taiwan-2026/",
+      "tickers": []
+    },
+    {
       "title": "徐國晉：AI 資料中心「神經系統」是光學，矽光子將成光收發主流",
-      "summary": "台積電先進封裝技術發展副總在矽光子國際論壇指出，資料中心互連正由銅轉向光，矽光子可望成為光收發器主流。",
+      "summary": "產業高峰會指出 AI 資料中心互連瓶頸轉向光學；矽光子被視為下一波光收發與機櫃級互連的主流路徑之一。",
       "source": "科技新報",
       "date": "2026-08-31",
       "url": "https://technews.tw/2026/08/31/semi-tsmc-silicon-photonics-global-summit/",
@@ -33,38 +53,27 @@
       ]
     },
     {
-      "title": "ChatGPT 廣告上線約 200 天，年化營收跑出 10 億美元",
-      "summary": "科技新報引述：OpenAI 廣告年化營收達 10 億美元。屬第三方報道，非 OpenAI／NVIDIA 公告。",
+      "title": "SEMI：全球半導體產值 2030 年挑戰 2 兆美元，台灣靠垂直生態系卡位",
+      "summary": "SEMI 於 SEMICON Taiwan 指出全球半導體產值朝 2030 年約 2 兆美元邁進，並強調台灣垂直整合生態系的關鍵角色。",
       "source": "科技新報",
-      "date": "2026-09-01",
-      "url": "https://technews.tw/2026/09/01/chatgpt-ads-reaches-1-billion-in-annualized-revenue-run-rate/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "title": "巴克萊：AI 公司每賺 100 美元，雲端巨頭抽走近四成",
-      "summary": "報告指模型公司每賺 100 美元，約 35–40 美元落入 AWS、Azure、Google Cloud。第三方投行估算，非公司公告。",
-      "source": "科技新報",
-      "date": "2026-09-01",
-      "url": "https://finance.technews.tw/2026/09/01/for-every-100-earned-by-model-companies-cloud-providers-take-nearly-40/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "title": "Gemini Notebook 改以運算量計額度，每五小時重置",
-      "summary": "Google 將由 9 月 2 日起調整 Gemini Notebook 用量：按提示複雜度扣額，每 5 小時重置，另有每週上限。產品新聞，非財報。",
-      "source": "T客邦",
       "date": "2026-08-31",
-      "url": "https://www.techbang.com/posts/132769-gemini-notebook-new-usage-limits-5-hour-reset",
+      "url": "https://technews.tw/2026/08/31/semi-held-semicon-taiwan-2026/",
+      "tickers": []
+    },
+    {
+      "title": "全球智慧手機 Q2 出貨年減 8%，摺疊機成少數亮點",
+      "summary": "全球智慧手機第二季出貨年減約 8%，整體需求仍偏弱；摺疊機成少數仍具成長動能的產品線。",
+      "source": "科技新報",
+      "date": "2026-08-31",
+      "url": "https://technews.tw/2026/08/31/global-smartphone-shipments-decline-foldable-phones-emerge-as-key-bright-spot/",
       "tickers": [
-        "GOOGL"
+        "AAPL",
+        "1810.HK"
       ]
     },
     {
       "title": "傳輝達以約 70 億美元結構與 Poolside 合作開源模型",
-      "summary": "T客邦引述外媒：輝達擬注資並收購 Poolside 核心 IP、延攬約百名工程師強化 Nemotron。非 NVIDIA 公告，列第三方。",
+      "summary": "T客邦引述外媒，輝達擬以投資加技術／團隊收購結構與 Poolside 合作，強化自家開源 Nemotron 模型戰力。",
       "source": "T客邦",
       "date": "2026-08-31",
       "url": "https://www.techbang.com/posts/132618-nvidia-poolside-7-billion-open-source-ai",
@@ -73,33 +82,106 @@
       ]
     },
     {
-      "title": "全球智慧手機 Q2 出貨年減 8%，摺疊機成少數亮點",
-      "summary": "法人整理：今年 Q2 全球智慧手機出貨約 2.70 億部，年減及季減 8%；摺疊機被視為少數增長點。第三方數據，非品牌公司公告。",
-      "source": "科技新報",
-      "date": "2026-08-31",
-      "url": "https://technews.tw/2026/08/31/global-smartphone-shipments-decline-foldable-phones-emerge-as-key-bright-spot/",
-      "tickers": [
-        "1810.HK"
-      ]
-    },
-    {
-      "title": "TrendForce：2026 年智慧手機面板出貨估年減收窄至 2.5%",
-      "summary": "研調指記憶體短缺推高手機成本，但二手與維修需求支撐面板出貨，年減幅度估收斂至 2.5%。第三方，非小米公告。",
-      "source": "科技新報",
-      "date": "2026-08-31",
-      "url": "https://technews.tw/2026/08/31/global-smartphone-panel-shipments-annual-decline-narrows-2-5-2026-used-market-repair-demand-support/",
-      "tickers": [
-        "1810.HK"
-      ]
-    },
-    {
-      "title": "SEMI：全球半導體產值 2030 年挑戰 2 兆美元，台灣靠垂直生態系卡位",
-      "summary": "SEMICON Taiwan 2026 展前，SEMI 指產業正從單點技術走向生態系協作，並重申 2030 年產值展望。第三方協會說法。",
-      "source": "科技新報",
-      "date": "2026-08-31",
-      "url": "https://technews.tw/2026/08/31/semi-held-semicon-taiwan-2026/",
+      "title": "Nvidia's MediaTek investment signals a broader push to shape AI infrastructure",
+      "summary": "電子時報指輝達以約 35 億美元認購聯發科海外可轉債，不只是財務布局，也擴大其對 AI 基礎設施生態的影響力。",
+      "source": "電子時報",
+      "date": "2026-09-01",
+      "url": "https://www.digitimes.com/news/a20260901PD210/nvidia-mediatek-investment-infrastructure-partnership.html",
       "tickers": [
         "NVDA"
+      ]
+    },
+    {
+      "title": "Nvidia and MediaTek link AI technologies in bid to accelerate custom data center chip adoption",
+      "summary": "電子時報報導雙方擴大 AI 技術連結，聯發科約 39 億美元海外可轉債主要由輝達認購，目標加速客製化資料中心晶片落地。",
+      "source": "電子時報",
+      "date": "2026-09-01",
+      "url": "https://www.digitimes.com/news/a20260901PD211/nvidia-mediatek-data-center-adoption-partnership.html",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "title": "Nvidia targets HBM race with custom NVHBM, expands NVLink Fusion",
+      "summary": "電子時報指出，隨超大模型與代理式 AI 普及，瓶頸轉向運算、記憶體與互連的系統整合；輝達推客製 NVHBM 並擴大 NVLink Fusion。",
+      "source": "電子時報",
+      "date": "2026-08-31",
+      "url": "https://www.digitimes.com/news/a20260831PD231/nvidia-hbm-asic-infrastructure.html",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "title": "Nvidia's upbeat outlook points to tighter AI supply chains ahead",
+      "summary": "電子時報分析輝達最新財報與展望顯示 AI 需求仍遠高於供給，記憶體、電力、冷卻與網路等供應鏈壓力料續緊。",
+      "source": "電子時報",
+      "date": "2026-08-28",
+      "url": "https://www.digitimes.com/news/a20260828PD205/nvidia-ai-demand-earnings-forecast.html",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "title": "Nvidia財報出爐，Q2營收成長106%",
+      "summary": "iThome 報導輝達 2027 財年 Q2 營收約 962.2 億美元、年增約 106%，資料中心營收約 890 億美元；公司並給出偏強的下一季展望。",
+      "source": "iThome",
+      "date": "2026-08-27",
+      "url": "https://www.ithome.com.tw/news/178477",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "title": "Nvidia布局代理AI基礎設施，Vera CPU獲SpaceXAI採用、Groq晶片量產",
+      "summary": "iThome 報導 Hot Chips 上輝達宣布 Vera CPU 獲 SpaceXAI 採用於 Grok／衛星基礎設施，Groq 3 LPX 推理晶片亦進入量產。",
+      "source": "iThome",
+      "date": "2026-08-25",
+      "url": "https://www.ithome.com.tw/news/178419",
+      "tickers": [
+        "NVDA",
+        "SPCX"
+      ]
+    },
+    {
+      "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
+      "summary": "路透報導輝達投資約 35 億美元於聯發科可轉債，Alphabet 亦參與該發行案；合作核心含 NVLink Fusion 讓客製 AI 晶片接入輝達系統。",
+      "source": "Reuters",
+      "date": "2026-08-31",
+      "url": "https://www.reuters.com/world/asia-pacific/nvidia-invests-35-billion-mediatek-convertible-bonds-2026-08-31/",
+      "tickers": [
+        "NVDA",
+        "GOOGL"
+      ]
+    },
+    {
+      "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence",
+      "summary": "CNBC 報導輝達強勁財報提振 AI 信心，市值一日增加逾 4,000 億美元；管理層並重申需求強勁、供給仍是約束。",
+      "source": "CNBC",
+      "date": "2026-08-27",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
+      "summary": "輝達新聞稿宣布與聯發科深化雲端 AI 工廠、本地 AI 運算與車用合作，聯發科將採 NVLink Fusion，輝達並投資 35 億美元可轉債。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-08-31",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
+      "summary": "輝達與 AWS 宣布擴大合作，計劃於 2027–2028 再部署約 200 萬顆輝達 GPU，並導入 Vera CPU、NVLink Fusion／NVHBM 等下一世代基礎設施。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-08-26",
+      "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
+      "tickers": [
+        "NVDA",
+        "AMZN"
       ]
     }
   ]

@@ -207,7 +207,7 @@ Newest first. Site displays in reverse chronological order.
     {
       "title": "Traditional Chinese headline",
       "summary": "1–2 sentence summary",
-      "source": "科技新報|T客邦|...",
+      "source": "科技新報|T客邦|電子時報|iThome|Reuters|CNBC|NVIDIA Newsroom|...",
       "date": "YYYY-MM-DD",
       "url": "https://...",
       "tickers": ["NVDA", "1810.HK"] or []
@@ -217,8 +217,9 @@ Newest first. Site displays in reverse chronological order.
 ```
 
 **Tech News Rules:**
-- Only real articles from trusted tech sources (科技新報, T客邦, TechCrunch, etc.)
-- Complete URLs required (no placeholders)
+- Only real articles from trusted tech sources: 科技新報, T客邦, DigiTimes 電子時報, iThome, Reuters Tech, CNBC Tech, NVIDIA Newsroom (and other Active-watchlist IR when fresh)
+- Target about 12–20 on-topic items (semiconductors/foundry/packaging, AI/compute/data-center/GPUs, chips, smartphones, EVs, cloud hyperscalers, Active watchlist)
+- Complete URLs required (no placeholders); never invent headlines, numbers, or links
 - Can be empty array if no relevant news
 - Shown in 市場動態 (Market) tab as Google News-style digest
 - Ticker chips open the per-name drawer
