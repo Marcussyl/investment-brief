@@ -1141,6 +1141,13 @@ body {
   border-radius: 2px;
   margin: 12px auto 8px;
   flex-shrink: 0;
+  padding: 20px 0;
+  cursor: grab;
+  touch-action: none;
+}
+
+.sheet-handle:active {
+  cursor: grabbing;
 }
 
 .sheet-content {
