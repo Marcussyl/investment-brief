@@ -285,15 +285,6 @@
       "Role": "Holding"
     },
     {
-      "symbol": "MSFT",
-      "nameCn": "微軟",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": null,
-      "lastFiling": null,
-      "Role": "Research"
-    },
-    {
       "symbol": "NVDA",
       "nameCn": "英偉達",
       "exchange": "NASDAQ",
@@ -304,6 +295,51 @@
         "date": "2026-08-31",
         "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
       },
+      "Role": "Research"
+    },
+    {
+      "symbol": "AAPL",
+      "nameCn": "蘋果",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Research"
+    },
+    {
+      "symbol": "GOOGL",
+      "nameCn": "Alphabet",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Research"
+    },
+    {
+      "symbol": "AMZN",
+      "nameCn": "亞馬遜",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Research"
+    },
+    {
+      "symbol": "META",
+      "nameCn": "Meta",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Research"
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null,
       "Role": "Research"
     },
     {
