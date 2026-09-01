@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   initNavigation();
   initUpdateButton();
   initSettingsModal();
+  initAlertClose();
   await loadSiteData();
   renderUI();
   setupEventListeners();
@@ -174,7 +175,24 @@ function showAlert(message, type = 'info') {
   const alert = document.getElementById('alert');
   if (!alert) return;
 
-  alert.textContent = message;
+  const titleEl = alert.querySelector('.alert-title');
+  const messageEl = alert.querySelector('.alert-message');
+  
+  if (!titleEl || !messageEl) return;
+
+  // Set title based on type
+  let title = '提示';
+  if (type === 'success') {
+    title = '完成';
+  } else if (type === 'error') {
+    title = '錯誤';
+  } else if (type === 'info' && (message.includes('同步') || message.includes('更新'))) {
+    title = '同步';
+  }
+
+  titleEl.textContent = title;
+  messageEl.textContent = message;
+
   alert.classList.remove('show', 'success', 'error', 'info');
   alert.classList.add(type);
 
@@ -183,12 +201,32 @@ function showAlert(message, type = 'info') {
 
   clearTimeout(showAlert._timer);
   showAlert._timer = setTimeout(() => {
-    alert.classList.remove('show');
-    setTimeout(() => {
-      alert.textContent = '';
-      alert.classList.remove('success', 'error', 'info');
-    }, 300);
+    dismissAlert();
   }, 3500);
+}
+
+function dismissAlert() {
+  const alert = document.getElementById('alert');
+  if (!alert) return;
+  
+  alert.classList.remove('show');
+  setTimeout(() => {
+    const titleEl = alert.querySelector('.alert-title');
+    const messageEl = alert.querySelector('.alert-message');
+    if (titleEl) titleEl.textContent = '';
+    if (messageEl) messageEl.textContent = '';
+    alert.classList.remove('success', 'error', 'info');
+  }, 300);
+}
+
+function initAlertClose() {
+  const alertClose = document.querySelector('.alert-close');
+  if (alertClose) {
+    alertClose.addEventListener('click', () => {
+      clearTimeout(showAlert._timer);
+      dismissAlert();
+    });
+  }
 }
 
 // Webhook credentials (localStorage)

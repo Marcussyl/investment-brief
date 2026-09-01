@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght=400;500;600;700&family=Hanken+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="stitch.css?v=20260901-13">
+  <link rel="stylesheet" href="stitch.css?v=20260901-14">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body data-theme="auto">
@@ -264,8 +264,20 @@
   </div>
 
   <!-- Alert Component -->
-  <div class="alert" id="alert" role="status" aria-live="polite"></div>
+  <div class="alert" id="alert" role="status" aria-live="polite">
+    <div class="alert-icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path>
+        <path d="M13.73 21a2 2 0 0 1-3.46 0"></path>
+      </svg>
+    </div>
+    <div class="alert-body">
+      <div class="alert-title"></div>
+      <div class="alert-message"></div>
+    </div>
+    <button class="alert-close" aria-label="關閉">×</button>
+  </div>
 
-  <script src="stitch-app.js?v=20260901-13"></script>
+  <script src="stitch-app.js?v=20260901-14"></script>
 </body>
 </html>
