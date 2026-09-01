@@ -12,8 +12,8 @@
   <base href="/investment-brief/">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Hanken+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="stitch.css?v=20260901-10">
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght=400;500;600;700&family=Hanken+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="stitch.css?v=20260901-11">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body data-theme="auto">
@@ -39,6 +39,12 @@
             <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
           </svg>
           <span class="update-label">更新</span>
+        </button>
+        <button class="settings-btn" id="settingsBtn" aria-label="同步設定" title="設定">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="3"></circle>
+            <path d="M12 1v6m0 6v6m5.2-14.8l-4.2 4.2m0 6l-4.2 4.2m14.8-5.2h-6m-6 0H1m14.8 5.2l-4.2-4.2m0-6l-4.2-4.2"></path>
+          </svg>
         </button>
         <button class="theme-toggle" id="themeToggle" aria-label="切換主題">
           <svg class="theme-icon moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -228,6 +234,36 @@
     <div class="sheet-content" id="sheetContent"></div>
   </div>
 
-  <script src="stitch-app.js?v=20260901-10"></script>
+  <!-- Settings Modal -->
+  <div class="modal-scrim" id="settingsScrim"></div>
+  <div class="settings-modal" id="settingsModal">
+    <div class="modal-header">
+      <h2>同步設定</h2>
+      <button class="modal-close" id="settingsClose" aria-label="關閉">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group">
+        <label for="webhookUrl">Webhook URL</label>
+        <input type="text" id="webhookUrl" placeholder="https://..." autocomplete="off">
+      </div>
+      <div class="form-group">
+        <label for="webhookAuth">Authorization / Key</label>
+        <input type="password" id="webhookAuth" placeholder="Bearer ... 或 Key ..." autocomplete="off">
+      </div>
+      <p class="help-text">從 Grok Bot routine「On-demand site refresh」複製 Webhook URL 同 Authorization header；只存在呢部瀏覽器，唔會上傳。</p>
+    </div>
+    <div class="modal-footer">
+      <button class="btn-secondary" id="clearSettings">清除</button>
+      <button class="btn-secondary" id="cancelSettings">取消</button>
+      <button class="btn-primary" id="saveSettings">儲存</button>
+    </div>
+  </div>
+
+  <script src="stitch-app.js?v=20260901-11"></script>
 </body>
 </html>

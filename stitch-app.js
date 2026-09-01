@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   initTheme();
   initNavigation();
   initUpdateButton();
+  initSettingsModal();
   await loadSiteData();
   renderUI();
   setupEventListeners();
@@ -193,6 +194,95 @@ function showUpdateToast(message, type = 'info') {
   }, 2800);
 }
 
+// Webhook credentials (localStorage)
+function getWebhookConfig() {
+  try {
+    const url = localStorage.getItem('ib_refresh_webhook_url');
+    const auth = localStorage.getItem('ib_refresh_webhook_auth');
+    if (!url || !auth) return null;
+    return { url, auth };
+  } catch (e) {
+    console.error('Failed to read webhook config:', e);
+    return null;
+  }
+}
+
+function setWebhookConfig(url, auth) {
+  try {
+    if (!url || !auth) {
+      clearWebhookConfig();
+      return;
+    }
+    localStorage.setItem('ib_refresh_webhook_url', url.trim());
+    localStorage.setItem('ib_refresh_webhook_auth', auth.trim());
+  } catch (e) {
+    console.error('Failed to save webhook config:', e);
+  }
+}
+
+function clearWebhookConfig() {
+  try {
+    localStorage.removeItem('ib_refresh_webhook_url');
+    localStorage.removeItem('ib_refresh_webhook_auth');
+  } catch (e) {
+    console.error('Failed to clear webhook config:', e);
+  }
+}
+
+// Settings modal
+function openSettingsModal() {
+  const modal = document.getElementById('settingsModal');
+  const scrim = document.getElementById('settingsScrim');
+  const urlInput = document.getElementById('webhookUrl');
+  const authInput = document.getElementById('webhookAuth');
+  
+  const config = getWebhookConfig();
+  if (config) {
+    urlInput.value = config.url;
+    authInput.value = config.auth;
+  } else {
+    urlInput.value = '';
+    authInput.value = '';
+  }
+  
+  scrim.classList.add('active');
+  modal.classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeSettingsModal() {
+  const modal = document.getElementById('settingsModal');
+  const scrim = document.getElementById('settingsScrim');
+  
+  scrim.classList.remove('active');
+  modal.classList.remove('active');
+  document.body.style.overflow = '';
+}
+
+function saveSettings() {
+  const urlInput = document.getElementById('webhookUrl');
+  const authInput = document.getElementById('webhookAuth');
+  
+  const url = urlInput.value.trim();
+  const auth = authInput.value.trim();
+  
+  if (!url || !auth) {
+    showUpdateToast('請填寫 URL 同 Authorization', 'error');
+    return;
+  }
+  
+  setWebhookConfig(url, auth);
+  closeSettingsModal();
+  showUpdateToast('設定已儲存', 'success');
+}
+
+function clearSettings() {
+  clearWebhookConfig();
+  document.getElementById('webhookUrl').value = '';
+  document.getElementById('webhookAuth').value = '';
+  showUpdateToast('設定已清除', 'info');
+}
+
 function setUpdateButtonLoading(isLoading) {
   const btn = document.getElementById('updateBtn');
   if (!btn) return;
@@ -205,22 +295,69 @@ function setUpdateButtonLoading(isLoading) {
   }
 }
 
+async function triggerWebhook(url, auth) {
+  const authHeader = auth.startsWith('Bearer ') || auth.startsWith('Key ') 
+    ? auth 
+    : `Bearer ${auth}`;
+  
+  try {
+    await fetch(url, {
+      method: 'POST',
+      headers: {
+        'Authorization': authHeader,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ source: 'investment-brief-update-btn' })
+    });
+    return true;
+  } catch (corsError) {
+    try {
+      await fetch(url, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: {
+          'Authorization': authHeader,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ source: 'investment-brief-update-btn' })
+      });
+      return true;
+    } catch (e) {
+      console.error('Webhook failed:', e);
+      return false;
+    }
+  }
+}
+
 async function refreshSiteData() {
   const btn = document.getElementById('updateBtn');
   if (btn && btn.disabled) return;
 
+  const config = getWebhookConfig();
+  
+  if (!config) {
+    openSettingsModal();
+    return;
+  }
+
   setUpdateButtonLoading(true);
+  showUpdateToast('同步中…', 'info');
 
   try {
+    await triggerWebhook(config.url, config.auth);
+    
+    await new Promise(resolve => setTimeout(resolve, 20000));
+    
     const ok = await loadSiteData({ bustCache: true });
     if (!ok) {
-      throw new Error('local reload failed');
+      showUpdateToast('同步已觸發，請稍後再撳更新', 'info');
+    } else {
+      refreshRenderedViews();
+      showUpdateToast('已同步', 'success');
     }
-    refreshRenderedViews();
-    showUpdateToast('已重新載入', 'info');
   } catch (error) {
     console.error('Refresh failed:', error);
-    showUpdateToast('更新失敗', 'error');
+    showUpdateToast('同步已觸發，請稍後再撳更新', 'info');
   } finally {
     setUpdateButtonLoading(false);
   }
@@ -231,6 +368,48 @@ function initUpdateButton() {
   if (!btn) return;
   btn.addEventListener('click', () => {
     refreshSiteData();
+  });
+}
+
+function initSettingsModal() {
+  const settingsBtn = document.getElementById('settingsBtn');
+  const settingsClose = document.getElementById('settingsClose');
+  const settingsScrim = document.getElementById('settingsScrim');
+  const saveBtn = document.getElementById('saveSettings');
+  const clearBtn = document.getElementById('clearSettings');
+  const cancelBtn = document.getElementById('cancelSettings');
+  
+  if (settingsBtn) {
+    settingsBtn.addEventListener('click', openSettingsModal);
+  }
+  
+  if (settingsClose) {
+    settingsClose.addEventListener('click', closeSettingsModal);
+  }
+  
+  if (settingsScrim) {
+    settingsScrim.addEventListener('click', closeSettingsModal);
+  }
+  
+  if (saveBtn) {
+    saveBtn.addEventListener('click', saveSettings);
+  }
+  
+  if (clearBtn) {
+    clearBtn.addEventListener('click', clearSettings);
+  }
+  
+  if (cancelBtn) {
+    cancelBtn.addEventListener('click', closeSettingsModal);
+  }
+  
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      const modal = document.getElementById('settingsModal');
+      if (modal && modal.classList.contains('active')) {
+        closeSettingsModal();
+      }
+    }
   });
 }
 

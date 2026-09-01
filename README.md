@@ -91,6 +91,29 @@ GitHub Pages caches static assets. When updating `stitch.css` or `stitch-app.js`
 
 **Note:** `index.html` itself is cached by GitHub Pages (~10 min TTL). Users may need to hard-refresh (Ctrl+Shift+R / Cmd+Shift+R) after deployments.
 
+## Manual Update
+
+The site has an「更新」(Update) button in the header that triggers a webhook to rebuild data and reload the page.
+
+### Setup
+
+1. Open the Grok Bot routine **"On-demand site refresh"** in the Grok dashboard
+2. Copy the **Webhook URL** (e.g., `https://api.example.com/webhooks/...`)
+3. Copy the **Authorization** header value (the full value shown, e.g., `Bearer xyz123` or `Key xyz123`)
+4. On the live site, click the ⚙️ settings button (next to「更新」)
+5. Paste:
+   - **Webhook URL** → into the first field
+   - **Authorization / Key** → into the second field (paste exactly as copied)
+6. Click「儲存」(Save)
+
+**Privacy:** Credentials are stored only in your browser's `localStorage`. They are never committed to git or sent anywhere except the webhook endpoint.
+
+### Usage
+
+- Click「更新」→ POST to webhook → wait ~20s → reload JSON data → toast「已同步」
+- If credentials are missing, the settings modal opens automatically
+- To clear credentials: open settings → click「清除」(Clear)
+
 ### JSON Schema
 
 #### Brief File (`data/briefs/YYYY-MM-DD.json`)
