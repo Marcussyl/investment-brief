@@ -1,54 +1,106 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "disclaimer": "第三方·非公告，唯供參考，唔構成買賣建議。",
   "items": [
     {
-      "title": "NVIDIA AI 機櫃世代交替，估 2027 年 NVL72 產值可破 7,100 億美元",
-      "summary": "TrendForce 估 2027 年 GB300／VR200／VR300 等 NVL72 機櫃合計產值貢獻可破 7,100 億美元，年增約 214%。GB300 仍是今年出貨主力，2027 下半年 VR200 接棒。",
+      "title": "輝達聯發科深化合作，黃仁勳蔡力行解說 35 億美元可轉債",
+      "summary": "雙方 31 Aug 宣布擴大 AI 基建、邊緣運算與車用合作；輝達投資 35 億美元聯發科海外可轉債。科技新報轉述彭博專訪，黃仁勳否認「循環資助」。",
       "source": "科技新報",
-      "date": "2026-08-28",
-      "url": "https://finance.technews.tw/2026/08/28/nvidia-nvl72-over-710000000000usd-2027/",
-      "tickers": ["NVDA"]
+      "date": "2026-09-01",
+      "url": "https://finance.technews.tw/2026/09/01/nvidia-and-mediatek-deepen-cooperation/",
+      "tickers": [
+        "NVDA"
+      ]
     },
     {
-      "title": "OpenAI 自研晶片首測數據曝光，職稱推理效能超越 NVIDIA GB200 / GB300",
-      "summary": "Hot Chips 上 OpenAI 公布 Jalapeño：職稱推理吞吐高於 GB200／GB300 NVL72。今年底小量進自家機房；官方仍說會繼續買 NVIDIA。",
+      "title": "台積電揭 COUPE 藍圖：光源到 SOA 全整合，挑戰光學中介層",
+      "summary": "SEMICON Taiwan 2026 矽光子論壇上，台積電分享 COUPE 路徑，把光源、調變器與 SOA 做進封裝，目標進一步挑戰光學中介層。",
       "source": "科技新報",
-      "date": "2026-08-26",
-      "url": "https://technews.tw/2026/08/26/jalapeno-is-working-first-party-silicon-with-measured-results/",
-      "tickers": ["NVDA"]
+      "date": "2026-08-31",
+      "url": "https://technews.tw/2026/08/31/tsmc-coupe-semicon-taiwan-2026/",
+      "tickers": [
+        "NVDA"
+      ]
     },
     {
-      "title": "小米發表自研晶片玄戒 O3，路透：將採台積電 3 奈米製程",
-      "summary": "路透：小米自研玄戒 O3 將由台積電 3 納米代工，目標折疊旗艦約 20–30 萬支。小米／台積電未即時回應。",
+      "title": "徐國晉：AI 資料中心「神經系統」是光學，矽光子將成光收發主流",
+      "summary": "台積電先進封裝技術發展副總在矽光子國際論壇指出，資料中心互連正由銅轉向光，矽光子可望成為光收發器主流。",
       "source": "科技新報",
-      "date": "2026-08-24",
-      "url": "https://technews.tw/2026/08/24/xiaomi-unveils-self-developed-xuanjie-o3-chip-reuters-reports-tsmc-3nm-process/",
-      "tickers": ["1810.HK"]
+      "date": "2026-08-31",
+      "url": "https://technews.tw/2026/08/31/semi-tsmc-silicon-photonics-global-summit/",
+      "tickers": [
+        "NVDA"
+      ]
     },
     {
-      "title": "小米玄戒 3nm 自研晶片正式發表：O3 / O100 / D100",
-      "summary": "T客邦展開：玄戒 O3（台積電 3nm 手機 SoC）、O100（邊緣 AI）、D100（自駖 3nm）。非公司 IR。",
-      "source": "T客邦",
-      "date": "2026-08-26",
-      "url": "https://www.techbang.com/posts/132628-xiaomi-xuanjie-o100-ai-chip-flagship-soc-3nm-auto-chip",
-      "tickers": ["1810.HK"]
+      "title": "ChatGPT 廣告上線約 200 天，年化營收跑出 10 億美元",
+      "summary": "科技新報引述：OpenAI 廣告年化營收達 10 億美元。屬第三方報道，非 OpenAI／NVIDIA 公告。",
+      "source": "科技新報",
+      "date": "2026-09-01",
+      "url": "https://technews.tw/2026/09/01/chatgpt-ads-reaches-1-billion-in-annualized-revenue-run-rate/",
+      "tickers": [
+        "GOOGL"
+      ]
     },
     {
-      "title": "OpenAI 秘密開發 Codex「持續模式」：AI 變身 24 小時主動特助",
-      "summary": "Wired 披露 Codex Persistent Mode：做完不休眠、會自己開下一件工。官方證實、暫無大規模上線。",
-      "source": "T客邦",
-      "date": "2026-08-29",
-      "url": "https://www.techbang.com/posts/132718-openai-codex-persistent-mode-autonomous-ai",
-      "tickers": []
+      "title": "巴克萊：AI 公司每賺 100 美元，雲端巨頭抽走近四成",
+      "summary": "報告指模型公司每賺 100 美元，約 35–40 美元落入 AWS、Azure、Google Cloud。第三方投行估算，非公司公告。",
+      "source": "科技新報",
+      "date": "2026-09-01",
+      "url": "https://finance.technews.tw/2026/09/01/for-every-100-earned-by-model-companies-cloud-providers-take-nearly-40/",
+      "tickers": [
+        "GOOGL"
+      ]
     },
     {
-      "title": "Appier 研究讓 LLM 學會「誠實拒答」並可切換推理語言",
-      "summary": "測 28 款模型，「以上皆非」時準確率掉 30–50%；DPO 可把「無正解」辨識拉高約 30 個百分點。",
+      "title": "Gemini Notebook 改以運算量計額度，每五小時重置",
+      "summary": "Google 將由 9 月 2 日起調整 Gemini Notebook 用量：按提示複雜度扣額，每 5 小時重置，另有每週上限。產品新聞，非財報。",
       "source": "T客邦",
       "date": "2026-08-31",
-      "url": "https://www.techbang.com/posts/132747-appier-llm-research-honest-refusal-reasoning",
-      "tickers": []
+      "url": "https://www.techbang.com/posts/132769-gemini-notebook-new-usage-limits-5-hour-reset",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "title": "傳輝達以約 70 億美元結構與 Poolside 合作開源模型",
+      "summary": "T客邦引述外媒：輝達擬注資並收購 Poolside 核心 IP、延攬約百名工程師強化 Nemotron。非 NVIDIA 公告，列第三方。",
+      "source": "T客邦",
+      "date": "2026-08-31",
+      "url": "https://www.techbang.com/posts/132618-nvidia-poolside-7-billion-open-source-ai",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "title": "全球智慧手機 Q2 出貨年減 8%，摺疊機成少數亮點",
+      "summary": "法人整理：今年 Q2 全球智慧手機出貨約 2.70 億部，年減及季減 8%；摺疊機被視為少數增長點。第三方數據，非品牌公司公告。",
+      "source": "科技新報",
+      "date": "2026-08-31",
+      "url": "https://technews.tw/2026/08/31/global-smartphone-shipments-decline-foldable-phones-emerge-as-key-bright-spot/",
+      "tickers": [
+        "1810.HK"
+      ]
+    },
+    {
+      "title": "TrendForce：2026 年智慧手機面板出貨估年減收窄至 2.5%",
+      "summary": "研調指記憶體短缺推高手機成本，但二手與維修需求支撐面板出貨，年減幅度估收斂至 2.5%。第三方，非小米公告。",
+      "source": "科技新報",
+      "date": "2026-08-31",
+      "url": "https://technews.tw/2026/08/31/global-smartphone-panel-shipments-annual-decline-narrows-2-5-2026-used-market-repair-demand-support/",
+      "tickers": [
+        "1810.HK"
+      ]
+    },
+    {
+      "title": "SEMI：全球半導體產值 2030 年挑戰 2 兆美元，台灣靠垂直生態系卡位",
+      "summary": "SEMICON Taiwan 2026 展前，SEMI 指產業正從單點技術走向生態系協作，並重申 2030 年產值展望。第三方協會說法。",
+      "source": "科技新報",
+      "date": "2026-08-31",
+      "url": "https://technews.tw/2026/08/31/semi-held-semicon-taiwan-2026/",
+      "tickers": [
+        "NVDA"
+      ]
     }
   ]
 }

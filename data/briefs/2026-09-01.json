@@ -1,0 +1,307 @@
+{
+  "date": "2026-09-01",
+  "stories": [
+    {
+      "id": "nvda-mediatek-cb",
+      "ticker": "NVDA",
+      "title": "輝達宣布投資聯發科 35 億美元可轉債，深化 NVLink Fusion",
+      "summary": "NVIDIA 31 Aug 公司公告：與聯發科擴大 AI 基建、本地運算與車用合作，並投資 35 億美元聯發科可轉換債券。Yahoo 收市 US$220.78（+1.48%）。",
+      "whyItMatters": "這是公司自己講的數字，不是傳聞。可轉債代表輝達先借錢給夥伴、將來或可換成股票；市場同時在吵「循環資助」（第三方，非公告）。新手要分清：合作範圍是公告，循環資助指控不是。",
+      "whatToWatch": "聯發科／輝達後續申報（轉換價、到期、資金用途）；NVLink Fusion 有沒有具名客戶；Q3 指引仍假設中國數據中心運算為零。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-08-31",
+          "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Investor Relations",
+          "date": "2026-08-26",
+          "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-08-31",
+          "title": "NVDA last US cash close 31 Aug 2026",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "macro-fomc-oil",
+      "ticker": null,
+      "title": "美股周一因油價與中東消息回吐，金管局基本利率仍 4.00%",
+      "summary": "AP：S&P 500 收 7,686.14（−0.3%），道指 53,185.90（−0.7%），納指 26,370.89（−0.1%）；布倫特原油 +2.7%、重上 US$90。金管局 31 Aug 18:30：基本利率 4.00%，總結餘 541.90 億港元，兌換保證未觸發。",
+      "whyItMatters": "美股一晚過後港股今日才開。聯儲局目標仍 3.50%–3.75%，金管局公式下限仍是 4.00%。油價升會令人重新估通脹，從而估 15–16 Sep FOMC。港元按揭同儲蓄利率跟這條公式走。",
+      "whatToWatch": "FOMC 15–16 Sep（17 Sep 02:00 HKT 公布）；金管局每日統計；兌換保證 7.75–7.85 有沒有被觸發。就業數據本輪簡報不覆蓋（個人檔未剔選）。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Associated Press",
+          "date": "2026-08-31",
+          "title": "How major US stock indexes fared Monday 8/31/2026",
+          "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-0de14aa6532e16ff1c9e52a2cf09bc4a"
+        },
+        {
+          "category": "company",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-08-31",
+          "title": "Daily Monetary Statistics (18:30, 31/08/2026)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "company",
+          "publisher": "Federal Reserve",
+          "date": "2026-07-29",
+          "title": "FOMC statement 29 Jul 2026",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
+        }
+      ]
+    },
+    {
+      "id": "shein-hkex-debut",
+      "ticker": null,
+      "title": "SHEIN（625）今日港交所掛牌，屬中國消費日曆而非觀察名單",
+      "summary": "港交所 28 Aug 公告：SHEIN Global Holdings（625）預定 1 Sep 掛牌，並推出期權、容許發行衍生權證、納入賣空指定證券（均以成功上市為前提）。IPO 定價／估值來自通訊社，非正式招股結果頁。",
+      "whyItMatters": "這是今日香港最顯眼的中國消費事件，但 SHEIN 不在 Active 觀察名單。暗盤、灰色市場報價是第三方，不等於開市價。新股首日波動大，呢度只記日曆，唔係買賣建議。",
+      "whatToWatch": "今日 09:30 開市實際成交；港交所／公司正式配發結果；下一份零售／中國消費相關公司公告。",
+      "sources": [
+        {
+          "category": "exchange",
+          "publisher": "HKEX",
+          "date": "2026-08-28",
+          "title": "HKEX Enhances Product Offering with SHEIN Debut",
+          "url": "https://www.hkex.com.hk/News/News-Release/2026/260828news?sc_lang=en"
+        },
+        {
+          "category": "news",
+          "publisher": "BBC",
+          "date": "2026-09-01",
+          "title": "How Shein lost its shine ahead of long-awaited stock market debut",
+          "url": "https://www.bbc.com/news/articles/c3v0qrz7z25o"
+        }
+      ]
+    },
+    {
+      "id": "googl-tape",
+      "ticker": "GOOGL",
+      "title": "Alphabet Class A 周一跌 2.09%，最新公司數字仍是 Q2",
+      "summary": "Yahoo：GOOGL 31 Aug 收 US$339.35（−2.09%）。最新公司業績仍是 22 Jul 的 Q2：收入 US$119.8B、Cloud US$24.8B。通訊社指 Alphabet 亦參與聯發科可轉債，未見 Alphabet IR 公告，列未核實。",
+      "whyItMatters": "觀察名單上 Google 是雲同搜尋廣告的賬單，不是持股。單日跌 2% 唔等於業績變咗。Q2 已講過全年資本開支 US$195–205B，同輝達賣卡是同一條 AI 工廠鏈。",
+      "whatToWatch": "下一份資本開支評論；Alphabet 有沒有就可轉債出 IR；Gemini Notebook 額度調整（產品新聞，非業績）。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-08-31",
+          "title": "GOOGL last US cash close 31 Aug 2026",
+          "url": "https://finance.yahoo.com/quote/GOOGL/"
+        },
+        {
+          "category": "company",
+          "publisher": "Alphabet Investor Relations",
+          "date": "2026-07-22",
+          "title": "Alphabet Announces Second Quarter 2026 Results",
+          "url": "https://abc.xyz/investor/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-1810",
+      "ticker": "1810.HK",
+      "title": "小米周一收 27.62 港元，最新公司數字仍是 18 Aug 中期",
+      "summary": "Yahoo 報價頁：1810.HK 31 Aug 收 27.62 港元（−0.72%）。最新公司業績仍是 18 Aug：Q2 收入人民幣 1,089.22 億（−6.1% YoY），智能電動車／AI 等新業務仍在虧損期。",
+      "whyItMatters": "手機毛利率被記憶體成本擠壓，同一條供應鏈令 GPU 貴、手機平。今日港股 09:30 再開。唔好把單日下跌當成新業績。",
+      "whatToWatch": "下半年記憶體成本評語；公司有沒有確認 SkyNomad SUV 檔期；下一份交付量。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-08-31",
+          "title": "Xiaomi 1810.HK last HK close 31 Aug 2026",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        },
+        {
+          "category": "company",
+          "publisher": "Xiaomi IR / HKEX",
+          "date": "2026-08-18",
+          "title": "Xiaomi Q2 / interim results 2026",
+          "url": "https://ir.mi.com/"
+        }
+      ]
+    },
+    {
+      "id": "learning-etfs",
+      "ticker": null,
+      "title": "學習層：SPYM、VEU、GLD 跟隨美股與金價微跌",
+      "summary": "Yahoo：31 Aug SPYM US$90.28（−0.32%）、VEU US$85.25（−0.21%）、GLD US$408.42（−0.11%）。SPYM 對齊標普 −0.3%；金 ETF 已比上周五急跌後平靜。",
+      "whyItMatters": "這三隻是學習用的指數／黃金工具，不是選股。周一是油價同地緣消息日，不是業績日。黃金無孳息，利率預期一緊就容易無色。",
+      "whatToWatch": "15–16 Sep FOMC；金管局基本利率有沒有因聯儲局而動；VEU 會滯後反映今日亞洲開市。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-08-31",
+          "title": "SPYM / VEU / GLD last US cash closes 31 Aug 2026",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-tape",
+      "ticker": "SPCX",
+      "title": "SpaceX 股價跟隨風險胃納微升，無新公司公告",
+      "summary": "Yahoo：SPCX 31 Aug 收 US$143.69（+1.55%）。最新公司數字仍是 4 Aug Q2：收入 US$7.814B，淨虧 US$541M，Q2 資本開支 US$18.369B。",
+      "whyItMatters": "公開故事主要是星鏈賺錢、AI 燒錢，不是火箭。單日 +1.5% 不是新業績。Cursor 收購、鎖定解禁等數字若未入 8-K，當未核實。",
+      "whatToWatch": "下一份業績；Cursor 交易有沒有交割公告；任何已申報的流通量／鎖定更新。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-08-31",
+          "title": "SPCX last US cash close 31 Aug 2026",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-08-04",
+          "title": "SpaceX Reports Second Quarter 2026 Results",
+          "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "convertible-bond",
+      "title": "可轉換債券",
+      "titleEn": "Convertible bond",
+      "what": "公司發債借錢，債權人在指定條件下可以把債券換成股票。票面可以是零息（不付利息），回報藏在轉換價裡。",
+      "whyItMatters": "看起來像「投資夥伴」，會計上先是債。轉換價、到期、佔發行額多少，決定你買的是債還是潛在股權。唔好把「投資 35 億」直接當成買咗 35 億股票。",
+      "whereToday": "NVIDIA 31 Aug 公告：投資 35 億美元聯發科可轉債。",
+      "whatToWatch": "聯發科正式發行文件（轉換價、到期、資金用途）；輝達會唔會轉換。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/3ce99f70bc5681c5a85bf0047b7bd54f"
+    },
+    {
+      "id": "china-dc-zero",
+      "title": "中國數據中心假設為零",
+      "titleEn": "China DC assumed zero",
+      "what": "NVIDIA Q3 指引假設來自中國數據中心運算的收入完全歸零。",
+      "whyItMatters": "出口管制被寫進公司自己的展望，不是外評。",
+      "whereToday": "Q2 業績後的 Q3 指引仍然有效；今日焦點是聯發科合作，不是新指引。",
+      "whatToWatch": "下一份業績有沒有改呢句假設。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/3cd99f70bc56811c8e81e8faa13c7cb8"
+    },
+    {
+      "id": "fomc-hkma",
+      "title": "FOMC vs 金管局",
+      "titleEn": "FOMC vs HKMA",
+      "what": "聯儲局定美元利率，金管局基本利率用公式跟隨（聯儲局目標下限 +50bp，或 Hibor 五日均值，取較高者）。",
+      "whyItMatters": "港元按揭同儲蓄利率跟這條公式。今日金管局仍印 4.00%。",
+      "whereToday": "31 Aug 金管局每日統計；15–16 Sep FOMC。",
+      "whatToWatch": "17 Sep 02:00 HKT 的 FOMC 聲明。",
+      "relatedTickers": [
+        "SPYM",
+        "GLD"
+      ],
+      "notionUrl": "https://app.notion.com/p/3cd99f70bc568196867cf60440f021b9"
+    },
+    {
+      "id": "jackson-hole",
+      "title": "傑克遜霍爾",
+      "titleEn": "Jackson Hole",
+      "what": "每年 8 月的全球央行年會，聯儲局主席演說常被當成政策信號。",
+      "whyItMatters": "上周五 Warsh 強調通脹仍是工作，周一美股在油價消息下繼續消化。",
+      "whereToday": "宏觀背景，不是今日新演說。",
+      "whatToWatch": "15–16 Sep FOMC，而不是再讀一遍 Jackson Hole。",
+      "relatedTickers": [],
+      "notionUrl": "https://app.notion.com/p/3cd99f70bc568186a843ccf254b977a7"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568174a354f22f3d1c3a61",
+      "lastFiling": {
+        "title": "NVIDIA–MediaTek partnership and $3.5B convertible bonds",
+        "date": "2026-08-31",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+      }
+    },
+    {
+      "symbol": "GOOGL",
+      "nameCn": "Alphabet",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "Alphabet Q2 2026 results",
+        "date": "2026-07-22",
+        "url": "https://abc.xyz/investor/"
+      }
+    },
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "SpaceX Q2 2026 results",
+        "date": "2026-08-04",
+        "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+      }
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "Xiaomi Q2 / interim results 2026",
+        "date": "2026-08-18",
+        "url": "https://ir.mi.com/"
+      }
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "標普 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "學習",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "全球非美 ETF",
+      "exchange": "NYSE Arca",
+      "role": "學習",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "學習",
+      "notesUrl": null,
+      "lastFiling": null
+    }
+  ]
+}
