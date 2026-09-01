@@ -248,6 +248,50 @@ Newest first. Site displays in reverse chronological order.
 - Ticker chips open the per-name drawer
 - Overwrite entire file daily from automation (8:18 AM weekday job)
 
+#### Portfolio Analysis (`data/portfolio-analysis.json`)
+
+```json
+{
+  "asOf": "YYYY-MM-DD",
+  "headline": "Mixed portfolio: broad diversification + thematic growth + hedge",
+  "composition": [
+    {
+      "label": "美股寬基",
+      "weightHint": "SPYM covers S&P500",
+      "tickers": ["SPYM"]
+    }
+  ],
+  "tiltSummary": "Traditional Chinese paragraph explaining the overall portfolio structure, diversification, and major themes. Educational tone, no buy/sell recommendations.",
+  "themeFocus": [
+    {
+      "title": "AI infrastructure boom affects broad market constituents",
+      "body": "Traditional Chinese explanation of how this theme relates to holdings. Mention market trends, not specific actions."
+    }
+  ],
+  "trendsToWatch": [
+    "Fed policy impact on gold/USD (GLD hedge narrative)",
+    "AI capex cycle sustainability (indirectly affects SPYM tech weight)",
+    "China/HK consumer recovery (Xiaomi 1810 phones + EV business)"
+  ],
+  "risks": [
+    "Single-name concentration risk: SPCX + 1810 lack diversification",
+    "HK equity liquidity and policy uncertainty (1810 affected by US-China relations)",
+    "Gold drawdown potential (if USD strengthens or real rates rise)"
+  ],
+  "disclaimer": "非投資建議 · 僅供學習參考，唔構成買賣建議。"
+}
+```
+
+**Portfolio Analysis Rules:**
+- Educational market observation for newbies, Traditional Chinese (HK)
+- Framing: **觀察**, not personal recommendations
+- NEVER say buy/sell/加倉/減倉/應該買邊隻
+- Talk themes, concentration, scenarios, risks
+- Content honest to actual holdings (SPYM, VEU, GLD, SPCX, 1810.HK)
+- If JSON missing, UI auto-generates simple composition from holdings
+- Shown in 投資組合 tab above holdings list
+- Hidden if no Holding positions exist
+
 ## Design System
 
 **Stitch Teal Insight Theme:**
