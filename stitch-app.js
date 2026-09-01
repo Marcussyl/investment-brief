@@ -4,6 +4,7 @@
 let briefData = null;
 let watchlistData = null;
 let techNewsData = null;
+let portfolioAnalysisData = null;
 let currentTheme = 'auto';
 let charts = {};
 
@@ -124,15 +125,17 @@ async function loadSiteData({ bustCache = false } = {}) {
       console.warn('Could not load briefs index, using fallback');
     }
 
-    const [brief, watchlist, techNews] = await Promise.all([
+    const [brief, watchlist, techNews, portfolioAnalysis] = await Promise.all([
       fetchJson(`data/briefs/${latestBriefFile}`, { bustCache }),
       fetchJson('data/watchlist.json', { bustCache }),
-      fetchJson('data/tech-news.json', { bustCache, optional: true })
+      fetchJson('data/tech-news.json', { bustCache, optional: true }),
+      fetchJson('data/portfolio-analysis.json', { bustCache, optional: true })
     ]);
 
     briefData = brief;
     watchlistData = watchlist;
     techNewsData = techNews;
+    portfolioAnalysisData = portfolioAnalysis;
 
     updateDateLabel();
     return true;
@@ -803,8 +806,158 @@ function renderTechNews() {
   renderTechNewsList();
 }
 
+// Render Portfolio Analysis
+function renderPortfolioAnalysis() {
+  const section = document.getElementById('portfolioAnalysis');
+  const disclaimerDiv = document.getElementById('analysisDisclaimer');
+  const compositionDiv = document.getElementById('analysisComposition');
+  const tiltDiv = document.getElementById('analysisTilt');
+  const themesDiv = document.getElementById('analysisThemes');
+  const trendsUl = document.getElementById('analysisTrends');
+  const risksUl = document.getElementById('analysisRisks');
+  
+  const themeCard = document.getElementById('analysisThemeCard');
+  const trendsCard = document.getElementById('analysisTrendsCard');
+  const risksCard = document.getElementById('analysisRisksCard');
+  
+  // Get holdings from watchlist
+  let holdings = [];
+  if (watchlistData && watchlistData.tickers) {
+    holdings = watchlistData.tickers.filter(ticker => {
+      const briefTicker = (briefData.tickers || []).find(t => t.symbol === ticker.symbol);
+      const briefRole = briefTicker ? briefTicker.role : null;
+      const watchlistRole = ticker.role || null;
+      const role = briefRole || watchlistRole;
+      return role && (
+        role === 'Holding' || 
+        role === '持倉' || 
+        role === '持仓' ||
+        role.toLowerCase() === 'holding'
+      );
+    });
+  }
+  
+  // If no holdings, hide analysis
+  if (holdings.length === 0) {
+    section.style.display = 'none';
+    return;
+  }
+  
+  section.style.display = 'block';
+  
+  // Auto-generate composition from holdings
+  const autoComposition = generateAutoComposition(holdings);
+  let compositionHtml = autoComposition.map(item => `
+    <div class="composition-item">
+      <div class="composition-label">${item.label}</div>
+      <div class="composition-detail">${item.detail}</div>
+      <div class="composition-tickers">
+        ${item.tickers.map(t => `<span class="composition-ticker">${t}</span>`).join('')}
+      </div>
+    </div>
+  `).join('');
+  
+  // If we have analysis data, use it
+  if (portfolioAnalysisData) {
+    disclaimerDiv.textContent = portfolioAnalysisData.disclaimer || '非投資建議 · 僅供學習參考，唔構成買賣建議。';
+    
+    // Use JSON composition if available, otherwise use auto
+    if (portfolioAnalysisData.composition && portfolioAnalysisData.composition.length > 0) {
+      compositionHtml = portfolioAnalysisData.composition.map(item => `
+        <div class="composition-item">
+          <div class="composition-label">${item.label}</div>
+          <div class="composition-detail">${item.weightHint || ''}</div>
+          <div class="composition-tickers">
+            ${item.tickers.map(t => `<span class="composition-ticker">${t}</span>`).join('')}
+          </div>
+        </div>
+      `).join('');
+    }
+    
+    compositionDiv.innerHTML = compositionHtml;
+    
+    // Tilt summary
+    if (portfolioAnalysisData.tiltSummary) {
+      tiltDiv.innerHTML = portfolioAnalysisData.tiltSummary;
+      tiltDiv.style.display = 'block';
+    } else {
+      tiltDiv.style.display = 'none';
+    }
+    
+    // Theme focus
+    if (portfolioAnalysisData.themeFocus && portfolioAnalysisData.themeFocus.length > 0) {
+      themesDiv.innerHTML = portfolioAnalysisData.themeFocus.map(theme => `
+        <div class="theme-item">
+          <div class="theme-title">${theme.title}</div>
+          <div class="theme-body">${theme.body}</div>
+        </div>
+      `).join('');
+      themeCard.style.display = 'block';
+    } else {
+      themeCard.style.display = 'none';
+    }
+    
+    // Trends to watch
+    if (portfolioAnalysisData.trendsToWatch && portfolioAnalysisData.trendsToWatch.length > 0) {
+      trendsUl.innerHTML = portfolioAnalysisData.trendsToWatch.map(trend => `<li>${trend}</li>`).join('');
+      trendsCard.style.display = 'block';
+    } else {
+      trendsCard.style.display = 'none';
+    }
+    
+    // Risks
+    if (portfolioAnalysisData.risks && portfolioAnalysisData.risks.length > 0) {
+      risksUl.innerHTML = portfolioAnalysisData.risks.map(risk => `<li>${risk}</li>`).join('');
+      risksCard.style.display = 'block';
+    } else {
+      risksCard.style.display = 'none';
+    }
+  } else {
+    // No analysis data, show auto composition only
+    disclaimerDiv.textContent = '非投資建議 · 僅供學習參考，唔構成買賣建議。';
+    compositionDiv.innerHTML = compositionHtml;
+    tiltDiv.style.display = 'none';
+    themeCard.style.display = 'none';
+    trendsCard.style.display = 'none';
+    risksCard.style.display = 'none';
+  }
+}
+
+function generateAutoComposition(holdings) {
+  const buckets = {
+    '美股寬基': [],
+    '海外股票': [],
+    '黃金': [],
+    '單一成長': []
+  };
+  
+  holdings.forEach(ticker => {
+    const symbol = ticker.symbol;
+    if (symbol === 'SPYM') {
+      buckets['美股寬基'].push(symbol);
+    } else if (symbol === 'VEU') {
+      buckets['海外股票'].push(symbol);
+    } else if (symbol === 'GLD') {
+      buckets['黃金'].push(symbol);
+    } else if (symbol === 'SPCX' || symbol.includes('.HK')) {
+      buckets['單一成長'].push(symbol);
+    }
+  });
+  
+  return Object.keys(buckets)
+    .filter(label => buckets[label].length > 0)
+    .map(label => ({
+      label,
+      detail: buckets[label].length > 1 ? `${buckets[label].length} 個名稱` : '',
+      tickers: buckets[label]
+    }));
+}
+
 // Render Portfolio
 function renderPortfolio() {
+  // Render analysis section first
+  renderPortfolioAnalysis();
+  
   const container = document.getElementById('portfolioList');
   const emptyState = document.getElementById('portfolioEmpty');
   

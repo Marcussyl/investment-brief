@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght=400;500;600;700&family=Hanken+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="stitch.css?v=20260901-17">
+  <link rel="stylesheet" href="stitch.css?v=20260901-18">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body data-theme="auto">
@@ -191,6 +191,34 @@
         <!-- View: Portfolio -->
         <div class="view" id="viewPortfolio">
           <div class="date-label">投資組合</div>
+          
+          <!-- Portfolio Analysis Section -->
+          <section class="section portfolio-analysis" id="portfolioAnalysis" style="display: none;">
+            <h2 class="analysis-title">組合觀察</h2>
+            <div class="analysis-disclaimer" id="analysisDisclaimer"></div>
+            
+            <div class="analysis-card">
+              <h3 class="analysis-card-title">結構速覽</h3>
+              <div class="analysis-composition" id="analysisComposition"></div>
+              <div class="analysis-tilt" id="analysisTilt"></div>
+            </div>
+            
+            <div class="analysis-card" id="analysisThemeCard" style="display: none;">
+              <h3 class="analysis-card-title">市場重心</h3>
+              <div class="analysis-themes" id="analysisThemes"></div>
+            </div>
+            
+            <div class="analysis-card" id="analysisTrendsCard" style="display: none;">
+              <h3 class="analysis-card-title">值得留意嘅趨勢</h3>
+              <ul class="analysis-list" id="analysisTrends"></ul>
+            </div>
+            
+            <div class="analysis-card" id="analysisRisksCard" style="display: none;">
+              <h3 class="analysis-card-title">潛在風險</h3>
+              <ul class="analysis-list" id="analysisRisks"></ul>
+            </div>
+          </section>
+          
           <section class="section">
             <div class="portfolio-list" id="portfolioList"></div>
             <div class="portfolio-empty" id="portfolioEmpty" style="display: none;">
@@ -290,6 +318,6 @@
     <button class="alert-close" aria-label="關閉">×</button>
   </div>
 
-  <script src="stitch-app.js?v=20260901-17"></script>
+  <script src="stitch-app.js?v=20260901-18"></script>
 </body>
 </html>
