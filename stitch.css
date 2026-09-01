@@ -1047,7 +1047,52 @@ body {
   font-size: 0.9375rem;
   color: var(--on-surface-variant);
   line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+.tech-news-insight {
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+  border-left: 3px solid var(--accent);
+  border-radius: 8px;
+  padding: 12px 14px;
   margin-bottom: 16px;
+}
+
+[data-theme="dark"] .tech-news-insight {
+  background: rgba(46, 230, 214, 0.08);
+  border-left-color: var(--accent);
+}
+
+.insight-item {
+  margin-bottom: 10px;
+}
+
+.insight-item:last-child {
+  margin-bottom: 0;
+}
+
+.insight-label {
+  font-family: var(--font-label);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 4px;
+}
+
+[data-theme="dark"] .insight-label {
+  color: var(--accent);
+}
+
+.insight-text {
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--on-surface);
+}
+
+[data-theme="dark"] .insight-text {
+  color: #e0e3e1;
 }
 
 .tech-news-footer {
