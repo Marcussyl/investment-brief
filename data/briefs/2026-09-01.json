@@ -245,30 +245,8 @@
       "Role": "Holding"
     },
     {
-      "symbol": "1810.HK",
-      "nameCn": "小米集團",
-      "exchange": "HKEX",
-      "role": "持倉",
-      "notesUrl": null,
-      "lastFiling": {
-        "title": "Xiaomi Q2 / interim results 2026",
-        "date": "2026-08-18",
-        "url": "https://ir.mi.com/"
-      },
-      "Role": "Holding"
-    },
-    {
       "symbol": "GLD",
       "nameCn": "黃金 ETF",
-      "exchange": "NYSE Arca",
-      "role": "持倉",
-      "notesUrl": null,
-      "lastFiling": null,
-      "Role": "Holding"
-    },
-    {
-      "symbol": "VEU",
-      "nameCn": "全球非美 ETF",
       "exchange": "NYSE Arca",
       "role": "持倉",
       "notesUrl": null,
@@ -285,26 +263,26 @@
       "Role": "Holding"
     },
     {
-      "symbol": "NVDA",
-      "nameCn": "英偉達",
-      "exchange": "NASDAQ",
-      "role": "研究",
-      "notesUrl": "https://app.notion.com/p/3cd99f70bc568174a354f22f3d1c3a61",
-      "lastFiling": {
-        "title": "NVIDIA–MediaTek partnership and $3.5B convertible bonds",
-        "date": "2026-08-31",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
-      },
-      "Role": "Research"
-    },
-    {
-      "symbol": "AAPL",
-      "nameCn": "蘋果",
-      "exchange": "NASDAQ",
-      "role": "研究",
+      "symbol": "VEU",
+      "nameCn": "全球非美 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
       "notesUrl": null,
       "lastFiling": null,
-      "Role": "Research"
+      "Role": "Holding"
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "Xiaomi Q2 / interim results 2026",
+        "date": "2026-08-18",
+        "url": "https://ir.mi.com/"
+      },
+      "Role": "Holding"
     },
     {
       "symbol": "GOOGL",
@@ -318,6 +296,15 @@
     {
       "symbol": "AMZN",
       "nameCn": "亞馬遜",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Research"
+    },
+    {
+      "symbol": "AAPL",
+      "nameCn": "蘋果",
       "exchange": "NASDAQ",
       "role": "研究",
       "notesUrl": null,
@@ -340,6 +327,19 @@
       "role": "研究",
       "notesUrl": null,
       "lastFiling": null,
+      "Role": "Research"
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568174a354f22f3d1c3a61",
+      "lastFiling": {
+        "title": "NVIDIA–MediaTek partnership and $3.5B convertible bonds",
+        "date": "2026-08-31",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+      },
       "Role": "Research"
     },
     {
