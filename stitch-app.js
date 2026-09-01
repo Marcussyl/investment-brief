@@ -82,10 +82,6 @@ function switchView(viewName) {
   const views = document.querySelectorAll('.view');
   views.forEach(v => v.classList.remove('active'));
   document.getElementById(`view${capitalize(viewName)}`).classList.add('active');
-  
-  if (viewName === 'market' && Object.keys(charts).length === 0) {
-    renderMarketCharts();
-  }
 }
 
 function capitalize(str) {
@@ -162,13 +158,6 @@ function destroyAllCharts() {
 
 function refreshRenderedViews() {
   renderUI();
-
-  const marketCharts = document.getElementById('marketCharts');
-  const marketWasRendered = marketCharts && marketCharts.children.length > 0;
-  if (marketWasRendered) {
-    destroyAllCharts();
-    renderMarketCharts();
-  }
 }
 
 function showAlert(message, type = 'info') {
@@ -721,154 +710,6 @@ function renderTechNews() {
 }
 
 // Render Market Charts
-function renderMarketCharts() {
-  const container = document.getElementById('marketCharts');
-  
-  const html = watchlistData.tickers.map(ticker => {
-    const hasData = ticker.prices['1M'].length > 0;
-    const latestPrice = hasData ? ticker.prices['1M'][ticker.prices['1M'].length - 1].close : 0;
-    
-    return `
-      <div class="chart-card" data-ticker="${ticker.symbol}">
-        <div class="chart-header">
-          <span class="chart-ticker">${ticker.symbol}</span>
-          ${hasData ? `<span class="chart-price">$${latestPrice.toFixed(2)}</span>` : ''}
-        </div>
-        <div class="chart-container" id="marketChart-${ticker.symbol.replace('.', '-')}">
-          ${!hasData ? '<div class="chart-empty">無可用數據</div>' : ''}
-        </div>
-        ${hasData ? `
-          <div class="timeframe-selector">
-            <button class="timeframe-btn active" data-period="1M" data-ticker="${ticker.symbol}">1M</button>
-            <button class="timeframe-btn" data-period="3M" data-ticker="${ticker.symbol}">3M</button>
-            <button class="timeframe-btn" data-period="1Y" data-ticker="${ticker.symbol}">1Y</button>
-          </div>
-        ` : ''}
-      </div>
-    `;
-  }).join('');
-  
-  container.innerHTML = html;
-  
-  // Render charts
-  watchlistData.tickers.forEach(ticker => {
-    if (ticker.prices['1M'].length > 0) {
-      renderChart(ticker.symbol, '1M');
-    }
-  });
-  
-  // Setup timeframe buttons
-  container.querySelectorAll('.timeframe-btn').forEach(btn => {
-    btn.addEventListener('click', (e) => {
-      const ticker = e.target.dataset.ticker;
-      const period = e.target.dataset.period;
-      
-      // Update active state
-      const card = e.target.closest('.chart-card');
-      card.querySelectorAll('.timeframe-btn').forEach(b => b.classList.remove('active'));
-      e.target.classList.add('active');
-      
-      // Re-render chart
-      renderChart(ticker, period);
-    });
-  });
-  
-  // Click to open ticker sheet
-  container.querySelectorAll('.chart-card').forEach(card => {
-    card.addEventListener('click', (e) => {
-      if (!e.target.closest('.timeframe-btn')) {
-        const ticker = card.dataset.ticker;
-        openTickerSheet(ticker);
-      }
-    });
-  });
-}
-
-// Render Chart
-function renderChart(symbol, period) {
-  const ticker = watchlistData.tickers.find(t => t.symbol === symbol);
-  if (!ticker || !ticker.prices[period] || ticker.prices[period].length === 0) return;
-  
-  const canvasId = `marketChart-${symbol.replace('.', '-')}`;
-  const container = document.getElementById(canvasId);
-  if (!container) return;
-  
-  // Clear existing content
-  container.innerHTML = '<canvas></canvas>';
-  const canvas = container.querySelector('canvas');
-  const ctx = canvas.getContext('2d');
-  
-  // Destroy existing chart
-  if (charts[canvasId]) {
-    charts[canvasId].destroy();
-  }
-  
-  const data = ticker.prices[period];
-  const labels = data.map(d => d.date);
-  const prices = data.map(d => d.close);
-  
-  const gradient = ctx.createLinearGradient(0, 0, 0, 180);
-  gradient.addColorStop(0, 'rgba(46, 230, 214, 0.2)');
-  gradient.addColorStop(1, 'rgba(46, 230, 214, 0)');
-  
-  charts[canvasId] = new Chart(ctx, {
-    type: 'line',
-    data: {
-      labels: labels,
-      datasets: [{
-        data: prices,
-        borderColor: '#2EE6D6',
-        backgroundColor: gradient,
-        borderWidth: 2,
-        fill: true,
-        tension: 0.4,
-        pointRadius: 0,
-        pointHoverRadius: 5,
-      }]
-    },
-    options: {
-      responsive: true,
-      maintainAspectRatio: false,
-      plugins: {
-        legend: { display: false },
-        tooltip: {
-          mode: 'index',
-          intersect: false,
-          backgroundColor: 'rgba(24, 28, 28, 0.95)',
-          titleColor: '#e0e3e1',
-          bodyColor: '#bec9c6',
-          borderColor: '#3f4946',
-          borderWidth: 1,
-          padding: 12,
-          displayColors: false,
-          callbacks: {
-            label: (context) => `$${context.parsed.y.toFixed(2)}`
-          }
-        }
-      },
-      scales: {
-        x: { display: false },
-        y: {
-          border: { display: false },
-          grid: {
-            color: 'rgba(190, 201, 198, 0.1)',
-            drawTicks: false
-          },
-          ticks: {
-            color: '#bec9c6',
-            padding: 10,
-            callback: (value) => '$' + value.toFixed(0)
-          }
-        }
-      },
-      interaction: {
-        intersect: false,
-        mode: 'index'
-      }
-    }
-  });
-}
-
 // Render Chart in Sheet (with explicit sizing)
 function renderSheetChart(symbol, period, containerId = 'sheetChart') {
   const ticker = watchlistData.tickers.find(t => t.symbol === symbol);
