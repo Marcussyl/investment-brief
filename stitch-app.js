@@ -87,7 +87,7 @@ function initNavigation() {
 
 function restoreSavedView(mobileNavItems, desktopNavItems) {
   const savedView = localStorage.getItem('ib_active_view');
-  const validViews = ['today', 'market', 'portfolio', 'glossary'];
+  const validViews = ['today', 'market', 'portfolio'];
   const viewToRestore = validViews.includes(savedView) ? savedView : 'today';
   
   // Switch to the saved/default view
@@ -449,7 +449,6 @@ function renderUI() {
   renderWatchlistChips();
   renderConceptChips();
   renderStories();
-  renderGlossary();
   renderTechNews();
   renderPortfolio();
 }
@@ -620,29 +619,6 @@ function renderStories() {
     card.addEventListener('click', () => {
       const storyId = card.dataset.storyId;
       openStoryInPanel(storyId);
-    });
-  });
-}
-
-// Render Glossary
-function renderGlossary() {
-  const container = document.getElementById('glossaryGrid');
-  const concepts = briefData.concepts || [];
-  
-  const html = concepts.map(concept => `
-    <div class="glossary-card" data-concept-id="${concept.id}">
-      <div class="glossary-title">${concept.title}</div>
-      <div class="glossary-title-en">${concept.titleEn}</div>
-      <p class="glossary-what">${concept.what}</p>
-    </div>
-  `).join('');
-  
-  container.innerHTML = html;
-  
-  container.querySelectorAll('.glossary-card').forEach(card => {
-    card.addEventListener('click', () => {
-      const conceptId = card.dataset.conceptId;
-      openConcept(conceptId);
     });
   });
 }

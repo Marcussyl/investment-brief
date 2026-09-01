@@ -1314,53 +1314,6 @@ body {
   color: var(--on-surface-variant);
 }
 
-/* Glossary Grid */
-.glossary-grid {
-  display: grid;
-  gap: 16px;
-}
-
-@media (min-width: 640px) {
-  .glossary-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-.glossary-card {
-  background: var(--surface);
-  border: 1px solid var(--outline-variant);
-  border-radius: var(--radius-card);
-  padding: 20px;
-  cursor: pointer;
-  transition: all var(--duration-quick) var(--easing);
-}
-
-.glossary-card:hover {
-  border-color: var(--accent);
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px var(--shadow);
-}
-
-.glossary-title {
-  font-family: var(--font-label);
-  font-size: 1rem;
-  font-weight: 700;
-  color: var(--on-surface);
-  margin-bottom: 8px;
-}
-
-.glossary-title-en {
-  font-size: 0.8125rem;
-  color: var(--on-surface-variant);
-  margin-bottom: 12px;
-}
-
-.glossary-what {
-  font-size: 0.875rem;
-  color: var(--on-surface-variant);
-  line-height: 1.6;
-}
-
 /* Empty State */
 .empty-state {
   text-align: center;
