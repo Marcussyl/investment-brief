@@ -272,10 +272,18 @@
       "lastFiling": null
     },
     {
+      "symbol": "META",
+      "nameCn": "Meta",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
       "symbol": "SPCX",
       "nameCn": "SpaceX",
       "exchange": "NASDAQ",
-      "role": "研究",
+      "role": "持仓",
       "notesUrl": null,
       "lastFiling": {
         "title": "SpaceX Q2 2026 results",
@@ -287,7 +295,7 @@
       "symbol": "1810.HK",
       "nameCn": "小米集團",
       "exchange": "HKEX",
-      "role": "研究",
+      "role": "持仓",
       "notesUrl": null,
       "lastFiling": {
         "title": "Xiaomi Q2 / interim results 2026",
@@ -307,7 +315,7 @@
       "symbol": "SPYM",
       "nameCn": "標普 500 ETF",
       "exchange": "NYSE Arca",
-      "role": "學習",
+      "role": "持仓",
       "notesUrl": null,
       "lastFiling": null
     },
@@ -315,7 +323,7 @@
       "symbol": "VEU",
       "nameCn": "全球非美 ETF",
       "exchange": "NYSE Arca",
-      "role": "學習",
+      "role": "持仓",
       "notesUrl": null,
       "lastFiling": null
     },
@@ -323,7 +331,7 @@
       "symbol": "GLD",
       "nameCn": "黃金 ETF",
       "exchange": "NYSE Arca",
-      "role": "學習",
+      "role": "持仓",
       "notesUrl": null,
       "lastFiling": null
     }

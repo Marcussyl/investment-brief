@@ -14,6 +14,7 @@ TICKERS = [
   'GOOGL',
   'AMZN',
   'AAPL',
+  'META',
   'SPCX',
   '1810.HK',
   '1398.HK',
