@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-01T05:13:11Z",
+  "lastUpdated": "2026-09-01T05:24:38Z",
   "tickers": [
     {
       "symbol": "SPCX",
       "name": "Space Exploration Technologies Corp.",
-      "role": "持倉",
+      "role": "\u6301\u5009",
       "prices": {
         "1M": [
           {
@@ -577,7 +577,7 @@
     {
       "symbol": "1810.HK",
       "name": "Xiaomi Corporation",
-      "role": "持倉",
+      "role": "\u6301\u5009",
       "prices": {
         "1M": [
           {
@@ -698,7 +698,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 27.78
+            "close": 27.82
           }
         ],
         "3M": [
@@ -1060,7 +1060,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 27.78
+            "close": 27.82
           }
         ],
         "1Y": [
@@ -2046,7 +2046,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 27.78
+            "close": 27.82
           }
         ]
       }
@@ -2054,7 +2054,7 @@
     {
       "symbol": "GLD",
       "name": "SPDR Gold Shares",
-      "role": "持倉",
+      "role": "\u6301\u5009",
       "prices": {
         "1M": [
           {
@@ -3551,7 +3551,7 @@
     {
       "symbol": "VEU",
       "name": "Vanguard FTSE All-World ex-US Index Fund ETF Shares",
-      "role": "持倉",
+      "role": "\u6301\u5009",
       "prices": {
         "1M": [
           {
@@ -5044,7 +5044,7 @@
     {
       "symbol": "SPYM",
       "name": "State Street SPDR Portfolio S&P 500 ETF",
-      "role": "持倉",
+      "role": "\u6301\u5009",
       "prices": {
         "1M": [
           {
@@ -6537,7 +6537,7 @@
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "role": "研究",
+      "role": "\u7814\u7a76",
       "prices": {
         "1M": [
           {
@@ -8034,7 +8034,7 @@
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "role": "研究",
+      "role": "\u7814\u7a76",
       "prices": {
         "1M": [
           {
@@ -9531,7 +9531,7 @@
     {
       "symbol": "1398.HK",
       "name": "Industrial and Commercial Bank of China Limited",
-      "role": "研究",
+      "role": "\u7814\u7a76",
       "prices": {
         "1M": [
           {
@@ -9652,7 +9652,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 7.58
+            "close": 7.59
           }
         ],
         "3M": [
@@ -10014,7 +10014,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 7.58
+            "close": 7.59
           }
         ],
         "1Y": [
@@ -11000,7 +11000,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 7.58
+            "close": 7.59
           }
         ]
       }
