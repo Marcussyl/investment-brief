@@ -1595,8 +1595,27 @@ body {
 
 .sheet-content {
   overflow-y: auto;
-  padding: 20px;
+  padding: 32px 20px;
   flex: 1;
+  scrollbar-width: thin;
+  scrollbar-color: var(--outline-variant) transparent;
+}
+
+.sheet-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.sheet-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.sheet-content::-webkit-scrollbar-thumb {
+  background: var(--outline-variant);
+  border-radius: 4px;
+}
+
+.sheet-content::-webkit-scrollbar-thumb:hover {
+  background: var(--outline);
 }
 
 /* Right Panel (Desktop) */
@@ -1607,9 +1626,28 @@ body {
   background: var(--surface);
   border: 1px solid var(--outline-variant);
   border-radius: var(--radius-card);
-  padding: 24px;
+  padding: 32px 24px;
   overflow-y: auto;
   display: none;
+  scrollbar-width: thin;
+  scrollbar-color: var(--outline-variant) transparent;
+}
+
+.right-panel::-webkit-scrollbar {
+  width: 8px;
+}
+
+.right-panel::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.right-panel::-webkit-scrollbar-thumb {
+  background: var(--outline-variant);
+  border-radius: 4px;
+}
+
+.right-panel::-webkit-scrollbar-thumb:hover {
+  background: var(--outline);
 }
 
 .right-panel.has-content {
@@ -1618,7 +1656,7 @@ body {
 
 @media (min-width: 1024px) {
   .content-layout.panel-active {
-    grid-template-columns: 1fr 360px;
+    grid-template-columns: 1fr 480px;
   }
   
   .content-layout:not(.panel-active) {
