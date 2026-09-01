@@ -1,5 +1,8 @@
 {
   "date": "2026-09-01",
+  "audioUrl": "data/audio/2026-09-01.mp3",
+  "audioScriptChars": 2162,
+  "audioVoice": "zh-TW-HsiaoChenNeural",
   "stories": [
     {
       "id": "nvda-mediatek-cb",
