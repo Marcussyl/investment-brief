@@ -1063,6 +1063,8 @@ function showSheet(content) {
   sheet.classList.add('active');
   
   document.body.style.overflow = 'hidden';
+  
+  initSheetDrag();
 }
 
 function closeSheet() {
@@ -1074,6 +1076,94 @@ function closeSheet() {
   
   document.body.style.overflow = '';
   clearActiveChips();
+  
+  sheet.style.transition = '';
+  sheet.style.transform = '';
+  scrim.style.opacity = '';
+}
+
+// Sheet drag-to-close functionality
+let dragState = {
+  isDragging: false,
+  startY: 0,
+  currentY: 0,
+  startTime: 0
+};
+
+function initSheetDrag() {
+  const sheet = document.getElementById('bottomSheet');
+  const handle = sheet.querySelector('.sheet-handle');
+  const sheetContent = document.getElementById('sheetContent');
+  const scrim = document.getElementById('sheetScrim');
+  
+  if (!handle || !sheet) return;
+  
+  const onPointerDown = (e) => {
+    const isHandle = e.target === handle || handle.contains(e.target);
+    const isTopOfContent = sheetContent.scrollTop === 0;
+    
+    if (!isHandle && !isTopOfContent) return;
+    
+    dragState.isDragging = true;
+    dragState.startY = e.clientY;
+    dragState.currentY = e.clientY;
+    dragState.startTime = Date.now();
+    
+    sheet.style.transition = 'none';
+    scrim.style.transition = 'none';
+    
+    sheet.setPointerCapture(e.pointerId);
+    e.preventDefault();
+  };
+  
+  const onPointerMove = (e) => {
+    if (!dragState.isDragging) return;
+    
+    dragState.currentY = e.clientY;
+    const deltaY = dragState.currentY - dragState.startY;
+    
+    if (deltaY > 0) {
+      sheet.style.transform = `translateY(${deltaY}px)`;
+      
+      const opacity = Math.max(0, 1 - (deltaY / 300));
+      scrim.style.opacity = opacity;
+    }
+  };
+  
+  const onPointerUp = (e) => {
+    if (!dragState.isDragging) return;
+    
+    const deltaY = dragState.currentY - dragState.startY;
+    const deltaTime = Date.now() - dragState.startTime;
+    const velocity = deltaY / deltaTime;
+    
+    dragState.isDragging = false;
+    
+    sheet.style.transition = '';
+    scrim.style.transition = '';
+    
+    if (deltaY > 100 || velocity > 0.5) {
+      closeSheet();
+    } else {
+      sheet.style.transform = '';
+      scrim.style.opacity = '';
+    }
+  };
+  
+  const onPointerCancel = () => {
+    if (!dragState.isDragging) return;
+    
+    dragState.isDragging = false;
+    sheet.style.transition = '';
+    scrim.style.transition = '';
+    sheet.style.transform = '';
+    scrim.style.opacity = '';
+  };
+  
+  sheet.addEventListener('pointerdown', onPointerDown);
+  sheet.addEventListener('pointermove', onPointerMove);
+  sheet.addEventListener('pointerup', onPointerUp);
+  sheet.addEventListener('pointercancel', onPointerCancel);
 }
 
 // Setup Event Listeners
