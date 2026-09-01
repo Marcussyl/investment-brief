@@ -143,6 +143,152 @@ body {
   flex-shrink: 0;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: auto;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.update-btn {
+  min-width: var(--target-min);
+  min-height: var(--target-min);
+  padding: 0 12px;
+  border: 1px solid color-mix(in srgb, var(--primary) 35%, var(--outline-variant));
+  background: color-mix(in srgb, var(--primary-container) 35%, transparent);
+  color: var(--primary);
+  cursor: pointer;
+  border-radius: var(--radius-chip);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: all var(--duration-quick) var(--easing);
+  flex-shrink: 0;
+  font-family: var(--font-label);
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.update-btn:hover:not(:disabled) {
+  background: var(--primary-container);
+  color: var(--on-primary-container);
+  border-color: var(--primary);
+}
+
+.update-btn:active:not(:disabled) {
+  transform: scale(0.96);
+}
+
+.update-btn:disabled {
+  opacity: 0.7;
+  cursor: wait;
+}
+
+.update-btn.is-loading .update-icon {
+  animation: update-spin 0.9s linear infinite;
+}
+
+.update-icon {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+}
+
+.update-label {
+  line-height: 1;
+}
+
+.update-toast {
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  white-space: nowrap;
+  z-index: 120;
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-family: var(--font-label);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  box-shadow: 0 8px 24px var(--shadow);
+  background: var(--surface);
+  color: var(--on-surface);
+  border: 1px solid var(--outline-variant);
+  pointer-events: none;
+  opacity: 0;
+  transform: translateY(-6px);
+  transition: opacity var(--duration-quick) var(--easing), transform var(--duration-quick) var(--easing);
+}
+
+.update-toast.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.update-toast.is-success {
+  background: var(--success-container);
+  color: var(--success);
+  border-color: color-mix(in srgb, var(--success) 30%, transparent);
+}
+
+.update-toast.is-error {
+  background: var(--error-container);
+  color: var(--error);
+  border-color: color-mix(in srgb, var(--error) 30%, transparent);
+}
+
+.update-toast.is-info {
+  background: color-mix(in srgb, var(--primary-container) 55%, var(--surface));
+  color: var(--primary);
+  border-color: color-mix(in srgb, var(--primary) 25%, transparent);
+}
+
+@keyframes update-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@media (max-width: 480px) {
+  .update-btn {
+    padding: 0;
+    width: var(--target-min);
+    height: var(--target-min);
+    border-radius: 50%;
+  }
+
+  .update-btn .update-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .update-btn.is-loading {
+    width: auto;
+    min-width: var(--target-min);
+    padding: 0 12px;
+    border-radius: var(--radius-chip);
+  }
+
+  .update-btn.is-loading .update-label {
+    position: static;
+    width: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    clip: auto;
+    white-space: nowrap;
+  }
+}
+
 .theme-toggle {
   width: var(--target-min);
   height: var(--target-min);
@@ -157,7 +303,6 @@ body {
   transition: all var(--duration-quick) var(--easing);
   position: relative;
   flex-shrink: 0;
-  margin-left: auto;
 }
 
 .theme-toggle:hover {
@@ -1420,6 +1565,8 @@ body {
   .header-glass,
   .bottom-nav,
   .theme-toggle,
+  .update-btn,
+  .update-toast,
   .bottom-sheet,
   .sheet-scrim {
     display: none !important;

@@ -11,7 +11,8 @@ let charts = {};
 document.addEventListener('DOMContentLoaded', async () => {
   initTheme();
   initNavigation();
-  await loadData();
+  initUpdateButton();
+  await loadSiteData();
   renderUI();
   setupEventListeners();
   autoSelectFirstStoryOnDesktop();
@@ -90,40 +91,147 @@ function capitalize(str) {
 }
 
 // Data Loading
-async function loadData() {
+function cacheBustUrl(path, bustCache) {
+  if (!bustCache) return path;
+  const sep = path.includes('?') ? '&' : '?';
+  return `${path}${sep}t=${Date.now()}`;
+}
+
+async function fetchJson(path, { bustCache = false, optional = false } = {}) {
+  const url = cacheBustUrl(path, bustCache);
+  const options = bustCache ? { cache: 'no-store' } : {};
+  try {
+    const res = await fetch(url, options);
+    if (!res.ok) {
+      if (optional) return null;
+      throw new Error(`HTTP ${res.status} for ${path}`);
+    }
+    return await res.json();
+  } catch (error) {
+    if (optional) return null;
+    throw error;
+  }
+}
+
+async function loadSiteData({ bustCache = false } = {}) {
   try {
     let latestBriefFile = '2026-08-31.json';
-    
+
     try {
-      const indexRes = await fetch('data/briefs-index.json');
-      if (indexRes.ok) {
-        const indexData = await indexRes.json();
-        if (indexData.briefs && indexData.briefs.length > 0) {
-          latestBriefFile = indexData.briefs[0];
-        }
+      const indexData = await fetchJson('data/briefs-index.json', { bustCache, optional: true });
+      if (indexData && indexData.briefs && indexData.briefs.length > 0) {
+        latestBriefFile = indexData.briefs[0];
       }
     } catch (e) {
       console.warn('Could not load briefs index, using fallback');
     }
-    
-    const [briefRes, watchlistRes, techNewsRes] = await Promise.all([
-      fetch(`data/briefs/${latestBriefFile}`),
-      fetch('data/watchlist.json'),
-      fetch('data/tech-news.json').catch(() => null)
+
+    const [brief, watchlist, techNews] = await Promise.all([
+      fetchJson(`data/briefs/${latestBriefFile}`, { bustCache }),
+      fetchJson('data/watchlist.json', { bustCache }),
+      fetchJson('data/tech-news.json', { bustCache, optional: true })
     ]);
-    
-    briefData = await briefRes.json();
-    watchlistData = await watchlistRes.json();
-    
-    if (techNewsRes && techNewsRes.ok) {
-      techNewsData = await techNewsRes.json();
-    }
-    
+
+    briefData = brief;
+    watchlistData = watchlist;
+    techNewsData = techNews;
+
     updateDateLabel();
+    return true;
   } catch (error) {
     console.error('Error loading data:', error);
-    showError('無法載入數據');
+    if (!bustCache) {
+      showError('無法載入數據');
+    }
+    return false;
   }
+}
+
+function destroyAllCharts() {
+  Object.keys(charts).forEach((key) => {
+    try {
+      charts[key].destroy();
+    } catch (e) {
+      // ignore stale chart instances
+    }
+    delete charts[key];
+  });
+}
+
+function refreshRenderedViews() {
+  renderUI();
+
+  const marketCharts = document.getElementById('marketCharts');
+  const marketWasRendered = marketCharts && marketCharts.children.length > 0;
+  if (marketWasRendered) {
+    destroyAllCharts();
+    renderMarketCharts();
+  }
+}
+
+function showUpdateToast(message, type = 'info') {
+  const toast = document.getElementById('updateToast');
+  if (!toast) return;
+
+  toast.hidden = false;
+  toast.textContent = message;
+  toast.classList.remove('is-visible', 'is-success', 'is-error', 'is-info');
+  toast.classList.add(`is-${type}`);
+
+  // Force reflow so transition restarts
+  void toast.offsetWidth;
+  toast.classList.add('is-visible');
+
+  clearTimeout(showUpdateToast._timer);
+  showUpdateToast._timer = setTimeout(() => {
+    toast.classList.remove('is-visible');
+    setTimeout(() => {
+      toast.hidden = true;
+      toast.textContent = '';
+      toast.classList.remove('is-success', 'is-error', 'is-info');
+    }, 220);
+  }, 2800);
+}
+
+function setUpdateButtonLoading(isLoading) {
+  const btn = document.getElementById('updateBtn');
+  if (!btn) return;
+  const label = btn.querySelector('.update-label');
+  btn.disabled = isLoading;
+  btn.classList.toggle('is-loading', isLoading);
+  btn.setAttribute('aria-busy', isLoading ? 'true' : 'false');
+  if (label) {
+    label.textContent = isLoading ? '更新中…' : '更新';
+  }
+}
+
+async function refreshSiteData() {
+  const btn = document.getElementById('updateBtn');
+  if (btn && btn.disabled) return;
+
+  setUpdateButtonLoading(true);
+
+  try {
+    const ok = await loadSiteData({ bustCache: true });
+    if (!ok) {
+      throw new Error('local reload failed');
+    }
+    refreshRenderedViews();
+    showUpdateToast('已重新載入', 'info');
+  } catch (error) {
+    console.error('Refresh failed:', error);
+    showUpdateToast('更新失敗', 'error');
+  } finally {
+    setUpdateButtonLoading(false);
+  }
+}
+
+function initUpdateButton() {
+  const btn = document.getElementById('updateBtn');
+  if (!btn) return;
+  btn.addEventListener('click', () => {
+    refreshSiteData();
+  });
 }
 
 function updateDateLabel() {
