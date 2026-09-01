@@ -256,6 +256,22 @@
       }
     },
     {
+      "symbol": "AMZN",
+      "nameCn": "亞馬遜",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "AAPL",
+      "nameCn": "蘋果",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
       "symbol": "SPCX",
       "nameCn": "SpaceX",
       "exchange": "NASDAQ",
@@ -278,6 +294,14 @@
         "date": "2026-08-18",
         "url": "https://ir.mi.com/"
       }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null
     },
     {
       "symbol": "SPYM",

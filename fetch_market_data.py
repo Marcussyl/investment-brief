@@ -12,13 +12,11 @@ from datetime import datetime, timedelta
 TICKERS = [
   'NVDA',
   'GOOGL',
-  'MSFT',
-  'AAPL',
   'AMZN',
-  'META',
-  'TSLA',
+  'AAPL',
   'SPCX',
   '1810.HK',
+  '1398.HK',
   'SPYM',
   'VEU',
   'GLD'
