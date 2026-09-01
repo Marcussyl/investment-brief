@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "2026-09-01T04:46:09Z",
+  "lastUpdated": "2026-09-01T05:13:11Z",
   "tickers": [
     {
       "symbol": "SPCX",
       "name": "Space Exploration Technologies Corp.",
+      "role": "持倉",
       "prices": {
         "1M": [
           {
@@ -571,13 +572,12 @@
             "close": 143.69
           }
         ]
-      },
-      "role": "持倉",
-      "Role": "Holding"
+      }
     },
     {
       "symbol": "1810.HK",
       "name": "Xiaomi Corporation",
+      "role": "持倉",
       "prices": {
         "1M": [
           {
@@ -698,7 +698,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 27.8
+            "close": 27.78
           }
         ],
         "3M": [
@@ -1060,7 +1060,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 27.8
+            "close": 27.78
           }
         ],
         "1Y": [
@@ -2046,16 +2046,15 @@
           },
           {
             "date": "2026-09-01",
-            "close": 27.8
+            "close": 27.78
           }
         ]
-      },
-      "role": "持倉",
-      "Role": "Holding"
+      }
     },
     {
       "symbol": "GLD",
       "name": "SPDR Gold Shares",
+      "role": "持倉",
       "prices": {
         "1M": [
           {
@@ -3547,13 +3546,12 @@
             "close": 408.42
           }
         ]
-      },
-      "role": "持倉",
-      "Role": "Holding"
+      }
     },
     {
       "symbol": "VEU",
       "name": "Vanguard FTSE All-World ex-US Index Fund ETF Shares",
+      "role": "持倉",
       "prices": {
         "1M": [
           {
@@ -5041,13 +5039,12 @@
             "close": 85.25
           }
         ]
-      },
-      "role": "持倉",
-      "Role": "Holding"
+      }
     },
     {
       "symbol": "SPYM",
       "name": "State Street SPDR Portfolio S&P 500 ETF",
+      "role": "持倉",
       "prices": {
         "1M": [
           {
@@ -6535,13 +6532,12 @@
             "close": 90.28
           }
         ]
-      },
-      "role": "持倉",
-      "Role": "Holding"
+      }
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
+      "role": "研究",
       "prices": {
         "1M": [
           {
@@ -8033,13 +8029,12 @@
             "close": 507.29
           }
         ]
-      },
-      "role": "研究",
-      "Role": "Research"
+      }
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
+      "role": "研究",
       "prices": {
         "1M": [
           {
@@ -9531,13 +9526,12 @@
             "close": 220.78
           }
         ]
-      },
-      "role": "研究",
-      "Role": "Research"
+      }
     },
     {
       "symbol": "1398.HK",
       "name": "Industrial and Commercial Bank of China Limited",
+      "role": "研究",
       "prices": {
         "1M": [
           {
@@ -9658,7 +9652,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 7.57
+            "close": 7.58
           }
         ],
         "3M": [
@@ -10020,7 +10014,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 7.57
+            "close": 7.58
           }
         ],
         "1Y": [
@@ -11006,12 +11000,10 @@
           },
           {
             "date": "2026-09-01",
-            "close": 7.57
+            "close": 7.58
           }
         ]
-      },
-      "role": "研究",
-      "Role": "Research"
+      }
     }
   ]
 }
