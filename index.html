@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght=400;500;600;700&family=Hanken+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="stitch.css?v=20260901-15">
+  <link rel="stylesheet" href="stitch.css?v=20260901-16">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body data-theme="auto">
@@ -166,10 +166,25 @@
             <p id="techNewsDisclaimerText"></p>
           </div>
 
+          <!-- Tech News Filters -->
+          <section class="section" id="techNewsFilters">
+            <div class="filter-group">
+              <div class="filter-label">股票</div>
+              <div class="filter-chips" id="stockFilters"></div>
+            </div>
+            <div class="filter-group">
+              <div class="filter-label">來源</div>
+              <div class="filter-chips" id="sourceFilters"></div>
+            </div>
+          </section>
+
           <!-- Tech News Digest -->
           <section class="section" id="techNewsSection">
             <h2 class="section-title">📰 科技新聞摘要</h2>
             <div class="tech-news-list" id="techNewsList"></div>
+            <div class="tech-news-empty" id="techNewsEmpty" style="display: none;">
+              <p>呢個篩選暫時冇結果</p>
+            </div>
           </section>
         </div>
 
@@ -272,6 +287,6 @@
     <button class="alert-close" aria-label="關閉">×</button>
   </div>
 
-  <script src="stitch-app.js?v=20260901-15"></script>
+  <script src="stitch-app.js?v=20260901-16"></script>
 </body>
 </html>

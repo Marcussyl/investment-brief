@@ -653,22 +653,95 @@ function renderGlossary() {
   });
 }
 
-// Render Tech News
-function renderTechNews() {
+// Tech News Filter State
+let techNewsFilters = {
+  stock: 'all',
+  source: 'all'
+};
+
+// Render Tech News Filters
+function renderTechNewsFilters() {
+  if (!techNewsData || !techNewsData.items || techNewsData.items.length === 0) return;
+
+  // Extract unique stocks
+  const stocksSet = new Set();
+  techNewsData.items.forEach(item => {
+    item.tickers.forEach(ticker => stocksSet.add(ticker));
+  });
+  const stocks = ['all', ...Array.from(stocksSet).sort()];
+
+  // Extract unique sources
+  const sourcesSet = new Set();
+  techNewsData.items.forEach(item => {
+    sourcesSet.add(item.source);
+  });
+  const sources = ['all', ...Array.from(sourcesSet).sort()];
+
+  // Render stock filters
+  const stockContainer = document.getElementById('stockFilters');
+  const stockHtml = stocks.map(stock => {
+    const label = stock === 'all' ? '全部' : stock;
+    const active = techNewsFilters.stock === stock ? 'active' : '';
+    return `<button class="filter-chip ${active}" data-filter-type="stock" data-filter-value="${stock}">${label}</button>`;
+  }).join('');
+  stockContainer.innerHTML = stockHtml;
+
+  // Render source filters
+  const sourceContainer = document.getElementById('sourceFilters');
+  const sourceHtml = sources.map(source => {
+    const label = source === 'all' ? '全部' : source;
+    const active = techNewsFilters.source === source ? 'active' : '';
+    return `<button class="filter-chip ${active}" data-filter-type="source" data-filter-value="${source}">${label}</button>`;
+  }).join('');
+  sourceContainer.innerHTML = sourceHtml;
+
+  // Setup event listeners
+  document.querySelectorAll('.filter-chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      const filterType = chip.dataset.filterType;
+      const filterValue = chip.dataset.filterValue;
+      
+      techNewsFilters[filterType] = filterValue;
+      
+      // Update active states
+      const container = filterType === 'stock' ? stockContainer : sourceContainer;
+      container.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      
+      // Re-render news
+      renderTechNewsList();
+    });
+  });
+}
+
+// Render Tech News List
+function renderTechNewsList() {
   const container = document.getElementById('techNewsList');
-  const disclaimerDiv = document.getElementById('techNewsDisclaimer');
-  const disclaimerText = document.getElementById('techNewsDisclaimerText');
+  const emptyState = document.getElementById('techNewsEmpty');
   
   if (!techNewsData || !techNewsData.items || techNewsData.items.length === 0) {
-    container.innerHTML = '<div class="tech-news-empty">今朝未有篩過的科技新聞</div>';
-    disclaimerDiv.style.display = 'none';
+    container.style.display = 'none';
+    emptyState.style.display = 'block';
     return;
   }
-  
-  disclaimerText.textContent = techNewsData.disclaimer;
-  disclaimerDiv.style.display = 'flex';
-  
-  const html = techNewsData.items.map(item => {
+
+  // Filter items
+  const filteredItems = techNewsData.items.filter(item => {
+    const stockMatch = techNewsFilters.stock === 'all' || item.tickers.includes(techNewsFilters.stock);
+    const sourceMatch = techNewsFilters.source === 'all' || item.source === techNewsFilters.source;
+    return stockMatch && sourceMatch;
+  });
+
+  if (filteredItems.length === 0) {
+    container.style.display = 'none';
+    emptyState.style.display = 'block';
+    return;
+  }
+
+  container.style.display = 'grid';
+  emptyState.style.display = 'none';
+
+  const html = filteredItems.map(item => {
     const tickerChipsHtml = item.tickers.map(ticker => 
       `<button class="tech-news-ticker-chip" data-ticker="${ticker}">${ticker}</button>`
     ).join('');
@@ -707,6 +780,26 @@ function renderTechNews() {
       openTicker(ticker);
     });
   });
+}
+
+// Render Tech News (with filters)
+function renderTechNews() {
+  const disclaimerDiv = document.getElementById('techNewsDisclaimer');
+  const disclaimerText = document.getElementById('techNewsDisclaimerText');
+  
+  if (!techNewsData || !techNewsData.items || techNewsData.items.length === 0) {
+    document.getElementById('techNewsList').innerHTML = '<div class="tech-news-empty">今朝未有篩過的科技新聞</div>';
+    disclaimerDiv.style.display = 'none';
+    document.getElementById('techNewsFilters').style.display = 'none';
+    return;
+  }
+  
+  disclaimerText.textContent = techNewsData.disclaimer;
+  disclaimerDiv.style.display = 'flex';
+  document.getElementById('techNewsFilters').style.display = 'block';
+  
+  renderTechNewsFilters();
+  renderTechNewsList();
 }
 
 // Render Market Charts
