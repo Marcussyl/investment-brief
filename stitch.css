@@ -1621,8 +1621,8 @@ body {
 /* Right Panel (Desktop) */
 .right-panel {
   position: sticky;
-  top: 80px;
-  height: calc(100vh - 96px);
+  top: 16px;
+  height: calc(100vh - 32px);
   background: var(--surface);
   border: 1px solid var(--outline-variant);
   border-radius: var(--radius-card);
