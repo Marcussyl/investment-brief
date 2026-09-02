@@ -143,7 +143,7 @@ async function fetchJson(path, { bustCache = false, optional = false } = {}) {
 
 async function loadSiteData({ bustCache = false } = {}) {
   try {
-    let latestBriefFile = '2026-08-31.json';
+    let latestBriefFile = '2026-09-02.json';
 
     try {
       const indexData = await fetchJson('data/briefs-index.json', { bustCache, optional: true });
@@ -433,10 +433,11 @@ function initUpdateButton() {
 function updateDateLabel() {
   if (!briefData || !briefData.date) return;
   
-  const date = new Date(briefData.date);
-  const year = date.getFullYear();
-  const month = date.getMonth() + 1;
-  const day = date.getDate();
+  // Parse YYYY-MM-DD as calendar date (timezone-safe)
+  const parts = briefData.date.split('-');
+  const year = parseInt(parts[0], 10);
+  const month = parseInt(parts[1], 10);
+  const day = parseInt(parts[2], 10);
   
   const dateLabels = document.querySelectorAll('.date-label');
   dateLabels[0].textContent = `${year}年${month}月${day}日`;

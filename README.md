@@ -2,7 +2,7 @@
 
 Visual weekday investment news brief with charts, hosted on Vercel. Traditional Chinese UI with dark/light theme toggle.
 
-**Live Site:** https://investment-brief.vercel.app/
+**Live Site:** https://investment-brief-lime.vercel.app/
 
 ## Overview
 
@@ -161,9 +161,10 @@ The site has an「更新」(Update) button in the header that triggers a webhook
    - Scope: Production + Preview
 
 3. **Verify deployment:**
-   - Primary URL: `https://investment-brief.vercel.app/`
-   - API endpoint: `https://investment-brief.vercel.app/api/refresh`
-   - Test refresh proxy: `curl -X POST https://investment-brief.vercel.app/api/refresh`
+   - Primary URL: `https://investment-brief-lime.vercel.app/`
+   - Alternate URL: `https://investment-brief-marcussyls-projects.vercel.app/`
+   - API endpoint: `https://investment-brief-lime.vercel.app/api/refresh`
+   - Test refresh proxy: `curl -X POST https://investment-brief-lime.vercel.app/api/refresh`
    - Should return webhook result (200/401/500)
 
 4. **Auto-deploy:**
@@ -473,7 +474,7 @@ Price data is fetched from Yahoo Finance using the `fetch_market_data.py` script
    - `REFRESH_WEBHOOK_AUTH` (full Bearer token)
    - `ALLOWED_ORIGIN` (optional, for custom domains)
 3. **Deploy** - Vercel auto-detects static site + serverless functions
-4. **Access** - `https://investment-brief.vercel.app/` or custom domain
+4. **Access** - `https://investment-brief-lime.vercel.app/` or custom domain
 
 Pushing to `main` triggers automatic redeployment (~30s).
 
@@ -483,4 +484,4 @@ Personal project for educational purposes. Not financial advice.
 
 ---
 
-**Maintained by Marcus** • [GitHub](https://github.com/Marcussyl/investment-brief) • [Live Site](https://investment-brief.vercel.app/)
+**Maintained by Marcus** • [GitHub](https://github.com/Marcussyl/investment-brief) • [Live Site](https://investment-brief-lime.vercel.app/)

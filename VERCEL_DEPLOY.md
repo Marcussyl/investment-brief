@@ -51,18 +51,18 @@ After setting environment variables:
 
 **Test static site:**
 ```bash
-curl -I https://investment-brief.vercel.app/
+curl -I https://investment-brief-lime.vercel.app/
 # Should return 200 OK with HTML
 ```
 
 **Test API endpoint:**
 ```bash
-curl -X POST https://investment-brief.vercel.app/api/refresh
+curl -X POST https://investment-brief-lime.vercel.app/api/refresh
 # Should return webhook result (200 OK if webhook succeeds, or error with status)
 ```
 
 **Test on site:**
-1. Visit `https://investment-brief.vercel.app/`
+1. Visit `https://investment-brief-lime.vercel.app/`
 2. Click「更新」button in header
 3. Should see「已觸發遠端同步」→ wait ~22s →「已同步」
 4. If successful, Grok routine should show new `lastRunAt` timestamp
@@ -95,7 +95,7 @@ If you want to use a custom domain (e.g., `brief.marcussyl.com`):
 
 **Test webhook directly:**
 ```bash
-curl -X POST https://investment-brief.vercel.app/api/refresh -v
+curl -X POST https://investment-brief-lime.vercel.app/api/refresh -v
 # Check response status and headers
 ```
 
@@ -105,6 +105,10 @@ curl -X POST https://investment-brief.vercel.app/api/refresh -v
 1. You're accessing site via Vercel domain (e.g., `*.vercel.app`)
 2. If using custom domain, `ALLOWED_ORIGIN` is set correctly
 3. Browser is making same-origin request to `/api/refresh` (not cross-origin)
+
+**Note:** The site is accessible at:
+- Primary: `https://investment-brief-lime.vercel.app/`
+- Alternate: `https://investment-brief-marcussyls-projects.vercel.app/`
 
 ### API endpoint returns 500
 
@@ -144,7 +148,7 @@ No user credentials needed (proxy holds secrets server-side).
 - [ ] Repo imported to Vercel
 - [ ] Environment variables set (`REFRESH_WEBHOOK_URL`, `REFRESH_WEBHOOK_AUTH`)
 - [ ] Initial deployment successful
-- [ ] Static site loads at `https://investment-brief.vercel.app/`
+- [ ] Static site loads at `https://investment-brief-lime.vercel.app/`
 - [ ] API endpoint `/api/refresh` responds (test with curl)
 - [ ] Update button works (triggers webhook, reloads data)
 - [ ] Custom domain configured (optional)
