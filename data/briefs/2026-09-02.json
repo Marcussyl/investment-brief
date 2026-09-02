@@ -1,0 +1,302 @@
+{
+  "date": "2026-09-02",
+  "audioUrl": "data/audio/2026-09-02.mp3",
+  "stories": [
+    {
+      "id": "xiaomi-price-hike",
+      "ticker": "1810.HK",
+      "title": "小米等中國手機品牌調價：記憶體成本壓力外溢到售價",
+      "summary": "科技新報（引中央社／新京報等）1 Sep：華為、小米、榮耀部分機型調漲約 200–1,000 人民幣。小米 17／17 Pro 起售 +300、17 Pro Max +500、REDMI K90 Max／至尊版 +400。Yahoo 1810.HK 1 Sep 收 27.56（−0.22%）。此為第三方彙整，未見小米 IR 同步公告。",
+      "whyItMatters": "你持倉裡有小米。手機貴的不只係晶片，記憶體佔 BOM 比重上升時，品牌可能加價。加價可以撐毛利，但亦可能嚇退量；新手要分開「報紙寫嘅價」同「公司自己公佈嘅出貨／毛利」。",
+      "whatToWatch": "小米新聞室／IR 有否正式說明；之後手機與汽車出貨；同行有否繼續調價。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-01",
+          "title": "受記憶體影響，多家中國手機品牌同步漲價",
+          "url": "https://technews.tw/2026/09/01/chinese-smartphone-brands-increase-prices-memory-impact/"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-01",
+          "title": "高通 9 月起調漲晶片價格",
+          "url": "https://technews.tw/2026/09/01/qualcomm-raising-chip-prices/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-01",
+          "title": "1810.HK last close 1 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-52w-high",
+      "ticker": "1398.HK",
+      "title": "工行 H 股逼近／觸及 52 周高位，中期息率上調叙事續發酵",
+      "summary": "Yahoo：1398.HK 1 Sep 收 7.685（+1.52%），當日區間高見約 7.69。CNBC 報 52 周高 7.69（日期 2026-09-01）。8 月底業績通話摘要指中期現金派息比率上調至 31%。屬研究倉，非持倉。",
+      "whyItMatters": "高息銀行股嘅叙事通常係：盈利穩唔穩、派息比升唔升、息差壓力大唔大。今日係價格觸及高位＋派息叙事，不是叫你追價。",
+      "whatToWatch": "正式派息時間表；金管局／聯儲局利率路徑（港元流動性）；下一份業績對淨息差嘅講法。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-01",
+          "title": "1398.HK quote",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-01",
+          "title": "1398-HK quote / 52-week high",
+          "url": "https://www.cnbc.com/quotes/1398-HK"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Earnings call transcript summary",
+          "date": "2026-08-28",
+          "title": "ICBC half-year 2026 call notes (payout 31%)",
+          "url": "https://earningscalls.dev/transcripts/industrial-and-commercial-bank-of-china-limited_1398_earnings_call_transcript_2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "etf-risk-off",
+      "ticker": null,
+      "title": "持倉 ETF：黃金 GLD 明顯回吐，SPYM／VEU 同步偏軟",
+      "summary": "Yahoo 1 Sep 美股現金收市：GLD 396.75（約 −2.86%）、SPYM 89.65（−0.70%）、VEU 84.65（−0.70%）。金管局 1 Sep 18:30：基本利率仍 4.00%，總結餘約 541.90 億港元，兌換保證 7.75–7.85 未觸發。FOMC 15–16 Sep 在即。",
+      "whyItMatters": "GLD 無息，利率／美元叙事轉硬時，金價可以回吐。SPYM／VEU 係寬基，跟大市風險偏好。呢度只記持倉標誌物點郁，唔係叫你調倉。",
+      "whatToWatch": "15–16 Sep FOMC（17 Sep 02:00 HKT 附近公布）；金管局每日統計；兌換保證有冇觸發。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-01",
+          "title": "GLD quote",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-01",
+          "title": "SPYM quote",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-01",
+          "title": "VEU quote",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        },
+        {
+          "category": "company",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-09-01",
+          "title": "Daily Monetary Statistics",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-tape",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）輕回；最新公司稿仍是 4 Aug Q2",
+      "summary": "Yahoo：SPCX 1 Sep 收 142.23（−1.02%）。第三方評論續討論 Q2 資本開支與 Starlink 盈利叙事；公司最新正式業績稿仍為 2026-08-04 Q2。",
+      "whyItMatters": "持倉要分清：價格一日過，同公司自己印嘅數字。第三方解讀可以睇，但唔好當新業績。",
+      "whatToWatch": "下一份公司／SEC 相關披露；有核實嘅大型客戶或資本開支更新。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-01",
+          "title": "SPCX quote",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR PDF",
+          "date": "2026-08-04",
+          "title": "SpaceX Q2 2026 results",
+          "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+        }
+      ]
+    },
+    {
+      "id": "nvda-post-earn",
+      "ticker": "NVDA",
+      "title": "輝達業績後回吐持續；聯發科合作仍以 31 Aug 公告為準",
+      "summary": "Yahoo：NVDA 1 Sep 收 217.44（−1.39%）。31 Aug 新聞室已公布與聯發科深化合作及 35 億美元可轉債；今日電子時報等續有第三方解讀。Q3 指引「中國資料中心運算假設為零」仍有效（以公司稿為準）。",
+      "whyItMatters": "業績好唔等於股價一定升。合作同可轉債係公司講過嘅事實；「循環資助」等指控要標成第三方。",
+      "whatToWatch": "可轉債條款後續申報；有冇具名 NVLink Fusion 客戶；下一季有冇改中國 DC 零假設。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-08-31",
+          "title": "NVIDIA and MediaTek deepen partnership",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "DigiTimes",
+          "date": "2026-09-01",
+          "title": "Nvidia MediaTek investment / infrastructure",
+          "url": "https://www.digitimes.com/news/a20260901PD210/nvidia-mediatek-investment-infrastructure-partnership.html"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-01",
+          "title": "NVDA quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-quiet",
+      "ticker": "MSFT",
+      "title": "微軟盤勢偏軟；雲端／台灣資料中心訪談屬背景",
+      "summary": "Yahoo：MSFT 1 Sep 收 501.02（−1.24%）。窗口內未見新一份微軟 IR 業績稿；科技新報有微軟雲端主管談台灣資料中心韌性／主權的訪談（第三方採訪，非指引更新）。",
+      "whyItMatters": "研究倉可以跟住 Azure 資本開支同雲端增長叙事，但訪談唔等於新財測。",
+      "whatToWatch": "下一份微軟業績對資本開支與 Azure 嘅講法。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-01",
+          "title": "MSFT quote",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-01",
+          "title": "微軟：資料中心兼顧韌性與主權",
+          "url": "https://technews.tw/2026/09/01/microsoft-azure-alistair-speirs/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "bom-cost",
+      "title": "BOM／物料清單成本",
+      "titleEn": "Bill of materials (BOM)",
+      "what": "BOM 係一部手機／裝置用到嘅全部零件成本清單。記憶體、螢幕、SoC 等都係 BOM 嘅一部分。",
+      "whyItMatters": "零件貴了，品牌要么加價、要么減配、要么自己吞毛利。你之後睇出貨同毛利率，就係睇呢場取捨。",
+      "whereToday": "小米等品牌 1 Sep 調價報導，主因指向記憶體等成本上升。",
+      "whatToWatch": "公司自己嘅毛利率同出貨說明；記憶體報價有冇續升。",
+      "relatedTickers": [
+        "1810.HK"
+      ],
+      "notionUrl": "https://app.notion.com/p/3cf99f70bc568165971ae4888d5c6e7e"
+    },
+    {
+      "id": "fomc-hkma",
+      "title": "FOMC vs 金管局",
+      "titleEn": "FOMC vs HKMA",
+      "what": "聯儲局定美元利率；金管局基本利率用公式跟隨。",
+      "whyItMatters": "港元按揭同儲蓄利率跟這條公式。今日金管局仍印 4.00%。",
+      "whereToday": "持倉 ETF 回吐背景；FOMC 15–16 Sep。",
+      "whatToWatch": "17 Sep 附近嘅 FOMC 聲明。",
+      "relatedTickers": [
+        "SPYM",
+        "GLD"
+      ],
+      "notionUrl": "https://app.notion.com/p/3cd99f70bc568196867cf60440f021b9"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "SpaceX Q2 2026 results",
+        "date": "2026-08-04",
+        "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+      },
+      "Role": "Holding"
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Holding"
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "標普 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Holding"
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "全球非美 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Holding"
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "Xiaomi IR",
+        "date": "2026-08-18",
+        "url": "https://ir.mi.com/"
+      },
+      "Role": "Holding"
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Research"
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568174a354f22f3d1c3a61",
+      "lastFiling": {
+        "title": "NVIDIA–MediaTek partnership",
+        "date": "2026-08-31",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+      },
+      "Role": "Research"
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": null,
+      "lastFiling": null,
+      "Role": "Research"
+    }
+  ],
+  "audioScriptChars": 1655,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
