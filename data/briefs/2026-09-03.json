@@ -1,0 +1,269 @@
+{
+  "date": "2026-09-03",
+  "audioUrl": "data/audio/2026-09-03.mp3",
+  "audioVoice": "zh-TW-HsiaoChenNeural",
+  "stories": [
+    {
+      "id": "xiaomi-18-fold-sep7",
+      "ticker": "1810.HK",
+      "title": "小米訂 9 月 7 日秋季發布會：18 Fold、平板與 Sky Nomad SUV",
+      "summary": "TechNode（2 Sep）與多家第三方：小米將於北京時間 9 月 7 日晚 7 時舉行秋季旗艦發布會，預期推出 Xiaomi 18 Fold 摺疊機、Pad 9 Pro Max，以及 N70 Pro／N70 Max／N90 Max 三款 Sky Nomad 增程 SUV；18 Fold 預期搭載自研 Xring O3。Yahoo 1810.HK 2 Sep 收 28.06（+1.81%）。此為第三方彙整；未逐一核對小米 IR 同步公告全文。",
+      "whyItMatters": "你 Active 持倉有小米。旗艦機＋汽車同場，關乎手機 ASP／出貨敘事與造車進度。新手要分開「媒體預告規格」同「公司發布會／IR 正式數字」。",
+      "whatToWatch": "9 月 7 日發布會定價與規格；之後 IR／新聞室有否正式稿；同行摺疊機節奏。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "TechNode",
+          "date": "2026-09-02",
+          "title": "Xiaomi sets September 7 launch for 18 Fold foldable phone",
+          "url": "https://technode.com/2026/09/02/xiaomi-september-7-launch-18-fold-foldable-phone/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-02",
+          "title": "1810.HK last close 2 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "fomc-hkma-countdown",
+      "ticker": "SPYM",
+      "title": "FOMC 15–16 Sep 倒數：聯匯下港息跟美國，持倉 ETF 與黃金仍敏感",
+      "summary": "多家第三方（Motley Fool 1 Sep、American Banker 等）指 Jackson Hole 後市場對 9 月加息機會上升；FOMC 會議為 15–16 Sep。港元聯匯下，金管局基本利率公式跟 Fed。Yahoo：SPYM 2 Sep 收 90.07（+0.47%）、GLD 402.78（+1.52%）、VEU 85.13（+0.57%）。加息機率數字來自第三方報導，非 Fed／金管局公告。",
+      "whyItMatters": "你持倉有美股寬基（SPYM）、黃金（GLD）同非美股票（VEU）。利率預期一變，股債金會一齊重新定價；香港按揭／存款息亦跟呢條鏈。",
+      "whatToWatch": "17 Sep 附近 FOMC 聲明與點陣圖；金管局基本利率有否同步調整；公司／ETF 本身無「加息建議」。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "The Motley Fool",
+          "date": "2026-09-01",
+          "title": "Odds of a September rate hike nearly doubled after Warsh remarks",
+          "url": "https://www.fool.com/investing/2026/09/01/odds-sept-rate-hike-doubled-fed-chair-kevin-warsh/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-02",
+          "title": "SPYM / GLD / VEU last closes",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-tape-sep2",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）2 Sep 收 140.71：IPO 後仍係波動持倉",
+      "summary": "Yahoo：SPCX 2 Sep 收 140.71（約 −1.07%）。第三方市場稿亦提及分析師目標價討論；那些係券商意見，唔係公司業績公告。上次公司正式業績仍係 4 Aug Q2 稿（收入約 78.1 億美元等，已在較早簡報引用）。",
+      "whyItMatters": "SPCX 係你 Active 持倉。新上市公司日日波動大，新手要分清「收市價」同「未核實嘅目標價傳聞」。",
+      "whatToWatch": "下一份公司 IR／SEC 文件；AI／Starlink 資本開支相關披露；唔好單靠目標價做決定。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-02",
+          "title": "SPCX last close 2 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR (prior Q2)",
+          "date": "2026-08-04",
+          "title": "SpaceX Reports Second Quarter 2026 Results",
+          "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+        }
+      ]
+    },
+    {
+      "id": "msft-maia300-watch",
+      "ticker": "MSFT",
+      "title": "微軟 Maia 300：路透引 The Information 指或於 9 月亮相（未證實產量）",
+      "summary": "Reuters（10 Aug，引 The Information）：微軟計劃今秋、最早 9 月公開下一代 Maia 300 AI 加速器，並據報與台積電洽談 2027 年逾 30 萬顆產能；微軟未確認產量數字。T客邦 3 Sep：Azure 硬體總裁於 SEMICON Taiwan 談「有效產出」與跨層設計。Yahoo MSFT 2 Sep 收 496.82（−0.84%）。",
+      "whyItMatters": "MSFT 係 Active 研究名。雲端大廠自研晶片敘事會影響「係咪仲咁靠 NVDA」嘅討論；但報導產能數字未獲公司確認。",
+      "whatToWatch": "微軟官方產品／IR 稿有否正式發布 Maia 300；Azure 資本開支與晶片相關說法。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-08-10",
+          "title": "Microsoft plans to unveil its new Maia 300 AI chip this fall, Information reports",
+          "url": "https://www.reuters.com/business/microsoft-plans-unveil-its-new-maia-300-ai-chip-this-fall-information-reports-2026-08-10/"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "T客邦",
+          "date": "2026-09-03",
+          "title": "微軟 Azure 總裁 SEMICON：有效產出與跨層設計",
+          "url": "https://www.techbang.com/posts/132900-microsoft-semicon-taiwan-ai-systems-thinking"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-02",
+          "title": "MSFT last close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-mediatek-ir",
+      "ticker": "NVDA",
+      "title": "NVIDIA 新聞室：深化與聯發科合作（NVLink Fusion／邊緣到雲）",
+      "summary": "NVIDIA Newsroom（31 Aug）：宣布與 MediaTek 擴大合作，涵蓋雲端 AI 工廠、本地 AI 運算與車用；聯發科將採用 NVLink Fusion，方便客戶把自研 XPU 接入 NVLink 機架級系統。稿件亦提及 NVIDIA 認購聯發科 35 億美元可轉債。Yahoo NVDA 2 Sep 收 224.41（+3.21%）。此為公司新聞室。",
+      "whyItMatters": "NVDA 係 Active 研究名。官方合作稿比坊間目標價更適合新手追蹤：睇清楚係邊一層（雲／PC／車）。",
+      "whatToWatch": "後續 NVLink Fusion 客戶採用進度；下一份 NVIDIA 財報／指引有否量化相關貢獻（未在本稿出現則勿自行估算）。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-08-31",
+          "title": "NVIDIA and MediaTek Deepen Partnership for AI Edge to Cloud",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-02",
+          "title": "NVDA last close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-quiet-rate",
+      "ticker": "1398.HK",
+      "title": "工商銀行：港股安靜，宏觀利率敘事仍係背景",
+      "summary": "Yahoo 1398.HK 2 Sep 收 7.69（+0.07%）。過去 48 小時未見 ICBC 重大公司公告進入本簡報來源清單；利率預期（FOMC／聯匯）仍係銀行股常見背景，但唔等於今日有新業績。",
+      "whyItMatters": "1398.HK 係 Active 研究名。安靜日都要記低收市，避免事後被「宏觀噪音」帶偏。",
+      "whatToWatch": "下一次中期／年度業績與淨息差說法；金管局／聯儲議息後本地貸款定價討論。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-02",
+          "title": "1398.HK last close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "custom-cloud-asic",
+      "title": "雲端自研加速器（Custom cloud ASIC）",
+      "titleEn": "Hyperscaler custom AI accelerator",
+      "what": "雲端大廠（如微軟 Maia、Google TPU、Amazon Trainium）自己設計 AI 晶片，交台積電等代工，用嚟跑自家模型同雲服務，減少全靠買 GPU。",
+      "whyItMatters": "自研加速器新聞多，唔等於「NVDA 冇人用」。要睇公司有冇正式產品稿、部署規模同客戶採用，而唔係只睇傳聞產能。",
+      "whereToday": "路透引報微軟或於 9 月亮相 Maia 300；產量數字未獲微軟確認。",
+      "whatToWatch": "微軟官方產品／IR 稿；Azure 對自研晶片同 NVDA 用量嘅表述。",
+      "relatedTickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/3d099f70bc56819ab3a4d9822dbc2457"
+    },
+    {
+      "id": "fomc-hkma",
+      "title": "FOMC vs 金管局",
+      "titleEn": "FOMC vs HKMA",
+      "what": "聯儲局定美元利率；香港聯匯下金管局基本利率用公式跟隨。",
+      "whyItMatters": "港元按揭同存款息跟這條鏈。FOMC 前後，美股 ETF 同黃金常一齊波動。",
+      "whereToday": "15–16 Sep FOMC；持倉 SPYM／GLD／VEU 背景。",
+      "whatToWatch": "FOMC 聲明同金管局基本利率有否同日調整。",
+      "relatedTickers": [
+        "SPYM",
+        "GLD",
+        "VEU"
+      ],
+      "notionUrl": "https://app.notion.com/p/3cd99f70bc568196867cf60440f021b9"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "SpaceX Q2 2026 results",
+        "date": "2026-08-04",
+        "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "標普 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "全球非美 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "Xiaomi IR",
+        "date": "2026-08-18",
+        "url": "https://ir.mi.com/"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568174a354f22f3d1c3a61",
+      "lastFiling": {
+        "title": "NVIDIA–MediaTek partnership",
+        "date": "2026-08-31",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": null,
+      "lastFiling": null
+    }
+  ],
+  "audioScriptChars": 2074
+}
