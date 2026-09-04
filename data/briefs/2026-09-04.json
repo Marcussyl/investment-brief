@@ -1,0 +1,279 @@
+{
+  "date": "2026-09-04",
+  "audioUrl": "data/audio/2026-09-04.mp3",
+  "audioVoice": "zh-TW-HsiaoChenNeural",
+  "stories": [
+    {
+      "id": "nvda-huggingface-8k",
+      "ticker": "NVDA",
+      "title": "NVIDIA 簽訂協議收購 Hugging Face：約 119 億美元對價＋最多約 10 億美元留任獎勵",
+      "summary": "SEC 8-K（最早事件 2 Sep，簽署日 3 Sep）：NVIDIA 與 Hugging Face 訂立 definitive agreement；對股東約 119 億美元對價（可調），另設最多約 10 億美元股權留任計劃。預期 2027 上半年完成，須監管批准等交割條件。公司博客寫明總值約 12,930,300,000 美元，並承諾平台維持開放、不強制 NVIDIA 算力。Yahoo 顯示 NVDA 3 Sep 收約 228.45（相對 2 Sep 收 224.41 約 +1.80%）。已簽未交割；勿把媒體「13 億／已收購」口語當成已完成。",
+      "whyItMatters": "NVDA 係 Active 研究名。這是公司正式 8-K／博客，比坊間傳聞適合新手追蹤：重點係「已簽協議」同「何時交割／監管」。",
+      "whatToWatch": "監管批准進度與 2027 H1 交割窗口；平台開放承諾有否後續法務文件；下一份財報有否量化相關影響（未見則勿自行估算）。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SEC Form 8-K",
+          "date": "2026-09-02",
+          "title": "NVIDIA 8-K — definitive agreement to acquire Hugging Face",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-09-03",
+          "title": "NVIDIA to Acquire Hugging Face",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-03",
+          "title": "NVDA last close 3 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "waller-fomc-hold",
+      "ticker": "SPYM",
+      "title": "Waller（3 Sep）：若通脹續改善，傾向 15–16 Sep FOMC 維持利率；港息仍跟聯匯",
+      "summary": "聯儲理事 Waller 於 Reuters NEXT 訪問稿（Fed 官網 3 Sep）：通脹仍高於 2%，但近期有放緩跡象；若未來兩週數據（尤其 8 月通脹）顯示續改善，傾向維持聯邦基金利率目標區間；若 8 月通脹「過熱／逆轉」，則考慮加息。港元聯匯下金管局基本利率公式跟 Fed。Yahoo 3 Sep：SPYM 約 91.01（+1.04%）、GLD 約 410.22（+1.85%）、VEU 約 85.95（+0.96%）。CME 機率等第三方數字唔係 Fed 公告。",
+      "whyItMatters": "你持倉有美股寬基（SPYM）、黃金（GLD）同非美股票（VEU）。利率預期一變，股債金會一齊重新定價；香港按揭／存款息亦跟呢條鏈。",
+      "whatToWatch": "8 月通脹數據（Waller 點名）；15–16 Sep FOMC 聲明；金管局基本利率有否同步。公司／ETF 本身無「加息建議」。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Federal Reserve",
+          "date": "2026-09-03",
+          "title": "Speech by Governor Waller on the economic outlook",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-03",
+          "title": "SPYM / GLD / VEU last closes",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-sep7-countdown",
+      "ticker": "1810.HK",
+      "title": "小米 9/7 倒數：Sky Nomad 增程 SUV＋18 Fold；港股 3 Sep 收 27.44",
+      "summary": "CnEVPost（2 Sep，引小米汽車微博等第三方彙整）：秋季旗艦發布會定北京時間 9 月 7 日晚 7 時，推出 Sky Nomad N70 Pro／N70 Max／N90 Max 三款增程 SUV，以及 18 Fold、Pad 9 Pro Max（自研 Xring O3）。稿件稱 Sky Nomad 標配 NVIDIA Drive Thor。Yahoo 1810.HK 3 Sep 收 27.44（約 −2.21%）。第三方彙整；定價／出貨以公司發布會／IR 為準。",
+      "whyItMatters": "你 Active 持倉有小米。旗艦機＋汽車同場，關乎手機與造車敘事；汽車輔助駕駛提及 NVDA 晶片，亦連到研究名。",
+      "whatToWatch": "9 月 7 日正式規格與售價；之後 IR／新聞室有否正式稿；全年交付目標相關披露（第三方推算勿當公司指引）。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "CnEVPost",
+          "date": "2026-09-02",
+          "title": "Xiaomi to launch Sky Nomad EREV SUV lineup on September 7",
+          "url": "https://cnevpost.com/2026/09/02/xiaomi-launch-sky-nomad-lineup-sept-7/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-03",
+          "title": "1810.HK last close 3 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-sep3-tape",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）3 Sep 收約 149.74：波動持倉，留意官方下一份 IR",
+      "summary": "Yahoo：SPCX 3 Sep 收約 149.74（相對 2 Sep 收 140.71 約 +6.42%）。過去一日未見公司新業績公告進入本簡報來源清單；上次正式業績仍係 4 Aug Q2 稿。第三方常夾雜目標價／測試傳聞——那些唔係公司公告。",
+      "whyItMatters": "SPCX 係你 Active 持倉。新上市公司單日波幅可以好大，新手要分清「收市價」同「未核實傳聞」。",
+      "whatToWatch": "下一份公司 IR／SEC 文件；Starlink／AI 資本開支相關披露；唔好單靠目標價做決定。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-03",
+          "title": "SPCX last close 3 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR (prior Q2)",
+          "date": "2026-08-04",
+          "title": "SpaceX Reports Second Quarter 2026 Results",
+          "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+        }
+      ]
+    },
+    {
+      "id": "msft-yield-thinking",
+      "ticker": "MSFT",
+      "title": "微軟談 AI 基礎設施「良率思維」：第三方報導 SEMICON／系統協同",
+      "summary": "TechNews（3 Sep）等第三方：微軟在半導體場合談 AI 基礎設施要結合「良率思維」與跨層協同設計。Yahoo MSFT 3 Sep 收約 510.12（相對 2 Sep 約 +2.68%）。此為行業會議／媒體彙整，唔等於新一份財報指引。",
+      "whyItMatters": "MSFT 係 Active 研究名。雲端大廠講產能／良率，通常關乎資本開支同自研／外購晶片節奏；要等公司 IR 先有正式數字。",
+      "whatToWatch": "下一份 Azure／資本開支相關 IR 表述；有否正式產品稿（例如 Maia）更新。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-03",
+          "title": "微軟：結合「良率思維」與跨層協同設計",
+          "url": "https://technews.tw/2026/09/03/microsoft-advocates-yield-thinking/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-03",
+          "title": "MSFT last close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-sep3-tape",
+      "ticker": "1398.HK",
+      "title": "工商銀行：3 Sep 收 7.545；中期股息方案仍待股東會",
+      "summary": "Yahoo 1398.HK 3 Sep 收 7.545（約 −1.89%）。公司较早（28 Aug）已披露 2026 中期業績與中期股息方案（每 10 股人民幣 1.511 元含稅、現金分紅率約 31%），尚待股東會通過；港交所股息公告除淨日等欄位仍「有待公佈」。今日未見更新重大公告進入本簡報清單。",
+      "whyItMatters": "1398.HK 係 Active 研究名。銀行股常跟利率／息差敘事，但新手應分開「已披露方案」同「已除淨派息」。",
+      "whatToWatch": "股東會通過中期股息同除淨／派息日；下一次淨息差相關說法。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-08-28",
+          "title": "ICBC interim dividend announcement (01398)",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082800968_c.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-03",
+          "title": "1398.HK last close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "signed-not-closed",
+      "title": "已簽協議 ≠ 已交割（signed ≠ closed）",
+      "titleEn": "Definitive agreement vs closing",
+      "what": "公司簽訂 definitive agreement 只代表雙方同意條款；交易通常仲要監管批准同交割條件，先至算真正完成（close）。",
+      "whyItMatters": "新聞標題常寫「收購」，但其實可能只係「同意收購」。交割前交易可以失敗或改條件。",
+      "whereToday": "NVIDIA 8-K：同意收購 Hugging Face，預期 2027 上半年交割，須監管批准。",
+      "whatToWatch": "監管批准進度同公司後續 8-K／新聞室更新。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/3d199f70bc56812484f5cbf4a4699aeb"
+    },
+    {
+      "id": "fomc-hkma",
+      "title": "FOMC vs 金管局",
+      "titleEn": "FOMC vs HKMA",
+      "what": "聯儲局定美元利率；香港聯匯下金管局基本利率用公式跟隨。",
+      "whyItMatters": "港元按揭同存款息跟這條鏈。FOMC 前後，美股 ETF 同黃金常一齊波動。",
+      "whereToday": "Waller 3 Sep 講話；15–16 Sep FOMC；持倉 SPYM／GLD／VEU。",
+      "whatToWatch": "FOMC 聲明同金管局基本利率有否同日調整。",
+      "relatedTickers": [
+        "SPYM",
+        "GLD",
+        "VEU"
+      ],
+      "notionUrl": "https://app.notion.com/p/3cd99f70bc568196867cf60440f021b9"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "SpaceX Q2 2026 results",
+        "date": "2026-08-04",
+        "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "標普 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "全球非美 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "Xiaomi IR",
+        "date": "2026-08-18",
+        "url": "https://ir.mi.com/"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": null,
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568174a354f22f3d1c3a61",
+      "lastFiling": {
+        "title": "NVIDIA 8-K Hugging Face acquisition agreement",
+        "date": "2026-09-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": null,
+      "lastFiling": {
+        "title": "ICBC interim dividend (HKEX)",
+        "date": "2026-08-28",
+        "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082800968_c.pdf"
+      }
+    }
+  ],
+  "audioScriptChars": 2264
+}
