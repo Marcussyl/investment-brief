@@ -7,9 +7,9 @@
       "id": "xiaomi-sky-nomad-countdown",
       "ticker": "1810.HK",
       "title": "小米 9/7 發佈會倒數兩日：Sky Nomad 三款增程 SUV＋摺疊機／平板（持倉）",
-      "summary": "週末港美休市。CnEVPost／TechNode（2 Sep，第三方）：小米定 9 月 7 日北京時間晚 7 時秋季旗艦發佈會，官方微博列 N70 Pro、N70 Max、N90 Max 三款 Sky Nomad 增程 SUV，並預期一併推 18 Fold 與 Pad。Yahoo 顯示 1810.HK 4 Sep（周五）收 28.44（相對 3 Sep 收 27.44 約 +3.64%）。發佈會細節屬第三方整理，最終以小米官方直播／公告為準。",
-      "whyItMatters": "1810.HK 係 Active 持倉。週末冇新報價，但周一發佈會係新手可對照「預售價 vs 正式售價／交付時間」嘅公開事件，唔使估股價。",
-      "whatToWatch": "9/7 晚官方售價、交付節奏、Xring O3／車規晶片表述；下一交易日港股對發佈會反應（有就記日期同來源，冇就唔硬估）。",
+      "summary": "週末港美休市。CnEVPost／TechNode（2 Sep，第三方）：小米定 9 月 7 日北京時間晚 7 時秋季旗艦發佈會，官方微博列 N70 Pro、N70 Max、N90 Max 三款 Sky Nomad 增程 SUV，並預期一併推 18 Fold 與 Pad。Yahoo：1810.HK 4 Sep 收 28.44（相對 3 Sep 收 27.44 約 +3.64%）。發佈會細節屬第三方整理，最終以小米官方直播／公告為準。",
+      "whyItMatters": "1810.HK 係 Active 持倉。週末冇新報價，但周一發佈會係新手可對照「預售價 vs 正式售價／交付時間」嘅公開事件。",
+      "whatToWatch": "9/7 晚官方售價、交付節奏、Xring O3／車規晶片表述；下一交易日港股反應（有就記日期同來源）。",
       "sources": [
         {
           "category": "third-party",
@@ -37,10 +37,10 @@
     {
       "id": "waller-fomc-weekend",
       "ticker": "SPYM",
-      "title": "Waller／FOMC 窗口仍開：周末休市，持倉 ETF／金跟息預期（持倉）",
-      "summary": "Fed 官網 Waller 稿（3 Sep）：若通脹續改善，傾向 15–16 Sep FOMC 維持利率；若 8 月通脹過熱則考慮加息。聯匯下港息跟 Fed。今早 Yahoo 圖表仍顯示美股 ETF／金最後現金收市為 3 Sep：SPYM 91.01（+1.04%）、GLD 410.22（+1.85%）、VEU 85.95（+0.96%）；未見 4 Sep 美股 bar（唔發明數字）。本輪 payrolls 勾選關閉，唔當主線。",
-      "whyItMatters": "SPYM／GLD／VEU 係 Active 持倉。港股散戶要理清：美元息→聯匯→港息，同埋周末冇新收市唔代表下周一唔波動。",
-      "whatToWatch": "8 月通脹數據；15–16 Sep FOMC 聲明；金管局基本利率有否同日跟。",
+      "title": "Waller／FOMC 窗口仍開；周五美股 ETF／金已有收市（持倉）",
+      "summary": "Fed 官網 Waller 稿（3 Sep）：若通脹續改善，傾向 15–16 Sep FOMC 維持利率；若 8 月通脹過熱則考慮加息。聯匯下港息跟 Fed。Yahoo regularMarket（4 Sep）：SPYM 90.67（約 −0.37%）、GLD 406.77（約 −0.84%）、VEU 86.41（約 +0.54%）。本輪 payrolls 勾選關閉，唔當主線。",
+      "whyItMatters": "SPYM／GLD／VEU 係 Active 持倉。港股散戶要理清：美元息→聯匯→港息。",
+      "whatToWatch": "約 11 Sep 左右 8 月通脹數據；15–16 Sep FOMC 聲明；金管局基本利率有否同日跟。",
       "sources": [
         {
           "category": "company",
@@ -52,25 +52,25 @@
         {
           "category": "news",
           "publisher": "Yahoo Finance",
-          "date": "2026-09-03",
-          "title": "SPYM / GLD / VEU last closes (Yahoo chart as of run)",
+          "date": "2026-09-04",
+          "title": "SPYM / GLD / VEU Fri closes",
           "url": "https://finance.yahoo.com/quote/SPYM/"
         }
       ]
     },
     {
-      "id": "nvda-hf-weekend-quiet",
+      "id": "nvda-hf-weekend",
       "ticker": "NVDA",
-      "title": "NVIDIA×Hugging Face：周末無新 8-K；已簽未交割仍係研究主線",
-      "summary": "週末冇新公司公告。仍以 SEC 8-K（最早事件 2 Sep；簽署日 3 Sep）同公司博客為準：約 119 億美元對價（可調）＋最多約 10 億美元股權留任；總值博客寫約 12,930,300,000 美元；預期 2027 上半年交割，須監管批准。Yahoo 圖表 NVDA 最後現金收 3 Sep 約 228.45（相對 2 Sep 約 +1.80%）。",
-      "whyItMatters": "NVDA 係 Active 研究名。周末適合重讀「已簽 ≠ 已交割」，唔使追即時報價。",
+      "title": "NVIDIA×Hugging Face：已簽未交割；周五 NVDA 收市（研究）",
+      "summary": "仍以 SEC 8-K（最早事件 2 Sep）同公司博客為準：約 119 億美元對價（可調）＋最多約 10 億美元股權留任；博客總值約 12,930,300,000 美元；預期 2027 上半年交割，須監管批准。Yahoo：NVDA 4 Sep 收 230.36（相對 3 Sep 228.45 約 +0.84%）。",
+      "whyItMatters": "NVDA 係 Active 研究名。周末適合重讀「已簽 ≠ 已交割」。",
       "whatToWatch": "Hart-Scott-Rodino／歐盟合併審查進度；下一份 8-K 或新聞室更新。",
       "sources": [
         {
           "category": "company",
           "publisher": "SEC Form 8-K",
           "date": "2026-09-02",
-          "title": "NVIDIA 8-K — definitive agreement to acquire Hugging Face",
+          "title": "NVIDIA 8-K — Hugging Face definitive agreement",
           "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
         },
         {
@@ -83,26 +83,64 @@
         {
           "category": "news",
           "publisher": "Yahoo Finance",
-          "date": "2026-09-03",
-          "title": "NVDA last close 3 Sep 2026",
+          "date": "2026-09-04",
+          "title": "NVDA last close 4 Sep 2026",
           "url": "https://finance.yahoo.com/quote/NVDA/"
         }
       ]
     },
     {
-      "id": "nvda-rtx-spark-technews",
-      "ticker": "NVDA",
-      "title": "TechNews：聯想／宏碁 10 月推首批 RTX Spark AI PC（第三方）",
-      "summary": "TechNews（4 Sep，轉述中央社／路透，第三方·非公告）：輝達稱聯想與宏碁 10 月將推出首批搭載 RTX Spark 的 Windows PC；晶片結合 Blackwell GPU 與 Grace CPU，並提及與微軟、聯發科合作背景。非公司新聞室原文，細節以 NVIDIA／OEM 官方為準。",
-      "whyItMatters": "同 Active 研究名 NVDA、MSFT 主題重疊：裝置端 AI 係另一條敘事，週末可用嚟對照雲端／開源平台收購故事。",
-      "whatToWatch": "OEM 官方開賣日期同規格頁；微軟／輝達有否後續 Windows AI PC 聯合稿。",
+      "id": "msft-gpt6-astra-foundry",
+      "ticker": "MSFT",
+      "title": "微軟 Azure：GPT-6 Astra 登陸 Microsoft Foundry（研究）",
+      "summary": "Azure 博客（3 Sep，公司新聞室）：OpenAI GPT-6 Astra 可於 Microsoft Foundry 使用，面向企業多步驟工作負載，並提到身份／網絡／治理封裝。Yahoo：MSFT 4 Sep 收 499.70（相對 3 Sep 510.12 約 −2.04%）。單一模型上架 ≠ 業績。",
+      "whyItMatters": "MSFT 係 Active 研究名。雲端 AI 產品節奏支援 Azure 敘事，但要分開「產品稿」同「下季指引」。",
+      "whatToWatch": "下一次 MSFT 財報對 Foundry／Azure AI 採用表述；容量同定價有否新稿。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Azure Blog",
+          "date": "2026-09-03",
+          "title": "GPT-6 Astra frontier intelligence for work now available in Microsoft Foundry",
+          "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-04",
+          "title": "MSFT last close 4 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-unlock-secondary",
+      "ticker": "SPCX",
+      "title": "SPCX：約 9–10 Sep 解禁窗口（第三方整理，持倉）",
+      "summary": "FinanceFeeds（更新 2 Sep，第三方·非公告）：指下一輪約 9 Sep 日 90 解禁同約 10 Sep 關聯方解禁；解禁＝股份變得「可以」交易，唔等於一定有人賣。Yahoo：SPCX 4 Sep 收 147.95（約 −1.20%）。上次正式 Q2 仍係 4 Aug IR。數字／日期以招股書同公司 IR 為準，本條係二手整理。",
+      "whyItMatters": "SPCX 係 Active 持倉。解禁窗口可能令成交量上升，但唔好把二手稿當成公司新業績。",
+      "whatToWatch": "9–10 Sep 成交量；公司 IR／SEC 有無澄清剩餘解禁時間表。",
       "sources": [
         {
           "category": "third-party",
-          "publisher": "TechNews 科技新報",
+          "publisher": "FinanceFeeds",
+          "date": "2026-09-02",
+          "title": "SpaceX SPCX share unlock September 9",
+          "url": "https://financefeeds.com/spacex-spcx-share-unlock-september-9/"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-08-04",
+          "title": "SpaceX Q2 2026 results",
+          "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
           "date": "2026-09-04",
-          "title": "首批輝達 RTX Spark 電腦，聯想宏碁 10 月率先開賣",
-          "url": "https://technews.tw/2026/09/04/nvidia-sets-october-launch-for-rtx-spark-ai-pcs/"
+          "title": "SPCX last close 4 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
         }
       ]
     },
@@ -110,8 +148,8 @@
       "id": "icbc-fri-close",
       "ticker": "1398.HK",
       "title": "工商銀行周五收市；中期息方案仍待股東會（研究）",
-      "summary": "Yahoo：1398.HK 4 Sep 收 7.695（相對 3 Sep 收 7.545 約 +1.99%）。中期股息方案（每 10 股人民幣 1.511 元含稅）仍待股東會；除淨日待公佈。來源仍係 28 Aug HKEX 公告 PDF。",
-      "whyItMatters": "1398.HK 係 Active 研究名。銀行股對息同資產質素敏感；周末唔使追價，但要分清「方案」同「已派息」。",
+      "summary": "Yahoo：1398.HK 4 Sep 收 7.695（相對 3 Sep 收 7.545 約 +1.99%）。中期股息方案（每 10 股人民幣 1.511 元含稅／約每股 RMB 0.1511）仍待股東會；除淨日待公佈。",
+      "whyItMatters": "1398.HK 係 Active 研究名。要分清「方案已宣佈」同「已除淨／已派息」。",
       "whatToWatch": "股東會結果同除淨／派息日公告。",
       "sources": [
         {
@@ -127,30 +165,6 @@
           "date": "2026-09-04",
           "title": "1398.HK last close 4 Sep 2026",
           "url": "https://finance.yahoo.com/quote/1398.HK/"
-        }
-      ]
-    },
-    {
-      "id": "spcx-quiet-tape",
-      "ticker": "SPCX",
-      "title": "SPCX 周末安靜；未見新業績公告（持倉）",
-      "summary": "Yahoo 圖表顯示 SPCX 最後現金收 3 Sep 約 149.74（相對 2 Sep 約 +6.42%）；本 run 未見 4 Sep 美股 bar。未見新公司業績公告；上次正式 Q2 仍係 4 Aug IR PDF。",
-      "whyItMatters": "SPCX 係 Active 持倉。周末無新 print 就記「安靜膠帶」，唔發明消息。",
-      "whatToWatch": "下一份季度業績／IR；SEC／公司網站有無新 8-K。",
-      "sources": [
-        {
-          "category": "company",
-          "publisher": "SpaceX IR",
-          "date": "2026-08-04",
-          "title": "SpaceX Q2 2026 results",
-          "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
-        },
-        {
-          "category": "news",
-          "publisher": "Yahoo Finance",
-          "date": "2026-09-03",
-          "title": "SPCX last close 3 Sep 2026",
-          "url": "https://finance.yahoo.com/quote/SPCX/"
         }
       ]
     }
@@ -175,7 +189,7 @@
       "titleEn": "FOMC vs HKMA",
       "what": "聯儲局定美元利率；香港聯匯下金管局基本利率用公式跟隨。",
       "whyItMatters": "港元按揭同存款息跟這條鏈。FOMC 前後，美股 ETF 同黃金常一齊波動。",
-      "whereToday": "Waller 3 Sep 講話；15–16 Sep FOMC；持倉 SPYM／GLD／VEU。",
+      "whereToday": "Waller 3 Sep 講話；15–16 Sep FOMC；持倉 SPYM／GLD／VEU 周五收市已更新。",
       "whatToWatch": "FOMC 聲明同金管局基本利率有否同日調整。",
       "relatedTickers": [
         "SPYM",
@@ -271,5 +285,5 @@
       }
     }
   ],
-  "audioScriptChars": 1962
+  "audioScriptChars": 1933
 }
