@@ -6,7 +6,7 @@ export default async function handler(req, res) {
   const origin = req.headers.origin;
   
   // Determine allowed origin
-  let allowOrigin = 'https://investment-brief.vercel.app'; // fallback
+  let allowOrigin = 'https://investment-brief-lime.vercel.app'; // fallback
   
   if (origin) {
     // Allow Vercel deployments (*.vercel.app)
