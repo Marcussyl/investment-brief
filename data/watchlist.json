@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T00:29:56Z",
+  "lastUpdated": "2026-09-05T00:27:16Z",
   "tickers": [
     {
       "symbol": "SPCX",
@@ -569,7 +569,8 @@
             "close": 149.74
           }
         ]
-      }
+      },
+      "notesUrl": "https://app.notion.com/3cd99f70bc56811f85e5d6f7028dae6c"
     },
     {
       "symbol": "GLD",
@@ -1947,12 +1948,13 @@
             "close": 410.22
           }
         ]
-      }
+      },
+      "notesUrl": "https://app.notion.com/3cd99f70bc56814bb21af7b4871ddb3c"
     },
     {
       "symbol": "SPYM",
       "name": "SPDR Portfolio S&P 500",
-      "nameZh": "標普 500 ETF",
+      "nameZh": "標普500 ETF",
       "exchange": "NYSE Arca",
       "role": "Holding",
       "lastClose": 91.01,
@@ -3325,12 +3327,13 @@
             "close": 91.01
           }
         ]
-      }
+      },
+      "notesUrl": "https://app.notion.com/3cd99f70bc5681c9b280fcfeedbdf553"
     },
     {
       "symbol": "VEU",
       "name": "Vanguard FTSE All-World ex-US",
-      "nameZh": "全球非美 ETF",
+      "nameZh": "全球除美股 ETF",
       "exchange": "NYSE Arca",
       "role": "Holding",
       "lastClose": 85.95,
@@ -4703,19 +4706,24 @@
             "close": 85.95
           }
         ]
-      }
+      },
+      "notesUrl": "https://app.notion.com/3cd99f70bc5681be9d7ad6566aec901e"
     },
     {
       "symbol": "1810.HK",
       "name": "Xiaomi",
-      "nameZh": "小米集團",
+      "nameZh": "小米",
       "exchange": "HKEX",
       "role": "Holding",
-      "lastClose": 27.44,
-      "lastDate": "2026-09-03",
-      "changePct": -2.21,
+      "lastClose": 28.44,
+      "lastDate": "2026-09-04",
+      "changePct": 3.64,
       "prices": {
         "1M": [
+          {
+            "date": "2026-08-04",
+            "close": 27.96
+          },
           {
             "date": "2026-08-05",
             "close": 27.64
@@ -4803,6 +4811,10 @@
           {
             "date": "2026-09-03",
             "close": 27.44
+          },
+          {
+            "date": "2026-09-04",
+            "close": 28.44
           }
         ],
         "3M": [
@@ -5069,6 +5081,10 @@
           {
             "date": "2026-09-03",
             "close": 27.44
+          },
+          {
+            "date": "2026-09-04",
+            "close": 28.44
           }
         ],
         "1Y": [
@@ -6055,9 +6071,14 @@
           {
             "date": "2026-09-03",
             "close": 27.44
+          },
+          {
+            "date": "2026-09-04",
+            "close": 28.44
           }
         ]
-      }
+      },
+      "notesUrl": "https://app.notion.com/3cd99f70bc568130ba14ee5ba6463207"
     },
     {
       "symbol": "MSFT",
@@ -7435,7 +7456,8 @@
             "close": 510.12
           }
         ]
-      }
+      },
+      "notesUrl": "https://app.notion.com/3cd99f70bc568100b3b1dadaf1e3527b"
     },
     {
       "symbol": "NVDA",
@@ -8813,7 +8835,8 @@
             "close": 228.45
           }
         ]
-      }
+      },
+      "notesUrl": "https://app.notion.com/3cd99f70bc568149a1d1c0cb032ab90b"
     },
     {
       "symbol": "1398.HK",
@@ -8821,14 +8844,18 @@
       "nameZh": "工商銀行",
       "exchange": "HKEX",
       "role": "Research",
-      "lastClose": 7.55,
-      "lastDate": "2026-09-03",
-      "changePct": -1.82,
+      "lastClose": 7.695,
+      "lastDate": "2026-09-04",
+      "changePct": 1.99,
       "prices": {
         "1M": [
           {
+            "date": "2026-08-04",
+            "close": 7.26
+          },
+          {
             "date": "2026-08-05",
-            "close": 7.2
+            "close": 7.205
           },
           {
             "date": "2026-08-06",
@@ -8840,7 +8867,7 @@
           },
           {
             "date": "2026-08-10",
-            "close": 7.22
+            "close": 7.215
           },
           {
             "date": "2026-08-11",
@@ -8856,7 +8883,7 @@
           },
           {
             "date": "2026-08-14",
-            "close": 7.16
+            "close": 7.165
           },
           {
             "date": "2026-08-17",
@@ -8864,19 +8891,19 @@
           },
           {
             "date": "2026-08-18",
-            "close": 7.28
+            "close": 7.275
           },
           {
             "date": "2026-08-19",
-            "close": 7.39
+            "close": 7.385
           },
           {
             "date": "2026-08-20",
-            "close": 7.47
+            "close": 7.475
           },
           {
             "date": "2026-08-21",
-            "close": 7.47
+            "close": 7.475
           },
           {
             "date": "2026-08-24",
@@ -8884,19 +8911,19 @@
           },
           {
             "date": "2026-08-25",
-            "close": 7.47
+            "close": 7.475
           },
           {
             "date": "2026-08-26",
-            "close": 7.55
+            "close": 7.545
           },
           {
             "date": "2026-08-27",
-            "close": 7.45
+            "close": 7.455
           },
           {
             "date": "2026-08-28",
-            "close": 7.45
+            "close": 7.445
           },
           {
             "date": "2026-08-31",
@@ -8904,7 +8931,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 7.68
+            "close": 7.685
           },
           {
             "date": "2026-09-02",
@@ -8912,7 +8939,11 @@
           },
           {
             "date": "2026-09-03",
-            "close": 7.55
+            "close": 7.545
+          },
+          {
+            "date": "2026-09-04",
+            "close": 7.695
           }
         ],
         "3M": [
@@ -9094,7 +9125,7 @@
           },
           {
             "date": "2026-08-05",
-            "close": 7.2
+            "close": 7.205
           },
           {
             "date": "2026-08-06",
@@ -9106,7 +9137,7 @@
           },
           {
             "date": "2026-08-10",
-            "close": 7.22
+            "close": 7.215
           },
           {
             "date": "2026-08-11",
@@ -9122,7 +9153,7 @@
           },
           {
             "date": "2026-08-14",
-            "close": 7.16
+            "close": 7.165
           },
           {
             "date": "2026-08-17",
@@ -9130,19 +9161,19 @@
           },
           {
             "date": "2026-08-18",
-            "close": 7.28
+            "close": 7.275
           },
           {
             "date": "2026-08-19",
-            "close": 7.39
+            "close": 7.385
           },
           {
             "date": "2026-08-20",
-            "close": 7.47
+            "close": 7.475
           },
           {
             "date": "2026-08-21",
-            "close": 7.47
+            "close": 7.475
           },
           {
             "date": "2026-08-24",
@@ -9150,19 +9181,19 @@
           },
           {
             "date": "2026-08-25",
-            "close": 7.47
+            "close": 7.475
           },
           {
             "date": "2026-08-26",
-            "close": 7.55
+            "close": 7.545
           },
           {
             "date": "2026-08-27",
-            "close": 7.45
+            "close": 7.455
           },
           {
             "date": "2026-08-28",
-            "close": 7.45
+            "close": 7.445
           },
           {
             "date": "2026-08-31",
@@ -9170,7 +9201,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 7.68
+            "close": 7.685
           },
           {
             "date": "2026-09-02",
@@ -9178,7 +9209,11 @@
           },
           {
             "date": "2026-09-03",
-            "close": 7.55
+            "close": 7.545
+          },
+          {
+            "date": "2026-09-04",
+            "close": 7.695
           }
         ],
         "1Y": [
@@ -10080,7 +10115,7 @@
           },
           {
             "date": "2026-08-05",
-            "close": 7.2
+            "close": 7.205
           },
           {
             "date": "2026-08-06",
@@ -10092,7 +10127,7 @@
           },
           {
             "date": "2026-08-10",
-            "close": 7.22
+            "close": 7.215
           },
           {
             "date": "2026-08-11",
@@ -10108,7 +10143,7 @@
           },
           {
             "date": "2026-08-14",
-            "close": 7.16
+            "close": 7.165
           },
           {
             "date": "2026-08-17",
@@ -10116,19 +10151,19 @@
           },
           {
             "date": "2026-08-18",
-            "close": 7.28
+            "close": 7.275
           },
           {
             "date": "2026-08-19",
-            "close": 7.39
+            "close": 7.385
           },
           {
             "date": "2026-08-20",
-            "close": 7.47
+            "close": 7.475
           },
           {
             "date": "2026-08-21",
-            "close": 7.47
+            "close": 7.475
           },
           {
             "date": "2026-08-24",
@@ -10136,19 +10171,19 @@
           },
           {
             "date": "2026-08-25",
-            "close": 7.47
+            "close": 7.475
           },
           {
             "date": "2026-08-26",
-            "close": 7.55
+            "close": 7.545
           },
           {
             "date": "2026-08-27",
-            "close": 7.45
+            "close": 7.455
           },
           {
             "date": "2026-08-28",
-            "close": 7.45
+            "close": 7.445
           },
           {
             "date": "2026-08-31",
@@ -10156,7 +10191,7 @@
           },
           {
             "date": "2026-09-01",
-            "close": 7.68
+            "close": 7.685
           },
           {
             "date": "2026-09-02",
@@ -10164,10 +10199,15 @@
           },
           {
             "date": "2026-09-03",
-            "close": 7.55
+            "close": 7.545
+          },
+          {
+            "date": "2026-09-04",
+            "close": 7.695
           }
         ]
-      }
+      },
+      "notesUrl": "https://app.notion.com/3ce99f70bc568077bee6cc71eb3c0387"
     }
   ]
 }

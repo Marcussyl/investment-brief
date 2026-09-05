@@ -1,0 +1,275 @@
+{
+  "date": "2026-09-05",
+  "audioUrl": "data/audio/2026-09-05.mp3",
+  "audioVoice": "zh-TW-HsiaoChenNeural",
+  "stories": [
+    {
+      "id": "xiaomi-sky-nomad-countdown",
+      "ticker": "1810.HK",
+      "title": "小米 9/7 發佈會倒數兩日：Sky Nomad 三款增程 SUV＋摺疊機／平板（持倉）",
+      "summary": "週末港美休市。CnEVPost／TechNode（2 Sep，第三方）：小米定 9 月 7 日北京時間晚 7 時秋季旗艦發佈會，官方微博列 N70 Pro、N70 Max、N90 Max 三款 Sky Nomad 增程 SUV，並預期一併推 18 Fold 與 Pad。Yahoo 顯示 1810.HK 4 Sep（周五）收 28.44（相對 3 Sep 收 27.44 約 +3.64%）。發佈會細節屬第三方整理，最終以小米官方直播／公告為準。",
+      "whyItMatters": "1810.HK 係 Active 持倉。週末冇新報價，但周一發佈會係新手可對照「預售價 vs 正式售價／交付時間」嘅公開事件，唔使估股價。",
+      "whatToWatch": "9/7 晚官方售價、交付節奏、Xring O3／車規晶片表述；下一交易日港股對發佈會反應（有就記日期同來源，冇就唔硬估）。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "CnEVPost",
+          "date": "2026-09-02",
+          "title": "Xiaomi to launch Sky Nomad EREV SUV lineup on September 7",
+          "url": "https://cnevpost.com/2026/09/02/xiaomi-launch-sky-nomad-lineup-sept-7/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "TechNode",
+          "date": "2026-09-02",
+          "title": "Xiaomi sets September 7 launch for 18 Fold foldable phone",
+          "url": "https://technode.com/2026/09/02/xiaomi-september-7-launch-18-fold-foldable-phone/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-04",
+          "title": "1810.HK last close 4 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "waller-fomc-weekend",
+      "ticker": "SPYM",
+      "title": "Waller／FOMC 窗口仍開：周末休市，持倉 ETF／金跟息預期（持倉）",
+      "summary": "Fed 官網 Waller 稿（3 Sep）：若通脹續改善，傾向 15–16 Sep FOMC 維持利率；若 8 月通脹過熱則考慮加息。聯匯下港息跟 Fed。今早 Yahoo 圖表仍顯示美股 ETF／金最後現金收市為 3 Sep：SPYM 91.01（+1.04%）、GLD 410.22（+1.85%）、VEU 85.95（+0.96%）；未見 4 Sep 美股 bar（唔發明數字）。本輪 payrolls 勾選關閉，唔當主線。",
+      "whyItMatters": "SPYM／GLD／VEU 係 Active 持倉。港股散戶要理清：美元息→聯匯→港息，同埋周末冇新收市唔代表下周一唔波動。",
+      "whatToWatch": "8 月通脹數據；15–16 Sep FOMC 聲明；金管局基本利率有否同日跟。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Federal Reserve",
+          "date": "2026-09-03",
+          "title": "Speech by Governor Waller on the economic outlook",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-03",
+          "title": "SPYM / GLD / VEU last closes (Yahoo chart as of run)",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-hf-weekend-quiet",
+      "ticker": "NVDA",
+      "title": "NVIDIA×Hugging Face：周末無新 8-K；已簽未交割仍係研究主線",
+      "summary": "週末冇新公司公告。仍以 SEC 8-K（最早事件 2 Sep；簽署日 3 Sep）同公司博客為準：約 119 億美元對價（可調）＋最多約 10 億美元股權留任；總值博客寫約 12,930,300,000 美元；預期 2027 上半年交割，須監管批准。Yahoo 圖表 NVDA 最後現金收 3 Sep 約 228.45（相對 2 Sep 約 +1.80%）。",
+      "whyItMatters": "NVDA 係 Active 研究名。周末適合重讀「已簽 ≠ 已交割」，唔使追即時報價。",
+      "whatToWatch": "Hart-Scott-Rodino／歐盟合併審查進度；下一份 8-K 或新聞室更新。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SEC Form 8-K",
+          "date": "2026-09-02",
+          "title": "NVIDIA 8-K — definitive agreement to acquire Hugging Face",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-09-03",
+          "title": "NVIDIA to Acquire Hugging Face",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-03",
+          "title": "NVDA last close 3 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-rtx-spark-technews",
+      "ticker": "NVDA",
+      "title": "TechNews：聯想／宏碁 10 月推首批 RTX Spark AI PC（第三方）",
+      "summary": "TechNews（4 Sep，轉述中央社／路透，第三方·非公告）：輝達稱聯想與宏碁 10 月將推出首批搭載 RTX Spark 的 Windows PC；晶片結合 Blackwell GPU 與 Grace CPU，並提及與微軟、聯發科合作背景。非公司新聞室原文，細節以 NVIDIA／OEM 官方為準。",
+      "whyItMatters": "同 Active 研究名 NVDA、MSFT 主題重疊：裝置端 AI 係另一條敘事，週末可用嚟對照雲端／開源平台收購故事。",
+      "whatToWatch": "OEM 官方開賣日期同規格頁；微軟／輝達有否後續 Windows AI PC 聯合稿。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-04",
+          "title": "首批輝達 RTX Spark 電腦，聯想宏碁 10 月率先開賣",
+          "url": "https://technews.tw/2026/09/04/nvidia-sets-october-launch-for-rtx-spark-ai-pcs/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-fri-close",
+      "ticker": "1398.HK",
+      "title": "工商銀行周五收市；中期息方案仍待股東會（研究）",
+      "summary": "Yahoo：1398.HK 4 Sep 收 7.695（相對 3 Sep 收 7.545 約 +1.99%）。中期股息方案（每 10 股人民幣 1.511 元含稅）仍待股東會；除淨日待公佈。來源仍係 28 Aug HKEX 公告 PDF。",
+      "whyItMatters": "1398.HK 係 Active 研究名。銀行股對息同資產質素敏感；周末唔使追價，但要分清「方案」同「已派息」。",
+      "whatToWatch": "股東會結果同除淨／派息日公告。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-08-28",
+          "title": "ICBC interim dividend proposal filing",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082800968_c.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-04",
+          "title": "1398.HK last close 4 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-quiet-tape",
+      "ticker": "SPCX",
+      "title": "SPCX 周末安靜；未見新業績公告（持倉）",
+      "summary": "Yahoo 圖表顯示 SPCX 最後現金收 3 Sep 約 149.74（相對 2 Sep 約 +6.42%）；本 run 未見 4 Sep 美股 bar。未見新公司業績公告；上次正式 Q2 仍係 4 Aug IR PDF。",
+      "whyItMatters": "SPCX 係 Active 持倉。周末無新 print 就記「安靜膠帶」，唔發明消息。",
+      "whatToWatch": "下一份季度業績／IR；SEC／公司網站有無新 8-K。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-08-04",
+          "title": "SpaceX Q2 2026 results",
+          "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-03",
+          "title": "SPCX last close 3 Sep 2026",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "erev-extended-range",
+      "title": "增程式電動車（EREV）",
+      "titleEn": "Extended-range electric vehicle (EREV)",
+      "what": "車以電馬達驅動，但車上有小型引擎／發電機喺電池電量低時發電延長續航；唔係傳統插電混動「引擎直接驅動」嘅同一回事。",
+      "whyItMatters": "新手睇車企發佈會時，要分清純電（BEV）、增程（EREV）同插混（PHEV）嘅續航同補能方式，先至讀得明交付目標。",
+      "whereToday": "小米 Sky Nomad 系列被報道為增程 SUV，9/7 正式發佈。",
+      "whatToWatch": "官方續航標示（CLTC 等）、預售／正式價同交付時間表。",
+      "relatedTickers": [
+        "1810.HK"
+      ],
+      "notionUrl": "https://app.notion.com/p/3d299f70bc568103a407f7299c9be93c"
+    },
+    {
+      "id": "fomc-hkma",
+      "title": "FOMC vs 金管局",
+      "titleEn": "FOMC vs HKMA",
+      "what": "聯儲局定美元利率；香港聯匯下金管局基本利率用公式跟隨。",
+      "whyItMatters": "港元按揭同存款息跟這條鏈。FOMC 前後，美股 ETF 同黃金常一齊波動。",
+      "whereToday": "Waller 3 Sep 講話；15–16 Sep FOMC；持倉 SPYM／GLD／VEU。",
+      "whatToWatch": "FOMC 聲明同金管局基本利率有否同日調整。",
+      "relatedTickers": [
+        "SPYM",
+        "GLD",
+        "VEU"
+      ],
+      "notionUrl": "https://app.notion.com/p/3cd99f70bc568196867cf60440f021b9"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Q2 2026 results",
+        "date": "2026-08-04",
+        "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "標普500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "全球除美股 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": null
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA 8-K Hugging Face definitive agreement",
+        "date": "2026-09-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "ICBC interim dividend proposal",
+        "date": "2026-08-28",
+        "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082800968_c.pdf"
+      }
+    }
+  ],
+  "audioScriptChars": 1962
+}
