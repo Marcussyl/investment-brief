@@ -1,174 +1,212 @@
 {
-  "updated": "2026-09-06T00:27:32Z",
+  "updated": "2026-09-06T00:28:04Z",
   "disclaimer": "市場動態僅供參考，唔構成買賣建議。第三方稿已標註；公司新聞室／IR 另標。",
   "items": [
     {
-      "title": "NVIDIA to Acquire Hugging Face（公司博客）",
-      "summary": "公司新聞室／IR：NVIDIA 宣布同意收購 Hugging Face；博客寫明約 12,930,300,000 美元；預期 2027 上半年交割，須監管批准。",
+      "title": "Sparks Fly：NVIDIA 於 IFA 推 PAIR，RTX Spark Windows PC 10 月上市",
+      "summary": "公司新聞室／IR：NVIDIA 官方博客稱於 IFA 2026 與微軟等合作強化本機代理；開源 Personal AI Router（PAIR）可把區網閒置 PC 算力串起來，並確認 RTX Spark Windows PC（含聯想、宏碁）預計 10 月到貨。",
       "source": "NVIDIA Blog",
       "date": "2026-09-03",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能強化開源模型平台同 GPU 生態綁定敘事；交割仍視監管。",
-      "newbieTake": "已簽≠已交割；跟進 HSR／歐盟進度同下一份 8-K。"
-    },
-    {
-      "title": "GPT-6 Astra 登陸 Microsoft Foundry（Azure 博客）",
-      "summary": "公司新聞室／IR：Azure 博客指 OpenAI GPT-6 Astra 可於 Microsoft Foundry 使用，面向企業多步驟工作負載。",
-      "source": "Microsoft Azure Blog",
-      "date": "2026-09-03",
-      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
-      "tickers": [
+        "NVDA",
         "MSFT"
       ],
-      "impact": "可能支撐雲端 AI 產品節奏敘事，但產品上架≠當季指引。",
-      "newbieTake": "下次財報睇 Foundry／Azure AI 採用表述。"
+      "impact": "市場可能同時關注資料中心 GPU 與裝置端／本機 AI PC 兩條敘事；軟體工具是否帶動消費級 RTX 需求仍待觀察。",
+      "newbieTake": "先分清這是官方產品／軟體路線圖，與資料中心 Vera Rubin 營收主軸並非同一條線。"
     },
     {
-      "title": "Xiaomi Sky Nomad 增程 SUV 定 9/7 正式發佈",
-      "summary": "第三方·非公告：CnEVPost 報道小米將於 9 月 7 日晚推 Sky Nomad N70 Pro／N70 Max／N90 Max 增程 SUV 陣容。",
-      "source": "CnEVPost",
-      "date": "2026-09-02",
-      "url": "https://cnevpost.com/2026/09/02/xiaomi-launch-sky-nomad-lineup-sept-7/",
-      "tickers": [
-        "1810.HK"
-      ],
-      "impact": "可能令市場聚焦小米汽車交付同價位策略；最終以官方直播為準。",
-      "newbieTake": "周一發佈會對照預售價 vs 正式售價／交付時間。"
-    },
-    {
-      "title": "Xiaomi sets September 7 launch for 18 Fold foldable phone",
-      "summary": "第三方·非公告：TechNode 指小米 9/7 秋季會預期推 18 Fold、Pad 同 Sky Nomad 增程 SUV。",
-      "source": "TechNode",
-      "date": "2026-09-02",
-      "url": "https://technode.com/2026/09/02/xiaomi-september-7-launch-18-fold-foldable-phone/",
-      "tickers": [
-        "1810.HK"
-      ],
-      "impact": "可能令持倉 1810.HK 在發佈會前後成交／關注度上升；細節以官方為準。",
-      "newbieTake": "周一晚對照官方售價同交付。"
-    },
-    {
-      "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
-      "summary": "第三方·非公告：CNBC 報道 NVIDIA 收購 Hugging Face 同晶片／開源生態關聯。",
-      "source": "CNBC Tech",
+      "title": "iThome：Nvidia 釋出可串連家用算力的 PAIR 個人 AI 路由器",
+      "summary": "第三方·非公告：iThome 報導 Nvidia 於 9/3 推出開源 Personal AI Router（PAIR）測試版，可把區網內相容硬體組成「個人 AI 叢集」，支援 Ollama／LM Studio 與 RTX、DGX Spark、Apple M4 等節點。",
+      "source": "iThome",
       "date": "2026-09-04",
-      "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+      "url": "https://www.ithome.com.tw/news/178711",
       "tickers": [
         "NVDA"
       ],
-      "impact": "可能令市場繼續討論開源平台併購同 GPU 生態；交割仍視監管。",
-      "newbieTake": "對照 NVIDIA 博客同 SEC 8-K 數字，唔好只睇標題。"
+      "impact": "本機／邊緣代理推論工具可能補強消費與開發者生態討論，但對資料中心營收節奏的直接連動仍不明。",
+      "newbieTake": "開源測試版≠主力雲端業務；對照官方博客與下載頁即可。"
     },
     {
-      "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
-      "summary": "第三方·非公告：CNBC 梳理 NVIDIA 相關 AI 投資／承諾規模敘事。",
-      "source": "CNBC Tech",
-      "date": "2026-09-04",
-      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能強化市場對 AI 資本開支同供應鏈長週期嘅關注。",
-      "newbieTake": "分清係承諾／合作意向定已確認收入。"
-    },
-    {
-      "title": "輝達財報透露一個新訊號，為何 AI 三巨頭都攻開源模型？",
-      "summary": "第三方·非公告：8 月 26 日，輝達公布最新財報，有一塊叫 ACIE，單季貢獻超過 400 億美元。它們是「AI 雲端、政府 […]",
-      "source": "TechNews 科技新報",
-      "date": "2026-09-05",
-      "url": "https://technews.tw/2026/09/05/nvidia-earnings-new-signal-ai-giants-open-source-models/",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能令市場繼續關注半導體／AI 算力／裝置供應鏈節奏。",
-      "newbieTake": "對照公司官方新聞室或月營收／財報，唔好單憑轉述標題下結論。"
-    },
-    {
-      "title": "輝達豪砸 129 億美元收購 Hugging Face！黃仁勳親發聲明：承諾維持平台開放性",
-      "summary": "第三方·非公告：T客邦報道輝達約 129 億美元收購 Hugging Face，並提到黃仁勳聲明維持平台開放性。",
-      "source": "T客邦",
-      "date": "2026-09-05",
-      "url": "https://www.techbang.com/posts/132953-nvidia-acquires-hugging-face-for-12-9-billion",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能延續開源模型平台併購關注；仍須監管批准。",
-      "newbieTake": "數字以公司博客／8-K 為準。"
-    },
-    {
-      "title": "NVIDIA DLSS 5神經渲染效能實測：畫質有感提升但FPS效能砍半",
-      "summary": "第三方·非公告：T客邦實測 NVIDIA DLSS 5 神經渲染，討論畫質同幀率取捨。",
-      "source": "T客邦",
-      "date": "2026-09-05",
-      "url": "https://www.techbang.com/posts/132952-nvidia-dlss-5-benchmark",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能影響市場對 GeForce／遊戲 AI 功能迭代嘅關注，同資料中心敘事分開。",
-      "newbieTake": "呢類係產品實測，唔係財報數字。"
-    },
-    {
-      "title": "華邦電 8 月營收年增一口氣提升 289.43%，前八個月營收也增加逾 177%",
-      "summary": "第三方·非公告：記憶體大廠華邦電公布包含新唐科技等子公司在內的 2026 年 8 月合併營收，金額衝上新台幣 273.09 億 […]",
-      "source": "TechNews 科技新報",
-      "date": "2026-09-04",
-      "url": "https://finance.technews.tw/2026/09/04/winbond-electronics-august-revenue-surged-289-43-year-on-year/",
-      "tickers": [],
-      "impact": "可能令市場繼續關注半導體／AI 算力／裝置供應鏈節奏。",
-      "newbieTake": "對照公司官方新聞室或月營收／財報，唔好單憑轉述標題下結論。"
-    },
-    {
-      "title": "2026 電腦組裝與升級趨勢指南：從 CPU、記憶體到 SSD 擴充全解析",
-      "summary": "第三方·非公告：T客邦分析 2026 組裝趨勢，提到記憶體、處理器價格上漲因素。",
-      "source": "T客邦",
-      "date": "2026-09-04",
-      "url": "https://www.techbang.com/posts/130817-2026-summer-pc-build-guide",
-      "tickers": [],
-      "impact": "可能令 DIY／PC 供應鏈對記憶體價格敏感度上升。",
-      "newbieTake": "對照美光等原廠產能／報價稿，唔好把攻略當官方指引。"
-    },
-    {
-      "title": "印度最大代表團抵台，補助加政策吸引台商投資建構全球半導體韌性鏈",
-      "summary": "第三方·非公告：由印度電子資訊部次長 S. Krishnan 率領的印度史上最大規模半導體代表團，隨行包括印度半導體任務（IS […]",
-      "source": "TechNews 科技新報",
-      "date": "2026-09-05",
-      "url": "https://finance.technews.tw/2026/09/05/indias-largest-delegation-arrives-in-taiwan/",
-      "tickers": [],
-      "impact": "可能令市場繼續關注半導體／AI 算力／裝置供應鏈節奏。",
-      "newbieTake": "對照公司官方新聞室或月營收／財報，唔好單憑轉述標題下結論。"
-    },
-    {
-      "title": "晶片愈疊愈熱怎麼辦？德國創浦出手：預告 2028 年將微冷卻結構直接打入 3D 晶片",
-      "summary": "第三方·非公告：台積電要生產最先進晶片，少不了 ASML（艾司摩爾）的 EUV（極紫外光）曝光機；而在 ASML 的 EUV  […]",
-      "source": "TechNews 科技新報",
-      "date": "2026-09-05",
-      "url": "https://finance.technews.tw/2026/09/05/trumpf/",
-      "tickers": [],
-      "impact": "可能令市場繼續關注半導體／AI 算力／裝置供應鏈節奏。",
-      "newbieTake": "對照公司官方新聞室或月營收／財報，唔好單憑轉述標題下結論。"
-    },
-    {
-      "title": "美光年底前將 HBM 產能提升至 10 萬片，正進行新加坡與台灣產線擴產動作",
-      "summary": "第三方·非公告：為了縮小與競爭對手的差距，記憶體大廠美光科技（Micron）正全力加碼人工智慧（AI）記憶體的生產。根據韓國媒 […]",
+      "title": "美光傳年底前將 HBM 月產能拉升至約 10 萬片，供應 Rubin 系需求",
+      "summary": "第三方·非公告：TechNews 引述韓媒 ETNews，指美光計畫 2026 年底前把 HBM 晶圓月產量由約 4–5 萬片提升至約 10 萬片，並提高 12 層 HBM4 比重，目標對應輝達 Rubin 架構硬體。",
       "source": "TechNews 科技新報",
       "date": "2026-09-05",
       "url": "https://finance.technews.tw/2026/09/05/micron-will-increase-its-hbm-production-capacity-to-100000-wafers-by-the-end-of-the-year/",
-      "tickers": [],
-      "impact": "可能令市場繼續關注半導體／AI 算力／裝置供應鏈節奏。",
-      "newbieTake": "對照公司官方新聞室或月營收／財報，唔好單憑轉述標題下結論。"
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "HBM 供給擴張節奏可能影響 AI GPU 交付與記憶體報價預期；文中亦提醒美光產能仍低於韓系龍頭。",
+      "newbieTake": "屬產業傳述／二手報導；以美光或客戶後續正式說明為準。"
     },
     {
-      "title": "OpenAI發表最危險也最聽話的GPT-6 Astra模型",
-      "summary": "第三方·非公告：OpenAI周四（9/3）正式發表新一代模型GPT-6 Astra，宣稱這是該公司目前最聰明、與使用者意圖最一致的模型，同時也是首個被評定達到《準備框架》（Preparedness Framework）「重大」（Critical）網路安全能力門檻的模型。",
-      "source": "iThome",
-      "date": "2026-09-06",
-      "url": "https://www.ithome.com.tw/news/178701",
+      "title": "台積電啟動 AI「冷革命」，微流道散熱納入研發藍圖",
+      "summary": "第三方·非公告：TechNews（經濟日報授權）報導，台積電先進封裝研發處長於 SEMICON 展前活動證實，將微流道（Microchannel）散熱納入藍圖並朝與先進封裝整合推進，以因應 AI 高功耗與 HBM／多晶片堆疊熱挑戰。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-04",
+      "url": "https://technews.tw/2026/09/04/tsmc-adds-microchannel-cooling-to-rd-roadmap/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "散熱／液冷與 CoWoS、HBM 整合可能成為下一階段系統瓶頸討論，間接牽動高階 AI 加速器交付節奏。",
+      "newbieTake": "研發藍圖≠量產時程；留意後續是否出現客戶協同驗證消息。"
+    },
+    {
+      "title": "DigiTimes：台積電加碼設備採購，AI 需求超出供應鏈規劃節奏",
+      "summary": "第三方·非公告：DigiTimes 報導台積電指出 AI 需求使設備採購、人力與基礎設施壓力超越既有規劃週期，影響範圍不止台灣。付費全文需訂閱。",
+      "source": "DigiTimes",
+      "date": "2026-09-03",
+      "url": "https://www.digitimes.com/news/a20260903PD217/tsmc-equipment-demand-supply-chain-taiwan.html",
       "tickers": [],
-      "impact": "可能反映企業雲端／AI 基礎設施部署焦點。",
-      "newbieTake": "分清產業趨勢同單一廠商已落地合約。"
+      "impact": "市場可能持續關注晶圓代工與設備／材料生態能否同步擴產，作為 AI 算力供給上限的觀察指標。",
+      "newbieTake": "標題摘要來自公開導讀；細節以訂閱全文或官方說法為準。"
+    },
+    {
+      "title": "DigiTimes：台積電 3D 封裝藍圖朝高密度異質整合推進",
+      "summary": "第三方·非公告：DigiTimes（9/5 刊出）討論台積電以高密度三維先進封裝因應 2D 微縮極限，延續 CoWoS／系統級整合路線。付費全文需訂閱。",
+      "source": "DigiTimes",
+      "date": "2026-09-05",
+      "url": "https://www.digitimes.com/news/a20260903VL229/tsmc-roadmap-silicon-packaging-cowos.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "先進封裝產能與良率仍可能是 AI GPU／ASIC 出貨節奏的關鍵約束。",
+      "newbieTake": "產業分析稿；勿把路線圖直接當成短期訂單。"
+    },
+    {
+      "title": "輝達 Rubin CPX 傳重返藍圖，記憶體由 GDDR7 改採 HBM4",
+      "summary": "第三方·非公告：TechNews 引述分析師郭明錤產業調查，指輝達重啟 Rubin CPX、預計 2027 年第一季投產，新版強化 Prefill，單卡配置約 168GB HBM4，並採獨立機櫃模組。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-02",
+      "url": "https://technews.tw/2026/09/02/nvidia-rubin-cpx-reenters-roadmap-hbm4-ai-prefill/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "若屬實，可能抬升對 HBM4、供電散熱與乙太網路互連的需求討論；仍屬供應鏈調查而非公司公告。",
+      "newbieTake": "分析師調查常反覆修正；等待輝達或供應鏈訂單佐證。"
+    },
+    {
+      "title": "SEMICON：台積電侯永清談 AI 產能兩大挑戰，載板成突圍關鍵",
+      "summary": "第三方·非公告：TechNews 報導 SEMICON Taiwan 大師論壇，台積電侯永清指設備需求半年內上修至約 1.9 倍、全球近 20 座廠同步推進仍吃力；欣興簡山傑則點出載板與日系材料瓶頸。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-02",
+      "url": "https://finance.technews.tw/2026/09/02/two-major-challenges/",
+      "tickers": [],
+      "impact": "市場可能把注意力從單一晶片效能，延伸到設備、載板、材料與系統整合的供應鏈韌性。",
+      "newbieTake": "論壇發言屬產業定性訊息；後續看設備商與載板廠資本支出動向。"
+    },
+    {
+      "title": "T客邦：ASML 揭 High NA EUV 量產進度，EXE:5200B 產能上看每小時 180 片",
+      "summary": "第三方·非公告：T客邦報導 ASML 於 SEMICON Taiwan 表示 High NA EUV 已累計曝光逾 135 萬片晶圓，10 台系統在產線運轉；量產機 EXE:5200B 已達 135 wph，並朝 180 wph 與更高可用率目標前進。",
+      "source": "T客邦",
+      "date": "2026-09-02",
+      "url": "https://www.techbang.com/posts/132879-asml-high-na-euv-exe-5200b-mass-production-milestone",
+      "tickers": [],
+      "impact": "先進微影產能與成本曲線可能影響埃米級邏輯與高階 DRAM／HBM 相關製程的長期供給預期。",
+      "newbieTake": "設備里程碑≠代工廠已全面導入；留意客戶導入節點公告。"
+    },
+    {
+      "title": "T客邦：Intel Crescent Island 細節披露，Xe3P＋最高 480GB LPDDR5X",
+      "summary": "第三方·非公告：T客邦整理 Hot Chips 資訊，指 Intel 推論加速卡 Crescent Island 採 Xe3P、預設約 160GB、ODM 可擴至約 480GB LPDDR5X，並移除圖形輸出單元，鎖定長上下文與代理式推論。",
+      "source": "T客邦",
+      "date": "2026-09-01",
+      "url": "https://www.techbang.com/posts/132837-intel-crescent-island-xe3p-accelerator-details",
+      "tickers": [],
+      "impact": "邊緣／工作站推論卡路線可能增加非雲端 GPU 競爭討論，但與雲端訓練／推論主力平台仍屬不同市場。",
+      "newbieTake": "架構揭露與量產出貨時程要分開看。"
+    },
+    {
+      "title": "微軟談 AI 基建「良率思維」：瓶頸不只堆記憶體",
+      "summary": "第三方·非公告：TechNews 報導微軟 Azure 硬體主管強調代理式 AI 下電力、機櫃與記憶體極限，倡議以半導體「良率」衡量有效產出，並以 Azure Maia 跨層協同為例。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-03",
+      "url": "https://technews.tw/2026/09/03/microsoft-advocates-yield-thinking/",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "雲端大廠敘事可能更強調系統效率與記憶體階層，而不只是加速器數量。",
+      "newbieTake": "高管觀點文≠財報指引；對照後續資本支出與 Azure 口徑。"
+    },
+    {
+      "title": "CNBC／路透：美中擬於 9 月中討論 AI 安全對話",
+      "summary": "第三方·非公告：CNBC 轉述路透，指美中可能於 9 月中進行專責 AI 安全對話；白宮官員則稱目前並無排定的相關會議。文中亦提及微軟前高管在非正式溝通渠道的角色。",
+      "source": "CNBC Tech",
+      "date": "2026-09-05",
+      "url": "https://www.cnbc.com/2026/09/05/us-china-gear-up-for-mid-september-ai-safety-talks-reuters.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "政策與跨境治理議題可能影響前沿模型與算力管制預期，但議程與結果仍高度不確定。",
+      "newbieTake": "「消息人士」與官方否認並存時，先當未定案觀察。"
+    },
+    {
+      "title": "長鑫存儲宣布 LPDDR6 量產，首發對應小米 18 Fold",
+      "summary": "第三方·非公告：TechNews 報導長鑫存儲稱 LPDDR6 已進入量產，並將首發於小米即將亮相的 18 Fold；小米同步指新機採自研玄戒 O3，成為首款支援該記憶體的平台。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-01",
+      "url": "https://technews.tw/2026/09/01/chinas-cxmt-beats-western-chipmakers-to-announcement-of-lpddr6-mass-production/",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "手機高階規格與記憶體供應敘事可能牽動市場對小米旗艦成本、定價與差異化的關注。",
+      "newbieTake": "量產宣布≠出貨規模與良率已追上國際大廠；等 9 月發表會細節。"
+    },
+    {
+      "title": "先進封裝「化圓為方」：ACM Research 卡位 FOPLP 電鍍／清洗／蝕刻",
+      "summary": "第三方·非公告：TechNews 介紹面板級扇出（FOPLP）趨勢與 ACM Research 三款面板級濕式設備，並引述 TrendForce 指台積電 CoPoS 關鍵驗證期落在 2026、試產／量產時程更遠。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-02",
+      "url": "https://technews.tw/2026/09/02/advanced-packaging-panel-level-optimization-acm-research-foplp-electroplating-cleaning-wet-etching/",
+      "tickers": [],
+      "impact": "面板級封裝設備與材料可能成為 AI 大尺寸封裝長期瓶頸討論的一環。",
+      "newbieTake": "設備商訂單與代工廠量產時程常差數年；分開追蹤。"
+    },
+    {
+      "title": "富途轉載 Barron's：Nvidia 交易後被形容「像挑戰者」壓迫模型商",
+      "summary": "富途快訊（第三方·非公告）：Barron's 評論討論 Nvidia 在 Hugging Face 交易後的競爭姿態，以及對 OpenAI、Anthropic 等的壓力敘事。原文來源：Barron's。",
+      "source": "富途快訊",
+      "date": "2026-09-04",
+      "url": "https://news.moomoo.com/news/post/75846022/nvidia-is-acting-like-an-underdog-openai-and-anthropic-should",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "媒體評論可能延續開源平台併購話題熱度；屬觀點非官方財測。",
+      "newbieTake": "評論情緒濃；錨定公司 IR／監管文件事實即可。"
+    },
+    {
+      "title": "富途快訊：周五記憶體股走強，美光等上揚",
+      "summary": "富途快訊（第三方轉述）：市場快訊指周五記憶體相關個股走強，閃迪大漲、美光／西部數據／SK 海力士等上揚。原文來源：Moomoo 24/7 整理。",
+      "source": "富途快訊",
+      "date": "2026-09-04",
+      "url": "https://news.moomoo.com/news/post/75836358/memory-stocks-rise-on-friday-sandisk-jumps-5-micron-western",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "短線風險偏好可能集中在 AI 記憶體供應鏈，並與 HBM／報價預期互相強化。",
+      "newbieTake": "一日族群漲跌≠基本面翻轉；對照自身持倉波動即可。"
+    },
+    {
+      "title": "富途專欄：拆解 100 美元 AI 資本開支流向",
+      "summary": "富途快訊（第三方·非公告）：Moomoo 專欄嘗試拆解 AI 基建資本開支在伺服器、加速器、網路、電力與設施等環節的成本結構。原文來源：Moomoo Column。",
+      "source": "富途快訊",
+      "date": "2026-09-04",
+      "url": "https://www.moomoo.com/community/feed/where-does-100-of-ai-capex-flow-unpack-full-ai-117210655686662",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "教育向內容可能幫助市場把「AI 投資」拆成可觀察的供應鏈環節，但比例假設因來源而異。",
+      "newbieTake": "屬解說／估算文；勿把單一比例當成普遍財報事實。"
+    },
+    {
+      "title": "富途快訊：鴻海稱第三季 AI 需求持續成長、能見度改善",
+      "summary": "富途快訊（第三方轉述）：快訊引述鴻海表示第三季 AI 需求持續成長、ICT 產品能見度改善，同時仍須關注全球政經波動影響。原文來源：公司／市場快訊整理。",
+      "source": "富途快訊",
+      "date": "2026-09-05",
+      "url": "https://news.moomoo.com/news/flash/23142299/foxconn-in-the-third-quarter-as-ai-demand-continues-to",
+      "tickers": [],
+      "impact": "伺服器／AI 組裝供應鏈能見度改善可能支撐「需求未熄火」敘事，但仍受地緣與客戶拉貨節奏影響。",
+      "newbieTake": "快訊濃縮發言；細節以公司正式說明或法說為準。"
     }
   ]
 }
