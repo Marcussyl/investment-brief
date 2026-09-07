@@ -1,0 +1,288 @@
+{
+  "date": "2026-09-07",
+  "stories": [
+    {
+      "id": "xiaomi-launch-day",
+      "ticker": "1810.HK",
+      "title": "小米秋季旗艦日：Sky Nomad 增程 SUV＋18 Fold（持倉）",
+      "summary": "周一港股重開前夕焦點：第三方 CnEVPost（2 Sep，引小米汽車微博）指北京時間 9 月 7 日晚 7 時秋季旗艦會，正式推出 Sky Nomad N70 Pro／N70 Max／N90 Max 增程 SUV，並預期 18 Fold 與平板、Xring O3。預售價報道指 N70 Max 約人民幣 259,900、N90 Max 約 299,900（第三方整理，最終以官方為準）。CnEVPost（1 Sep）另稱 8 月汽車交付繼續高於 30,000 輛（公司未給精確值）。Yahoo 最新現金收市仍係 4 Sep：1810.HK 28.44（2026-09-04）。今日係發佈會日，清晨簡報未能預載晚間官方數字。",
+      "whyItMatters": "1810.HK 係 Active 持倉。發佈會係新手可對照「預售價 vs 正式售價／交付時間／晶片表述」的公開事件；週末休市後第一個交易日情緒亦常跟產品新聞。",
+      "whatToWatch": "今晚官方售價、交付節奏、Xring O3／車規表述；明日港股開市後以可核對報價與成交量回看；歐洲經銷商進度（第三方 3 Sep）只作背景。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "CnEVPost",
+          "date": "2026-09-02",
+          "title": "Xiaomi to launch Sky Nomad EREV SUV lineup on September 7",
+          "url": "https://cnevpost.com/2026/09/02/xiaomi-launch-sky-nomad-lineup-sept-7/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "CnEVPost",
+          "date": "2026-09-01",
+          "title": "Xiaomi says August vehicle deliveries stayed above 30,000 as Sky Nomad launch nears",
+          "url": "https://cnevpost.com/2026/09/01/xiaomi-aug-deliveries-above-30000-sky-nomad-launch-nears/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-04",
+          "title": "1810.HK last close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-a-share-placement",
+      "ticker": "1398.HK",
+      "title": "工行公布向特定對象發行 A 股預案：募資不超人民幣 1,000 億補核心一級資本（研究）",
+      "summary": "上海證券報披露工行《向特定對象發行 A 股股票預案》（公告編號臨2026-036）：董事會 6 Sep 相關安排下，擬向財政部、中國煙草及有關子公司定增 A 股，募資規模不超過人民幣 1,000 億元（含），扣除費用後全部用於補充核心一級資本；財政部擬認購 700 億、中國煙草 100 億、上海煙草／雲南中煙／湖南中煙／湖南煙草各 50 億（最終以監管批覆為準）。認購股份自登記日起五年內不得轉讓。尚待股東會、金融監管總局、上交所審核及證監會註冊。財新（6 Sep）亦報道第二批特別國債注資大行落地背景。Yahoo 4 Sep 收：1398.HK 7.7（2026-09-04）（約 +1.99% vs 3 Sep）。",
+      "whyItMatters": "1398.HK 係 Active 研究名。定增／注資改變的是資本充足與股本結構預期；新手要分清「預案已披露」與「已完成發行／已到賬」。A 股定增亦可能影響 H 股溢價／折價討論，但唔係自動買賣訊號。",
+      "whatToWatch": "股東會日期與表決結果；監管批覆；最終發行價與股數；有冇同步 H 股／港交所英文公告可核對。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "上海證券報／工行預案披露",
+          "date": "2026-09-07",
+          "title": "中國工商銀行股份有限公司向特定對象發行A股股票預案（臨2026-036）",
+          "url": "https://paper.cnstock.com/html/2026-09/07/content_2265833.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "財新",
+          "date": "2026-09-06",
+          "title": "第二批特別國債注資銀行落地 農行、工行、進出口行合計2300億元",
+          "url": "https://finance.caixin.com/2026-09-06/102482427.html"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-04",
+          "title": "1398.HK last close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-lockup-sep9",
+      "ticker": "SPCX",
+      "title": "SpaceX／SPCX：9 Sep 解禁窗口臨近（持倉）",
+      "summary": "第三方整理（FinanceFeeds／TechTimes 等，引 IPO 招股說明書時間表）指約 9 月 9 日有一批員工／早期投資者股份解禁窗口（報道量級約數億股級，數字以招股書為準）；解禁＝可賣資格，唔等於一定會賣。美股 5–6 Sep 週末休市，Yahoo 最新仍係 4 Sep 收 147.95（2026-09-04）。",
+      "whyItMatters": "SPCX 係 Active 持倉。解禁係供應敘事，新手常誤以為「必跌」；實際要睇成交量同有冇人真係出貨。",
+      "whatToWatch": "9 Sep 前後成交量；公司 IR／SEC 有無更新剩餘時間表；勿把第三方股數當成已核實持倉變動。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "FinanceFeeds",
+          "date": "2026-09-02",
+          "title": "SpaceX’s Next Share Unlock Lands September 9",
+          "url": "https://financefeeds.com/spacex-spcx-share-unlock-september-9/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "TechTimes",
+          "date": "2026-09-01",
+          "title": "SpaceX Stock Lockup Hits Tuesday",
+          "url": "https://www.techtimes.com/articles/326114/20260901/spacex-stock-lockup-hits-tuesday-november-earnings-tranche-dwarfs-september-9-four-times.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-04",
+          "title": "SPCX last close",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-hf-follow",
+      "ticker": "NVDA",
+      "title": "NVIDIA×Hugging Face：已簽協議，交割仍待監管（研究）",
+      "summary": "跟進上週正式文件：SEC 8-K（最早事件 2 Sep）與 NVIDIA 博客（3 Sep）寫明 definitive agreement，對股東約 119 億美元對價（可調）＋最多約 10 億美元留任計劃；博客總值約 12,930,300,000 美元；預期 2027 上半年完成，須監管批准。Yahoo 4 Sep 收 230.36（2026-09-04）。今日無新的交割公告。",
+      "whyItMatters": "NVDA 係 Active 研究名。新手要抓住「已簽 ≠ 已交割」：數字以 8-K／博客為準，媒體「13 億／已買下」口語易誤導。",
+      "whatToWatch": "監管進度；平台開放承諾有否後續法務文件；下一份財報有否量化相關影響（未見則勿自行估算）。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SEC Form 8-K",
+          "date": "2026-09-02",
+          "title": "NVIDIA 8-K — definitive agreement to acquire Hugging Face",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-09-03",
+          "title": "NVIDIA to Acquire Hugging Face",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-04",
+          "title": "NVDA last close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "fomc-waller-holdings",
+      "ticker": "SPYM",
+      "title": "距離 15–16 Sep FOMC 約一週：Waller 傾向視通脹數據決定是否維持利率（持倉宏觀）",
+      "summary": "聯儲理事 Waller（Fed 官網 3 Sep／Reuters NEXT）：若未來兩週數據（尤其 8 月通脹）顯示通脹續改善，傾向維持聯邦基金利率目標；若通脹「過熱／逆轉」則考慮加息。港元聯匯下金管局基本利率公式跟 Fed。週末美股休市，Yahoo 4 Sep：SPYM 90.67（2026-09-04）、GLD 406.77（2026-09-04）、VEU 86.41（2026-09-04）。CME 機率等第三方數字唔係 Fed 公告。",
+      "whyItMatters": "你 Active 持倉有美股寬基（SPYM）、黃金（GLD）同非美股票（VEU）。利率預期一變，股債金會一齊重新定價；香港按揭／存款息亦跟呢條鏈。",
+      "whatToWatch": "8 月通脹數據（Waller 點名）；15–16 Sep FOMC 聲明；金管局基本利率有否同步。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Federal Reserve",
+          "date": "2026-09-03",
+          "title": "Speech by Governor Waller on the economic outlook",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-09-03",
+          "title": "Fed's Waller open to leaving rates unchanged in September if inflation cools",
+          "url": "https://www.reuters.com/business/feds-waller-open-leaving-rates-unchanged-september-meeting-if-inflation-cools-2026-09-03/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-04",
+          "title": "SPYM / GLD / VEU last closes",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        }
+      ]
+    },
+    {
+      "id": "msft-tape-note",
+      "ticker": "MSFT",
+      "title": "微軟：週末前收市回吐；第三方 AI 成本／分部重組稿未核實（研究）",
+      "summary": "Yahoo 顯示 MSFT 4 Sep 收 499.7（2026-09-04）（約 -2.04% vs 3 Sep）。週末有媒體談內部 AI Token 成本壓力、以及 FY2027 分部披露重組等（第三方，未見微軟 IR 主頁同等確認），本簡報不採納未核實數字或目標價。雲端＋AI 仍係研究框架，等待公司正式文件。",
+      "whyItMatters": "MSFT 係 Active 研究名。價格波動本身唔係新聞；未核實媒體稿唔應當成指引變更。",
+      "whatToWatch": "微軟 IR／SEC 有冇正式 8-K 或投資者簡報確認分部重組；下一次財報的 Azure／AI 相關披露。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-04",
+          "title": "MSFT last close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "T客邦",
+          "date": "2026-09-06",
+          "title": "微軟 AI 成本／Token 限速相關整理（未核實）",
+          "url": "https://www.techbang.com/posts/132796-microsoft-ai-budget-cu"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "cet1-core-tier1",
+      "title": "核心一級資本（CET1）",
+      "titleEn": "Common Equity Tier 1 capital",
+      "what": "銀行資本裡「最核心、最能吸收虧損」的一層，主要包括普通股股本與留存收益等；監管用核心一級資本充足率衡量銀行抵禦風險的緩衝。",
+      "whyItMatters": "新手聽到「注資／定增補資本」，其實係銀行喺擴貸款或應付更嚴監管前，先加厚安全墊；唔等於即時派息或即時盈利。",
+      "whereToday": "工行 A 股定增預案寫明募資用於補充核心一級資本；並提示可能攤薄即期回報。",
+      "whatToWatch": "最終發行價／股數、股東會與監管批覆；完成後核心一級資本充足率披露。",
+      "relatedTickers": [
+        "1398.HK"
+      ],
+      "notionUrl": "https://app.notion.com/p/3d499f70bc5681519ef8e570ef5d746b"
+    },
+    {
+      "id": "fomc-hkma",
+      "title": "FOMC vs 金管局",
+      "titleEn": "FOMC vs HKMA",
+      "what": "聯儲局定美元利率；香港聯匯下金管局基本利率用公式跟隨。",
+      "whyItMatters": "港元按揭同存款息跟這條鏈。FOMC 前後，美股 ETF 同黃金常一齊波動。",
+      "whereToday": "Waller 3 Sep 講話；15–16 Sep FOMC；持倉 SPYM／GLD／VEU 最新仍係周五收市。",
+      "whatToWatch": "FOMC 聲明同金管局基本利率有否同日調整。",
+      "relatedTickers": [
+        "SPYM",
+        "GLD",
+        "VEU"
+      ],
+      "notionUrl": "https://app.notion.com/p/3cd99f70bc568196867cf60440f021b9"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Q2 2026 results",
+        "date": "2026-08-04",
+        "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc56814bb21af7b4871ddb3c"
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "標普 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc5681c9b280fcfeedbdf553"
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "全球非美 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc5681be9d7ad6566aec901e"
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568130ba14ee5ba6463207"
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568100b3b1dadaf1e3527b"
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568149a1d1c0cb032ab90b"
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3ce99f70bc568077bee6cc71eb3c0387"
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-07.mp3",
+  "audioScriptChars": 2506,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
