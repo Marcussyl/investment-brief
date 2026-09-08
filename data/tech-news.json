@@ -1,197 +1,215 @@
 {
-  "updated": "2026-09-07T00:27:58Z",
-  "disclaimer": "非投資建議。市場動態為公開資訊摘要，可能／市場關注語氣，不含買賣建議或目標價。",
+  "updated": "2026-09-08T00:25:17Z",
+  "disclaimer": "Educational digest only. Not investment advice. Third-party items are unverified unless marked IR/company newsroom. Sources may paraphrase; follow the canonical URL.",
   "items": [
     {
-      "title": "NVIDIA to Acquire Hugging Face（公司新聞室）",
-      "summary": "公司新聞室／IR：NVIDIA 宣布同意收購 Hugging Face，總值約 12,930,300,000 美元；並稱平台將維持開放、不強制使用 NVIDIA 算力。已簽協議尚未交割。",
-      "source": "NVIDIA Newsroom",
+      "title": "瑞銀拆解 Vera Rubin 平台成本，記憶體佔比達 62%，SOCAMM2 躍升關鍵",
+      "summary": "第三方·非公告：TechNews 引述瑞銀 BOM 分析，指輝達 Vera Rubin 超級晶片（1×Vera CPU＋2×Rubin GPU）製造成本約 38,902 美元，其中 HBM4／SOCAMM2 記憶體約占 62%，高於前代 Blackwell Ultra GB300 的 53%；文中亦提及供應緊張下規格調降傳述。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-07",
+      "url": "https://technews.tw/2026/09/07/ubs-disassembles-the-vera-rubin-platform-cost/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場可能更關注 AI 機櫃成本結構由算力轉向記憶體／模組，SOCAMM2 與 HBM 供給節奏或成為下一輪報價與出貨討論焦點。",
+      "newbieTake": "這是外資拆解與產業傳述，不是輝達財報數字；可對照後續記憶體廠與雲端客戶的正式說明。"
+    },
+    {
+      "title": "AI 引爆晶片荒，IFA 展前示警：手機、筆電與遊戲機恐更貴",
+      "summary": "第三方·非公告：TechNews 整理市調 NIQ 等於 IFA 前示警，指 AI 資料中心吸走 DRAM／高速記憶體產能，消費電子面臨成本上升、高容量規格優先與機型選擇變少。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-07",
+      "url": "https://technews.tw/2026/09/07/ai-chips-spark-price-hikes-electronic-products/",
+      "tickers": [],
+      "impact": "市場可能把「AI 排擠消費記憶體」視為跨裝置定價與出貨壓力敘事，間接牽動手機與 PC 供應鏈預期。",
+      "newbieTake": "屬產業示警／市調觀點；留意品牌是否公開調價或縮減入門規格。"
+    },
+    {
+      "title": "DeepSeek 傳採購約 16 萬顆華為 Ascend 950DT，內蒙古建 AI 叢集",
+      "summary": "第三方·非公告：TechNews 引述彭博，指 DeepSeek 向華為下訂約 16 萬顆 Ascend 950DT（報導估單價約人民幣 11.1 萬元、訂單規模或達約 25.6 億美元），用於內蒙古資料中心推理需求，並稱產能緊張恐需一年以上交貨。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-06",
+      "url": "https://technews.tw/2026/09/06/deepseek-prepares-major-huawei-ai-chip-order-for-new-data-center/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場可能解讀為中國本土加速器在推理場景替代輝達受限產品的又一案例，關稅／出口管制敘事或再被拿來對照。",
+      "newbieTake": "屬二手報導與產業估算；以雙方後續正式確認為準，勿把傳述訂單當已入帳營收。"
+    },
+    {
+      "title": "資料中心耗水惹民怨，輝達帶頭採閉環冷卻；微軟、亞馬遜亦稱近零淨耗水",
+      "summary": "第三方·非公告：TechNews 轉述法新社，指輝達採較高進水溫（報導稱約 45°C）的閉環冷卻以省水省電，並稱 DSX 部署場景幾乎可不耗水；微軟、AWS、Meta 亦對法新社表示使用閉環且無水淨損失。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-08",
+      "url": "https://technews.tw/2026/09/08/ai-data-centers-are-less-thirsty-now/",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "市場可能持續把資料中心用水／用電與地方反彈視為 AI 基建落地風險，閉環冷卻敘事或成企業 ESG 溝通重點。",
+      "newbieTake": "冷卻效率聲明不等於整體隱性用水（發電用水）消失；可對照各雲端永續報告口徑。"
+    },
+    {
+      "title": "祝賀 OpenAI GPT-6 Astra：黃仁勳稱「AGI 已經到來」、逾 10 萬顆 Grace Blackwell 訓練",
+      "summary": "第三方·非公告：TechNews 引述 OpenAI 高層與黃仁勳 X 貼文，指 Astra 在約 10 萬顆以上 NVIDIA Grace Blackwell NVLink72 預訓練，黃仁勳並稱接下來還有約 40 萬顆 GPU 上線。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-07",
+      "url": "https://technews.tw/2026/09/07/jensen-huang-says-agi-has-arrived/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場可能把前沿模型訓練規模與 GPU 叢集擴張再次連動，強化「算力供給仍是瓶頸」的敘事。",
+      "newbieTake": "AGI 定義各家不同；把官方祝賀與訓練硬體規模分開看，並對照後續雲端／OpenAI 產能進度。"
+    },
+    {
+      "title": "Q2 全球 NAND 營收季增 70%，美光市占躍居第 3",
+      "summary": "第三方·非公告：TechNews（MoneyDJ 授權）引述 Counterpoint，指 2026 Q2 全球 NAND 營收季增 70%、價格季增約 55%；三星市占約 28%、SK 海力士約 19%、美光約 15% 超越鎧俠居第 3。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-07",
+      "url": "https://technews.tw/2026/09/07/global-nand-memory-market-share-quarterly/",
+      "tickers": [],
+      "impact": "記憶體漲價與市占重排可能延續「AI／企業 SSD 帶動 NAND 營收」討論，並影響消費電子成本預期。",
+      "newbieTake": "市占是營收比重而非出貨量；後續留意合約價與品牌是否再調終端售價。"
+    },
+    {
+      "title": "分析：AMD 資料中心營收比重 2027 年或破 70%，關鍵在 Helios 量產",
+      "summary": "第三方·非公告：TechNews 引述外媒／分析師試算，指 AMD 2026 Q2 資料中心營收約 67 億美元、占比約 58%；若 Helios（MI400 系）順利放量，2027 年資料中心占比或逾 70%，並點名 OpenAI／Meta／Anthropic 等 GW 級合約。",
+      "source": "TechNews 科技新報",
+      "date": "2026-09-07",
+      "url": "https://finance.technews.tw/2026/09/07/amds-data-center-revenue-is-projected-to-exceed-70-by-2027/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場可能把 AMD Helios 進度視為 GPU 競爭格局觀察指標，間接影響對輝達市占與定價彈性的討論。",
+      "newbieTake": "屬前瞻試算；真正變數是機櫃量產與客戶部署時程，不是單季占比口號。"
+    },
+    {
+      "title": "Snapdragon／記憶體漲價：傳三星、小米等大砍 2026 旗艦機產能",
+      "summary": "第三方·非公告：T客邦（9/3）引述供應鏈與外媒，指先進製程、驍龍旗艦晶片與 LPDDR 等推升 BOM 約 35%–40%，三星、小米、OPPO、vivo 等傳將 2026 旗艦預估產量下修約 30%–50%。",
+      "source": "T客邦",
+      "date": "2026-09-03",
+      "url": "https://www.techbang.com/posts/132829-flagship-smartphone-costs-surge-order-cuts",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "安卓旗艦砍單傳聞可能影響手機與相關零組件展望，並與記憶體成本上漲敘事互相強化。",
+      "newbieTake": "屬供應鏈傳述；觀察小米等後續出貨指引或發表會定價是否呼應。"
+    },
+    {
+      "title": "DigiTimes：HBM4 排擠 DRAM，三星／SK 海力士庫存降至不足 10 天",
+      "summary": "第三方·非公告：DigiTimes（9/7）引述 KB Securities，指 AI 基建同步拉動 HBM、伺服器 DRAM 與企業 SSD，三星與 SK 海力士記憶體庫存天數落至 10 天以下。付費全文需訂閱。",
+      "source": "DigiTimes",
+      "date": "2026-09-07",
+      "url": "https://www.digitimes.com/news/a20260907VL217/samsung-sk-hynix-dram-hbm4-demand.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "記憶體庫存極低可能強化「供給緊＋報價續揚」敘事，並牽動 AI GPU 交付與消費 DRAM 成本預期。",
+      "newbieTake": "標題摘要來自公開導讀與券商引用；細節以訂閱全文或原報告為準。"
+    },
+    {
+      "title": "DigiTimes：晶圓代工利用率近 90%，2027 年前難見回檔式降價",
+      "summary": "第三方·非公告：DigiTimes 指 AI 需求帶動 2026 年代工重新定價，先進製程緊俏向成熟／特殊製程擴散，晶圓價格與利用率上升並推升下游晶片成本。付費全文需訂閱。",
+      "source": "DigiTimes",
+      "date": "2026-09-07",
+      "url": "https://www.digitimes.com/news/a20260904VL207/capacity-price-samsung-tsmc-2027.html",
+      "tickers": [],
+      "impact": "市場可能關注代工漲價是否持續向手機 SoC、ASIC 與邊緣 AI 成本傳導。",
+      "newbieTake": "公開頁僅有導讀；勿把產業評論當成已公布的官方價目表。"
+    },
+    {
+      "title": "西雅圖時報與 Newsday 控告 OpenAI、微軟，要求銷毀含其新聞內容的 AI 模型",
+      "summary": "第三方·非公告：iThome（9/7）報導兩家美媒於紐約南區联邦法院起訴，指控 OpenAI 與微軟未經授權使用新聞訓練／生成與 AI 搜尋，並請求損害賠償與銷毀相關模型與資料集；案件仍處起訴階段。",
+      "source": "iThome",
+      "date": "2026-09-07",
+      "url": "https://www.ithome.com.tw/news/178753",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "著作權訴訟累積可能提高大型模型訓練與授權成本預期，並影響雲端 Copilot 類產品的合規討論。",
+      "newbieTake": "起訴≠敗訴；追蹤法院程序與是否出現和解／授權框架即可。"
+    },
+    {
+      "title": "研究揭露 GPUThor：可突破部分 Nvidia GPU ECC 的 Rowhammer 攻擊",
+      "summary": "第三方·非公告：iThome（9/7）報導多倫多大學公開 GPUThor，稱在 Ampere＋GDDR6 的部分 RTX A 系列 GPU 上可造成 ECC 無法完全修正的多位元錯誤；團隊 4 月通報，Nvidia 8/25 發布緩解建議（如 SYS-ECC、IOMMU 等）。",
+      "source": "iThome",
+      "date": "2026-09-07",
+      "url": "https://www.ithome.com.tw/news/178735",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "學術攻擊面曝光可能推升資料中心 GPU 資安與遙測監控討論，但對消費／雲端營收的直接量化影響仍不明。",
+      "newbieTake": "屬研究披露＋廠商緩解建議；先確認自身部署是否在受測架構範圍。"
+    },
+    {
+      "title": "微軟推出 Project Zenith：開發者 Windows 裝置預整合，強調本機大模型記憶體規格",
+      "summary": "第三方·非公告：iThome（9/7）報導微軟 9/4 發表 Project Zenith，預先配置開發工具與系統，要求至少 64GB 統一記憶體與高記憶體頻寬，以便本機跑較大參數 AI 模型；首批機種採 AMD Ryzen AI Halo 平台。",
+      "source": "iThome",
+      "date": "2026-09-07",
+      "url": "https://www.ithome.com.tw/news/178732",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "本機／邊緣 AI PC 規格門檻提高，可能帶動高容量記憶體與開發者硬體需求敘事。",
+      "newbieTake": "產品專案≠出貨保證；留意實際上市機種、售價與開發者採用度。"
+    },
+    {
+      "title": "Reuters Breakingviews：中國「四小龍」侵蝕輝達在華護城河",
+      "summary": "第三方·非公告：Reuters Breakingviews（9/7）評論燧原等中國 AI 晶片新創 IPO／成長，指其與華為等正以自研軟體棧與推論導向晶片，削弱輝達在中國約 900 億美元 AI 半導體市場的影響力；文中估輝達在華市占已由近壟斷降至約 55%。",
+      "source": "Reuters",
+      "date": "2026-09-07",
+      "url": "https://www.reuters.com/commentary/breakingviews/chinas-ai-dragons-breathe-fire-nvidias-moat-2026-09-07/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "評論可能強化「出口管制＋本土替代」雙線敘事，市場關注點或仍在全球非中國需求能否抵銷。",
+      "newbieTake": "Breakingviews 是評論而非公司公告；市占與銷售增速數字需對照一手財報／監管文件。"
+    },
+    {
+      "title": "CNBC：AI 實驗室陷入「model fatigue」，同週多模型更新；輝達深化模型層布局",
+      "summary": "第三方·非公告：CNBC（9/6）報導 Anthropic、Meta、Google、OpenAI 同週密集推模型更新，業界稱出現 model fatigue；文中並提到輝達以約 129 億美元收購 Hugging Face、加深開源模型生態布局。",
+      "source": "CNBC Tech",
+      "date": "2026-09-06",
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "模型釋出節奏加快可能推升評估／雲端算力與資安治理成本，並讓「硬體＋模型平台」整合敘事更受關注。",
+      "newbieTake": "點版本更新≠全新架構躍進；可先看企業實際換模意願與雲端用量，而不是標題熱度。"
+    },
+    {
+      "title": "NVIDIA to Acquire Hugging Face for $12,930,300,000",
+      "summary": "公司新聞室／IR：輝達官方博客（黃仁勳署名，2026-09-03）宣布同意以 12,930,300,000 美元收購 Hugging Face，並承諾維持開放平台、多雲多加速器與開源／開放權重生態，強調使用 Hugging Face 不強制綁定 NVIDIA 運算。",
+      "source": "NVIDIA Blog",
       "date": "2026-09-03",
       "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
       "tickers": [
         "NVDA"
       ],
-      "impact": "市場可能把焦點放在開源模型生態與監管審批時間表；交易預期 2027 上半年完成，現階段仍屬「已簽未交割」。",
-      "newbieTake": "對照 SEC 8-K 與公司博客的數字與交割條件，勿把媒體「已收購」口語當成已完成。"
+      "impact": "市場可能解讀為輝達由晶片／系統向上延伸至模型社群與部署工具層，開源治理與監管審查仍待觀察。",
+      "newbieTake": "以官方收購聲明為準；後續留意交割條件、反壟斷進度與平台條款是否變動。"
     },
     {
-      "title": "Sparks Fly：NVIDIA 於 IFA 推本地 AI／PAIR，RTX Spark Windows PC",
-      "summary": "公司新聞室／IR：NVIDIA 於 IFA 2026 談本地代理與 Personal AI Router（PAIR），並提及 RTX Spark Windows PC 與合作夥伴時程。屬產品／生態路線圖。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-09-03",
-      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-      "tickers": [
-        "NVDA",
-        "MSFT"
-      ],
-      "impact": "市場可能同時關注資料中心 GPU 與裝置端 AI PC 兩條敘事；消費級需求能否放大仍待觀察。",
-      "newbieTake": "先分清官方產品路線圖與資料中心營收主軸，兩邊時間尺度不同。"
-    },
-    {
-      "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
-      "summary": "第三方·非公告：CNBC Tech 評論 NVIDIA 收購 Hugging Face 協議的戰略解讀。數字與交割條件仍以公司 8-K／博客為準。",
-      "source": "CNBC Tech",
-      "date": "2026-09-04",
-      "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+      "title": "OpenAI Astra 發布後記憶體股情緒回溫（MarketWatch）",
+      "summary": "第三方·非公告：富途快訊轉載 MarketWatch，指 OpenAI 最新 Astra／ChatGPT-6 相關產品提振分析師對高階記憶體需求續強的信心。原文來源：MarketWatch。",
+      "source": "富途快訊",
+      "date": "2026-09-07",
+      "url": "https://news.moomoo.com/news/post/75899792/why-the-launch-of-openai-s-latest-astra-model-reignited",
       "tickers": [
         "NVDA"
       ],
-      "impact": "第三方評論可能放大「開源生態控制權」敘事；唔取代監管審批同交割時間表。",
-      "newbieTake": "評論稿當背景，條款同金額返去公司文件核對。"
+      "impact": "前沿模型發布常被市場用來重新定價記憶體與算力供應鏈預期，短線情緒敏感。",
+      "newbieTake": "情緒稿≠供需數據；可對照 DRAM／HBM 原廠與市調的合約價更新。"
     },
     {
-      "title": "TSMC urges HBM makers to design for X-ray inspection as packaging grows more complex",
-      "summary": "第三方·非公告：DigiTimes 報道指台積電呼籲 HBM 供應商在封裝設計階段就考慮 X 光檢測需求，反映先進封裝複雜度上升。",
-      "source": "DigiTimes",
-      "date": "2026-09-04",
-      "url": "https://www.digitimes.com/news/a20260904VL218/tsmc-inspection-hbm-packaging-design.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "市場可能把 HBM／先進封裝良率與檢測能力視為 AI 供應鏈瓶頸之一；單一報道唔等於短期出貨已變。",
-      "newbieTake": "把供應鏈調查當「線索」，最終仍以相關公司財報與指引核對。"
-    },
-    {
-      "title": "Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge",
-      "summary": "第三方·非公告：DigiTimes 稱美光據報目標在 2026 年底前擴大 HBM 產能約一倍；三星與 SK 海力士仍具規模優勢。數字屬報道，非公司公告。",
-      "source": "DigiTimes",
-      "date": "2026-09-04",
-      "url": "https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "HBM 產能敘事可能牽動 AI 伺服器供應鏈情緒；實際產能與客戶認證進度要以各廠官方說法為準。",
-      "newbieTake": "見到「據報／reportedly」就要標成未核實，等公司或財報再對。"
-    },
-    {
-      "title": "AI racks move toward MW scale as power, cooling converge",
-      "summary": "第三方·非公告：DigiTimes 討論 AI 機架功率走向 MW 級，電力與液冷／散熱需求同步上升。屬產業趨勢整理。",
-      "source": "DigiTimes",
-      "date": "2026-09-04",
-      "url": "https://www.digitimes.com/news/a20260904PD226/cooling-liquid-cooling-transmission-chips-data-center.html",
-      "tickers": [
-        "NVDA",
-        "MSFT"
-      ],
-      "impact": "市場可能把電力與散熱視為資料中心擴張的硬約束；雲端資本開支節奏或受影響。",
-      "newbieTake": "新手可跟「下一次 hyperscaler 財報的 capex／電力相關表述」，而唔係單則產業稿。"
-    },
-    {
-      "title": "Xiaomi Auto signs first German dealers, paving way for 2027 European sales",
-      "summary": "第三方·非公告：CnEVPost 報道小米汽車簽署首批德國經銷商，為 2027 年歐洲銷售鋪路。非港交所公告。",
-      "source": "CnEVPost",
-      "date": "2026-09-03",
-      "url": "https://cnevpost.com/2026/09/03/xiaomi-auto-signs-1st-german-dealers/",
-      "tickers": [
-        "1810.HK"
-      ],
-      "impact": "市場可能解讀為小米汽車出海節奏的早期訊號；歐洲實際開售與交付仍待官方時間表。",
-      "newbieTake": "把「經銷商簽約」同「當地開始交付」分開睇，先記來源日期。"
-    },
-    {
-      "title": "微軟也扛不住 AI 高成本？員工 Token 用量觸發官方限速令",
-      "summary": "第三方·非公告：T客邦整理指微軟對內部 AI Token 用量祭出限速相關措施，反映大型雲端 AI 成本壓力。細節以微軟官方說明為準。",
-      "source": "T客邦",
-      "date": "2026-09-06",
-      "url": "https://www.techbang.com/posts/132796-microsoft-ai-budget-cu",
-      "tickers": [
-        "MSFT"
-      ],
-      "impact": "市場可能關注雲端巨頭如何平衡 AI 產品開放度與基礎設施成本；單則媒體稿唔等於財報指引已改。",
-      "newbieTake": "優先找微軟官方 blog／IR 有冇確認；冇就標「未核實媒體報道」。"
-    },
-    {
-      "title": "手機平均已漲 15%，iPhone 18 也可能更貴？Counterpoint：零組件成本仍在上升",
-      "summary": "第三方·非公告：T客邦引 Counterpoint 指手機零組件成本上升，市場討論後續旗艦定價壓力。非蘋果公告。",
-      "source": "T客邦",
-      "date": "2026-09-06",
-      "url": "https://www.techbang.com/posts/132961-iphone-18-price-hike-r",
+      "title": "快訊：英特爾 CPU 傳再漲價約 10%；儲存概念股夜盤續強",
+      "summary": "第三方·非公告：富途快訊整理夜盤動向，提及英特爾傳 CPU 再漲約 10%，閃迪、美光、SK 海力士等儲存相關股走強；並夾雜 Bloom Energy 納入標普 500 等非半導體訊息。",
+      "source": "富途快訊",
+      "date": "2026-09-08",
+      "url": "https://news.futunn.com/flash/20720675/bloom-energy-s-us-shares-rose-more-than-8-in",
       "tickers": [],
-      "impact": "智慧手機定價與 BOM 成本敘事可能波及供應鏈情緒；最終售價仍以品牌官方為準。",
-      "newbieTake": "Active 名單冇 AAPL，呢則只作手機產業背景，唔好自行掛到其他票。"
-    },
-    {
-      "title": "支持 AI 中小企業創業，中國推新政涵蓋一人公司",
-      "summary": "第三方·非公告：支持 AI 中小企業創業，中國推新政涵蓋一人公司。",
-      "source": "TechNews 科技新報",
-      "date": "2026-09-07",
-      "url": "https://technews.tw/2026/09/07/china-new-policy-ai-sme-startups-one-person-companies/",
-      "tickers": [],
-      "impact": "中國 AI 中小企政策可能影響創業與雲端用量預期；落地細節與執行節奏仍待官方全文。",
-      "newbieTake": "政策新聞要追原文條文與生效日，唔好只睇標題。"
-    },
-    {
-      "title": "SaaS 巨頭 Salesforce 震撼攜手 Anthropic，為何甘願當「笨水管」把用戶入口讓給 Claude？",
-      "summary": "第三方·非公告：SaaS 巨頭 Salesforce 震撼攜手 Anthropic，為何甘願當「笨水管」把用戶入口讓給 Claude？。",
-      "source": "TechNews 科技新報",
-      "date": "2026-09-06",
-      "url": "https://finance.technews.tw/2026/09/07/salesforce-wz-anthropic/",
-      "tickers": [],
-      "impact": "企業軟體＋大模型分銷敘事可能升溫；對個別雲端股的實際營收影響仍不明。",
-      "newbieTake": "先睇合作公告有冇「收入分成／獨家」等可核對條款，冇就當生態新聞。"
-    },
-    {
-      "title": "日本 AI 的真正危機：會製造、會出口，企業卻還不太會用",
-      "summary": "第三方·非公告：日本 AI 的真正危機：會製造、會出口，企業卻還不太會用。",
-      "source": "TechNews 科技新報",
-      "date": "2026-09-07",
-      "url": "https://finance.technews.tw/2026/09/07/strong-majority-of-japanese-firms-have-yet-to-fully-embrace-ai-reuters-poll/",
-      "tickers": [],
-      "impact": "採用率落差可能影響區域 AI 軟體與雲端需求節奏的討論。",
-      "newbieTake": "地區採用率報道係背景，唔等於某隻 Active 股票已有新訂單。"
-    },
-    {
-      "title": "AI 可以學你的文章，也能學你的聲音嗎？AI 聲紋訓練為何成為下個法律戰場",
-      "summary": "第三方·非公告：AI 可以學你的文章，也能學你的聲音嗎？AI 聲紋訓練為何成為下個法律戰場。",
-      "source": "TechNews 科技新報",
-      "date": "2026-09-07",
-      "url": "https://infosecu.technews.tw/2026/09/07/lawyers-square-off-in-fight-over-voice-data-used-to-train-ai/",
-      "tickers": [],
-      "impact": "生成式 AI 的資料授權爭議可能影響模型訓練成本與合規討論。",
-      "newbieTake": "法規主題適合當學習卡片，暫時唔使對應到單一持股。"
-    },
-    {
-      "title": "AI 寫程式速度快風險也更高，專家警告：企業不能再單靠「人工審查」補好 AI 漏洞",
-      "summary": "第三方·非公告：AI 寫程式速度快風險也更高，專家警告：企業不能再單靠「人工審查」補好 AI 漏洞。",
-      "source": "TechNews 科技新報",
-      "date": "2026-09-06",
-      "url": "https://infosecu.technews.tw/2026/09/07/%e2%80%8bai-is-writing-more-code-and-testing-standards-must-catch-up/",
-      "tickers": [],
-      "impact": "開發工具＋資安支出敘事可能並存；對晶片股屬間接主題。",
-      "newbieTake": "把「開發效率」同「資安成本」一齊記，避免只睇單一面向。"
-    },
-    {
-      "title": "Air Security募資5,000萬美元，鎖定AI代理技能與MCP供應鏈風險",
-      "summary": "第三方·非公告：iThome 報道資安新創 Air Security 融資，聚焦 AI 代理技能與 MCP 供應鏈風險。",
-      "source": "iThome",
-      "date": "2026-09-07",
-      "url": "https://www.ithome.com.tw/news/178709",
-      "tickers": [],
-      "impact": "市場可能更關注 AI 代理工具鏈嘅資安暴露面；屬產業主題，唔係單一上市公司指引。",
-      "newbieTake": "把 MCP／代理技能當成新名詞學習點，唔使急住對應到買賣。"
-    },
-    {
-      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-      "summary": "第三方·非公告：CNBC Tech 討論 AI 實驗室密集發模型導致「model fatigue」。屬市場情緒／評論稿。",
-      "source": "CNBC Tech",
-      "date": "2026-09-06",
-      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-      "tickers": [
-        "NVDA",
-        "MSFT"
-      ],
-      "impact": "市場可能質疑「頻密發版」能否轉成可持續需求；情緒稿不等於訂單數據。",
-      "newbieTake": "評論稿優先當背景，數字仍以公司財報為準。"
-    },
-    {
-      "title": "India expands chip ambitions with full Semicon 2.0 notification",
-      "summary": "第三方·非公告：DigiTimes 報道印度 Semicon 2.0 通知完善、擴大晶片雄心。屬政策／產業稿。",
-      "source": "DigiTimes",
-      "date": "2026-09-06",
-      "url": "https://www.digitimes.com/news/a20260906VL200/semicon-technology-manufacturing-market-demand.html",
-      "tickers": [],
-      "impact": "新興地區半導體補貼與產能規劃可能改變長期供應地理分布預期。",
-      "newbieTake": "政策雄心≠已量產；跟進建廠進度同客戶認證更實際。"
+      "impact": "CPU／記憶體漲價傳聞可能強化「算力與儲存成本上行」的短期交易敘事。",
+      "newbieTake": "快訊混合多檔標的與傳聞；漲價幅度需等原廠或客戶證實。"
     }
   ]
 }
