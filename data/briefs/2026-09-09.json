@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-09",
+  "stories": [
+    {
+      "id": "spcx-lockup-sep9",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）今日約 3.19 億股解禁可賣：供給測試；市場仍聚焦 Starship 可重複使用敘事（持倉）",
+      "summary": "2026-09-09（美東）為 SpaceX IPO 後分階段解禁日之一。Invezz（9/5）、FinanceFeeds（約 9/2）、TechTimes 等依招股書日程推算，約 3.19 億股可開始出售（eligible，不等於一定會賣）；SEC Form 424(b)(4) 為鎖定期機制的公司文件來源，但「3.19 億」為媒體按招股書比例推算，簡報未自行發明數字。CNBC（9/8）引 Pivotal Research 評論，論點幾乎全押在 Starship 可重複使用突破（第三方分析師觀點，非本簡報建議；勿把目標價當保證）。",
+      "whyItMatters": "SPCX 是 Active Holdings。解禁日只是「可以賣」，不是「一定賣」；新手常把解禁當成必然下跌。今日量能、跌幅與後續 9/10、9/24 等檔期，比單一目標價更重要。",
+      "whatToWatch": "今日與明日成交量／價格反應；是否出現明顯內部人士拋售跡象；下一檔 9/24 解禁前的消化情況。不要把分析師目標價當成保證。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SEC EDGAR (SpaceX Form 424(b)(4))",
+          "date": "2026-06-11",
+          "title": "Space Exploration Technologies Corp. — Class A common stock prospectus (lock-up schedule basis)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Invezz",
+          "date": "2026-09-05",
+          "title": "SpaceX stock rally meets another lockup expiry test on September 9: what to expect",
+          "url": "https://invezz.com/in/news/2026/09/05/spacex-stock-rally-meets-another-lockup-expiry-test-on-september-9-what-to-expect/"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-08",
+          "title": "SPCX is a buy based on one bet, Pivotal Research says",
+          "url": "https://www.cnbc.com/2026/09/08/spcx-is-a-buy-based-on-one-bet-pivotal-research-says.html"
+        },
+        {
+          "category": "third-party",
+          "publisher": "FinanceFeeds",
+          "date": "2026-09-02",
+          "title": "SpaceX’s Next Share Unlock Lands September 9: 319 Million Shares",
+          "url": "https://financefeeds.com/spacex-spcx-share-unlock-september-9/"
+        }
+      ]
+    },
+    {
+      "id": "gld-fed-hike-bets-labor-day",
+      "ticker": "GLD",
+      "title": "金價受 Fed 升息押注壓制；Labor Day 後靜待 PPI／CPI，連帶 SPYM／VEU 利率敏感度",
+      "summary": "Reuters（9/4）：8 月非農就業 +16.2 萬（遠高於約 5.6 萬預期），失業率維持 4.1%，美股收跌；CME FedWatch 顯示 9 月 FOMC 升息 25bp 機率升至約 58.4%。BullionVault（9/7，Labor Day，美股休市）：現貨金一度跌約 1% 至約 4,385 美元／盎司後回穩 4,400 附近；Fed 已進入議息前 quiet period（9/15–16 會議）。同一宏觀背景也壓抑股票估值（SPYM）與影響全球風險資產／港元利率聯動環境（VEU、HK 資金成本透過 USD-HKD 聯繫匯率）。數字來自新聞報導，非本簡報自製報價。",
+      "whyItMatters": "GLD／SPYM／VEU 皆為 Holdings。新手要分清：強就業對經濟是好消息，但若推高「Fed 可能再加息」預期，無孳息的黃金與高估值股市常一起受壓。香港聯繫匯率令 Fed 路徑也會牽動本地利率環境。",
+      "whatToWatch": "本週四 PPI、週五 CPI（美東）；9/16 FOMC 決議；金價與美債／美元同向還是背離。勿用未核實的即時報價做決策。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-09-04",
+          "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
+          "url": "https://www.reuters.com/business/nasdaq-sp-500-futures-climb-ahead-key-jobs-report-2026-09-04/"
+        },
+        {
+          "category": "news",
+          "publisher": "BullionVault",
+          "date": "2026-09-07",
+          "title": "Gold Slips on Fed Rate Fears as China's Russian Gold Imports Surge",
+          "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-russia-china-090720261"
+        },
+        {
+          "category": "third-party",
+          "publisher": "HKMA",
+          "date": "2026-01-29",
+          "title": "HKMA’s Response to US Fed’s Interest Rate Decision (Linked Exchange Rate context)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/01/20260129-3/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-buyback-memory-costs",
+      "ticker": "1810.HK",
+      "title": "小米持續場內回購：9/3 購回 180 萬股 B 類；記憶體成本推升手機調價壓力",
+      "summary": "港交所翌日披露報表（呈交 2026-09-07）列出小米於 9/3 購回 1,800,000 股 B 類普通股（擬註銷、尚未註銷），加權平均購回價約 HKD 27.44；同日報表亦列 9/7 另購回 362,000 股。Webull／智通財經轉述合計約 HKD 4,938.78 萬（價位約 27.4–27.48）。TradingView 週報亦提到公司因記憶體成本上升，上調部分機型內地售價、高端化並收緊低端折扣（第三方綜合，細節宜再對官方／一手零售通告）。回購屬資本管理動作，規模相對總股本很小。",
+      "whyItMatters": "1810.HK 是 Holdings。回購可輕微減少流通股，但不等於基本面已轉好；同時記憶體成本上漲會擠壓手機毛利或迫使加價，影響中國消費電子／EV 敘事。",
+      "whatToWatch": "後續翌日披露／月報回購節奏；手機 ASP 與毛利率能否抵消 BOM 成本；汽車交付／增程車節奏（勿重複已學過的 EREV 概念本身）。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX (Xiaomi Next Day Disclosure Return)",
+          "date": "2026-09-07",
+          "title": "翌日披露報表 — 小米集团（含 2026-09-03 購回 1,800,000 股 B 類）",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090700898_c.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "Webull / Zhitong Finance",
+          "date": "2026-09-03",
+          "title": "Xiaomi Group-W (01810) spent HK$49,387,800 to buy back 1.8 million shares on September 3",
+          "url": "https://www.webull.com/news/15513974530450432"
+        },
+        {
+          "category": "third-party",
+          "publisher": "TradingView News",
+          "date": "2026-09",
+          "title": "Weekly Recap: Xiaomi Class B price hikes and Class B share repurchase",
+          "url": "https://www.tradingview.com/news/tradingview:08be3c964a1f0:0-weekly-recap-xiaomi-class-b-price-hikes-and-class-b-share-repurchase/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-ashare-placement",
+      "ticker": "1398.HK",
+      "title": "工商銀行擬向特定對象發行 A 股募資不超人民幣 1,000 億元，用於補充核心一級資本",
+      "summary": "工行港交所公告（2026-09-06）：董事會通過一般授權及向特定對象發行 A 股方案；募集資金不超過人民幣 1,000 億元（公告折合約港幣 1,156.6 億），扣除費用後全部用於補充 CET1。認購方：財政部擬認購 700 億元；中煙總公司及其相關實體合計擬認購 300 億元；新股自取得權益起五年內不得轉讓。仍須股東特別大會（暫定 2026-09-29）、監管批准等條件，公告強調發行未必成事。Bloomberg 轉載（Insurance Journal 9/8）指屬中國大型金融機構注資計劃一部分，H 股早段有波動報導。",
+      "whyItMatters": "1398.HK 是 Research。注資可強化銀行資本與放貸能力，但新發 A 股會增加股本，可能攤薄現有股東對未來盈利的份額（H 股投資者也會關注）。新手要分開看「銀行更穩」與「每股權益可能被攤薄」。",
+      "whatToWatch": "9/29 ESM 表決結果；最終發行價／股數；監管批核進度；完成後對股息與資本充足率的披露。勿把「Signed／董事會通過」當成已交割。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC (HKEX announcement PDF)",
+          "date": "2026-09-06",
+          "title": "(I) General Mandate for Issuance of Shares (II) Proposed Issuance of A Shares under General Mandate",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/2026090615.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "Insurance Journal (Bloomberg News)",
+          "date": "2026-09-08",
+          "title": "China Injects $45 Billion in Banks, Insurers to Boost Growth",
+          "url": "https://www.insurancejournal.com/news/international/2026/09/08/884308.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Bloomberg",
+          "date": "2026-09-06",
+          "title": "AgBank, ICBC Plan Private Placements of Up to $38.7 Billion",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-06/agbank-icbc-plan-private-placements-totaling-up-to-260b-yuan-mtpk2qgx"
+        }
+      ]
+    },
+    {
+      "id": "nvda-huang-agi-astra",
+      "ticker": "NVDA",
+      "title": "黃仁勳稱「AGI 時代已到」並強調 Astra 訓練用大量 NVIDIA 晶片（敘事面，非財報）",
+      "summary": "Electronic Times（2026-09-08）：NVIDIA CEO 黃仁勳在 OpenAI GPT-6 Astra 發布後透過社群表示 AGI 已出現，並稱 Astra 訓練使用逾 10 萬顆 Grace Blackwell GB NVL72，未來還計劃部署額外約 40 萬顆 GPU。文中同時指出業界對 AGI 定義仍有爭議，黃仁勳過去亦多次作類似表態，部分觀點認為屬推銷敘事而非可驗證技術里程碑。此為管理層／媒體評論，不是 8-K／財報數字更新。",
+      "whyItMatters": "NVDA 是 Research。AI 需求敘事會影響情緒與估值，但「AGI 已到」無法像營收指引一樣直接核對；新手應把焦點放回可驗證的資料中心訂單、毛利率與客戶 capex。",
+      "whatToWatch": "後續是否有公司官方 IR／財報把 Astra 類負載量化到收入；雲端客戶 capex 評論；勿把社群貼文當已審計業績。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Electronic Times (etnews)",
+          "date": "2026-09-08",
+          "title": "Jensen Huang: “AGI Era Has Arrived” with Astra… AI Stocks to Rally Again",
+          "url": "https://en.etnews.com/20260908200008"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "equity-dilution",
+      "title": "股權攤薄（Equity dilution）",
+      "titleEn": "Equity dilution",
+      "what": "公司發行新股筹资時，總股本變大，原有股東對公司淨資產與未來盈利的「每一股份額」可能變小，即使公司整體資本變強。工行此次是向財政部／中煙等特定對象發行 A 股，不是公開配售給所有 H 股股東。",
+      "whyItMatters": "新手常只看到「國家注資＝利好」；實際上資本充足率上升與每股盈利／股息被攤薄可以同時發生。讀 1398.HK 公告時，要同時問：籌了多少、誰認購、鎖定期多久、對現有股東的每股影響。",
+      "whereToday": "工行 2026-09-06 公告：擬募資不超人民幣 1,000 億元補充 CET1；Bloomberg／Insurance Journal 亦提到市場關注稀釋幅度。",
+      "whatToWatch": "最終發行價與發行股數、股東會是否通過、完成後每股指標與股息政策如何披露。",
+      "relatedTickers": [
+        "1398.HK"
+      ],
+      "notionUrl": "https://app.notion.com/p/3d699f70bc5681a58381d3df7f29529d"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Q2 2026 results",
+        "date": "2026-08-04",
+        "url": "https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Reports-Second-Quarter-2026-Results.pdf"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc56814bb21af7b4871ddb3c"
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "標普 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc5681c9b280fcfeedbdf553"
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "全球非美 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc5681be9d7ad6566aec901e"
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568130ba14ee5ba6463207"
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568100b3b1dadaf1e3527b"
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568149a1d1c0cb032ab90b"
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3ce99f70bc568077bee6cc71eb3c0387"
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-09.mp3",
+  "audioScriptChars": 2519,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
