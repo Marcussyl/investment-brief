@@ -1,0 +1,261 @@
+{
+  "date": "2026-09-11",
+  "stories": [
+    {
+      "id": "gld-ppi-cpi-fomc",
+      "ticker": "GLD",
+      "title": "美國 8 月 PPI 升溫；今日 CPI 定調下周 FOMC",
+      "summary": "CNN Business（2026-09-10，引 BLS）：8 月生產者物價指數（PPI）按年升 5.4%（7 月為 4.8%），按月升 0.4%（7 月 0.1%），符合經濟學家預期；成品商品按月升 1.1%，其中逾四分三歸因於能源按月升 4.2%。同篇指 CME FedWatch 顯示下周會議升息機率由約 64% 升至約 70%。BLS 日程：8 月 CPI 於 2026-09-11 美東 08:30（約港時当晚 20:30）發布。同一 Fed／利率路徑敘事亦牽動 SPYM（美股估值）與 VEU／港元聯繫匯率利率環境。Yahoo 公開收盤：GLD／SPYM／VEU 最近可得現金收盤為 2026-09-09（分別約 403.35／89.75／85.39 美元）；9/10 序列暫缺，勿發明。",
+      "whyItMatters": "GLD、SPYM、VEU 皆為 Holdings。PPI 偏熱＋能源急升會推高「Fed 下周偏鷹／可能升息」定價；無孳息黃金與高估值美股常一起受壓。香港聯繫匯率下，Fed 路徑也會影響本地利率感受。今日 CPI 才是對消費者通脹共識的關鍵核對。",
+      "whatToWatch": "今晚（港時）CPI 按年／按月與核心 CPI 相對共識；CME FedWatch 對 9/15–16 FOMC 升息機率；金價與美債實質利率／美元是否同向。勿把未核實即時報價當決策依據。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNN Business",
+          "date": "2026-09-10",
+          "title": "Wholesale inflation picked up in August, as energy costs kept rising",
+          "url": "https://www.cnn.com/2026/09/10/economy/us-ppi-wholesale-inflation-august"
+        },
+        {
+          "category": "third-party",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "date": "2026-09-11",
+          "title": "CPI schedule — August 2026 CPI Sep. 11, 2026 8:30 a.m. ET",
+          "url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "FinanceFeeds",
+          "date": "2026-09-11",
+          "title": "August CPI Lands on 11 September. Waller Has Set Out His Test for the Fed",
+          "url": "https://financefeeds.com/august-cpi-lands-on-11-september-waller-has-set-out-his-test-for-the-fed/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-affiliate-lockup-aftermath",
+      "ticker": "SPCX",
+      "title": "SPCX：9/10 關聯人士解禁檔期過後，下一檔約 9/24",
+      "summary": "招股書 424B4 日程：9 月 10 日為最多約 5,910 萬股 Rule 144 affiliates 可轉讓檔期（解禁＝eligible，不等於已賣出）。Stocktwits／市場報導（2026-09-10）回顧前一檔 9/9 約 3.19 億股解禁後的量價波動，並指出下一檔約 9/24 最多約 3.284 億股。Yahoo 最近可得收盤：2026-09-09 約 147.55 美元（9/10 序列暫缺）。Engadget（9/8）另跟進 Starship 40 回收運輸敘事，屬營運長線，非當日財報。",
+      "whyItMatters": "SPCX 是 Holdings。新手常把「解禁日」當成必然崩盤；更重要的是解禁後真實成交量、價格消化，以及後續 9/24 等檔期。供給測試與 Starship 進度要分開看。",
+      "whatToWatch": "9/10 檔期後的量價與是否有 Form 4／大額賣出線索（若公開）；下一檔約 9/24 的 7% 日程；勿把第三方即時報價當已審計成交。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SEC EDGAR (SpaceX Form 424(b)(4))",
+          "date": "2026-06-12",
+          "title": "Space Exploration Technologies Corp. — Class A prospectus (lock-up schedule)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Stocktwits",
+          "date": "2026-09-10",
+          "title": "SPCX Stock Faces Another Lockup Expiry Today – Here’s How It Fared After Previous Unlocks",
+          "url": "https://stocktwits.com/news-articles/markets/equity/space-x-lockup-expiry-59-m-shares-set-to-hit-the-market-here-s-what-happened-after-previous-unlocks/cZta9jyRJCt"
+        },
+        {
+          "category": "news",
+          "publisher": "FinanceFeeds",
+          "date": "2026-09-09",
+          "title": "SpaceX Unlocks 319 Million Shares Today, With 59.1 Million More Tomorrow",
+          "url": "https://financefeeds.com/spacex-spcx-lockup-september-9-319-million-shares/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-aug-deliveries-sky-nomad",
+      "ticker": "1810.HK",
+      "title": "小米汽車 8 月交付 30,153 輛；Sky Nomad 鎖單熱度待兌現",
+      "summary": "CnEVPost（2026-09-08，引乘聯會／CPCA）：小米汽車 8 月交付 30,153 輛，按年跌約 17.15%、按月跌約 3.56%，但仍連續第五個月逾 3 萬輛；首 8 月累計約 246,475 輛（按年約＋9.65%），約達全年 55 萬輛目標的 44.8%，意味餘下 4 個月需月均約 75,881 輛。9/7 發布的 Sky Nomad 增程 SUV 稱 4 分鐘鎖單逾萬，並指預產一批、付訂後約 1–5 週可交付（公司／媒體說法，非港交所經審核交付數字）。Yahoo：1810.HK 2026-09-10 收約 25.92 港元。",
+      "whyItMatters": "1810.HK 是 Holdings。交付節奏決定「年度目標是否可信」；鎖單≠已交付，中國新能源價格戰／EREV 整體走弱仍會擠壓利潤與增速。",
+      "whatToWatch": "9 月起 Sky Nomad 是否進入交付數字；月度／季度披露是否跟上鎖單；毛利與價格戰評論。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CnEVPost",
+          "date": "2026-09-08",
+          "title": "Xiaomi delivers 30,153 cars in August, down 17.15% year-on-year",
+          "url": "https://cnevpost.com/2026/09/08/xiaomi-delivers-30153-cars-aug-2026/"
+        },
+        {
+          "category": "news",
+          "publisher": "CnEVPost",
+          "date": "2026-09-07",
+          "title": "Xiaomi Sky Nomad tops 10,000 locked-in orders in 4 minutes after launch",
+          "url": "https://cnevpost.com/2026/09/07/xiaomi-sky-nomad-10000-orders-4-mins/"
+        },
+        {
+          "category": "news",
+          "publisher": "CnEVPost",
+          "date": "2026-09-07",
+          "title": "Xiaomi launches Sky Nomad SUVs, entering EREV market to boost deliveries",
+          "url": "https://cnevpost.com/2026/09/07/xiaomi-launches-sky-nomad-extended-range-suvs/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-a-share-placement-egm",
+      "ticker": "1398.HK",
+      "title": "工行擬定增 A 股不超 1,000 億元補 CET1；9/29 臨股會審議",
+      "summary": "港交所海外監管公告（2026-09-06）轉載上交所披露：工行擬向特定對象發行 A 股，募資規模不超過人民幣 1,000 億元，扣除費用後全部用於補充核心一級資本（CET1）；認購方包括財政部及中國煙草總公司等相關主體，並引入戰略投資者安排。財聞網等（9/10）指 2026 年第二次臨時股東會擬於 9 月 29 日召開審議相關議案。上海證券報（9/11）另載：2026 年無固定期限資本債券（第四期）已於 9/10 發行完畢，規模人民幣 200 億元、前五年票面利率 1.86%，用於補充其他一級資本。Yahoo：1398.HK 2026-09-10 收約 7.61 港元。方案仍待股東會及監管批准，非已完成融資。",
+      "whyItMatters": "1398.HK 是 Research。銀行股常見「補資本 → 支撑擴表／達標」敘事，但定增可能涉及股權攤薄與定價折讓；H 股投資者要分清 A 股發行對象、進度與對資本充足率的實際影響。",
+      "whatToWatch": "9/29 臨股會結果；監管審批進度；發行價格確定方式與攤薄測算披露；後續資本充足率／股息政策表述。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX (overseas regulatory announcement)",
+          "date": "2026-09-06",
+          "title": "ICBC — A-share issuance related announcements filed via SSE",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0906/2026090600029_c.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "ICBC IR",
+          "date": "2026-09-06",
+          "title": "向特定對象發行 A 股股票預案",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/2026090602.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "財聞網",
+          "date": "2026-09-10",
+          "title": "工商銀行擬向特定對象發行A股並引入中國煙草為戰略投資者 9月29日召開臨時股東會審議",
+          "url": "https://www.caiwennews.com/article/1595252.shtml"
+        }
+      ]
+    },
+    {
+      "id": "nvda-cuda-13-4-rubin-preview",
+      "ticker": "NVDA",
+      "title": "NVIDIA 發布 CUDA 13.4：Rubin 架構開發者預覽＋Windows on Arm",
+      "summary": "NVIDIA Developer Technical Blog（2026-09-09）：CUDA Toolkit 13.4 加入 Windows on Arm 支持，並為下一代 Rubin GPU 架構提供預覽級功能支持（compute capability 107／SM_107），方便開發者在正式 GA 前開始移植；同時更新 MPS V3、CUDA Python／CCCL 與 Nsight 工具鏈。屬軟體／開發者生態新聞，不是季報指引更新。Yahoo 最近可得收盤：NVDA 2026-09-09 約 223.67 美元（9/10 序列暫缺）。",
+      "whyItMatters": "NVDA 是 Research。硬體路線圖要靠軟體棧先就緒；Rubin 預覽代表生態準備進度，但仍須對照後續正式 GA、出貨與財報 capex／數據中心評論。",
+      "whatToWatch": "Rubin 相關公開簡報／產品時間表；下一次財報對數據中心與軟體附着力的表述；勿把開發者預覽當已實現收入。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Developer Blog",
+          "date": "2026-09-09",
+          "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
+          "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Developer",
+          "date": "2026-09-09",
+          "title": "CUDA Toolkit 13.4 Developer Preview Downloads",
+          "url": "https://developer.nvidia.com/cuda-13-4-0-download-archive"
+        }
+      ]
+    },
+    {
+      "id": "msft-edge-ai-extensions-load",
+      "ticker": "MSFT",
+      "title": "微軟 Edge：AI 擴充套件提交暴增，擴大自動化審核",
+      "summary": "第三方·非公告：TechNews／Unwire Pro（2026-09-11）引述微軟 Edge 團隊約 9/8 公開說明——AI 輔助開發令瀏覽器擴充功能提交量持續攀升、審核負荷過重，公司擴大自動化驗證，並將「精選」標籤改為約每 15 日按約 60 項品質指標重估。屬產品／工程流程新聞，不是 Azure 收入指引。Yahoo 最近可得收盤：MSFT 2026-09-09 約 491.65 美元。",
+      "whyItMatters": "MSFT 是 Research。AI 不只推雲端需求，也改變微軟自有產品的運維成本與品質控管；可與 Azure／Copilot 變現敘事分開觀察。",
+      "whatToWatch": "後續財報是否量化 AI 對工程生產力或雲端用量；Edge／開發者生態相關官方說明。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-11",
+          "title": "被 AI 暴增的工作量逼到極限，微軟 Edge 全面擴大自動化驗證機制突圍",
+          "url": "https://infosecu.technews.tw/2026/09/11/microsoft-edge-overwhelmed-ai-extensions-dev-team-complains-increased-workload-switches-automated-re"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "cpi-consumer-price-index",
+      "title": "CPI（消費者物價指數）",
+      "titleEn": "Consumer Price Index (CPI)",
+      "what": "CPI 衡量美國城市消費者購買一籃子商品與服務的平均價格變動，是聯儲最常引用的通脹指標之一。BLS 每月發布；今天（美東）是 8 月 CPI 日，昨天剛公布了更「批發端」的 PPI。",
+      "whyItMatters": "新手常把 PPI 與 CPI 混為一談。PPI 偏熱後，市場會盯 CPI 是否同樣加速，從而調整對下周 FOMC「升息 vs 按兵」的定價；金價（GLD）與追蹤美股的 ETF（SPYM）對這條路徑最敏感，香港聯繫匯率也會傳導利率感受。",
+      "whereToday": "BLS 日程：8 月 CPI 於 2026-09-11 美東 08:30 發布。CNN（9/10）引 PPI 後指 FedWatch 升息機率升至約 70%，並引經濟學家預期 CPI 按年或由 3.4% 略緩至 3.3%、按月或升 0.4%——此為預期／第三方整理，非已公布官方數字。",
+      "whatToWatch": "今晚（港時）CPI 實際數字 vs 共識；核心 CPI；FedWatch 對 9/15–16 會議機率變化。",
+      "relatedTickers": [
+        "GLD",
+        "SPYM",
+        "VEU"
+      ],
+      "notionUrl": "https://app.notion.com/p/3d899f70bc5681f69d1ad7ea4ed31b6e"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Form 424(b)(4) prospectus (lock-up schedule)",
+        "date": "2026-06-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR Gold Shares",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc56814bb21af7b4871ddb3c"
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR Portfolio S&P 500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc5681c9b280fcfeedbdf553"
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard FTSE All-World ex-US",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc5681be9d7ad6566aec901e"
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "Xiaomi",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "Role": "Holding",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568130ba14ee5ba6463207"
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568100b3b1dadaf1e3527b"
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3cd99f70bc568149a1d1c0cb032ab90b"
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "Role": "Research",
+      "notesUrl": "https://app.notion.com/3ce99f70bc568077bee6cc71eb3c0387"
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-11.mp3",
+  "audioScriptChars": 2971,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
