@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-12",
+  "stories": [
+    {
+      "id": "gld-cpi-fomc-weekend",
+      "ticker": "GLD",
+      "title": "週末靜盤：8 月 CPI 符合預期，下周 FOMC 升息定價升溫",
+      "summary": "CNBC（2026-09-11，引 BLS）：8 月 CPI 按月升 0.4%、按年升 3.4%，均符合共識；核心 CPI 按月升 0.3%（高於預期 0.2%）、按年 2.4%。汽油按月升 3.9%，貢獻逾三分一升幅；能源指數按年升 16.3%。同篇指 CME FedWatch 顯示下周（9/15–16）會議升息機率升至近 90%。Fed 目前聯邦基金利率目標區間 3.5%–3.75%。同一利率路徑亦牽動 Holdings SPYM／VEU 與港元聯繫匯率環境。Yahoo 公開收盤：GLD／SPYM／VEU／美股研究名最近可得現金收盤為 2026-09-10（GLD 約 396.36、SPYM 約 89.21、VEU 約 84.30 美元）；港股 1810.HK／1398.HK 為 2026-09-11（約 26.36／7.61 港元）。今日為週六，美／港皆休市。",
+      "whyItMatters": "GLD、SPYM、VEU 皆為 Holdings。CPI 是下周 FOMC 前最後主要通脹數據；核心按月偏熱＋能源高基數，市場把「維持 vs 升 25bp」定價再往升息靠攏。無孳息黃金與高估值美股常對實質利率／美元敏感；香港聯繫匯率下，Fed 路徑也會影響本地利率感受。",
+      "whatToWatch": "9/15–16 FOMC 聲明與點陣圖／記者會措辭；CME FedWatch 升息機率是否回落；金價與美債實質利率是否同向。勿把未核實即時報價當決策依據。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-11",
+          "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+          "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
+        },
+        {
+          "category": "third-party",
+          "publisher": "U.S. Federal Reserve",
+          "date": "2026-09-12",
+          "title": "FOMC meeting calendars — September 15-16, 2026",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "third-party",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "date": "2026-09-11",
+          "title": "Consumer Price Index — August 2026 release page",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+        }
+      ]
+    },
+    {
+      "id": "spcx-lockup-post-third-tranche",
+      "ticker": "SPCX",
+      "title": "SPCX：第三檔解禁後，下一檔約 9/24；供給日程仍長",
+      "summary": "Motley Fool（2026-09-11，複述招股書日程）：9 月 9 日最多約 3.19 億股員工／早期投資者解禁，9/10 另有最多約 5,910 萬股關聯人士（Rule 144 affiliates）檔期；文中指 9/9 當日收約 147.55 美元、跌約 3.9%（解禁＝eligible，不等於已賣出）。後續日程仍包括約 9/24、10/9、10/24 各最多約 3.284 億股，以及 Q3 業績公布後第二個完整交易日最多約 13 億股、12/8 約近 8 億股等檔期（數字來自第三方對招股書的整理，請以 SEC 424B4 為準）。Yahoo：SPCX 2026-09-10 收約 148.18 美元。週末無新常規交易。",
+      "whyItMatters": "SPCX 是 Holdings。新手常把「解禁日」當成必然崩盤；更重要的是解禁後真實成交量、價格消化，以及後續 9/24 與業績觸發大檔。供給測試與營運進度要分開看。",
+      "whatToWatch": "9/24 下一檔量價；是否有 Form 4／大額賣出線索（若公開）；Q3 業績檔期公布後的大解禁日。勿把第三方即時報價當已審計成交。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SEC EDGAR (SpaceX Form 424(b)(4))",
+          "date": "2026-06-12",
+          "title": "Space Exploration Technologies Corp. — Class A prospectus (lock-up schedule)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "The Motley Fool",
+          "date": "2026-09-11",
+          "title": "SpaceX Fell 3.9% on Its Third Lockup Release Since the IPO",
+          "url": "https://www.fool.com/investing/2026/09/11/spacex-fell-3-9-on-its-third-lockup-release-since-the-ipo-i-d-wait-to-buy-the-stock/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-anthropic-ipo-talks",
+      "ticker": "NVDA",
+      "title": "路透：NVIDIA 洽談成為 Anthropic 大型 IPO 錨定投資者",
+      "summary": "Reuters 獨家（2026-09-11，引兩名知情人士）：Anthropic 洽談引入 NVIDIA 作為潛在 IPO 錨定投資者；募資規模可能高達約 1,000 億美元、估值約 2 兆美元量級；其中一名消息指 NVIDIA 考慮投資至多約 100 億美元。計畫仍在討論、可能變更；Anthropic 拒評，NVIDIA 當時未即時回覆。同篇指上市目標或在美國期中選舉（11 月）前完成，並回顧 2025 年 11 月雙方曾宣布最高約 100 億美元投資／Azure 算力合作框架。屬第三方消息來源，非公司新聞室公告。Yahoo：NVDA 2026-09-10 收約 218.36 美元。",
+      "whyItMatters": "NVDA 是 Research。錨定投資者＝上市前承諾認購一部分股份，常被解讀為對定價與需求的早期信心訊號；亦凸顯晶片商與前沿模型客戶之間的資本＋算力雙重綁定。數字來自路透引述，非正式招股書。",
+      "whatToWatch": "是否出現 S-1／正式招股文件與錨定投資者名單；NVIDIA 或 Anthropic 的官方確認或否認；算力採購／客製晶片敘事是否同步更新。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-09-11",
+          "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
+          "url": "https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/"
+        }
+      ]
+    },
+    {
+      "id": "msft-azure-memory-bottleneck",
+      "ticker": "MSFT",
+      "title": "DigiTimes：Azure 硬體主管稱「加記憶體解決不了 AI 瓶頸」",
+      "summary": "DigiTimes（2026-09-11，訪 Microsoft Azure Hardware & Systems Infrastructure 總裁 Rani Borkar 相關報導）：指 Microsoft 的 AI 加速器並非設計來直接與 NVIDIA 競爭，並轉述「單靠加更多記憶體無法修復 AI 瓶頸」的論點（全文多為付費摘要，細節以原文為準）。屬供應鏈／訪談第三方整理，非正式財測。Yahoo：MSFT 2026-09-10 收約 492.44 美元。",
+      "whyItMatters": "MSFT 是 Research。超大規模雲端一邊採購 NVIDIA GPU、一邊推進自研加速器；瓶頸敘事若從「算力缺貨」轉向「系統／互連／記憶體架構」，會影響市場如何解讀 capex 效率與自研晶片定位。",
+      "whatToWatch": "後續 Azure 硬體公開簡報或財報對自研加速器／GPU 採購的表述；與 NVIDIA 合作／採購節奏是否有新的 IR 數字。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "DigiTimes",
+          "date": "2026-09-11",
+          "title": "More memory won't fix AI's bottleneck, says Microsoft's Azure hardware chief",
+          "url": "https://www.digitimes.com/news/a20260910VL219/microsoft-azure-hardware-accelerator-silicon.html"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-weekend-quiet-sky-nomad",
+      "ticker": "1810.HK",
+      "title": "小米週末靜盤：Sky Nomad 鎖單後，盯 9 月是否入交付數字",
+      "summary": "週末港交所休市。近期公開線索仍主要來自 9/7–9/8：CnEVPost 等指 Sky Nomad 增程 SUV 發布後約 4 分鐘鎖單逾萬，並稱預產一批、付訂後約 1–5 週可交付（公司／媒體說法，非港交所經審核交付數字）；另有乘聯會口徑指 8 月交付約 30,153 輛。Yahoo：1810.HK 2026-09-11 收約 26.36 港元。今日無新常規交易、亦無新港交所公告被本輪抓取確認。",
+      "whyItMatters": "1810.HK 是 Holdings。鎖單≠已交付；中國新能源價格戰／EREV 走勢仍會擠壓交付節奏與利潤敘事。",
+      "whatToWatch": "9 月起 Sky Nomad 是否進入月度交付披露；毛利與價格戰評論。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CnEVPost",
+          "date": "2026-09-07",
+          "title": "Xiaomi Sky Nomad tops 10,000 locked-in orders in 4 minutes after launch",
+          "url": "https://cnevpost.com/2026/09/07/xiaomi-sky-nomad-10000-orders-4-mins/"
+        },
+        {
+          "category": "news",
+          "publisher": "CnEVPost",
+          "date": "2026-09-08",
+          "title": "Xiaomi delivers 30,153 cars in August, down 17.15% year-on-year",
+          "url": "https://cnevpost.com/2026/09/08/xiaomi-delivers-30153-cars-aug-2026/"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-12.mp3",
+  "audioScriptChars": 2574,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
