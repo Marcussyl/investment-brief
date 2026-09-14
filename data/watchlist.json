@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T00:23:53Z",
+  "lastUpdated": "2026-09-14T00:24:45Z",
   "tickers": [
     {
       "nameCn": "SpaceX",
@@ -10,10 +10,6 @@
       "symbol": "SPCX",
       "prices": {
         "1M": [
-          {
-            "date": "2026-08-11",
-            "close": 133.29
-          },
           {
             "date": "2026-08-12",
             "close": 146.15
@@ -615,17 +611,13 @@
     },
     {
       "nameCn": "SPDR Gold Shares",
-      "exchange": "Other",
+      "exchange": "NYSE Arca",
       "Role": "Holding",
       "role": "持倉",
       "notesUrl": "https://app.notion.com/3cd99f70bc56814bb21af7b4871ddb3c",
       "symbol": "GLD",
       "prices": {
         "1M": [
-          {
-            "date": "2026-08-11",
-            "close": 400.96
-          },
           {
             "date": "2026-08-12",
             "close": 404.92
@@ -716,14 +708,6 @@
           }
         ],
         "3M": [
-          {
-            "date": "2026-06-10",
-            "close": 374.58
-          },
-          {
-            "date": "2026-06-11",
-            "close": 386.32
-          },
           {
             "date": "2026-06-12",
             "close": 386.54
@@ -1987,17 +1971,13 @@
     },
     {
       "nameCn": "SPDR Portfolio S&P 500",
-      "exchange": "Other",
+      "exchange": "NYSE Arca",
       "Role": "Holding",
       "role": "持倉",
       "notesUrl": "https://app.notion.com/3cd99f70bc5681c9b280fcfeedbdf553",
       "symbol": "SPYM",
       "prices": {
         "1M": [
-          {
-            "date": "2026-08-11",
-            "close": 90.69
-          },
           {
             "date": "2026-08-12",
             "close": 90.94
@@ -2088,14 +2068,6 @@
           }
         ],
         "3M": [
-          {
-            "date": "2026-06-10",
-            "close": 85.4
-          },
-          {
-            "date": "2026-06-11",
-            "close": 86.84
-          },
           {
             "date": "2026-06-12",
             "close": 87.06
@@ -3359,17 +3331,13 @@
     },
     {
       "nameCn": "Vanguard FTSE All-World ex-US",
-      "exchange": "Other",
+      "exchange": "NYSE Arca",
       "Role": "Holding",
       "role": "持倉",
       "notesUrl": "https://app.notion.com/3cd99f70bc5681be9d7ad6566aec901e",
       "symbol": "VEU",
       "prices": {
         "1M": [
-          {
-            "date": "2026-08-11",
-            "close": 84.92
-          },
           {
             "date": "2026-08-12",
             "close": 85.54
@@ -3460,14 +3428,6 @@
           }
         ],
         "3M": [
-          {
-            "date": "2026-06-10",
-            "close": 80.77
-          },
-          {
-            "date": "2026-06-11",
-            "close": 83.46
-          },
           {
             "date": "2026-06-12",
             "close": 83.79
@@ -4837,10 +4797,6 @@
         ],
         "3M": [
           {
-            "date": "2026-06-10",
-            "close": 26.32
-          },
-          {
             "date": "2026-06-11",
             "close": 25.84
           },
@@ -6099,10 +6055,6 @@
       "prices": {
         "1M": [
           {
-            "date": "2026-08-11",
-            "close": 503.81
-          },
-          {
             "date": "2026-08-12",
             "close": 492.43
           },
@@ -6192,14 +6144,6 @@
           }
         ],
         "3M": [
-          {
-            "date": "2026-06-10",
-            "close": 397.36
-          },
-          {
-            "date": "2026-06-11",
-            "close": 390.34
-          },
           {
             "date": "2026-06-12",
             "close": 390.74
@@ -7471,10 +7415,6 @@
       "prices": {
         "1M": [
           {
-            "date": "2026-08-11",
-            "close": 217.5
-          },
-          {
             "date": "2026-08-12",
             "close": 224.09
           },
@@ -7564,14 +7504,6 @@
           }
         ],
         "3M": [
-          {
-            "date": "2026-06-10",
-            "close": 200.42
-          },
-          {
-            "date": "2026-06-11",
-            "close": 204.87
-          },
           {
             "date": "2026-06-12",
             "close": 205.19
@@ -8940,10 +8872,6 @@
           }
         ],
         "3M": [
-          {
-            "date": "2026-06-10",
-            "close": 7.0
-          },
           {
             "date": "2026-06-11",
             "close": 6.98

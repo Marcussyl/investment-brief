@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-14",
+  "stories": [
+    {
+      "id": "gld-fomc-week-opens",
+      "ticker": "GLD",
+      "title": "周一開場：本周 FOMC＋點陣圖；聯繫匯率下盯利率路徑",
+      "summary": "今日（2026-09-14，周一）美股尚未開盤（週末後首個現金交易日為稍後美東時段）；港股預計 09:30 HKT 開市。本周焦點是聯儲局 9/15–16 FOMC（帶 SEP／點陣圖），決策與記者會安排在 9/16。CNBC（2026-09-11，引 BLS）：8 月 CPI 按月升 0.4%、按年升 3.4%（均符共識）；核心 CPI 按月升 0.3%（高於預期 0.2%）、按年 2.4%。汽油按月升 3.9%，貢獻逾三分一升幅；能源指數按年升 16.3%。同篇指 CME FedWatch 顯示下周會議升息機率升至近 90%；Fed 目前聯邦基金利率目標區間 3.5%–3.75%。港元聯繫匯率（HKMA LERS）下，美元利率路徑通常牽動本地利率感受。同一利率敘事亦牽動 Holdings SPYM／VEU。Yahoo 公開收盤（最近現金收盤皆為 2026-09-11）：GLD 約 398.77、SPYM 約 89.72、VEU 約 85.18 美元——今日開市前勿把盤前／期貨當已核實現金收盤。",
+      "whyItMatters": "GLD、SPYM、VEU 皆為 Holdings。這是 8 月 CPI 後、FOMC 決策前的第一個完整交易周開場；核心按月偏熱＋能源高基數，市場把「維持 vs 升 25bp」定價往升息靠攏。無孳息黃金與美股／全球股市指數型持倉常對實質利率與美元敏感；香港聯繫匯率下，Fed 路徑也會影響本地借貸與風險資產感受。",
+      "whatToWatch": "9/16 FOMC 聲明、點陣圖／SEP 與記者會措辭；CME FedWatch 升息機率是否回落；金價與美債短端是否同向；港元兌美元是否靠近兌換保證區間（7.75–7.85）。勿把未核實即時報價當決策依據。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-11",
+          "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+          "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
+        },
+        {
+          "category": "third-party",
+          "publisher": "U.S. Federal Reserve",
+          "date": "2026-09-14",
+          "title": "FOMC meeting calendars — September 15-16, 2026 (SEP meeting)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-09-14",
+          "title": "How Does the LERS Work? (USD-HKD convertibility zone 7.75–7.85)",
+          "url": "https://www.hkma.gov.hk/eng/key-functions/money/linked-exchange-rate-system/how-does-the-lers-work/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "date": "2026-09-11",
+          "title": "Consumer Price Index — August 2026 release page",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+        }
+      ]
+    },
+    {
+      "id": "spcx-monday-lockup-staircase",
+      "ticker": "SPCX",
+      "title": "SPCX：周一美股重開；下一檔解禁約 9/24，供給日程仍長",
+      "summary": "週末 Nasdaq 休市後，今日為美國現金市場重開前夕。Motley Fool（2026-09-11，複述招股書日程）：9/9 最多約 3.19 億股員工／早期投資者解禁，9/10 另有最多約 5,910 萬股關聯人士（Rule 144 affiliates）檔期；文中指 9/9 當日收約 147.55 美元、跌約 3.9%（解禁＝eligible，不等於已賣出）。後續日程仍包括約 9/24、10/9、10/24 各最多約 3.284 億股，以及 Q3 業績公布後第二個完整交易日最多約 13 億股、12/8 約近 8 億股等檔期（數字來自第三方對招股書的整理，請以 SEC Form 424B4 為準）。Yahoo：SPCX 2026-09-11 收約 151.21 美元（較 9/10 的 148.18 回升）。",
+      "whyItMatters": "SPCX 是 Holdings。新手常把「解禁日」當成必然崩盤；更重要的是解禁後真實成交量、價格消化，以及後續 9/24 與業績觸發大檔。供給測試與營運進度要分開看。",
+      "whatToWatch": "今日美股開盤後量價；9/24 下一檔；是否有 Form 4／大額賣出線索（若公開）；Q3 業績檔期公布後的大解禁日。勿把第三方即時報價當已審計成交。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "SEC EDGAR (SpaceX Form 424(b)(4))",
+          "date": "2026-06-12",
+          "title": "Space Exploration Technologies Corp. — Class A prospectus (lock-up schedule)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "The Motley Fool",
+          "date": "2026-09-11",
+          "title": "SpaceX Fell 3.9% on Its Third Lockup Release Since the IPO",
+          "url": "https://www.fool.com/investing/2026/09/11/spacex-fell-3-9-on-its-third-lockup-release-since-the-ipo-i-d-wait-to-buy-the-stock/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-hk-reopen-pengcheng",
+      "ticker": "1810.HK",
+      "title": "小米：港股周一重開；澎程交付敘事延續，內需零售仍偏弱",
+      "summary": "證券時報／人民財訊（2026-09-11）：雷軍微博稱「小米澎程，全國交付明天開啟，覆蓋全國 75 座城市」。IT之家（2026-09-12）：澎程 SUV 當日開啟交付，並指雷軍現身江蘇徐州（古稱彭城）為首批車主交車；屬媒體／社交平台轉述，非港交所經審核交付數字。此前 CnEVPost 等指 9/7 發布後約 4 分鐘鎖單逾萬（鎖單≠已交付）。中國消費側：國家統計局（2026-08-18）顯示 7 月社會消費品零售總額按年僅升 0.6%；8 月官方零售數據按慣例約在 9 月中旬公布（截至本簡報撰寫時尚未見官方 8 月稿）。Yahoo：1810.HK 2026-09-11 收約 26.36 港元。今日港股預計 09:30 HKT 開市，尚無新現金收盤。",
+      "whyItMatters": "1810.HK 是 Holdings，亦是中國消費／汽車需求的觀察窗。交付節奏才是把「鎖單熱度」換成營收／毛利敘事的關鍵；在整體零售偏弱與新能源價格戰背景下，增程（EREV）競爭仍會擠壓利潤空間。",
+      "whatToWatch": "港股今日開盤量價；9 月起澎程是否進入月度交付披露；國家統計局 8 月零售／消費相關數據（若如期公布）；ASP／補貼與價格戰評論。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "證券時報（轉述雷軍微博）",
+          "date": "2026-09-11",
+          "title": "雷軍：小米澎程全國交付明天開啟",
+          "url": "https://www.stcn.com/article/detail/4181261.html"
+        },
+        {
+          "category": "news",
+          "publisher": "IT之家",
+          "date": "2026-09-12",
+          "title": "小米澎程 SUV 今日開啟交付，雷軍在彭城給首批車主開車門",
+          "url": "https://www.ithome.com/1/001/576.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "CnEVPost",
+          "date": "2026-09-07",
+          "title": "Xiaomi Sky Nomad tops 10,000 locked-in orders in 4 minutes after launch",
+          "url": "https://cnevpost.com/2026/09/07/xiaomi-sky-nomad-10000-orders-4-mins/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "National Bureau of Statistics of China",
+          "date": "2026-08-18",
+          "title": "Total Retail Sales of Consumer Goods from January to July 2026",
+          "url": "https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965078.html"
+        }
+      ]
+    },
+    {
+      "id": "msft-38gw-still-unconfirmed",
+      "ticker": "MSFT",
+      "title": "路透引彭博：Microsoft 內部擬 2032 年資料中心約 38GW（仍未正式確認）",
+      "summary": "Reuters（2026-09-10，轉述 Bloomberg 知情人士）：Microsoft 計畫到 2032 年把資料中心容量擴至約 38 吉瓦，逾三倍於目前約 12 吉瓦；現有容量中約 2 吉瓦聚焦 AI 專用晶片，該比重料升至約三分一。屬第三方匿名消息，非公司新聞室／SEC 正式指引；後續評論亦強調「未在財報電話會或公告中確認」。同周亦有媒體整理 Azure 硬體瓶頸論點（細節以原文為準）。Yahoo：MSFT 2026-09-11 收約 495.63 美元。今日美股開市前無新現金收盤。",
+      "whyItMatters": "MSFT 是 Research。超大規模雲端 capex／電力／租賃承諾會影響市場如何解讀「AI 需求 vs 支出紀律」。未確認數字不應當成已披露指引。",
+      "whatToWatch": "下次財報／IR 是否量化長期容量；Azure 供給緊張敘事是否緩解；與 NVIDIA 採購／自研加速器表述；本周風險資產在 FOMC 前的波動。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters (citing Bloomberg)",
+          "date": "2026-09-10",
+          "title": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports",
+          "url": "https://www.reuters.com/business/microsoft-plans-38-gigawatts-data-center-capacity-by-2032-bloomberg-news-reports-2026-09-10/"
+        },
+        {
+          "category": "news",
+          "publisher": "Bloomberg",
+          "date": "2026-09-10",
+          "title": "Microsoft Plans Data Center Push to Triple Its Computing Power (feature)",
+          "url": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"
+        }
+      ]
+    },
+    {
+      "id": "nvda-anthropic-anchor-talks",
+      "ticker": "NVDA",
+      "title": "路透：NVIDIA 洽談成為 Anthropic 大型 IPO 錨定投資者",
+      "summary": "Reuters 獨家（2026-09-11，引兩名知情人士）：Anthropic 洽談引入 NVIDIA 作為潛在 IPO 錨定投資者；募資規模可能高達約 1,000 億美元、估值約 2 兆美元量級；其中一名消息指 NVIDIA 考慮投資至多約 100 億美元。計畫仍在討論、可能變更；Anthropic 拒評，NVIDIA 當時未即時回覆。同篇指上市目標或在美國期中選舉（11 月）前完成，並回顧 2025 年 11 月雙方曾宣布最高約 100 億美元投資／Azure 算力合作框架。屬第三方消息來源，非公司新聞室公告。Yahoo：NVDA 2026-09-11 收約 218.29 美元。",
+      "whyItMatters": "NVDA 是 Research。錨定投資者＝上市前承諾認購一部分股份，常被解讀為對定價與需求的早期信心訊號；亦凸顯晶片商與前沿模型客戶之間的資本＋算力雙重綁定。數字來自路透引述，非正式招股書。",
+      "whatToWatch": "是否出現 S-1／正式招股文件與錨定投資者名單；NVIDIA 或 Anthropic 的官方確認或否認；算力採購／客製晶片敘事是否同步更新。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-09-11",
+          "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
+          "url": "https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-egm-sep29-countdown",
+      "ticker": "1398.HK",
+      "title": "工行：A 股定向增發補充核心一級資本；港股重開盯 9/29 臨時股東會",
+      "summary": "港交所公告（2026-09-06）及後續通函材料：工商銀行擬向特定對象發行 A 股，募集資金擬全部用於補充核心一級資本；認購安排包括財政部及中國煙草等（金額細節以公告／通函為準，仍待監管與股東批准）。通函顯示臨時股東會訂於 2026-09-29；H 股為確定出席資格將於 9/24–9/29 暫停過戶，9/23 名冊截止。新華社（2026-09-07）亦報道包括工行在內的中央金融企業資本補充安排。Yahoo：1398.HK 2026-09-11 收約 7.61 港元。今日港股預計重開，尚無新現金收盤。",
+      "whyItMatters": "1398.HK 是 Research。大行補充核心一級資本，通常關乎放貸能力、風險緩衝與潛在股權稀釋；對讀中國銀行股／內需金融條件是基礎事件，而非短線交易訊號。",
+      "whatToWatch": "港股今日量價；9/29 臨時股東會結果；發行定價與最終規模；監管批覆進度。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "HKEX (ICBC)",
+          "date": "2026-09-06",
+          "title": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED — A-share issuance / general mandate announcement (Chinese)",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0906/2026090600010_c.pdf"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKEX (ICBC circular)",
+          "date": "2026-09-10",
+          "title": "ICBC circular materials re interim profit distribution / share issuance (Chinese PDF)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0910/2026091000547_c.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "Xinhua",
+          "date": "2026-09-07",
+          "title": "Eight central financial enterprises unveil plans to bolster capital, support economy",
+          "url": "https://english.news.cn/20260907/c3bbea81df6744bcbe1ac441d6f8c31e/c.html"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-14.mp3",
+  "audioScriptChars": 3386,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
