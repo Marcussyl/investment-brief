@@ -1,0 +1,208 @@
+{
+  "date": "2026-09-15",
+  "stories": [
+    {
+      "id": "gld-fomc-day1-hike-odds",
+      "ticker": "GLD",
+      "title": "FOMC 會議首日：決策與點陣圖要等明天；升息定價仍高",
+      "summary": "今日（2026-09-15，周二 HKT）為聯儲局 9/15–16 FOMC 會議首日：委員會閉門討論，慣例不在首日發布利率聲明。Fed 官方日程顯示決策聲明與 SEP／點陣圖安排在 9/16（美東 14:00 左右聲明、其後記者會）。第三方整理（Crux／247 Wall St. 等，2026-09-14）指 CME FedWatch 對本周升 25bp 的隱含機率約在近 89%–91% 區間（數字會隨期貨即時變動，請以 CME 工具為準）；Fed 目前目標區間仍為 3.5%–3.75%。周一美股現金已交易：Yahoo 公開收盤（2026-09-14）GLD 約 392.84、SPYM 約 89.32、VEU 約 84.09 美元，均低於 9/11。港元聯繫匯率下，美元利率路徑仍牽動本地利率感受。",
+      "whyItMatters": "GLD、SPYM、VEU 皆為 Holdings。新手易把「會議開幕」當成「當天有結果」；真正影響金價與風險資產定價的，通常是次日聲明、點陣圖與記者會措辭。無孳息黃金對實質利率／美元敏感；升息機率偏高時，持有黃金的機會成本敘事會被放大。",
+      "whatToWatch": "9/16 聲明是維持還是升 25bp；點陣圖／SEP 是否暗示後續路徑；CME FedWatch 機率是否回落；金價與美債短端是否同向；港元兌美元是否靠近兌換保證區間（7.75–7.85）。勿把盤前／未核實即時報價當決策依據。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "U.S. Federal Reserve",
+          "date": "2026-09-15",
+          "title": "FOMC meeting calendars — September 15-16, 2026 (SEP meeting)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Crux Investor",
+          "date": "2026-09-14",
+          "title": "89% Fed Hike Odds Pressure Gold, but Softer Guidance Could Trigger a Rebound",
+          "url": "https://www.cruxinvestor.com/posts/89-fed-hike-odds-pressure-gold-but-softer-guidance-could-trigger-a-rebound"
+        },
+        {
+          "category": "news",
+          "publisher": "24/7 Wall St.",
+          "date": "2026-09-14",
+          "title": "Chances of First Fed Rate Hike Since 2023 Now Over 90%",
+          "url": "https://247wallst.com/investing/2026/09/14/chances-of-first-fed-rate-hike-since-2023-now-over-90-markets-brace-for-the-warsh-era-shock/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-09-15",
+          "title": "How Does the LERS Work? (USD-HKD convertibility zone 7.75–7.85)",
+          "url": "https://www.hkma.gov.hk/eng/key-functions/money/linked-exchange-rate-system/how-does-the-lers-work/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-monday-ai-tape-lockup",
+      "ticker": "SPCX",
+      "title": "SPCX：周一隨 AI 敘事回檔；下一檔解禁約 9/24 仍在日程",
+      "summary": "周一美股重開後，AI「放緩前沿開發」敘事拖累相關風險資產。CNBC（2026-09-14）指 Anthropic CEO 呼籲放慢模型能力提升節奏後，OpenAI CEO 與 SpaceX 的 Elon Musk 亦表態同意「pacing」；同日晶片／伺服器鏈普遍走弱。Yahoo：SPCX 2026-09-14 收約 148.15 美元（前一現金收盤 9/11 約 151.21）。供給面日程未變：第三方對招股書的整理仍指向約 9/24、10/9、10/24 等後續解禁檔（最多約數億股量級），數字請以 SEC Form 424B4 為準；解禁＝eligible，不等於已賣出。",
+      "whyItMatters": "SPCX 是 Holdings。股價回檔可能同時混雜「營運／估值」與「市場風險偏好／解禁供給」兩條線；新手應分開看 AI 敘事波動與 9/24 供給測試，避免把單一交易日當成解禁結論。",
+      "whatToWatch": "9/24 下一檔解禁前後的量價；是否有 Form 4／大額賣出公開線索；Q3 業績檔期觸發的更大解禁日；AI 基建／衛星算力相關官方更新（若有）。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-14",
+          "title": "AI stocks sink while cybersecurity shares rally on slowdown fears",
+          "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html"
+        },
+        {
+          "category": "filing",
+          "publisher": "SEC EDGAR (SpaceX Form 424(b)(4))",
+          "date": "2026-06-12",
+          "title": "Space Exploration Technologies Corp. — Class A prospectus (lock-up schedule)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "The Motley Fool",
+          "date": "2026-09-11",
+          "title": "SpaceX Fell 3.9% on Its Third Lockup Release Since the IPO",
+          "url": "https://www.fool.com/investing/2026/09/11/spacex-fell-3-9-on-its-third-lockup-release-since-the-ipo-i-d-wait-to-buy-the-stock/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-delivery-china-retail-watch",
+      "ticker": "1810.HK",
+      "title": "小米：澎程交付敘事延續；今日盯內地 8 月零售是否出爐",
+      "summary": "人民財訊／證券時報（2026-09-12）：小米澎程系列正式開啟全國交付，首站徐州，首批約 20 位車主提車；覆蓋全國約 75 座城市的說法來自公司／媒體轉述，非港交所經審核交付數字。鎖單熱度≠已交付。中國消費側：國家統計局官網截至本簡報撰寫時，最新社會消費品零售仍為 1–7 月稿（7 月按年約 +0.6%）；多方經濟日曆指 8 月零售／工企等數據安排在 9/15 北京時間約 11:00 前後公布——若你讀到本簡報時尚未見官方稿，請以 stats.gov.cn 為準，勿用預測當實績。Yahoo：1810.HK 2026-09-14 收約 27.16 港元。",
+      "whyItMatters": "1810.HK 是 Holdings，也是中國消費／新能源車需求的觀察窗。交付節奏才是把鎖單換成營收／毛利敘事的關鍵；若 8 月零售仍偏弱，會強化「價格戰＋需求」雙壓的討論。",
+      "whatToWatch": "國家統計局 8 月社零／可選消費細項（若已公布）；9 月起澎程是否進入月度交付披露；港股量價與 ASP／補貼評論。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "證券時報／人民財訊",
+          "date": "2026-09-12",
+          "title": "小米澎程系列正式開啟全國交付 首站落地徐州",
+          "url": "https://www.stcn.com/article/detail/4182836.html"
+        },
+        {
+          "category": "news",
+          "publisher": "新浪科技（轉 IT之家）",
+          "date": "2026-09-12",
+          "title": "小米澎程 SUV 今日開啟交付，雷軍在彭城給首批車主開車門",
+          "url": "https://finance.sina.com.cn/tech/digi/2026-09-12/doc-inirpyze5272028.shtml"
+        },
+        {
+          "category": "third-party",
+          "publisher": "National Bureau of Statistics of China",
+          "date": "2026-08-17",
+          "title": "2026年1—7月份社會消費品零售總額增長1.2%（7月按年約+0.6%）",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965052.html"
+        },
+        {
+          "category": "news",
+          "publisher": "InvestingLive",
+          "date": "2026-09-15",
+          "title": "Economic calendar Asia Tuesday Sep 15: China set to report August activity",
+          "url": "https://investinglive.com/news/economic-event-calendar-asia-tuesday-september-15-2026-china-set-to-report-august-activity/"
+        }
+      ]
+    },
+    {
+      "id": "msft-ai-pacing-capex-watch",
+      "ticker": "MSFT",
+      "title": "微軟：加入「負責任 AI」節奏討論；38GW 長線容量仍未正式確認",
+      "summary": "CNBC（2026-09-14）：在 Anthropic／OpenAI 等呼籲放緩前沿模型能力提升的氛圍下，Microsoft 亦公開設定未來模型發展的安全／管控表述，希望被視為負責任的 AI 參與者；細節以原文為準，屬政策敘事而非財報指引。富途快訊轉路透（2026-09-15）：Microsoft CEO Satya Nadella 呼籲產業優先安全並維持人類對技術的控制（轉述 Business Insider）。另方面，路透／彭博上周指內部擬 2032 年資料中心約 38GW 的說法仍屬第三方匿名消息，公司新聞室／SEC 未見正式確認。Yahoo：MSFT 2026-09-14 收約 505.41 美元（9/11 約 495.63）。",
+      "whyItMatters": "MSFT 是 Research。「放緩前沿」若主要指訓練節奏，市場爭論點常在推論（inference）需求與雲端 capex 是否同步放慢；未確認的 38GW 不應當成已披露指引。",
+      "whatToWatch": "下次財報／IR 是否量化長期容量與 Azure 供給；公司對 AI 安全節奏的官方表述；與 NVIDIA 採購／自研加速器敘事；FOMC 結果對大型科技估值的波動。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-14",
+          "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+          "url": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html"
+        },
+        {
+          "category": "news",
+          "publisher": "Moomoo flash (Reuters / Business Insider)",
+          "date": "2026-09-15",
+          "title": "Microsoft CEO Satya Nadella urged the AI industry to prioritize safety…",
+          "url": "https://news.moomoo.com/news/flash/23177075/microsoft-ceo-satya-nadella-urged-the-ai-industry-to-prioritize"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters (citing Bloomberg)",
+          "date": "2026-09-10",
+          "title": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports",
+          "url": "https://www.reuters.com/business/microsoft-plans-38-gigawatts-data-center-capacity-by-2032-bloomberg-news-reports-2026-09-10/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-ai-slowdown-selloff-nasdaq-ipo",
+      "ticker": "NVDA",
+      "title": "英偉達：AI「踩煞車」敘事下周一回檔；Anthropic 傳選 Nasdaq",
+      "summary": "CNBC（2026-09-14）：Anthropic CEO 呼籲放慢提升模型能力後，AI 相關股票普遍下跌、網安股上漲；文中指 Nvidia 約跌 3%。Yahoo：NVDA 2026-09-14 收約 210.96 美元（9/11 約 218.29）。同日 CNBC 亦報道特朗普在 All-In Summit 連線黃仁勳，並稱反對資料中心的說法是「騙局」——屬政治／公開活動轉述，非公司業績指引。IPO 線：路透（2026-09-13）轉 Business Insider，指 Anthropic 已選定 Nasdaq 作為潛在上市交易所；此前路透獨家（9/11）指 NVIDIA 洽談成為錨定投資者（計畫仍可能變更，非正式公告）。",
+      "whyItMatters": "NVDA 是 Research。短期股價可被「安全敘事／政治發言」放大波動；中線仍要對照客戶 capex、供應瓶頸與正式招股文件。錨定投資者與選交易所都還不是 S-1 定稿。",
+      "whatToWatch": "是否出現 Anthropic S-1／錨定名單官宣；NVIDIA 新聞室是否回應；雲端與 CSP 對訓練 vs 推論支出的表述；本周 FOMC 後風險資產情緒。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-14",
+          "title": "AI stocks sink while cybersecurity shares rally on slowdown fears",
+          "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-14",
+          "title": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+          "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-09-13",
+          "title": "Anthropic selects Nasdaq for IPO, Business Insider reports",
+          "url": "https://www.reuters.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-2026-09-13/"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-09-11",
+          "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
+          "url": "https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-egm-quiet-countdown",
+      "ticker": "1398.HK",
+      "title": "工行：近 48 小時無重大新公告；續盯 9/29 臨時股東會",
+      "summary": "截至本簡報，港交所／公司近兩日未見推翻或大幅改寫 9/6 定向增發架構的新重大公告；主線仍是擬向特定對象發行 A 股、募集資金擬全部用於補充核心一級資本，並待 9/29 臨時股東會及後續監管程序。通函載明 H 股為確定出席資格將於 9/24–9/29 暫停過戶，9/23 名冊截止。Yahoo：1398.HK 2026-09-14 收約 7.65 港元。屬事件倒數的安靜交易日亦可如實記錄。",
+      "whyItMatters": "1398.HK 是 Research。資本補充關乎放貸能力、風險緩衝與潛在股權稀釋；安靜不代表議案已通過，只代表訊息節奏進入會議前等待期。",
+      "whatToWatch": "9/29 臨時股東會表決結果；發行定價與最終規模；金融監管總局／上交所／證監會進度。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "HKEX (ICBC)",
+          "date": "2026-09-06",
+          "title": "ICBC — A-share issuance / general mandate announcement (Chinese)",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0906/2026090600010_c.pdf"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKEX (ICBC circular)",
+          "date": "2026-09-10",
+          "title": "ICBC circular — interim profit distribution / share issuance / EGM notice",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0910/2026091000547_c.pdf"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-15.mp3",
+  "audioScriptChars": 3161,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
