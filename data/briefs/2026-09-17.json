@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-17",
+  "stories": [
+    {
+      "id": "fomc-hike-hawkish-sep-gld-etfs",
+      "ticker": "GLD",
+      "title": "FOMC 升息 25bp 至 3.75%–4.00%；點陣圖偏鷹，金價與美債波動",
+      "summary": "2026-09-16（美東）FOMC 一致通過把聯邦基金目標區間上調 1/4 百分點至 3.75%–4.00%（Fed 聲明）。SEP／點陣圖中位：年底政策利率約 4.1%（暗示今年或再升一次）、2027 亦約 4.1%；PCE 通脹中位約 3.7%（2026）。主席 Warsh 記者會強調通脹仍高。Kitco（會議後）：現貨金約跌近 1%（現貨報價，非 ETF 收盤）。媒體指美債 10 年期曾上破約 5%。Yahoo 美股現金序列最新仍停在 2026-09-15：GLD 約 394.15、SPYM 約 88.92、VEU 約 83.78 美元（撰寫時尚未納入 9/16 美股現金收盤）。",
+      "whyItMatters": "GLD、SPYM、VEU 皆為 Holdings。利率路徑與點陣圖會牽動金價（實質利率）、美股折現率與風險偏好；港元聯繫匯率下，美元利率亦影響本地利率感受。",
+      "whatToWatch": "市場是否把「再升一次」消化進殖利率；金價與美元；港元是否靠近 HKMA 兌換保證區間 7.75–7.85；下次 FOMC 檔期。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "U.S. Federal Reserve",
+          "date": "2026-09-16",
+          "title": "FOMC statement — raise target range to 3-3/4 to 4 percent",
+          "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf"
+        },
+        {
+          "category": "filing",
+          "publisher": "U.S. Federal Reserve",
+          "date": "2026-09-16",
+          "title": "SEP / projections materials (accessible)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-09-16",
+          "title": "Fed hikes rates; Warsh press conference and further tightening path",
+          "url": "https://www.reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16/"
+        },
+        {
+          "category": "news",
+          "publisher": "Kitco News",
+          "date": "2026-09-16",
+          "title": "Gold price buckles under Warsh’s inflation fixation as Fed hikes rates",
+          "url": "https://www.kitco.com/news/article/2026-09-16/gold-price-buckles-under-warshs-inflation-fixation-fed-hikes-rates"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-09-17",
+          "title": "How Does the LERS Work? (USD-HKD convertibility zone 7.75–7.85)",
+          "url": "https://www.hkma.gov.hk/eng/key-functions/money/linked-exchange-rate-system/how-does-the-lers-work/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-lockup-sep24-starship",
+      "ticker": "SPCX",
+      "title": "SPCX：9/24 解禁倒數；第三方談 Starship 發射檔期",
+      "summary": "招股書／第三方追蹤：下一檔解禁約 9/24，最多約 3.284 億股（Day 105；請以 SEC Form 424B4 為準）。Motley Fool（9/15）重申後續 10/9、10/24 等同量級檔。Barron's／富途轉載：Starship 下一次軌道飛行測試有新發射日期討論——屬第三方產品／發射新聞，非解禁本身。Yahoo：SPCX 2026-09-15 收約 143.49 美元。",
+      "whyItMatters": "SPCX 是 Holdings。解禁＝可賣不等于已賣；短線波動可能混雜利率／AI 情緒與供給兩條線。",
+      "whatToWatch": "9/24 前後量價；Form 4／大額賣出公開線索；Q3 業績觸發的更大解禁檔；公司 IR／SEC。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "The Motley Fool",
+          "date": "2026-09-15",
+          "title": "SpaceX's Next Share Unlock Is Coming. History Says This Is What Happens Next.",
+          "url": "https://www.fool.com/investing/2026/09/15/spacexs-next-share-unlock-is-coming-history-says-t/"
+        },
+        {
+          "category": "filing",
+          "publisher": "SEC EDGAR (SpaceX Form 424(b)(4))",
+          "date": "2026-06-12",
+          "title": "Space Exploration Technologies Corp. — Class A prospectus (lock-up schedule)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Barron's via 富途快訊",
+          "date": "2026-09-16",
+          "title": "SpaceX Sets Launch Date for Starship's Next Orbital Flight（原文來源：Barron's）",
+          "url": "https://news.moomoo.com/news/post/76342518/spacex-sets-launch-date-for-starship-s-next-orbital-flight"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-skynomad-deliveries",
+      "ticker": "1810.HK",
+      "title": "小米澎程：進入交付敘事；首周鎖單數字仍多為第三方",
+      "summary": "CarNewsChina（2026-09-13）：SkyNomad／澎程 EREV 已在中國開始交付，雷軍出席部分交車；首批覆蓋約 75 城。ChinaEVHome（9/15）引經銷商周報估計首周鎖單或逾約 4 萬輛——屬第三方推算，非港交所經審核交付數字。Yahoo：1810.HK 2026-09-16 收約 26.18 港元。",
+      "whyItMatters": "1810.HK 是 Holdings。要把「鎖單／交車儀式」與「月度交付／毛利」分開看；中國可選消費背景仍偏弱（此前社零）。",
+      "whatToWatch": "9 月起官方或公司月度交付是否披露澎程；港股量價與 ASP／補貼評論。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CarNewsChina",
+          "date": "2026-09-13",
+          "title": "Xiaomi Skynomad EREV SUV begins deliveries in China, CEO Lei Jun hands over keys",
+          "url": "https://carnewschina.com/2026/09/13/xiaomi-skynomad-erev-suv-begins-deliveries-in-china-ceo-lei-jun-hands-over-keys-to-owners/"
+        },
+        {
+          "category": "news",
+          "publisher": "ChinaEVHome",
+          "date": "2026-09-15",
+          "title": "Xiaomi’s SkyNomad SUVs Reportedly Tops 40K Locked Orders in First Week",
+          "url": "https://chinaevhome.com/2026/09/15/xiaomis-skynomad-suvs-reportedly-tops-40k-locked-orders-in-first-week/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-dreamforce-ai-safety-debate",
+      "ticker": "NVDA",
+      "title": "NVDA：Dreamforce 上黃仁勳 vs Anthropic／OpenAI 安全節奏辯論",
+      "summary": "CNBC（2026-09-15，更新 9/16）：Dreamforce 上 Anthropic CEO Amodei 呼籲放慢前沿模型發展；NVIDIA CEO 黃仁勳稱速度與安全非零和，反對為協調放慢而新立規；同場亦有 OpenAI CEO Altman 強調安全／監控應先於能力。同日產業亦見 Salesforce－NVIDIA 模型合作敘事（iThome）。Yahoo：NVDA 2026-09-15 收約 212.17 美元。",
+      "whyItMatters": "NVDA 是 Research。安全／監管敘事可能短線牽動 AI 風險偏好，但不等于客戶訂單或公司指引已變。",
+      "whatToWatch": "客戶 capex／訂單是否出現可核實放緩；下一季財報指引與中國資料中心假設。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-15",
+          "title": "Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce",
+          "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html"
+        },
+        {
+          "category": "news",
+          "publisher": "iThome",
+          "date": "2026-09-16",
+          "title": "黃仁勳反對新增AI監管，與Anthropic、OpenAI立場分歧",
+          "url": "https://www.ithome.com.tw/news/178985"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-16",
+          "title": "黃仁勳論 AI 風險與未來：放慢發展腳步絕對是錯誤策略",
+          "url": "https://technews.tw/2026/09/16/jensen-huang-speaks-at-all-in-summit-2026/"
+        }
+      ]
+    },
+    {
+      "id": "msft-ai-capex-narrative",
+      "ticker": "MSFT",
+      "title": "微軟：AI 資本支出／Azure 供給瓶頸敘事延續（第三方整理）",
+      "summary": "第三方整理（Trefis，2026-09-16）：市場仍聚焦 Azure 供給約束與資本支出規模；文中引用約 38GW／2032 產能目標與過去十二個月 capex 量級等數字，屬研究／媒體轉述，非正式新公司指引。Yahoo：MSFT 2026-09-15 收約 497.12 美元。",
+      "whyItMatters": "MSFT 是 Research。Capex 上升不等于自動利好單一 GPU 供應商；要分「雲需求」與「自研加速器／CPU 組合」。",
+      "whatToWatch": "公司 IR 公布的下一季財報檔期；自由現金流與 capex 說法是否同步。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "Trefis",
+          "date": "2026-09-16",
+          "title": "What Happens To Microsoft Stock If Its AI Spending Keeps Climbing?",
+          "url": "https://www.trefis.com/stock/msft/articles/615540/what-happens-to-microsoft-stock-if-its-ai-spending-keeps-climbing/2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "icbc-esm-ashare-dividend",
+      "ticker": "1398.HK",
+      "title": "工商銀行：9/29 臨股會審 A 股定向增發等；中期息日程更新",
+      "summary": "公司公告：2026 第二次臨時股東會訂於 2026-09-29 北京時間下午，審議一般性授權、向特定對象發行 A 股等議案。中期普通股股息相關日程更新：股東批准日 9/29，H 股除淨約 10/9、派息約 11/25（以公告為準）。Yahoo：1398.HK 2026-09-16 收約 7.535 港元。",
+      "whyItMatters": "1398.HK 是 Research。增發／資本補充關乎 CET1 與潛在攤薄敘事；息率日程影響短線除淨。",
+      "whatToWatch": "9/29 表決結果；監管審批進度；除淨前後量價。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "ICBC IR",
+          "date": "2026-09-10",
+          "title": "Notice of the Second Extraordinary Shareholders’ Meeting of 2026",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20260910_2.pdf"
+        },
+        {
+          "category": "filing",
+          "publisher": "ICBC IR",
+          "date": "2026-09-10",
+          "title": "Interim dividend timetable update (H-share)",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20260910_5.pdf"
+        },
+        {
+          "category": "filing",
+          "publisher": "ICBC IR",
+          "date": "2026-09-06",
+          "title": "General mandate and proposed issuance of A shares under general mandate",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/2026090615.pdf"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-17.mp3",
+  "audioScriptChars": 2183,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
