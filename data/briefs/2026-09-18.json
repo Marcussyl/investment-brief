@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-18",
+  "stories": [
+    {
+      "id": "hkma-base-rate-follow-fed-gld-etfs",
+      "ticker": "GLD",
+      "title": "金管局跟加基本利率至 4.25%；金價反彈，美股 ETF 收復部分跌幅",
+      "summary": "2026-09-17（HKT）金管局總裁余偉文發聲明：聯儲局把聯邦基金目標區間上調 25bp 至 3.75%–4.00% 後，按機制把基本利率同步上調至 4.25%。余偉文指港元與美元息差可能擴闊，套息或令港元逐漸偏軟；銀行貸存款息會各自評估。媒體報導匯豐宣布維持最優惠利率不變。第三方（SCMP）指現貨金在會議後曾急挫再反彈。Yahoo 美股現金收盤（2026-09-17）：GLD 398.36、SPYM 89.55、VEU 84.51 美元；港股同日 1810.HK 26.14、1398.HK 7.52 港元。",
+      "whyItMatters": "GLD、SPYM、VEU 皆為 Holdings。聯儲局路徑牽動金價與美股折現率；港元聯繫匯率下，基本利率跟加會影響本地資金成本感受，但「基本利率」與銀行「最優惠利率／按揭」並非自動同步。",
+      "whatToWatch": "港元是否靠近兌換保證區間 7.75–7.85；其他銀行會否跟調最優惠利率；金價與美元、美債殖利率；下次 FOMC 檔期與點陣圖修訂。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-09-17",
+          "title": "Remarks after the US Fed FOMC Meeting (Eddie Yue)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/09/20260917-1/"
+        },
+        {
+          "category": "filing",
+          "publisher": "U.S. Federal Reserve",
+          "date": "2026-09-16",
+          "title": "FOMC statement — raise target range to 3-3/4 to 4 percent",
+          "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "RTHK",
+          "date": "2026-09-17",
+          "title": "HKMA warns of uncertainties after raising rates; HSBC keeps prime unchanged",
+          "url": "https://news.rthk.hk/rthk/en/component/k2/1870410-20260917.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "South China Morning Post",
+          "date": "2026-09-17",
+          "title": "Gold rebounds after Fed rate rise",
+          "url": "https://www.scmp.com/business/commodities/article/3367788/gold-rebounds-after-fed-rate-rise-banks-back-long-term-demand-outlook"
+        }
+      ]
+    },
+    {
+      "id": "spcx-starship-delay-unlock-sep24",
+      "ticker": "SPCX",
+      "title": "SPCX：Starship Flight 14 改瞄準 9/28；9/24 解禁倒數",
+      "summary": "第三方（IBD／Stocktwits 轉述）指 SpaceX 於 2026-09-17 宣布 Starship Flight 14 由原約 9/22 改為最早 9/28（仍待監管批准）。同日媒體亦談及公司內部討論向倒閉新創採購數據訓練 AI（Bloomberg 引述知情人士，交易未必成交）。解禁日曆仍指 9/24 約有最多約 3.284 億股進入可售狀態（第三方彙整，非公司當日新公告）。Yahoo 現金收盤 SPCX 2026-09-17：154.81 美元。",
+      "whyItMatters": "SPCX 為 Holding。發射檔期與解禁供應都是短線敘事；AI 數據採購傳聞屬第三方、未核實，需與 IR／監管文件分開看。",
+      "whatToWatch": "9/24 解禁前後成交與波動；Flight 14 是否取得監管放行並在 9/28 前後升空；任何 SEC／IR 對 AI 數據安排的正式披露。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Investor's Business Daily",
+          "date": "2026-09-17",
+          "title": "SpaceX postpones Starship Flight 14; targets Sept. 28",
+          "url": "https://www.investors.com/news/spacex-starship-flight-14-launch-postponed-elon-musk-spcx-stock/"
+        },
+        {
+          "category": "news",
+          "publisher": "Stocktwits",
+          "date": "2026-09-17",
+          "title": "SPCX: Starship to Sept 28; Bloomberg on startup-data talks",
+          "url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-in-focus-space-x-pushes-starship-launch-to-september-28-reportedly-weighs-startup-data-buys-for-ai/cZtrCyLRBdV"
+        },
+        {
+          "category": "third-party",
+          "publisher": "The Motley Fool",
+          "date": "2026-09-15",
+          "title": "SpaceX next share unlock context (Day-105 calendar)",
+          "url": "https://www.fool.com/investing/2026/09/15/spacexs-next-share-unlock-is-coming-history-says-t/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-huang-double-chips-2027",
+      "ticker": "NVDA",
+      "title": "NVDA：黃仁勳稱明年晶片出貨量料翻倍（公開發言，非財報指引）",
+      "summary": "CNBC／Bloomberg（2026-09-17）：NVIDIA CEO 黃仁勳在蘇格蘭與英王查理斯三世相關峰會場邊向媒體表示，預期明年銷售的晶片數量約為今年的兩倍，理由是各國 AI 投資需求。公司並未在該場合披露總出貨量口徑；此前財報／指引敘事仍以營收成長為主。Yahoo 現金收盤 NVDA 2026-09-17：219.34 美元。",
+      "whyItMatters": "NVDA 為 Research。CEO 公開前瞻會牽動 AI 資本開支敘事，但「出貨量翻倍」並非經審計的正式指引，需對照下一次財報與客戶 capex。",
+      "whatToWatch": "下一次 NVIDIA 財報／指引是否量化出貨或營收；雲端客戶資本支出評論；記憶體／先進封裝供給瓶頸報導。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-17",
+          "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+          "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html"
+        },
+        {
+          "category": "news",
+          "publisher": "Bloomberg",
+          "date": "2026-09-17",
+          "title": "Nvidia’s Huang expects to sell twice as many chips next year",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-s-huang-expects-to-sell-twice-as-many-chips-next-year"
+        }
+      ]
+    },
+    {
+      "id": "msft-gpt6-astra-cyber-critical",
+      "ticker": "MSFT",
+      "title": "微軟 Foundry：GPT-6 Astra 與資安「Critical」分級討論延續",
+      "summary": "Microsoft Azure Blog 已宣布 GPT-6 Astra 於 Microsoft Foundry 全面可用（Standard／Provisioned Throughput；Global 與 US Data Zone）。InfoQ（2026-09-17）整理：OpenAI 將 Astra 列為其 Preparedness Framework 下首個達「Critical」網路安全能力等級的模型；微軟公告側重企業控管（Entra、私有網路、RBAC 等），並非業績數字。Yahoo 現金收盤 MSFT 2026-09-17：497.75 美元。",
+      "whyItMatters": "MSFT 為 Research。模型上架與安全分級影響 Azure／Foundry 採用節奏與合規討論，屬產品／治理新聞，不是營收指引。",
+      "whatToWatch": "企業客戶對 Provisioned Throughput 的採用評論；下一次 Microsoft 財報中 Azure／智能雲成長；任何正式安全評估文件。",
+      "sources": [
+        {
+          "category": "ir",
+          "publisher": "Microsoft Azure Blog",
+          "date": "2026-09-03",
+          "title": "GPT-6 Astra generally available in Microsoft Foundry",
+          "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/"
+        },
+        {
+          "category": "news",
+          "publisher": "InfoQ",
+          "date": "2026-09-17",
+          "title": "GPT-6 Astra classified Critical for cybersecurity",
+          "url": "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/"
+        }
+      ]
+    },
+    {
+      "id": "1810-pengcheng-delivery-follow",
+      "ticker": "1810.HK",
+      "title": "小米澎程：四城首批交付儀式告一段落；交付量仍待月度數據",
+      "summary": "第三方／社交平台轉述（約 2026-09-16）：雷軍稱 9/12–9/15 徐州、上海、杭州、成都「百位車主」交車活動完成；小米澎程帳號亦稱首批交付圓滿。全國 75 城交付自 9/12 起，屬交付敘事延續，非正式業績公告。CnEVPost 稍早指 8 月汽車交付 30,153 輛（同比跌約 17%）。Yahoo 港股收盤 1810.HK 2026-09-17：26.14 港元。",
+      "whyItMatters": "1810.HK 為 Holding。交車儀式有助觀察交付節奏，但「百位」示範不等於月度銷量；需等官方或乘聯會月度數據。",
+      "whatToWatch": "9 月／國慶檔交付與鎖單更新；是否出現公司新聞室月度交付數字；同業 EREV 競爭動態。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "163 / CNMO 轉述",
+          "date": "2026-09-16",
+          "title": "雷軍：澎程四城百位車主交車活動完成",
+          "url": "https://www.163.com/dy/article/L6UD1THD051191D6.html"
+        },
+        {
+          "category": "third-party",
+          "publisher": "CnEVPost",
+          "date": "2026-09-08",
+          "title": "Xiaomi delivers 30,153 cars in August",
+          "url": "https://cnevpost.com/2026/09/08/xiaomi-delivers-30153-cars-aug-2026/"
+        }
+      ]
+    },
+    {
+      "id": "1398-egm-sep29-cet1-china-retail",
+      "ticker": "1398.HK",
+      "title": "工商銀行：9/29 臨股會審 A 股定向增發補 CET1；中國 8 月社零偏弱",
+      "summary": "HKEX 通函顯示工行擬於 2026-09-29 召開臨時股東會，審議向特定對象發行 A 股、募資不超過人民幣約 1,000 億元以補充核心一級資本等議案（以通函為準）。宏觀：中國官方統計指 8 月消費相關數據溫和／偏弱（社零同比約 0.4% 量級，第三方綜合），奢侈品需求敘事仍謹慎——僅作背景，不引申至非 Active 品牌。Yahoo 港股收盤 1398.HK 2026-09-17：7.52 港元。",
+      "whyItMatters": "1398.HK 為 Research。定向增發關乎資本緩衝與潛在股權稀釋；中國消費數據是 profile 勾選的宏觀背景，幫助理解銀行資產質素與內需情緒，不是買賣訊號。",
+      "whatToWatch": "9/29 臨股會表決結果；發行定價與最終規模；後續監管／交易所進度；下一批中國零售與通脹數據。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "HKEX",
+          "date": "2026-09-10",
+          "title": "ICBC circular — 2026 second extraordinary general meeting materials",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0910/2026091000547_c.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "China Daily / gov.cn stats roundup",
+          "date": "2026-09-17",
+          "title": "China consumer spending / August economy context",
+          "url": "https://www.chinadaily.com.cn/a/202609/17/WS6aab415ee4b06d4aa055e800.html"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-18.mp3",
+  "audioScriptChars": 2551,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
