@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-19",
+  "stories": [
+    {
+      "id": "spcx-nasa-cctcap-crew-15-17",
+      "ticker": "SPCX",
+      "title": "週末靜盤：NASA 追加 SpaceX 三班載人任務，合約修改約 9.46 億美元",
+      "summary": "NASA（2026-09-18）宣布，透過 Commercial Crew Transportation Capability（CCtCap）合約修改，向 SpaceX 追加 Crew-15／16／17 三班國際太空站載人任務；修改金額約 9.46 億美元，涵蓋地面、發射、在軌、返回回收、貨運與對接期間救生艇能力，履約期至 2030 年。NASA 指此舉使 SpaceX 在 CCtCap 下任務總數達 17 班，與 SpaceX 的 CCtCap 合約總值約 59.2 億美元。SAM.gov 獎項通知亦列示合約總值約 59.20 億美元量級。第三方（Motley Fool 等）仍指約 9/24 有最多約 3.284 億股解禁日程、Flight 14 約瞄準 9/28（待監管，非 NASA 本公告內容）。今日週末美股休市；Yahoo 最近可得現金收盤 SPCX 2026-09-17：154.81 美元。",
+      "whyItMatters": "SPCX 為 Holding。政府載人運輸合約是可核實的現金流敘事，與解禁供給、Starship 試飛進度要分開看；本則以 NASA／SAM.gov 為主，解禁與 Flight 14 屬既有第三方日程。",
+      "whatToWatch": "9/24 解禁前後成交與波動；Flight 14 監管放行與是否在 9/28 前後升空；Crew-15 起各班實際發射窗口是否另行公布。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "NASA",
+          "date": "2026-09-18",
+          "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+          "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/"
+        },
+        {
+          "category": "filing",
+          "publisher": "SAM.gov",
+          "date": "2026-09-18",
+          "title": "Award notice — SpaceX CCtCap modification (Crew missions)",
+          "url": "https://sam.gov/workspace/contract/opp/aef33f01ebe845f0a0c8c40f41d89db9/view"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-18",
+          "title": "SpaceX scores ~$950 million from NASA for 3 more crewed flights to ISS",
+          "url": "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+        },
+        {
+          "category": "third-party",
+          "publisher": "The Motley Fool",
+          "date": "2026-09-15",
+          "title": "SpaceX next share unlock context (calendar)",
+          "url": "https://www.fool.com/investing/2026/09/15/spacexs-next-share-unlock-is-coming-history-says-t/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-brookfield-2b-quiet-follow",
+      "ticker": "NVDA",
+      "title": "NVDA：Bloomberg 指承諾 20 億美元予 Brookfield AI 基建基金；週末無新指引",
+      "summary": "Bloomberg（2026-09-17，引投資人文件）：NVIDIA 承諾向 Brookfield Artificial Intelligence Infrastructure Fund 出資約 20 億美元；該基金目標股權承諾約 100 億美元量級，投資方向涵蓋 AI 工廠、數據中心與相關算力基建（細節以文件／後續正式披露為準）。另，黃仁勳 9/17 公開稱明年晶片出貨量料約翻倍（CNBC／Bloomberg，已見週五簡報）——週末靜盤僅作輕量延續，非新財報指引。Yahoo 最近可得現金收盤 NVDA 2026-09-17：219.34 美元。",
+      "whyItMatters": "NVDA 為 Research。大型基建基金承諾屬生態系／客戶融資敘事，有助理解 AI 資本開支如何落地，但承諾不等於已認列營收；出貨量翻倍說法仍屬公開前瞻，非正式經審計指引。",
+      "whatToWatch": "Brookfield／NVIDIA 是否有後續正式新聞稿或監管文件；下一次 NVIDIA 財報對數據中心與供應鏈的量化；記憶體／先進封裝供給報導。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Bloomberg",
+          "date": "2026-09-17",
+          "title": "Nvidia committed $2 billion to Brookfield AI Infrastructure Fund",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-committed-2-billion-to-brookfield-ai-infrastructure-fund"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-17",
+          "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+          "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html"
+        }
+      ]
+    },
+    {
+      "id": "macro-fed-hkma-quiet-weekend-etfs",
+      "ticker": "GLD",
+      "title": "週末靜盤：聯儲局升息後金管局已跟加；ETF 靜待下週開盤",
+      "summary": "延續週五官方敘事：聯儲局 2026-09-16 將聯邦基金目標區間上調至 3.75%–4.00% 後，金管局 9/17 按機制把基本利率同步上調至 4.25%（金管局總裁聲明）。週末美／港休市，無新的金管局／聯儲局官方利率打印。Holdings 中 GLD、SPYM、VEU 最近可得 Yahoo 美股現金收盤仍為 2026-09-17：GLD 398.36、SPYM 89.55、VEU 84.51 美元。港股 Active 名 9/18（週五港市）Yahoo：1810.HK 26.40、1398.HK 7.50 港元。",
+      "whyItMatters": "GLD／SPYM／VEU 皆為 Holdings。息口路徑牽動金價與股票折現率；港元聯繫匯率下，基本利率跟加影響本地資金成本感受，但與銀行最優惠利率／按揭並非自動同步。",
+      "whatToWatch": "港元是否靠近 7.75–7.85 兌換保證；下週開盤金價與美債殖利率；下次 FOMC 檔期。勿把週末第三方報價當已結算收盤。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-09-17",
+          "title": "Remarks after the US Fed FOMC Meeting (Eddie Yue)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/09/20260917-1/"
+        },
+        {
+          "category": "filing",
+          "publisher": "U.S. Federal Reserve",
+          "date": "2026-09-16",
+          "title": "FOMC statement — target range 3-3/4 to 4 percent",
+          "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1810-1398-msft-quiet-tape",
+      "ticker": "1810.HK",
+      "title": "港股週五收盤更新；工行 9/29 臨股會與微軟靜盤無新 IR",
+      "summary": "Yahoo：1810.HK（小米）2026-09-18 收 26.40 港元；1398.HK（工商銀行）收 7.50 港元（較 9/17 之 26.14／7.52 更新）。週末無新的小米汽車月度交付官方公告可核實。工行 9/29 臨股會審議 A 股定向增發補 CET1 等議案日程不變（以 HKEX 通函為準）。MSFT 週末無新的公司 IR 數字；Azure／Foundry 產品新聞延續屬研究背景，非本日新指引。Yahoo 美股現金收盤 MSFT 2026-09-17：497.75 美元。",
+      "whyItMatters": "1810.HK 為 Holding；1398.HK／MSFT 為 Research。週末重點是把「已結算港股收盤」與「尚未公布的交付／臨股會結果」分開，避免把儀式或傳聞當業績。",
+      "whatToWatch": "小米是否公布 9 月／國慶檔交付；9/29 工行臨股會表決；微軟下一次財報中 Azure 成長表述。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-18",
+          "title": "1810.HK / 1398.HK daily closes (public chart)",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKEX",
+          "date": "2026-09-10",
+          "title": "ICBC circular — 2026 second extraordinary general meeting materials",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0910/2026091000547_c.pdf"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-19.mp3",
+  "audioScriptChars": 2112,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
