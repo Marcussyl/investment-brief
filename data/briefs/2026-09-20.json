@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-20",
+  "stories": [
+    {
+      "id": "spcx-weekend-flight14-unlock-quiet",
+      "ticker": "SPCX",
+      "title": "週末靜盤：Flight 14 改瞄約 9/28（待監管）；NASA CCtCap 追加仍為主敘事",
+      "summary": "週末美股休市。Holding SPCX 最近可得 Yahoo 現金收盤為 2026-09-18：152.71 美元（較 9/17 之 154.81）。第三方／產業媒體（Aviation Week 等，2026-09-17～18）指 SpaceX 將 Starship Flight 14 最早目標由約 9/22 改為約 9/28，並註明仍待監管放行；公司未在公開新聞稿中詳述原因——屬日程敘事，非 NASA 載人合約變更。NASA（2026-09-18）CCtCap 合約修改追加 Crew-15／16／17、修改額約 9.46 億美元、SpaceX CCtCap 任務總數 17、合約總值約 59.2 億美元之官方敘事週末無更新。約 9/24 股權解禁日程仍見於既有第三方日曆（非本週末新 IR）。",
+      "whyItMatters": "SPCX 為 Holding。政府載人運輸合約是可核實現金流；Starship 試飛與解禁屬供應／情緒敘事，三者勿混為一談。週末無新結算價，數字以週五 Yahoo 為準。",
+      "whatToWatch": "9/24 解禁前後量價；Flight 14 監管與是否在 9/28 前後升空；Crew 班次發射窗口是否另行公布。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "NASA",
+          "date": "2026-09-18",
+          "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+          "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/"
+        },
+        {
+          "category": "news",
+          "publisher": "Aviation Week",
+          "date": "2026-09-18",
+          "title": "SpaceX Retargets Starship Flight For Sept. 28",
+          "url": "https://aviationweek.com/space/commercial-space/spacex-retargets-starship-flight-sept-28"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-18",
+          "title": "SPCX daily close (public chart)",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-huang-doomsday-zero-weekend",
+      "ticker": "NVDA",
+      "title": "NVDA：黃仁勳稱 AI「滅絕人類」機率 0%；週末無新財報數字",
+      "summary": "科技新報（2026-09-19）轉述 CBS 訪問：NVIDIA 執行長黃仁勳駁斥 AI 末日論，稱不相信 AI 會在數年內滅絕人類，並指「2030 年前人類遭 AI 滅絕」說法毫無根據、發生世界末日機率為 0%；另在 Dreamforce 場合表示產業未必需要新增法律監管（企業已有安全誘因）——屬公開訪談觀點，非正式財報指引。Yahoo 最近可得現金收盤 NVDA 2026-09-18：222.27 美元。週末無新的公司 IR 營收／指引打印。",
+      "whyItMatters": "NVDA 為 Research。CEO 公開言論影響情緒與監管討論，但不等於經審計的出貨或營收數字；應與週五已見的「明年出貨約翻倍」前瞻分開標註來源與性質。",
+      "whatToWatch": "後續正式財報對數據中心與供應鏈的量化；出口管制／合規相關執法報導；先進封裝與 HBM 供給。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-19",
+          "title": "AI 滅絕人類機率就是 0%！黃仁勳霸氣打臉 AI 末日論",
+          "url": "https://technews.tw/2026/09/19/ai-doomsday-theory/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-18",
+          "title": "NVDA daily close (public chart)",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "macro-etf-quiet-sunday",
+      "ticker": "GLD",
+      "title": "週末靜盤：金管局基本利率 4.25% 維持；ETF 靜待下週開盤",
+      "summary": "聯儲局 2026-09-16 將聯邦基金目標區間上調至 3.75%–4.00% 後，金管局 9/17 按機制把基本利率同步設為 4.25%（金管局新聞稿／總裁聲明）。週日美／港休市，無新的官方利率打印。Holdings 中 GLD、SPYM、VEU 最近可得 Yahoo 美股現金收盤為 2026-09-18：GLD 401.17、SPYM 89.64、VEU 83.86 美元。",
+      "whyItMatters": "GLD／SPYM／VEU 皆為 Holdings。息口路徑牽動金價與股票折現率；港元聯繫匯率下，基本利率跟加影響本地資金成本感受，但與銀行最優惠利率／按揭並非自動同步。",
+      "whatToWatch": "港元是否靠近 7.75–7.85 兌換保證；下週開盤金價與美債殖利率；下次 FOMC 檔期。勿把週末第三方報價當已結算收盤。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-09-17",
+          "title": "Adjustment of Base Rate to 4.25%",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260917-3/"
+        },
+        {
+          "category": "filing",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-09-17",
+          "title": "Remarks after the US Fed FOMC Meeting (Eddie Yue)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/09/20260917-1/"
+        },
+        {
+          "category": "filing",
+          "publisher": "U.S. Federal Reserve",
+          "date": "2026-09-16",
+          "title": "FOMC statement — target range 3-3/4 to 4 percent",
+          "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1810-1398-msft-quiet-sunday",
+      "ticker": "1810.HK",
+      "title": "港美休市：小米／工行／微軟週末無新 IR；9/29 工行臨股會日程不變",
+      "summary": "Yahoo：1810.HK（小米）2026-09-18 收 26.40 港元；1398.HK（工商銀行）收 7.50 港元；MSFT 收 493.78 美元。週末無新的小米汽車月度交付官方公告可核實。工行 2026 年第二次臨時股東大會訂於 9/29（北京時間），議案涵蓋中期股息、一般發行授權、向特定對象發行 A 股及相關戰略投資者協議等（以公司通函／公告為準）。MSFT 週末無新的公司 IR 數字。",
+      "whyItMatters": "1810.HK 為 Holding；1398.HK／MSFT 為 Research。週末重點是把「已結算收盤」與「尚未公布的交付／臨股會結果」分開。",
+      "whatToWatch": "小米是否公布 9 月／國慶檔交付；9/29 工行臨股會表決結果；微軟下一次財報中 Azure 成長表述。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-18",
+          "title": "1810.HK / 1398.HK / MSFT daily closes (public chart)",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        },
+        {
+          "category": "filing",
+          "publisher": "ICBC",
+          "date": "2026-09-10",
+          "title": "Notice of the Second Extraordinary Shareholders’ Meeting of 2026 (29 Sep)",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20260910_1.pdf"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-20.mp3",
+  "audioScriptChars": 1798,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
