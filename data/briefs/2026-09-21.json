@@ -1,0 +1,153 @@
+{
+  "date": "2026-09-21",
+  "stories": [
+    {
+      "id": "spcx-ndx-weight-flight14-mon",
+      "ticker": "SPCX",
+      "title": "週一開盤焦點：Nasdaq-100 權重確認約 2.82%；Flight 14 瞄準 9/22（待監管）",
+      "summary": "Holding SPCX。第三方（Bloomberg／Stock Market Watch，2026-09-19）指 Nasdaq-100 季調後 SpaceX 權重確認約 2.82%（先前約 1.28%），自 2026-09-21（週一）美股開盤生效；敘事指可流通股（free float）隨解禁擴大，屬指數編制／被動資金調倉，非公司新 IR 指引。公司發射頁稱 Starship Flight 14 最早可於 9/22 升空（75 分鐘窗口，須監管放行），目標約 275 km 軌道並部署 26 顆 Starlink V3——屬試飛日程，與 NASA CCtCap 載人合約分開。NASA（2026-09-18）CCtCap 修改追加 Crew-15／16／17、修改額約 9.46 億美元、SpaceX CCtCap 任務總數 17、合約總值約 59.2 億美元之官方敘事週末無更新。Yahoo 最近現金收盤仍為 2026-09-18：152.71 美元（較 9/17 之 154.81）。",
+      "whyItMatters": "指數權重變動可能帶動被動買盤／賣盤與開盤波動，但不是財報數字；Flight 14 與 CCtCap 現金流敘事仍要分開看。週末無新結算價，數字以週五 Yahoo 為準。",
+      "whatToWatch": "週一開盤量價是否反映 NDX 調倉；Flight 14 是否取得監管並在 9/22 窗口升空；Crew 班次發射窗口是否另行公布。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Bloomberg",
+          "date": "2026-09-19",
+          "title": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Stock Market Watch",
+          "date": "2026-09-20",
+          "title": "SpaceX Weighting in Nasdaq 100 Confirmed at 2.82% Following Quarterly Rebalance",
+          "url": "https://www2.stockmarketwatch.com/stock-market-news/spacex-weighting-in-nasdaq-100-confirmed-at-2-82-following-quarterly-rebalance/71989/"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-09-21",
+          "title": "Starship Flight 14",
+          "url": "https://www.spacex.com/launches/starship-flight-14"
+        },
+        {
+          "category": "filing",
+          "publisher": "NASA",
+          "date": "2026-09-18",
+          "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+          "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-18",
+          "title": "SPCX daily close (public chart)",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "macro-fed-hkma-monday-open",
+      "ticker": "GLD",
+      "title": "週一開盤承接：Fed 升息後金管局基本利率 4.25%；金／美股 ETF 靜待新結算",
+      "summary": "Profile 已勾選 Fed／FOMC vs 金管局／聯繫匯率。Fed（2026-09-16）將聯邦基金利率目標區間上調 25 基點至 3.75%–4%。金管局（2026-09-17）按既定公式將基本利率調至 4.25%。港元繼續在 7.75–7.85 兌 1 美元兌換保證區間運作——屬貨幣機制敘事，非個別 ETF 公告。Holding GLD／SPYM／VEU 週末無新 IR；Yahoo 最近現金收盤仍為 2026-09-18：GLD 401.17、SPYM 89.64、VEU 83.86（美元）。",
+      "whyItMatters": "聯繫匯率下港息大致跟美息；基本利率變動影響貼現窗，不等於銀行最優惠利率一定同步。金價與美股寬基／非美股票 ETF 對利率與風險偏好敏感，但本簡報不預測方向。",
+      "whatToWatch": "週一港／美開盤後金與美股 ETF 量價；本地銀行會否調整最優惠利率；下次 FOMC／金管局公開說法。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "Federal Reserve",
+          "date": "2026-09-16",
+          "title": "Federal Reserve issues FOMC statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKMA",
+          "date": "2026-09-17",
+          "title": "Adjustment of Base Rate",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260917-3/"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKMA",
+          "date": "2026-09-17",
+          "title": "Remarks after the US Fed FOMC Meeting",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/09/20260917-1/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-18",
+          "title": "GLD / SPYM / VEU daily closes",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "1810-18pro-sep23-monday",
+      "ticker": "1810.HK",
+      "title": "小米：第三方指 18 Pro 系列定檔 9/23 晚間發布；港股週一開盤前無新結算",
+      "summary": "Holding 1810.HK（小米）。第三方科技／財經轉述（2026-09-20）指小米集團合夥人、總裁盧偉冰等公開說法：Xiaomi 18 Pro 系列預定 2026-09-23 19:00（北京時間）發布，並稱將介紹雙尺寸影像旗艦及其他科技產品——屬產品檔期敘事，非正式招股書／業績公告。9/7 秋季發表會（18 Fold／Sky Nomad 等）之後，市場關注手機與汽車兩條產品線節奏。Yahoo 最近現金收盤 2026-09-18：26.40 港元。Research 1398.HK（工行）週末未見新港交所公告；Yahoo 同日收盤 7.50 港元。",
+      "whyItMatters": "發布會檔期可能影響情緒與渠道備貨預期，但要等定價、配置與之後渠道數據，不能當成已實現收入。",
+      "whatToWatch": "9/23 發布會定價與規格；汽車交付／Sky Nomad 訂單後續公司披露；工行若有新業績或臨股會議程更新。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "AD HOC NEWS (citing Sohu / Sina Finance)",
+          "date": "2026-09-20",
+          "title": "Xiaomi Corp. stock gains attention as new 18 Pro series launch nears",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/xiaomi-corp-stock-gains-attention-as-new-18-pro-series-launch-nears/70136819"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-18",
+          "title": "1810.HK / 1398.HK daily closes",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-msft-ai-infra-monday",
+      "ticker": "NVDA",
+      "title": "NVDA／MSFT：AI 工廠能耗與自研晶片敘事延續；週一開盤前無新財報",
+      "summary": "Research NVDA、MSFT。NVIDIA 新聞室／Blog（2026-09-15～16）持續談 Vera Rubin／DSX 與每瓦 token、彈性 AI 資料中心（含 Emerald AI 等合作）——屬公司技術／基礎設施敘事，非正式季報指引更新。科技新報（2026-09-21）Hot Chips 2026 評論指「自研晶片當道」，雲端業者自研 ASIC 與通用 GPU 並行——第三方評論，非 NVIDIA／Microsoft 公告。週末無兩家新 10-Q／業績稿。Yahoo 最近現金收盤 2026-09-18：NVDA 222.27、MSFT 493.78（美元）。",
+      "whyItMatters": "能耗與自研 ASIC 影響長期資本開支敘事，但新手應把「新聞室技術文」和「已公布營收／指引」分開。",
+      "whatToWatch": "下一份 NVDA／MSFT 正式業績或指引；供應鏈（先進封裝／電力）第三方追蹤是否引用公司數字。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-09-15",
+          "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+          "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-09-16",
+          "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+          "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-21",
+          "title": "淺談 Hot Chips 2026：自研晶片當道",
+          "url": "https://technews.tw/2026/09/21/hot-chips-2026-ai-silicon-trend/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-18",
+          "title": "NVDA / MSFT daily closes",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-21.mp3",
+  "audioScriptChars": 2074,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
