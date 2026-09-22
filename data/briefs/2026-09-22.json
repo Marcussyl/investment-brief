@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-22",
+  "stories": [
+    {
+      "id": "spcx-flight14-ndx-mon",
+      "ticker": "SPCX",
+      "title": "今日焦點：Starship Flight 14 窗口（待監管）；NDX 權重生效後週一收 151.85",
+      "summary": "Holding SPCX。公司發射頁稱 Starship Flight 14 最早可於 2026-09-22（週二）升空，75 分鐘窗口自中部時間上午 7:15 開啟，須監管放行；目標約 275 km 軌道、約六圈，並部署 Starlink V3——屬試飛日程，與 NASA CCtCap 載人合約分開。Nasdaq-100 季調後 SpaceX 權重約 2.82%（先前約 1.28%）自 2026-09-21（週一）美股開盤生效（第三方 Bloomberg／Stock Market Watch）。Yahoo Finance regularMarketPrice（對應週一美股收盤，時間戳約 2026-09-22 04:00 HKT）：151.85 美元（前一現金收盤 9/18：152.71）。",
+      "whyItMatters": "Flight 14 是試飛／監管窗口事件，成敗不直接等於財報數字；NDX 權重變動可能帶動被動資金調倉與波動，但也不是公司新指引。",
+      "whatToWatch": "窗口內是否取得監管並升空（或延期）；Webcast／公司 X 帳號最新通知；週二量價是否延續週一調倉後走勢。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-09-22",
+          "title": "Starship Flight 14",
+          "url": "https://www.spacex.com/launches/starship-flight-14"
+        },
+        {
+          "category": "news",
+          "publisher": "Bloomberg",
+          "date": "2026-09-19",
+          "title": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Stock Market Watch",
+          "date": "2026-09-20",
+          "title": "SpaceX Weighting in Nasdaq 100 Confirmed at 2.82% Following Quarterly Rebalance",
+          "url": "https://www2.stockmarketwatch.com/stock-market-news/spacex-weighting-in-nasdaq-100-confirmed-at-2-82-following-quarterly-rebalance/71989/"
+        },
+        {
+          "category": "filing",
+          "publisher": "NASA",
+          "date": "2026-09-18",
+          "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+          "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-21",
+          "title": "SPCX regularMarketPrice (Mon session)",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "macro-fed-hkma-gld-etf-tue",
+      "ticker": "GLD",
+      "title": "利率敘事延續：Fed 3.75%–4%、金管局基本利率 4.25%；金／寬基 ETF 週一收盤更新",
+      "summary": "Profile 已勾選 Fed／FOMC vs 金管局／聯繫匯率。Fed（2026-09-16）將聯邦基金利率目標區間上調 25 基點至 3.75%–4%。金管局（2026-09-17）按既定公式將基本利率調至 4.25%。港元繼續在 7.75–7.85 兌 1 美元兌換保證區間運作——屬貨幣機制敘事，非個別 ETF 公告。Holding GLD／SPYM／VEU 無新 IR。Yahoo（週一美股收盤，RMP）：GLD 398.38、SPYM 91.03、VEU 85.09（美元）。",
+      "whyItMatters": "聯繫匯率下港息大致跟美息；基本利率變動影響貼現窗，不等於銀行最優惠利率一定同步。金價與美股寬基／非美股票 ETF 對利率與風險偏好敏感，但本簡報不預測方向。",
+      "whatToWatch": "本地銀行會否調整最優惠利率；下次 FOMC／金管局公開說法；金與 ETF 量價是否偏離利率敘事。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "Federal Reserve",
+          "date": "2026-09-16",
+          "title": "Federal Reserve issues FOMC statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKMA",
+          "date": "2026-09-17",
+          "title": "Adjustment of Base Rate",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260917-3/"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKMA",
+          "date": "2026-09-17",
+          "title": "Remarks after the US Fed FOMC Meeting",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/09/20260917-1/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-21",
+          "title": "GLD / SPYM / VEU closes",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "1810-18pro-sep23-eve",
+      "ticker": "1810.HK",
+      "title": "小米：18 Pro 系列定檔今晚前夕 9/23 19:00；港股週一收 27.58",
+      "summary": "Holding 1810.HK（小米）。小米手機官方微博（2026-09-20）及多家科技媒體轉述：Xiaomi 18 Pro 系列預定 2026-09-23 19:00（北京時間）發布，稱將介紹雙尺寸影像旗艦及其他科技產品；第三方（GSMArena 等）續報硬體級隱私螢幕、電池與相機規格——屬產品檔期／規格敘事，非正式招股書／業績公告。Yahoo 港股現金收盤 2026-09-21：27.58 港元（9/18：26.40）。Research 1398.HK（工行）9 月初已公告擬私募 A 股補充 CET1 等資本事項，股東會日程此前報道指向 9/29；本早未見更新港交所強制公告——Yahoo 同日收盤 7.58 港元。",
+      "whyItMatters": "發布會檔期可能影響情緒與渠道備貨預期，但要等定價、配置與之後渠道數據，不能當成已實現收入。工行資本補充屬銀行資本充足率／股本結構議題，與手機發表會分開看。",
+      "whatToWatch": "9/23 發布會定價與規格；汽車交付後續公司披露；工行股東會／發行條款是否有新港交所文件。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "GSMArena",
+          "date": "2026-09-21",
+          "title": "Xiaomi 18 Pro series to launch on September 23 with hardware-level privacy screen",
+          "url": "https://www.gsmarena.com/xiaomi_18_pro_series_to_launch_on_september_23_with_hardwarelevel_privacy_screen-news-74692.php"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Weibo (Xiaomi Phone)",
+          "date": "2026-09-20",
+          "title": "小米18Pro系列定档9月23日19:00",
+          "url": "https://weibo.com/2202387347/RiWuZi3Pk"
+        },
+        {
+          "category": "filing",
+          "publisher": "ICBC / HKEX",
+          "date": "2026-09-10",
+          "title": "Proposed issuance of A shares under general mandate (CET1 replenishment context)",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0910/2026091000547_c.pdf"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-21",
+          "title": "1810.HK / 1398.HK daily closes",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-msft-dsx-ready-state-dinner",
+      "ticker": "NVDA",
+      "title": "NVDA：公司 Blog 推 DSX Ready；MSFT／NVDA 高層傳出席川習國宴（第三方）",
+      "summary": "Research NVDA、MSFT。NVIDIA Blog（2026-09-21）宣布 DSX Ready，用於為 AI 工廠相關電力與冷卻產品做資格認證——屬公司技術／生態系敘事，非正式季報指引。第三方 Bloomberg（2026-09-21）稱微軟 CEO Satya Nadella 計劃出席 9/24 白宮歡迎中國國家主席的國宴，並指 Nvidia CEO Jensen Huang、OpenAI 等亦在受邀之列——屬知情人士說法，非兩家 IR 公告。Yahoo（週一美股收盤，RMP）：NVDA 227.38、MSFT 501.61（美元）。",
+      "whyItMatters": "DSX Ready 把「算力」討論擴到電力／冷卻供應鏈，新手應與已公布營收分開。國宴出席屬地緣／政策氣氛新聞，不是業績數字。",
+      "whatToWatch": "下一份 NVDA／MSFT 正式業績或指引；DSX／電力合作是否出現可核對的客戶或產能數字；9/24 相關官方行程披露。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-09-21",
+          "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+          "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/"
+        },
+        {
+          "category": "news",
+          "publisher": "Bloomberg",
+          "date": "2026-09-21",
+          "title": "Microsoft’s Nadella to Join OpenAI, Nvidia CEOs at Trump-Xi Meal",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-21/microsoft-s-nadella-to-join-openai-nvidia-ceos-at-trump-xi-meal"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-21",
+          "title": "NVDA / MSFT closes",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-22.mp3",
+  "audioScriptChars": 2021,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
