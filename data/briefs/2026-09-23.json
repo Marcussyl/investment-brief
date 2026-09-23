@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-23",
+  "stories": [
+    {
+      "id": "spcx-f14-slip-crew13",
+      "ticker": "SPCX",
+      "title": "今日焦點：Flight 14 窗口後移敘事；NASA Crew-13 瞄準 10/1；週二收 154.72",
+      "summary": "Holding SPCX。公司發射頁 https://www.spacex.com/launches/starship-flight-14 仍為 Flight 14 官方入口（本早靜態抓取為 SPA 殼層，細節需以官網／Webcast 為準）。第三方 Wikipedia／Next Spaceflight 現列 NET 2026-09-28 12:15 UTC（中部時間 7:15），顯示先前「最早 9/22」窗口未見確認升空。NASA.gov（2026-09-22）指 NASA 與 SpaceX 進入 Crew-13 最後發射前準備，目標 10/1 升空——屬載人任務時程，與 Starship 試飛分開。Yahoo Finance regularMarketPrice（對應週二美股收盤，時間戳約 2026-09-23 04:00 HKT）：154.72 美元（前一現金收盤 9/21：151.85）。",
+      "whyItMatters": "試飛窗口延期是日程／監管事件，不直接等於財報數字；Crew-13 是已公布載人任務節點，和 Starship 軌道試飛是不同產品線。",
+      "whatToWatch": "公司發射頁／X 是否更新 NET；Webcast 有無新窗口；10/1 Crew-13 天氣與飛行準備狀態。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-09-23",
+          "title": "Starship Flight 14 launch page",
+          "url": "https://www.spacex.com/launches/starship-flight-14"
+        },
+        {
+          "category": "company",
+          "publisher": "NASA",
+          "date": "2026-09-22",
+          "title": "NASA, SpaceX Move to Final Crew-13 Prelaunch Prep for Oct. 1 Liftoff",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/09/22/nasa-spacex-move-to-final-crew-13-prelaunch-prep-for-oct-1-liftoff/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Wikipedia",
+          "date": "2026-09-23",
+          "title": "Starship flight 14 (NET Sep 28, 2026)",
+          "url": "https://en.wikipedia.org/wiki/Starship_flight_14"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-22",
+          "title": "SPCX quote",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "1810-xiaomi-18pro-day",
+      "ticker": "1810.HK",
+      "title": "小米 18 Pro：今晚 19:00 國內發布；驍龍峰會宣布首發第六代驍龍 8",
+      "summary": "Holding 1810.HK（小米）。IT之家（2026-09-23 04:26）引驍龍峰會：小米國際部總裁曾學忠宣布，小米 18 Pro 系列將全球首發高通第六代驍龍 8 超級至尊版與第六代驍龍 8 至尊版；系列已定檔北京時間今晚 19:00 國內發布，並稱將於年内登陸全球市場。屬峰會／媒體現場報道，正式規格與定價以發布會及公司 IR 為準。港股週二 Yahoo 收 27.20 港元（前收 9/21：27.58）。",
+      "whyItMatters": "旗艦機與 SoC 首發敘事影響手機業務關注度，但發布會前數字（價位／出貨）尚未由公司財報確認。",
+      "whatToWatch": "今晚 19:00 發布會的官方配置、售價與上市時間；港股明日是否反映發布後情緒（非建議）。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "IT之家",
+          "date": "2026-09-23",
+          "title": "小米 18 Pro 系列官宣全球首發高通第六代驍龙 8",
+          "url": "https://www.ithome.com/1/006/005.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-23",
+          "title": "升級 2 奈米製程！高通一口氣推最新 Snapdragon 8 Elite Gen 6",
+          "url": "https://technews.tw/2026/09/23/snapdragon-8-elite-extreme-gen-6-snapdragon-8-elite-gen-6/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-22",
+          "title": "1810.HK quote",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-isaac-ros-50",
+      "ticker": "NVDA",
+      "title": "NVIDIA Blog：Isaac ROS 5.0，把 Agentic 工作流帶進開源機器人開發",
+      "summary": "Research NVDA。NVIDIA Blog／Newsroom（2026-09-22）發布 *NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development*：更新開源機器人軟體堆疊，強調 AI agent 技能、ROS 2 Lyrical／Ubuntu 24.04 路徑等。屬公司技術／開發者敘事，非正式季度財報。Yahoo 週二收 228.87 美元（前收 9/21：227.38）。",
+      "whyItMatters": "實體 AI／機器人是 NVDA 長期敘事之一；軟體版本發布不直接改寫已公布營收，但反映生態系推進節奏。",
+      "whatToWatch": "後續財報／GTC 是否把 robotics／Isaac 量化進指引；合作夥伴是否跟進採用。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-09-22",
+          "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+          "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-09-22",
+          "title": "Isaac ROS 5.0 newsroom item",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-isaac-ros-5-0-advances-agentic-open-source-robotics-development"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-22",
+          "title": "NVDA quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-azure-copilot-thirdparty",
+      "ticker": "MSFT",
+      "title": "第三方：Azure 續約調價敘事；路透快訊指加大 Copilot 折扣",
+      "summary": "Research MSFT。科技新報（2026-09-22）轉述 Seeking Alpha／Benzinga／法巴研究：微軟高層稱 Azure 價格走高，但不改既有合約、於續約時重新訂價；並強調近期 Azure 強勁主因仍是效率與產能，而非漲價。同文指與 SpaceX 雲端合作「未證實」。富途快訊轉 Reuters（本早）：Microsoft to boost Copilot discounts as it launches AI 'super app'（The Information）——屬快訊層級，非正式 IR。Yahoo 週二收 498.00 美元（前收 9/21：501.61）。",
+      "whyItMatters": "雲端定價與 Copilot 商業化是 Azure／Office AI 敘事的兩條線；第三方訪談／快訊≠已申報數字。",
+      "whatToWatch": "下次 Earnings 對 Azure 成長與 AI 附著率的官方表述；公司新聞室是否確認 Copilot 促銷細節。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-22",
+          "title": "Azure 漲價？微軟揭續約生效；SpaceX 合作未證實",
+          "url": "https://finance.technews.tw/2026/09/22/microsoft-could-boost-cloud-revenue-may-unveil-spacex-deal-soon/"
+        },
+        {
+          "category": "news",
+          "publisher": "富途快訊",
+          "date": "2026-09-23",
+          "title": "MICROSOFT TO BOOST COPILOT DISCOUNTS AS IT LAUNCHES AI 'SUPER APP'- THE INFORMATION",
+          "url": "https://www.moomoo.com/news/flash/1000051928/microsoft-to-boost-copilot-discounts-as-it-launches-ai-"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-22",
+          "title": "MSFT quote",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-23.mp3",
+  "audioScriptChars": 1895,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
