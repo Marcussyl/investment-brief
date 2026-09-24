@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-24",
+  "stories": [
+    {
+      "id": "spcx-f14-stack-wdr",
+      "ticker": "SPCX",
+      "title": "今日焦點：Flight 14 仍瞄準 NET 9/28；第三方指載具已疊堆、今日或做 WDR",
+      "summary": "Holding SPCX。公司發射頁 https://www.spacex.com/launches/starship-flight-14 仍為 Flight 14 官方入口（靜態抓取多為 SPA 殼層，細節以官網／Webcast 為準）。Wikipedia／Next Spaceflight 現列 NET 2026-09-28 12:15 UTC（中部時間 7:15）。Space.com 直播更新頁（2026-09-23）指 Booster 21 與 Ship 41 已疊堆，並稱濕著衣彩排（WDR）預期於 9/24 進行；同時重申任務仍待監管批准。屬第三方進度敘事，非正式財報。Yahoo Finance regularMarketPrice（對應週三美股收盤，時間戳約 2026-09-23 20:00 UTC／9/24 04:00 HKT）：148.36 美元（前一現金收盤 2026-09-22：154.72）。",
+      "whyItMatters": "試飛窗口與彩排是日程／監管事件，不直接等於營收數字；WDR 成功與否常被市場用來判斷窗口是否仍可行。",
+      "whatToWatch": "公司發射頁／X 是否更新 NET；今日 WDR 有無公開訊號；監管許可是否到位。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-09-24",
+          "title": "Starship Flight 14 launch page",
+          "url": "https://www.spacex.com/launches/starship-flight-14"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Space.com",
+          "date": "2026-09-23",
+          "title": "Starship Flight 14 live updates: vehicle stacked; WDR expected",
+          "url": "https://www.space.com/news/live/spacex-starship-flight-14-live-updates-vehicle-stacked-less-than-one-week-until-starships-first-orbital-launch-attempt"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Next Spaceflight",
+          "date": "2026-09-24",
+          "title": "Starship Flight 14 (NET Sep 28, 2026 12:15 UTC)",
+          "url": "https://nextspaceflight.com/launches/details/8346/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-23",
+          "title": "SPCX quote",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "1810-xiaomi-18pro-priced",
+      "ticker": "1810.HK",
+      "title": "小米 18 Pro／Pro Max 已發布：12+256GB 起價 5999／6999 元人民幣；港股週三收 26.18",
+      "summary": "Holding 1810.HK（小米）。新浪數碼（2026-09-23 22:35）報道：北京發布會正式推出 Xiaomi 18 Pro 與 18 Pro Max，稱首發高通 2nm GAA 雙旗艦平台；18 Pro 12GB+256GB 售價 5999 元人民幣起，Pro Max 同配置 6999 元起，並稱當晚起於小米商城／小米之家等渠道開售。GSMArena／Gizmochina 等第三方亦整理同價位與規格敘事。屬媒體／評測站報道，正式規格以公司 IR／官網為準。港股週三 Yahoo 收 26.18 港元（前收 2026-09-22：27.2）。",
+      "whyItMatters": "旗艦定價與首銷節奏影響手機業務關注度；發布會數字≠已審核出貨／毛利。",
+      "whatToWatch": "首銷週末渠道反饋與公司後續 IR／財報對高端機結構的表述；港股情緒是否延續（非建議）。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "新浪數碼",
+          "date": "2026-09-23",
+          "title": "小米发布Xiaomi 18 Pro系列：售价5999元起",
+          "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-09-23/doc-inisvumx0993132.shtml"
+        },
+        {
+          "category": "third-party",
+          "publisher": "GSMArena",
+          "date": "2026-09-23",
+          "title": "Xiaomi 18 Pro and 18 Pro Max arrive with latest Snapdragon chips",
+          "url": "https://www.gsmarena.com/xiaomi_18_pro_and_18_pro_max_arrive_with_latest_snapdragon_chips_privacy_displays_and_more_useful_re-news-74733.php"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-23",
+          "title": "1810.HK quote",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "gld-fed-yields-pullback",
+      "ticker": "GLD",
+      "title": "GLD：週三美股收 392.88；現貨金報道指利率／美元壓力下回落",
+      "summary": "Holding GLD（SPDR Gold Shares）。Yahoo Finance regularMarketPrice（週三美股收盤時間戳）：392.88 美元（前一現金收盤 2026-09-22：400.07）。Kitco（2026-09-23）報道現貨金掙扎於約 4,300 美元／盎司附近支撐，並指美元與債息回升對金價構成壓力；同文引用 BMO 對後市與實物需求的評論——屬第三方銀行／商品媒體，非 ETF 信託公告。Fed／利率敘事為 profile 已勾選背景；金管局／聯繫匯率無新強制公告需改寫。",
+      "whyItMatters": "黃金 ETF 價格大致跟現貨金與美元／實際利率走勢；利率「更高更久」敘事會改變持有無息資產的機會成本討論。",
+      "whatToWatch": "後續 Fed 官員口徑與 PCE 等通脹數據；GLD 信託頁是否有申贖異常（本早未核到新 IR）。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Kitco News",
+          "date": "2026-09-23",
+          "title": "Gold price battles $4,300 support, but BMO sees underlying demand strengthening",
+          "url": "https://www.kitco.com/news/article/2026-09-23/gold-price-battles-4300-support-bmo-sees-underlying-demand-strengthening"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-23",
+          "title": "GLD quote",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "spym-veu-index-tape",
+      "ticker": "SPYM",
+      "title": "指數 ETF 安靜帶：SPYM／VEU 無新 IR；承接 Fed 利率與跨市場波動背景",
+      "summary": "Holding SPYM（標普 500）與 VEU（全球非美）。本早未見 State Street／Vanguard 針對兩檔的新強制公告。Yahoo 週三收：SPYM 90.37 美元（前收 2026-09-21：91.03）；VEU 83.97 美元（前收 2026-09-21：85.09）。宏观上 Trump–Xi 會談與 AI／貿易敘事見 CNBC（2026-09-23）等電線，屬背景、非 ETF 基本面印刷。",
+      "whyItMatters": "寬基 ETF 多數日子沒有「公司新聞」，波動多來自指數與利率／風險偏好。",
+      "whatToWatch": "美股／亞股指數收盤與資金流向；若有新成份股事件再對照，而非追逐單一標題。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-23",
+          "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+          "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-23",
+          "title": "SPYM quote",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-23",
+          "title": "VEU quote",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-ai-day-singapore",
+      "ticker": "NVDA",
+      "title": "NVIDIA Blog：AI Day Singapore 展示東南亞 AI 進展與夥伴合作",
+      "summary": "Research NVDA。NVIDIA Blog（2026-09-22）發布 *At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia*：介紹 9/22–23 新加坡活動上的培訓、技術場次與區域夥伴採用敘事（含 Nemotron／SEA-LION 等）。屬公司開發者／生態系通訊，非正式季度財報。Yahoo 週三收 225.51 美元（前收 2026-09-22：228.87）。",
+      "whyItMatters": "區域生態系活動反映軟體／模型落地節奏，通常不直接改寫已公布營收，但可對照後續 GTC／財報用語。",
+      "whatToWatch": "公司新聞室是否跟進更多可量化的雲／機器人合作；下次 Earnings 對 data center 指引。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-09-22",
+          "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+          "url": "https://blogs.nvidia.com/blog/ai-day-singapore/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-23",
+          "title": "NVDA quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-quiet-thirdparty",
+      "ticker": "MSFT",
+      "title": "MSFT 安靜帶：無新強制 IR；第三方續討論 Azure／Copilot 與產業裁員敘事",
+      "summary": "Research MSFT。本早未見 Microsoft News Center 針對 Azure／Copilot 的新強制財報級公告。科技新報（2026-09-23）有 Xbox 再裁員與《最後一戰》開發權移交 Activision 的產品線敘事——屬遊戲事業重組報道，非 Azure 財報。富途要聞轉財聯社等指投行看好 Azure／Copilot（第三方·非公告）。Yahoo 週三收 500.59 美元（前收 2026-09-22：498.0）。",
+      "whyItMatters": "雲與 AI 附著率仍是長線敘事主線；遊戲裁員屬產品組合調整，需與 Azure 數字分開記。",
+      "whatToWatch": "下次 Earnings 對 Azure 成長與 Copilot 商業化的官方表述；公司新聞室確認與否。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-09-23",
+          "title": "微軟 Xbox 再裁 268 人，動視全面接手〈最後一戰〉等開發主導權",
+          "url": "https://ccc.technews.tw/2026/09/23/xbox-lays-off-268-more-people-hands-halo-series-to-activision/"
+        },
+        {
+          "category": "news",
+          "publisher": "富途快訊",
+          "date": "2026-09-24",
+          "title": "微软获多家投行看好 分析师称Azure与Copilot有望加速增长（原文來源：财联社）",
+          "url": "https://news.futunn.com/post/1000106961/microsoft-garners-bullish-sentiment-from-multiple-investment-banks-analysts-say"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-23",
+          "title": "MSFT quote",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "1398-icbc-quiet",
+      "ticker": "1398.HK",
+      "title": "工行（1398.HK）安靜帶：本早未見新強制港交所公告",
+      "summary": "Research 1398.HK（工商銀行）。本早未核到新的港交所強制公告需改寫簡報；Yahoo 週三收 7.54 港元（前收 2026-09-22：7.54）。中國消費／宏觀僅作 profile 背景，不 retro 加入非 Active 名。",
+      "whyItMatters": "大行多數日子新聞稀薄；有材料時優先看資本充足率、淨息差與資產質量印刷。",
+      "whatToWatch": "下次業績／資本相關公告；人行或金管機構政策若影響淨息差再對照。",
+      "sources": [
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-23",
+          "title": "1398.HK quote",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-24.mp3",
+  "audioScriptChars": 2883,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
