@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-25",
+  "stories": [
+    {
+      "id": "spcx-f14-wdr-done",
+      "ticker": "SPCX",
+      "title": "今日焦點：第三方指 Flight 14 濕著衣彩排（WDR）已完成；NET 仍瞄準 9/28，待監管批准",
+      "summary": "Holding SPCX。Space.com（2026-09-24）報道 SpaceX 已完成 Starship Flight 14 的濕著衣彩排（WDR）：Booster 21／Ship 41 全堆疊後加注並走完發射日主要程序、未點火；並稱該測試令 9/28（週一）窗口仍在軌道上。窗口仍為約 75 分鐘、約 8:15 a.m. EDT／12:15 UTC（德州當地約 7:15），任務敘事含首次入軌與部署 26 顆 Starlink V3——屬第三方進度／直播更新，非正式財報。公司發射頁 https://www.spacex.com/launches/starship-flight-14 仍為官方入口（靜態抓取多為 SPA 殼層）。Yahoo Finance regularMarketPrice（時間戳約 2026-09-25 04:00 HKT，對應週四美股收盤）：148.03 美元（前一現金收盤 2026-09-23：148.36）。",
+      "whyItMatters": "WDR 是發射前關鍵里程碑，成功與否常被市場用來判斷窗口是否仍可行；入軌與監管批准仍是獨立關卡，不直接等於營收數字。",
+      "whatToWatch": "公司發射頁／X 是否更新 NET 或 Webcast；FAA 等監管許可是否到位；9/28 窗口天氣與射前簡報。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-09-25",
+          "title": "Starship Flight 14 launch page",
+          "url": "https://www.spacex.com/launches/starship-flight-14"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Space.com",
+          "date": "2026-09-24",
+          "title": "Starship megarocket aces launch rehearsal ahead of 1st orbital test flight",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-aces-launch-rehearsal-ahead-of-1st-orbital-test-flight-video"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Space.com",
+          "date": "2026-09-24",
+          "title": "Flight 14 live updates: wet dress rehearsal",
+          "url": "https://www.space.com/news/live/spacex-starship-flight-14-live-updates-sept-24-2026-starship-first-orbital-launch-attempt"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-24",
+          "title": "SPCX quote",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "1810-xiaomi-followthrough",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：港股週四收 26.58（+約1.5%）；媒體／投行續跟進 18 Pro 定價與高端化敘事",
+      "summary": "Holding 1810.HK（小米）。Yahoo 港股週四收 26.58 港元（前收 2026-09-23：26.18）。新浪港股（2026-09-24）指午后逆市升近 2%，並轉述花旗對 18 Pro／Pro Max（起價 5999／6999 元人民幣）強化高端化與性價比定位、下一步看點為出貨與第三季業績的評論——屬媒體／投行觀點，非正式 IR。TechNode（2026-09-24）亦整理 18 Pro 首發 2nm Snapdragon 平台與背屏 AI 等規格敘事。正式規格與出貨數字以公司 IR／官網為準。",
+      "whyItMatters": "旗艦定價與首銷節奏影響手機業務關注度；發布會與投行目標價≠已審核出貨／毛利。",
+      "whatToWatch": "首銷週末渠道反饋；公司後續 IR／財報對高端機結構的表述；港股情緒是否延續（非建議）。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "新浪港股",
+          "date": "2026-09-24",
+          "title": "小米集团-W午后逆市升近2% 花旗指18 Pro系列强化高端化",
+          "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-24/doc-inisxhnx5265655.shtml"
+        },
+        {
+          "category": "third-party",
+          "publisher": "TechNode",
+          "date": "2026-09-24",
+          "title": "Xiaomi launches 18 Pro with 2nm Snapdragon platform and AI back display",
+          "url": "https://technode.com/2026/09/24/xiaomi-launches-18-pro-with-2nm-snapdragon-platform-and-ai-back-display/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-24",
+          "title": "1810.HK quote",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "gld-yields-fed-pressure",
+      "ticker": "GLD",
+      "title": "GLD：Yahoo 週四報 391.69；第三方指債息／美元壓力下現貨金續回落",
+      "summary": "Holding GLD（SPDR Gold Shares）。Yahoo Finance regularMarketPrice（週四美股收盤時間戳）：391.69 美元（前收 2026-09-23：392.88）。Gold Eagle／FXEmpire 等第三方（2026-09-24）指現貨金受美債息與美元走強拖累，並引用 Fed 官員鷹派口徑與十月加息押注上升——屬商品媒體／評論，非 ETF 信託公告。Fed／利率為 profile 已勾選背景；本早未核到金管局／聯繫匯率新強制公告需改寫。",
+      "whyItMatters": "黃金 ETF 價格大致跟現貨金與美元／實際利率；「更高更久」敘事會改變持有無息資產的機會成本討論。",
+      "whatToWatch": "後續 Fed 官員口徑與通脹數據；GLD 信託頁是否有申贖異常（本早未核到新 IR）。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Gold Eagle",
+          "date": "2026-09-24",
+          "title": "Gold bears tighten their grip as Fed rate hike bets rise",
+          "url": "https://www.gold-eagle.com/gold-bears-tighten-their-grip-fed-rate-hike-bets-rise"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-24",
+          "title": "GLD quote",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "spym-veu-quiet-macro",
+      "ticker": "SPYM",
+      "title": "指數 ETF 安靜帶：SPYM／VEU 無新 IR；承接債息走高與跨市場波動背景",
+      "summary": "Holding SPYM（標普 500）與 VEU（全球非美）。本早未見 State Street／Vanguard 針對兩檔的新強制公告。Yahoo 週四：SPYM 90.29 美元（前收 2026-09-23：90.37）；VEU 83.57 美元（前收 2026-09-23：83.97）。宏观上川習會談與 AI／貿易敘事見 CNBC（2026-09-24）等電線，屬背景、非 ETF 基本面印刷。",
+      "whyItMatters": "寬基 ETF 多數日子沒有「公司新聞」，波動多來自指數與利率／風險偏好。",
+      "whatToWatch": "美股／亞股指數收盤與資金流向；若有新成份股事件再對照，而非追逐單一標題。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-24",
+          "title": "China's AI chip blitz blunts Trump's leverage as leaders meet",
+          "url": "https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-24",
+          "title": "SPYM quote",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-24",
+          "title": "VEU quote",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-huang-ai-safety-talk",
+      "ticker": "NVDA",
+      "title": "NVIDIA：黃仁勳談 AI 安全／監管「分心」；川習會背景下出口管制電線續發酵",
+      "summary": "Research NVDA。Semafor／Tom's Hardware（2026-09-24）報道黃仁勳於訪談中稱部分前沿實驗室的存在風險說法是「分心（distraction）」，並稱若實驗無法被控制則「必須關閉實驗室」——屬第三方訪談轉述，非正式財報。CNBC（2026-09-24）於川習會背景下討論中國 AI 晶片與出口管制槓桿，點名 NVIDIA 等——屬電線，非公司公告。本早未見 NVIDIA Newsroom 需改寫簡報的新強制財報級稿（首頁仍可見較早之 CUDA-Q／Palantir 等技術通訊）。Yahoo Finance regularMarketPrice（週四美股收盤時間戳）：224.58 美元（前收 2026-09-23：225.51）。",
+      "whyItMatters": "監管與安全敘事可能影響產業情緒，但不等於已公布營收；新聞室軟體／生態系更新通常需對照後續 Earnings 用語。",
+      "whatToWatch": "公司新聞室是否跟進可量化雲／機器人合作；下次 Earnings 對 data center 指引；出口管制相關電線。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "Semafor",
+          "date": "2026-09-24",
+          "title": "Nvidia CEO Jensen Huang dismisses AI fears as ‘distraction’",
+          "url": "https://www.semafor.com/article/09/24/2026/nvidia-ceo-jensen-huang-dismisses-ai-fears-as-distraction"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Tom's Hardware",
+          "date": "2026-09-24",
+          "title": "Nvidia CEO says 'we have to shut the labs down' if AI experiments are unsafe",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-says-we-have-to-shut-the-labs-down-if-ai-experiments-are-unsafe-jensen-huang-says-frontier-ai-lab-fears-are-a-distraction-not-a-call-for-regulation"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-09-24",
+          "title": "China's AI chip blitz blunts Trump's leverage as leaders meet",
+          "url": "https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-24",
+          "title": "NVDA quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-india-south-central",
+      "ticker": "MSFT",
+      "title": "Microsoft：印度南中部（India South Central）資料中心區域啟用；Red Hat OpenShift 獲 IL5",
+      "summary": "Research MSFT。ThePrint／PTI（2026-09-24）報道 Microsoft 在 Telangana 啟用 India South Central 雲區域，稱是印度第四個雲區域、採三區架構以支援雲與 AI 容量——屬通訊社／地方政府活動報道，細節以公司新聞中心為準。Business Wire（2026-09-24）指 Azure Red Hat OpenShift for Azure Government 取得美國國防部 Impact Level 5（IL5）認證，屬合規里程碑、非正式季度財報。Yahoo 週四報 497.93 美元（前收 2026-09-23：500.59）。",
+      "whyItMatters": "區域產能與政府合規影響雲落地節奏；單次區域開幕／認證通常不直接改寫已公布 Azure 成長率。",
+      "whatToWatch": "公司 IR／Azure Blog 是否跟進更多可量化產能；下次 Earnings 對 Azure 成長與產能轉換的官方表述。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "ThePrint / PTI",
+          "date": "2026-09-24",
+          "title": "Microsoft opens India South Central datacenter region in Telangana",
+          "url": "https://theprint.in/india/microsoft-opens-india-south-central-datacenter-region-in-telangana/3052228/"
+        },
+        {
+          "category": "news",
+          "publisher": "Business Wire",
+          "date": "2026-09-24",
+          "title": "Azure Red Hat OpenShift for Azure Government Achieves IL5 Certification",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-9-24-microsoft-azure-red-hat-openshift-for-microsoft-azure-government-achieves-il5-certification"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-24",
+          "title": "MSFT quote",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "1398-icbc-quiet-tape",
+      "ticker": "1398.HK",
+      "title": "工行（1398.HK）：港股週四收 7.66；本早未見新強制港交所公告改寫簡報",
+      "summary": "Research 1398.HK（工商銀行）。Yahoo 港股週四收 7.66 港元（前收 2026-09-23：7.54）。本早未核到需改寫簡報的新港交所強制公告；第三方資金流／中報轉述不作新基本面印刷。中國消費／宏觀僅作 profile 背景，不加入非 Active 名。",
+      "whyItMatters": "大行多數日子新聞稀薄；有材料時優先看資本充足率、淨息差與資產質量印刷。",
+      "whatToWatch": "下次業績／資本相關公告；人行或金管機構政策若影響淨息差再對照。",
+      "sources": [
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-24",
+          "title": "1398.HK quote",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-25.mp3",
+  "audioScriptChars": 3118,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
