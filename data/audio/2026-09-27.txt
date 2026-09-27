@@ -1,0 +1,44 @@
+投資簡報。9月27日。
+週末安靜帶：Flight 14 仍標 NET 週一（9/28）首次入軌窗口；官網＋第三方時間表對齊
+Holding SPCX。 美港休市。 公司發射頁 https://www.spacex.com/launches/starship-flight-14 仍為官方入口；第三方 Space.com（2026-09-26）寫 NET 9/28、約 75 分鐘窗口、開窗約 8:15 a.m. EDT／12:15 UTC（德州當地約 7:15 a.m. CT）， 任務敘事含首次軌道插入與部署 26 顆 Starlink V3——屬第三方進度更新， 非正式財報。 Engadget（較早 WDR 完成敘事）與 Space.com 均強調監管／天氣可順延。 Yahoo Finance regularMarketPrice（時間戳對應週五美股收盤）：148.68 美元。 
+點解要理？
+週一窗口前最後一個完整週末：NET（不早於）只係最早可飛日， 唔等於已批准或已入軌；新手要分開「測試進度」同「已入賬收入」。 
+接下來睇咩？
+9/28 發射頁／Webcast、窗口是否順延至 9/29–30、監管批准是否到位。 
+
+小米（1810.HK）：週末無新交易日；承接週五收 25.90 與 9/25 翌日披露回購
+Holding 1810.HK。 港股週末休市。 Yahoo 港股週五收 25.90 港元。 上一個完整交易日之港交所翌日披露（呈交 2026-09-25）：於本交易所購回 B 類普通股 1,929,000 股， 每股最高／最低購回價 25.98／25.78 港元， 付出總額約 50,056,872 港元， 擬註銷（見 HKEX PDF）。 本早未見新強制港交所公告改寫簡報。 
+點解要理？
+週末冇新回購數字可跟；單日回購相對總股本仍細， 唔等於業績指引或股價保證。 
+接下來睇咩？
+週一開市後翌日披露是否續有購回、擬註銷進度、IR／財報對現金用途表述。 
+
+Microsoft：Azure Blog——GPT-6 Astra／Sol／Luna 進 Foundry；另文擴模型選擇與 voice agents
+Research MSFT。 週末美股休市。 Microsoft Azure Blog（2026-09-22）：GPT-6 Astra、Sol、Luna 供 Microsoft Foundry 生產代理使用， 並述 Standard／Provisioned Throughput／Priority Processing 等部署選項。 另篇 Azure Blog（2026-09-24）寫 Foundry 擴模型選擇、voice agents 與 continuous optimization。 Yahoo 週五收 516.17 美元。 屬公司雲端產品敘事， 非正式季報數字。 
+點解要理？
+雲端把「模型目錄＋代理執行」捆成產品線， 可能牽動市場對 Azure AI 採用節奏的關注；Blog≠已審核收入。 
+接下來睇咩？
+下季財報對 Azure／Copilot 表述、Foundry 區域與 throughput 選項是否再擴。 
+
+ETF 週末安靜帶：GLD／SPYM／VEU 承接週五美股收盤；無新基金發行公告改寫簡報
+Holdings GLD、SPYM、VEU。 美股休市。 Yahoo 週五收：GLD 393.41、SPYM 90.80、VEU 84.38（美元）。 本早未見上述 ETF 發行商強制披露改寫今日簡報；金價／美股／非美股票指數敘事仍在背景， 屬宏觀環境而非單一名股財報。 
+點解要理？
+ETF 週末通常冇新 NAV 事件；新手可把注意力放喺下個交易日開市前嘅利率／風險情緒， 而唔係硬搵「今日必讀公司公告」。 
+接下來睇咩？
+週一美股開市後金價／美債孳息與風險資產聯動；發行商官網若有新公告再核對。 
+
+NVIDIA：DigiTimes——Supermicro 開始出貨 Vera Rubin NVL72；公司 Blog 續推東南亞 AI Day
+Research NVDA。 DigiTimes（2026-09-24）：Supermicro 開始出貨 Nvidia Vera Rubin NVL72 AI racks， 把機架級平台由展示推向客戶部署——屬第三方供應鏈報導， 非 NVIDIA 財報。 NVIDIA Blog（2026-09-23）另述 AI Day Singapore 與夥伴展示。 Yahoo 週五收 225.07 美元。 
+點解要理？
+供應鏈「開始出貨」敘事可能牽動市場對下一代 AI 機架節奏的關注；第三方報導≠公司指引或已入賬銷售。 
+接下來睇咩？
+NVIDIA 官方 IR／GTC 或財報對 Rubin／NVL72 出貨表述；同業機架供應商後續報導。 
+
+工行（1398.HK）：港股週末休市；週五收 7.51，本早未見新強制公告
+Research 1398.HK。 港股休市。 Yahoo 週五收 7.51 港元（前收序列見 Yahoo 1M）。 本早未見港交所／公司新聞室強制披露改寫今日簡報——安靜帶正常。 
+點解要理？
+銀行股週末多數跟宏觀利率與資產質素敘事；冇新公告時唔好硬塞解讀。 
+接下來睇咩？
+週一開市後若有公司公告／人行或金管局相關披露再核對原文。 
+
+以上係今日簡報。非投資建議，僅供參考。
