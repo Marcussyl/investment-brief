@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-28",
+  "stories": [
+    {
+      "id": "spcx-f14-net-day",
+      "ticker": "SPCX",
+      "title": "Flight 14 發射日（NET）：約 75 分鐘窗口、開窗 8:15 a.m. EDT（港時約 20:15）；首次入軌嘗試",
+      "summary": "Holding SPCX。今日為第三方標示嘅 Starship Flight 14 NET 日。Space.com（2026-09-27／26）：75 分鐘窗口、開窗約 8:15 a.m. EDT／12:15 UTC（德州當地約 7:15 a.m. CT；換算港時約 20:15 開窗），任務敘事含首次軌道插入、約六圈、部署 26 顆 Starlink V3，並指後備日可至 9/29–30——屬第三方·非公告。公司發射頁 https://www.spacex.com/launches/starship-flight-14 仍為官方入口／Webcast。美股週五休市後未再更新收盤；Yahoo 週五 regularMarketPrice 148.68 美元。港早時段發射尚未發生。",
+      "whyItMatters": "NET（不早於）只係最早窗口：天氣、技術或監管仍可順延。新手要分開「測試進度／Webcast」同「已入賬收入」。",
+      "whatToWatch": "今晚港時窗口／Webcast 是否準時、是否改 NET 至後備日、入軌與衛星部署結果敘事（第三方 vs 公司更新）。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-09-28",
+          "title": "Starship Flight 14 launch page",
+          "url": "https://www.spacex.com/launches/starship-flight-14"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Space.com",
+          "date": "2026-09-27",
+          "title": "SpaceX's Starship megarocket launching to orbit for 1st time ever on Sept. 28: Watch it live",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Space.com",
+          "date": "2026-09-26",
+          "title": "What time will SpaceX launch its 1st orbital Starship test on Flight 14 on Sept. 28?",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-14-1st-orbital-launch-what-time",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "1810-monday-reopen",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：週一港股重開；承接週五收 25.90 與 9/25 翌日披露回購",
+      "summary": "Holding 1810.HK。港股週一重開（本早開市前）。Yahoo 週五收 25.90 港元。最近完整交易日港交所翌日披露（呈交 2026-09-25）：於本交易所購回 B 類普通股 1,929,000 股，每股最高／最低購回價 25.98／25.78 港元，付出總額約 50,056,872 港元，擬註銷。本早（開市前）未另見改寫簡報嘅新強制港交所公告。",
+      "whyItMatters": "重開後先睇有冇新翌日披露；單日回購相對總股本仍細，唔等於業績指引。",
+      "whatToWatch": "今日若有新翌日披露／IR 公告；擬註銷進度；開市後交投是否異常放大。",
+      "sources": [
+        {
+          "category": "exchange",
+          "publisher": "HKEX",
+          "date": "2026-09-25",
+          "title": "翌日披露報表（股份購回）01810",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0925/2026092500984_c.pdf"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-25",
+          "title": "1810.HK last close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-china-rtx-pro",
+      "ticker": "NVDA",
+      "title": "NVIDIA：Reuters 轉述 The Information——中國或允許部分企業採購 RTX PRO 5500；路透未即時核實",
+      "summary": "Research NVDA。Reuters（2026-09-27）：引述 The Information，稱中國政府傳意向部分企業（如 ByteDance、Alibaba）放行採購 Nvidia 面向高階專業電腦嘅晶片 RTX PRO 5500；文中指工信部曾要求企業呈報採購計劃，並指部分高管預期該卡或可避開部分美國出口限制——Reuters 寫明未能即時核實該報導。NVIDIA 發言人就報導評論時提到美國出口管制與中國對美國進口限制並存。Yahoo 週五收 225.07 美元。屬第三方·非公告，非正式財報或 IR 指引。",
+      "whyItMatters": "中國需求敘事可牽動市場對 NVDA 中國資料中心／專業卡業務嘅關注，但未核實報導≠已批准出貨或已入賬銷售；公司過往指引仍可能假設中國 DC 相關為零。",
+      "whatToWatch": "官方／公司 IR 是否確認、出口合規細節、下一季財報對中國收入假設。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "Reuters",
+          "date": "2026-09-27",
+          "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
+          "url": "https://www.reuters.com/business/retail-consumer/china-weighs-allowing-bytedance-alibaba-buy-new-nvidia-chips-information-reports-2026-09-27/",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-25",
+          "title": "NVDA last close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-copilot-plus-fade",
+      "ticker": "MSFT",
+      "title": "Microsoft：TechNews——Surface 淡化 Copilot Plus PC 標籤；週五收 516.17",
+      "summary": "Research MSFT。TechNews（2026-09-27）：指微軟正淡化 Copilot Plus PC 品牌標籤，並回顧 Recall 等功能延期／調整與隱私爭議——屬第三方·非公告，非正式財報數字。公司雲端產品線近期仍有 Azure Blog（9/22、9/24）Foundry／代理相關敘事（上週末簡報已載）。Yahoo 週五收 516.17 美元（較前兩日收盤明顯回升；來源 Yahoo chart）。",
+      "whyItMatters": "消費級 PC AI 品牌標籤若淡化，市場可能更聚焦 Azure／Copilot 企業採用節奏，而唔係單一 PC SKU 標籤。",
+      "whatToWatch": "下季財報對 Azure／Copilot 表述；Windows／Surface 官方命名是否再調整。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "TechNews",
+          "date": "2026-09-27",
+          "title": "才兩年就退燒了？微軟 Surface 正淡化 Copilot Plus PC 標籤",
+          "url": "https://technews.tw/2026/09/27/microsoft-surface-copilot-plus-pc/",
+          "verified": true
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Azure Blog",
+          "date": "2026-09-24",
+          "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
+          "url": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-25",
+          "title": "MSFT last close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "etf-monday-open",
+      "ticker": "GLD",
+      "title": "ETF：GLD／SPYM／VEU 承接週五美股收盤；港早美股仍未開；Fed／金管局利率背景仍在",
+      "summary": "Holdings GLD、SPYM、VEU。美股週一港早尚未開市。Yahoo 週五收：GLD 393.41、SPYM 90.80、VEU 84.38（美元）。9/17 FOMC 加息後金管局按機制上調基本利率至 4.25%（HKMA 講詞頁）仍係背景；本早未見上述 ETF 發行商強制披露改寫今日簡報。",
+      "whyItMatters": "ETF 多數跟指數／金價同利率預期；新手可把焦點放喺美股開市後孳息與風險情緒，而唔係硬搵「今日必讀基金公告」。",
+      "whatToWatch": "美股開市後金價／美債孳息與 SPYM／VEU 聯動；發行商官網若有新公告再核對。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-09-17",
+          "title": "Remarks after the US Fed FOMC Meeting",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/09/20260917-1/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-25",
+          "title": "GLD last close",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-25",
+          "title": "SPYM last close",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-25",
+          "title": "VEU last close",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        }
+      ]
+    },
+    {
+      "id": "1398-monday-quiet",
+      "ticker": "1398.HK",
+      "title": "工行（1398.HK）：週一港股重開；週五收 7.51；本早未見新強制公告",
+      "summary": "Research 1398.HK。港股重開前。Yahoo 週五收 7.51 港元。本早未見港交所／公司新聞室強制披露改寫今日簡報。近期第三方曾述及 AT1（額外一級資本）債券相關資本工具敘事，但非今日新公告——安靜開市帶正常。",
+      "whyItMatters": "銀行股開市多數跟利率同資產質素宏觀；冇新公告時唔好硬塞解讀。",
+      "whatToWatch": "若有公司公告／人行或金管局相關披露，再核對原文。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-25",
+          "title": "1398.HK last close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "professional-gpu-rtx-pro",
+      "title": "專業繪圖卡（Professional GPU／RTX PRO）",
+      "titleEn": "Professional GPU / RTX PRO",
+      "what": "相對於遊戲卡或資料中心訓練加速卡，專業繪圖卡（例如 NVIDIA RTX PRO 系列）主要面向工作站、設計／工程與高階專業運算。出口管制討論有時會把「專業卡」同「資料中心 AI 加速卡」分開處理。",
+      "whyItMatters": "報導若寫「放行專業卡」，唔等於資料中心訓練晶片已全面解禁；新手要睇清楚產品線同合規範圍。",
+      "whereToday": "Reuters（2026-09-27）轉述 The Information：中國或允許部分企業採購 Nvidia RTX PRO 5500；路透未能即時核實。",
+      "whatToWatch": "官方／公司是否確認型號與用途限制——唔係買賣建議。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/3e999f70bc568162932cea616ec50032"
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-28.mp3",
+  "audioScriptChars": 2326,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
