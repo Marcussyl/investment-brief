@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-30",
+  "stories": [
+    {
+      "id": "1810-buyback-0929",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：9/29 回購 100 萬股 B 類；總額約 2,517.86 萬港元；擬註銷",
+      "summary": "Holding 1810.HK。第三方轉述港交所翌日披露／股份購回（新浪港股 2026-09-29 19:10 HKT；格隆匯等同日摘要）：公司於 9 月 29 日在聯交所回購 B 類普通股 100 萬股，每股約 25.14–25.20 港元，總額約 2,517.86 萬港元，所購股份擬註銷；並指截至當日按 2026-06-02 回購授權累計回購約 1.26 億股（約佔授權日已發行股份不含庫存股 0.49%）。屬第三方·非公告轉述——本環境未能直接下載當日 HKEX PDF 核對原文。Yahoo 週二收 25.20 港元（週一 25.86）。",
+      "whyItMatters": "翌日披露報表係港股回購／股本變動的法定翌日報告；單日回購金額相對總市值通常細，要分開「有執行回購」同「業績指引改寫」。",
+      "whatToWatch": "之後若能打開港交所 PDF 核對股數／價格／擬註銷；下一次月報表或公司 IR。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "新浪港股",
+          "date": "2026-09-29",
+          "title": "小米集团－W(01810,81810)翌日披露报表 - [股份购回]",
+          "url": "https://finance.sina.com.cn/stock/aigc/hkgg/2026-09-29/doc-initnwnf2952454.shtml",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "格隆汇",
+          "date": "2026-09-29",
+          "title": "小米集团-W(01810.HK)9月29日耗资2517.9万港元回购100万股",
+          "url": "https://www.gelonghui.com/news/5319184",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-29",
+          "title": "1810.HK Tuesday close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        },
+        {
+          "category": "exchange",
+          "publisher": "HKEX",
+          "date": "2026-09-25",
+          "title": "翌日披露報表（股份購回）01810（較早交易日；供對照格式）",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0925/2026092500984_c.pdf"
+        }
+      ]
+    },
+    {
+      "id": "spcx-f14-follow",
+      "ticker": "SPCX",
+      "title": "SPCX／Starship：Flight 14 後續；Reuters 指引擎熄火或牽動 NASA 登月時程敘事",
+      "summary": "Holding SPCX。公司發射頁仍為 Flight 14 官方入口。第三方 Reuters（標題見 Google News／多家轉載，2026-09-29）指 Starship 引擎提早熄火或影響 NASA 登月任務目標時程——屬第三方·非公告，非正式 IR 數字。Spaceflight Now（9/28）仍係入軌／濺落主敘事來源。Yahoo 報價約 149.24 美元（圖表最近完整交易日 9/28 收 145.47；9/29 日柱或尚未入庫）。",
+      "whyItMatters": "測試里程碑同 NASA 合約／Artemis 時程係兩條線；引擎異常報道唔等于商業衛星收入已入賬。",
+      "whatToWatch": "SpaceX 發射頁／Webcast 更新；NASA 或公司若有正式時程說明再核對。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-09-28",
+          "title": "Starship Flight 14 launch page",
+          "url": "https://www.spacex.com/launches/starship-flight-14"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Spaceflight Now",
+          "date": "2026-09-28",
+          "title": "Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight",
+          "url": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Reuters (via Google News headline)",
+          "date": "2026-09-29",
+          "title": "SpaceX's Starship engine failure could impact NASA's moon mission objectives",
+          "url": "https://www.reuters.com/technology/space/spacexs-starship-engine-failure-could-impact-nasas-moon-mission-objectives-2026-09-29/",
+          "verified": false
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-29",
+          "title": "SPCX quote",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "gld-fed-williams",
+      "ticker": "GLD",
+      "title": "GLD／利率：紐約聯儲 Williams「毋須急於行動」；金價／ETF 隨孳息敘事波動",
+      "summary": "Holding GLD（連帶 SPYM、VEU 風險情緒）。紐約聯儲總裁 John Williams 演說（2026-09-29，Buffalo；紐約聯儲官網原文）：9 月加息後「no need for urgency」、有時間收集更多數據；若經濟大致如其預測，今年稍後或再一次上調聯邦基金目標區間——屬官方講稿。Yahoo：GLD 約 382.89、SPYM 約 89.94、VEU 約 83.56 美元（圖表最近完整美股日 9/28 收分別 377.91／90.08／83.77）。9/17 FOMC 後金管局按機制上調基本利率至 4.25% 仍係背景。",
+      "whyItMatters": "金價／GLD 常對實質利率同美債孳息敏感；聯儲官員「唔急」可能改寫短期加息機率，但唔等于金管局即日改挂鈎機制。",
+      "whatToWatch": "之後 FOMC／數據；發行商官網若有新公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Federal Reserve Bank of New York",
+          "date": "2026-09-29",
+          "title": "Unwavering Dedication (John C. Williams remarks)",
+          "url": "https://www.newyorkfed.org/newsevents/speeches/2026/wil260929"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "FXStreet",
+          "date": "2026-09-29",
+          "title": "Fed’s Williams says no rush after September hike",
+          "url": "https://www.fxstreet.com/news/feds-williams-says-no-rush-after-september-hike-202609291822",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-29",
+          "title": "GLD quote",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-09-17",
+          "title": "Remarks after the US Fed FOMC Meeting",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/09/20260917-1/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-hbm-rubin",
+      "ticker": "NVDA",
+      "title": "NVIDIA／HBM：DigiTimes 指 SK 海力士 HBM5 與台積電驗證；HBM4 進入 Rubin 平台敘事",
+      "summary": "Research NVDA。DigiTimes（2026-09-29）：引述 SK 海力士企業新聞室 9/28 指 HBM5 已與台積電 CoWoS 封裝驗證，同時 HBM4 正納入 NVIDIA Vera Rubin 超級晶片——屬第三方·非公告；細節以供應鏈／原廠為準。NVIDIA Newsroom 9/28 回購授權追加（剩餘授權至 2,350 億美元）上日簡報已載。Yahoo 報價約 227.21 美元（9/28 收 228.86）。",
+      "whyItMatters": "HBM 世代同封裝產能係 AI 算力供應鏈瓶頸敘事；驗證／導入唔等于即季財報已確認全數收入。",
+      "whatToWatch": "NVIDIA／SK 海力士官方若有產品或供應更新；下季財報對數據中心／記憶體供應表述。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "DigiTimes",
+          "date": "2026-09-29",
+          "title": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
+          "url": "https://www.digitimes.com/news/a20260929VL203/tsmc-sk-hynix-nvidia-hbm4-packaging.html",
+          "verified": true
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-09-28",
+          "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-29",
+          "title": "NVDA quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-defender-ai",
+      "ticker": "MSFT",
+      "title": "Microsoft：iThome 指 Defender 整合 SIEM／XDR，AI 代理參與資安維運（預覽）",
+      "summary": "Research MSFT。iThome（2026-09-30）：微軟推出 ISOC 公開預覽，於 Microsoft Defender 入口整合 SIEM、XDR，並讓 AI 代理參與威脅調查及處理——屬第三方·非公告產品報道。Yahoo 報價約 508.96 美元（9/28 收 509.22）。",
+      "whyItMatters": "資安產品預覽多數係功能敘事，唔等于雲端收入指引改寫；新手可對照之後財報對 Security／Azure 的表述。",
+      "whatToWatch": "Microsoft 官方 Security Blog／Docs 若有正式公告；下季財報。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "iThome",
+          "date": "2026-09-30",
+          "title": "微軟Defender整合SIEM與XDR，讓AI代理參與資安維運",
+          "url": "https://www.ithome.com.tw/news/179233",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-29",
+          "title": "MSFT quote",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "1398-tue-close",
+      "ticker": "1398.HK",
+      "title": "工行（1398.HK）：週二收 7.65；本早未見新強制公告改寫簡報",
+      "summary": "Research 1398.HK。Yahoo 週二收 7.65 港元（週一 7.70）。本早未見可核對嘅港交所／公司新聞室強制披露改寫今日焦點。",
+      "whyItMatters": "銀行股多數跟利率同資產質素宏觀；冇新公告時唔好硬塞解讀。",
+      "whatToWatch": "若有公司公告／人行或金管局相關披露，再核對原文。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-29",
+          "title": "1398.HK Tuesday close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "next-day-disclosure-return",
+      "title": "翌日披露報表（Next Day Disclosure Return）",
+      "titleEn": "Next Day Disclosure Return",
+      "what": "港交所要求上市發行人在股份購回、已發行股份或庫存股份變動等事件後，通常於下一個交易日提交的披露表格，向市場交代股數、價格與股本變化。",
+      "whyItMatters": "新手常把「回購新聞」當成即日必漲訊號；翌日披露報表只係法定事實報告，要對照股數、價格區間與是否擬註銷，而唔係買賣建議。",
+      "whereToday": "小米（1810.HK）9/29 回購 100 萬股 B 類、總額約 2,517.86 萬港元——見第三方轉述翌日披露／股份購回摘要。",
+      "whatToWatch": "打開港交所 PDF 核對原文數字；之後月報表累計回購——不是买卖建议。",
+      "relatedTickers": [
+        "1810.HK"
+      ],
+      "notionUrl": "https://app.notion.com/p/3eb99f70bc5681d08540d6bd97389b74"
+    }
+  ],
+  "audioUrl": "data/audio/2026-09-30.mp3",
+  "audioScriptChars": 2236,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
