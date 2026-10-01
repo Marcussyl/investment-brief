@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-01",
+  "stories": [
+    {
+      "id": "1398-egm-interim-dividend",
+      "ticker": "1398.HK",
+      "title": "工行（1398.HK）：臨股會通過中期息每 10 股人民幣 1.511 元；H 股預計 11/25 派發",
+      "summary": "Research 1398.HK（Notion ticker 01398）。港交所公告（2026-09-29）：2026 年第二次臨時股東會通過中期利潤分配——向截至 2026-10-20 收市後登記在冊普通股股東每 10 股派發人民幣 1.511 元（含稅）；H 股股息預期 2026-11-25 支付，A 股預期 10-21；H 股除息前最後交易日 10-08、10-09 起除息；H 股股東可選人民幣收款（表格截止約 11-05）。同日會議亦通過向特定對象發行 A 股等議案（財政部／中國煙草等認購相關）。屬公司／交易所公告。Yahoo 週三收 7.71 港元（週二 7.65）。",
+      "whyItMatters": "中期息同除息／過戶截止日係港股現金流行事曆；向特定對象發行 A 股屬股本／戰略投資者敘事，要同「股息到賬」分開睇，唔好混成單一買賣訊號。",
+      "whatToWatch": "H 股過戶／除息日；股息貨幣選擇表格；之後若有 A 股發行進度公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "exchange",
+          "publisher": "HKEX",
+          "date": "2026-09-29",
+          "title": "2026年第二次臨時股東會投票表決結果（含中期利潤分配）",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901714_c.pdf",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "MarketScreener / S&P Capital IQ",
+          "date": "2026-09-29",
+          "title": "ICBC approves 2026 interim dividend; H-share pay date Nov 25",
+          "url": "https://www.marketscreener.com/news/industrial-and-commercial-bank-of-china-limited-approves-interim-dividend-for-the-year-2026-payable-ce785addd188f42c",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-30",
+          "title": "1398.HK Wednesday close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    },
+    {
+      "id": "1810-wed-close-buyback-follow",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：週三收 25.24；延續 9/29 回購敘事，本早未見新翌日披露改寫",
+      "summary": "Holding 1810.HK。Yahoo 週三收 25.24 港元（週二 25.20）。上日簡報已載第三方轉述 9/29 回購 100 萬股 B 類、總額約 2,517.86 萬港元、擬註銷。本早未另見可核對嘅港交所 9/30 翌日披露 PDF 改寫焦點——屬行情跟進，非新強制公告。",
+      "whyItMatters": "回購執行節奏同股價短期波動要分開；單日回購金額相對總股本通常仍細。",
+      "whatToWatch": "之後翌日披露／月報表累計回購；公司 IR。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-30",
+          "title": "1810.HK Wednesday close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "新浪港股",
+          "date": "2026-09-29",
+          "title": "小米集团－W翌日披露报表 - [股份购回]",
+          "url": "https://finance.sina.com.cn/stock/aigc/hkgg/2026-09-29/doc-initnwnf2952454.shtml",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "gld-pce-macro",
+      "ticker": "GLD",
+      "title": "GLD／宏觀：美 8 月核心 PCE 年增 3% 低於預期；孳息與金價敘事拉鋸",
+      "summary": "Holding GLD（連帶 SPYM、VEU 風險情緒）。TechNews／中央社轉述（2026-10-01）：美國商務部 9/30 公布 8 月核心 PCE 年增 3%、月增 0.2%，整體 PCE 年增 3.4%、月增 0.3%，均低於訪問經濟學家預期；個人支出增 0.9%。文內指 BEA 調整部分計算方式，影響尚不明朗；市場降低 10 月再加息押注。背景：9/17 FOMC 加息後金管局按機制上調基本利率至 4.25%。Yahoo：GLD 約 382.89、SPYM 約 89.94、VEU 約 83.56 美元（圖表最近完整美股日 9/29；9/30 美股日柱或尚未入庫）。",
+      "whyItMatters": "PCE 係 Fed 偏好通膨指標；金價／GLD 常對實質利率同美債孳息敏感。港元挂鈎下，聯儲路徑仍會透過金管局基本利率機制傳導——唔等于即日改 P。",
+      "whatToWatch": "之後 FOMC／數據；GLD 發行商若有新公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-01",
+          "title": "Fed 偏好通膨指標出爐，美 8 月核心 PCE 年增 3% 低於預期",
+          "url": "https://finance.technews.tw/2026/10/01/feds-preferred-gauge-showed-core-inflation-at-3-0-in-august/",
+          "verified": true
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-09-17",
+          "title": "Remarks after the US Fed FOMC Meeting",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/09/20260917-1/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-29",
+          "title": "GLD / SPYM / VEU quotes",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-starship-follow-0930",
+      "ticker": "SPCX",
+      "title": "SPCX：Starship Flight 14 後續；第三方估值／分析師敘事升溫（非公司指引）",
+      "summary": "Holding SPCX。公司發射頁仍為 Flight 14 官方入口；Spaceflight Now（9/28）入軌／濺落主敘事不變。第三方 Invezz／Benzinga 等（約 9/30）討論長期估值或 Starship 發射節奏——屬第三方·非公告，非正式 IR 或財報數字。Yahoo 報價約 149.24 美元（圖表最近完整交易日 9/29）。",
+      "whyItMatters": "測試里程碑同街頭估值目標係兩條線；分析師目標價唔等于公司承諾。",
+      "whatToWatch": "SpaceX 發射頁／Webcast；公司若有正式 IR 披露再核對。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-09-28",
+          "title": "Starship Flight 14 launch page",
+          "url": "https://www.spacex.com/launches/starship-flight-14"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Spaceflight Now",
+          "date": "2026-09-28",
+          "title": "Starship returns to Earth after three-hour flight",
+          "url": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Invezz",
+          "date": "2026-09-30",
+          "title": "Why Citi thinks SpaceX stock could hit a $12 trillion valuation one day",
+          "url": "https://invezz.com/news/2026/09/30/why-citi-thinks-spacex-stock-could-hit-a-12-trillion-valuation-one-day/",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-29",
+          "title": "SPCX quote",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-coreweave-rubin",
+      "ticker": "NVDA",
+      "title": "NVIDIA：CoreWeave 上線 Vera Rubin NVL72；Cognition 指 token 吞吐可達 GB200 約 4.8 倍（公司博客）",
+      "summary": "Research NVDA。NVIDIA 博客（2026-09-30）：CoreWeave Fully Connected 宣布 Vera Rubin NVL72（Spectrum-X 102.4T）可供使用；Cognition（Devin）為首批生產負載客戶，早期測試指相對 GB200 NVL72，SWE-2 推理總 token 吞吐最高約 4.8 倍——屬公司新聞室／博客數字，非獨立審計財報。另：9/28 Newsroom 已公告董事會追加 1,500 億美元回購授權、剩餘授權約 2,350 億美元、預期執行至 FY2028。Yahoo 報價約 227.21 美元（9/29）。",
+      "whyItMatters": "雲端客戶上線同博客基準係供應／採用敘事；要同季報已確認收入分開。回購授權係「可買上限」唔等于已全部執行。",
+      "whatToWatch": "之後財報對數據中心／Rubin 表述；Newsroom 若有更多產能更新。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-09-30",
+          "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+          "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-09-28",
+          "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-29",
+          "title": "NVDA quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-copilot-consumption",
+      "ticker": "MSFT",
+      "title": "Microsoft：M365 Copilot Business 擬 11/2 起預設加入用量計費（Copilot Credits）",
+      "summary": "Research MSFT。CRN（2026-09-30）報道：Microsoft 365 Copilot Business 許可（含 CSP）將自 2026-11-02 起對合資格服務預設轉向「訂閱＋用量」——日常 AI 工作仍由每用戶訂閱覆蓋，較複雜／長時間 agentic 工作可消耗另行計費的 Copilot Credits；並擴展成本管理工具。屬第三方·非公告產品／商業條款報道——細節以 Microsoft 官方授權／計費文件為準。Yahoo 報價約 508.96 美元（9/29）。",
+      "whyItMatters": "計費模式改動影響企業 AI 總擁有成本敘事，唔等于即季 Azure 收入指引已改寫。",
+      "whatToWatch": "Microsoft 官方 licensing／Copilot 文件；下季財報對 Copilot／Azure 表述。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "CRN",
+          "date": "2026-09-30",
+          "title": "Microsoft Enables Consumption Billing By Default For Copilot Business",
+          "url": "https://www.crn.com/news/ai/2026/microsoft-enables-consumption-billing-by-default-for-copilot-business-5-things-to-know",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-29",
+          "title": "MSFT quote",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "pce-personal-consumption-expenditures",
+      "title": "PCE（個人消費支出物價指數）",
+      "titleEn": "Personal Consumption Expenditures Price Index",
+      "what": "美國商務部 BEA 公布的消費物價指標；核心 PCE 剔除食品與能源。Fed 視 PCE／核心 PCE 為主要通膨參考（偏好指標）。",
+      "whyItMatters": "新手常只睇 CPI；Fed 決策更常引用 PCE。數字高低可能改寫加息押注，牽動孳息、股市情緒與黃金／GLD——但唔等于金管局即日改 P。",
+      "whereToday": "TechNews／中央社轉述：美 8 月核心 PCE 年增 3% 低於預期；整體 PCE 年增 3.4%——見 Holding GLD 宏觀故事。",
+      "whatToWatch": "之後 FOMC／下一筆 PCE；金管局若跟 Fed 調基本利率——不是买卖建议。",
+      "relatedTickers": [
+        "GLD",
+        "SPYM",
+        "VEU"
+      ],
+      "notionUrl": "https://app.notion.com/p/3ec99f70bc5681e3b888dd0fdc52468c"
+    }
+  ],
+  "audioUrl": "data/audio/2026-10-01.mp3",
+  "audioScriptChars": 2506,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
