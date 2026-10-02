@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-02",
+  "stories": [
+    {
+      "id": "spcx-crew13-filtronic",
+      "ticker": "SPCX",
+      "title": "SPCX：Crew-13 升空赴 ISS；供應商 Filtronic 再獲 6,810 萬美元跟進訂單",
+      "summary": "Holding SPCX。Space.com（2026-10-01）：NASA Crew-13 於美東 11:10 自 Cape Canaveral LC-40 以 Falcon 9／Crew Dragon「Grace」升空赴 ISS（此前曾因氧化劑洩漏延遲）。同日 Filtronic AIM RNS：再獲 SpaceX Cerus E-band GaN SSPA 跟進訂單 6,810 萬美元（歷來最大），料主要於 FY2028 履行——屬供應商披露，非 SPCX 公司指引。Exa／市場數據：週四收約 148.07（週三 Yahoo 150.86）。",
+      "whyItMatters": "載人飛行係商業載人合約運營節奏；供應鏈大單可當 LEO 通訊需求旁證，但唔好同公司收入指引劃等號。",
+      "whatToWatch": "對接／任務進度官方更新；SpaceX 若有 IR／SEC 披露再核對。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Space.com",
+          "date": "2026-10-01",
+          "title": "SpaceX launches Crew-13 astronauts to ISS for NASA",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/spacex-crew-13-astronaut-mission-iss-launch",
+          "verified": true
+        },
+        {
+          "category": "company",
+          "publisher": "Filtronic RNS / Investegate",
+          "date": "2026-10-01",
+          "title": "$68.1m order from SpaceX",
+          "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/-68-1m-order-from-spacex/9800190",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Exa Markets / Yahoo Finance",
+          "date": "2026-10-01",
+          "title": "SPCX Thursday close ~148.07 (Yahoo last complete bar Wed 150.86)",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "1810-sep-deliveries-40k",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：9 月汽車交付逾 4 萬輛；Sky Nomad 首月貢獻增量（第三方轉述）",
+      "summary": "Holding 1810.HK。CnEVPost（2026-10-01）引公司微博：小米汽車 9 月交付逾 4 萬輛，為 2026 年單月新高；Sky Nomad 開始交付，未披露車型拆分。港股國慶假期（約 10/1–10/2）休市；Yahoo 最近完整收市 9/30：25.24 港元。",
+      "whyItMatters": "月交付同年度約 55 萬輛目標進度有關；「逾 4 萬」係下限口徑，要同累計同之後官方拆分一齊睇。",
+      "whatToWatch": "公司若公布更精確數字／首月大定；港股復市後成交同翌日披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "CnEVPost",
+          "date": "2026-10-01",
+          "title": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
+          "url": "https://cnevpost.com/2026/10/01/xiaomi-auto-sept-2026-deliveries/",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-30",
+          "title": "1810.HK last close before Golden Week",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "gld-spym-veu-post-pce",
+      "ticker": "GLD",
+      "title": "GLD／SPYM／VEU：PCE 後首個完整美股日；金約 382.78、標普 ETF／全球股同步收市",
+      "summary": "Holdings GLD、SPYM、VEU（宏觀連動）。TechNews／中央社轉述：美 8 月核心 PCE 年增 3% 低於預期（昨日已報）。Exa 市場數據（2026-10-01）：GLD≈382.78、SPYM≈89.92、VEU≈82.52（對照 Yahoo 9/30：380.84／89.76／82.97）。屬收市數據整理，非買賣訊號。",
+      "whyItMatters": "通膨數據會改寫加息押注，牽動無孳息黃金同風險資產；港元挂鈎下本地利率仍跟 Fed／金管局機制。",
+      "whatToWatch": "下一筆通膨／FOMC；金管局若再調基本利率。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "TechNews／中央社",
+          "date": "2026-10-01",
+          "title": "Fed 偏好通膨指標：核心 PCE 年增 3%",
+          "url": "https://finance.technews.tw/2026/10/01/feds-preferred-gauge-showed-core-inflation-at-3-0-in-august/",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Exa Markets",
+          "date": "2026-10-01",
+          "title": "GLD/SPYM/VEU Oct 1 closes",
+          "url": "https://exa.ai/library/markets/stock/GLD?date=2026-10-01"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-30",
+          "title": "Prior Yahoo complete bars",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-coreweave-rubin-follow",
+      "ticker": "NVDA",
+      "title": "NVIDIA：CoreWeave 上線 Vera Rubin NVL72；Cognition 早期測試指 token 吞吐可達約 4.8×（相對 GB200）",
+      "summary": "Research NVDA。NVIDIA Blog（2026-09-30）：CoreWeave 宣布 Vera Rubin NVL72 於其雲上可用；Cognition（Devin）為首批生產客戶，早期測試指 SWE-2 推斷總 token 吞吐相對 GB200 NVL72 可達約 4.8 倍；亦談 Vera CPU 代理沙盒。Exa：週四收約 230.86（Yahoo 9/30：228.38）。",
+      "whyItMatters": "下一代機架開始有雲端產能敘事，關乎加速卡需求節奏；吞吐數字來自客戶早期測試。",
+      "whatToWatch": "其他雲商 Rubin／Blackwell 進度；公司季報指引。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-09-30",
+          "title": "NVIDIA and CoreWeave Close the Loop on Agentic AI",
+          "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Exa Markets / Yahoo Finance",
+          "date": "2026-10-01",
+          "title": "NVDA Thursday close ~230.86",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-copilot-home-code-autopilot",
+      "ticker": "MSFT",
+      "title": "Microsoft：新版 Copilot（Home／Code／Autopilot）與 plugin registry；代理型功能走用量計費",
+      "summary": "Research MSFT。Microsoft Official Blog（2026-09-25）：Copilot 新增 Home、Code、Autopilot；plugin registry 陸續上線；代理型長時任務走用量計費（UBB），日常對話仍可走訂閱。Exa：週四收約 512.80（Yahoo 9/30：512.90）。",
+      "whyItMatters": "產品面同計費結構影響企業 AI 支出同 M365／Azure 敘事；訂閱同用量要分開睇。",
+      "whatToWatch": "Frontier／正式推出節奏；Ignite（11/17–20）更新。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Blog",
+          "date": "2026-09-25",
+          "title": "Introducing the new Copilot with Home, Code and Autopilot",
+          "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Exa Markets / Yahoo Finance",
+          "date": "2026-10-01",
+          "title": "MSFT Thursday close ~512.80",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "1398-exdiv-calendar",
+      "ticker": "1398.HK",
+      "title": "工行（1398.HK）：中期息日程臨近——H 股過戶截止／登記日 10/20；派息預計 11/25",
+      "summary": "Research 1398.HK（Notion ticker 01398）。港交所通函／臨股會材料：每 10 股人民幣 1.511 元（含稅）中期息已通過；A／H 股權登記日 2026-10-20；A 股派息預計 10-21、H 股預計 11-25；H 股過戶登記暫停 10-13 至 10-20，欲獲息須於 10-12 16:30 前辦妥過戶。港股假期休市；Yahoo 9/30 收 7.71。",
+      "whyItMatters": "除息／過戶截止係收息資格關鍵日；同「股息到賬」同「A 股定向增發」要分開睇。",
+      "whatToWatch": "除息首日報價；H 股人民幣收款選擇表格；增發審批進度。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "exchange",
+          "publisher": "HKEX",
+          "date": "2026-09-10",
+          "title": "2026 年第二次臨時股東會通函（含中期利潤分配日程）",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0910/2026091000547_c.pdf",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-09-30",
+          "title": "1398.HK last close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "ex-dividend-date",
+      "title": "除息日（ex-dividend date）",
+      "titleEn": "Ex-dividend date",
+      "what": "除息日係股票開始「除去該期股息權益」交易嘅日子。喺除息日或之後買入，一般無權收取該期已宣派股息；要有資格通常要喺除息日前以「連息」價買入並完成過戶／登記安排。港股 H 股仲會配合暫停過戶同股權登記日。",
+      "whyItMatters": "新手常混淆「宣派日／除息日／派息日」。除息日附近股價有時會反映股息金額，但唔等於「一定賺息」；仲要睇你係咪已經係合資格股東。",
+      "whereToday": "工行（1398.HK）中期息：股權登記日 10/20、H 股派息預計 11/25；H 股過戶暫停 10/13–10/20（見今日簡報）。",
+      "whatToWatch": "除息首日報價；過戶截止；派息貨幣選擇（若有）。",
+      "relatedTickers": [
+        "1398.HK"
+      ],
+      "notionUrl": "https://app.notion.com/p/3ed99f70bc56815692bce9b0918e3790"
+    }
+  ],
+  "audioUrl": "data/audio/2026-10-02.mp3",
+  "audioScriptChars": 2185,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
