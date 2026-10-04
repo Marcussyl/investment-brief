@@ -1,0 +1,44 @@
+投資簡報。10月4日。
+週末安靜帶：SPCX——承接週四一日三 Falcon；官網列後續 SDA／Starlink 窗口
+Holding SPCX。 美股週末休市。 Yahoo 最近完整收市 10/2：158.96。 公司 NROL-97 任務頁記錄 Falcon Heavy 於 10/1 ET 深夜自 LC-39A 升空；第三方先前記錄同日亦有 Crew-13 與 Transporter-18。 SpaceX Launches 頁目前列後續任務窗口（市場轉述包括約 10/5 SDA Tranche 與後續 Starlink）。 營運節奏旁證， 非正式財報。 
+點解要理？
+Holding 名下發射節奏係營運旁證；週末無新美股報價， 應把官網窗口與 SEC／IR 分開睇， 唔好把發射成功直接等同入賬。 
+接下來睇咩？
+SpaceX Launches 頁後續窗口是否如期；若有 SEC／IR 披露再核對。 唔構成買賣建議。 
+
+小米（1810.HK）：10/2 翌日披露——場內回購 411.2 萬股，約 9,923.77 萬港元
+Holding 1810.HK。 港股週末休市。 HKEX 翌日披露報表（提交日 2026-10-02）：於交易所回購 4,112,000 股 B 類普通股， 每股回購價最高 24.26／最低 23.98 港元， 合計約 99,237,673.2 港元；擬註銷。 Yahoo 最近完整收市 10/2：24.24。 另第三方 CnEVPost 等轉述 9 月汽車交付逾 4 萬（公司微博口徑；非本簡報核對原文）。 
+點解要理？
+翌日披露報表係港股回購節奏嘅官方紀錄；回購授權剩餘與禁售／禁售新股期（NDDR 列至 2026-11-01）同股價走勢係分開概念。 
+接下來睇咩？
+後續 NDDR／回購進度；澎程（Sky Nomad）首個完整月交付披露節奏（第三方指約 10/7 後）。 唔構成買賣建議。 
+
+GLD／SPYM／VEU：週末美股休市；承接週五收市（Fed／HKMA 宏觀背景）
+Holdings GLD、SPYM、VEU。 Yahoo 最近完整收市均為 10/2：GLD 380.14、SPYM 90.60、VEU 83.45。 週末無新美股報價。 宏觀方面（profile 已勾 Fed／HKMA）：市場關注 10/28 FOMC；金價與實質利率／美元敘事仍係第三方週末評論主題， 本簡報唔發明現貨金數字。 
+點解要理？
+三個 Holding ETF 係組合底倉；週末應記低「最後收市日」而唔係臆測週一跳空。 
+接下來睇咩？
+週一開市後報價；10/28 FOMC 前後利率預期變化。 唔構成買賣建議。 
+
+NVIDIA：官方 Blog——DGX Spark 新增 64GB 配置，10/23 起售約 4,999 美元
+Research NVDA。 NVIDIA Blog（2026-10-02）：DGX Spark 新增 64GB 統一記憶體配置， 保留 GB10 Grace Blackwell Superchip 與 DGX OS／AI 軟體堆疊；官方稱可支援最多約 1,000 億參數本地模型， 兩台可經 Sync Cluster Assistant 叢集。 由 Acer／ASUS／Dell／Gigabyte／HP／MSI 於 10/23 起售， 起價 4,999 美元。 另 Blog（10/1）指 OpenAI GPT-6 Astra Ultrafast 跑於 Blackwell。 Yahoo 最近完整收市 10/2：233.95。 
+點解要理？
+本地 AI 工作站係雲端之外嘅產品線敘事；64GB SKU 反映記憶體成本壓力下嘅入門定價， 唔等於資料中心 GPU 指引。 
+接下來睇咩？
+10/23 夥伴上架與定價；官方 IR／財報對 data center 與 China DC assumed zero 嘅更新。 唔構成買賣建議。 
+
+Microsoft：週末安靜；承接 MAI 串流語音模型；10/8 前後 Surface／本地 AI 發表會受關注
+Research MSFT。 iThome（2026-10-02）報道 Microsoft AI 推出自研即時串流語音轉錄 MAI-Transcribe-2-Streaming（約 60 語言）， 並更新 MAI-Voice-2.1／Flash。 T客邦（第三方預測， 2026-10-03）整理微軟約 10/7–10/8 Windows／Surface 特別發表會， 主題鎖定本地 AI， 外媒揣測 NVIDIA RTX Spark 與 Surface 聯動——屬活動前預測， 非正式產品規格。 Yahoo 最近完整收市 10/2：517.53。 
+點解要理？
+語音／本地 AI 係 Azure 與裝置端敘事嘅延伸；發表會前預測唔等於已出貨規格。 
+接下來睇咩？
+發表會後官方產品頁／IR；Partner Center 對 Copilot usage-based billing 預設開啟時程。 唔構成買賣建議。 
+
+工行（1398.HK）：週末休市；中期息除淨日 10/9 臨近（登記日 10/20、H 股派息 11/25）
+Research 1398.HK（Notion Ticker 01398）。 港股週末休市。 ICBC／HKEX 現金股息公告（更新 2026-09-29）：中期普通股息每 10 股人民幣 1.511 元；H 股除淨日 2026-10-09， 過戶截止 10/12 16:30， 暫停過戶 10/13–10/20， 登記日 10/20， H 股派息日 11/25；港元金額與匯率待公佈。 Yahoo 最近完整收市 10/2：7.455。 
+點解要理？
+除息日前新手常混淆「股價技術性除息」與「現金到賬」；登記日與派息日唔同。 
+接下來睇咩？
+10/9 除淨後報價；港元派息金額／匯率公佈；業績／資本充足相關公告。 唔構成買賣建議。 
+
+以上係今日簡報。非投資建議，僅供參考。

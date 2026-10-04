@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-04",
+  "stories": [
+    {
+      "id": "spcx-weekend-sda-window",
+      "ticker": "SPCX",
+      "title": "週末安靜帶：SPCX——承接週四一日三 Falcon；官網列後續 SDA／Starlink 窗口",
+      "summary": "Holding SPCX。美股週末休市。Yahoo 最近完整收市 10/2：158.96。公司 NROL-97 任務頁記錄 Falcon Heavy 於 10/1 ET 深夜自 LC-39A 升空；第三方先前記錄同日亦有 Crew-13 與 Transporter-18。SpaceX Launches 頁目前列後續任務窗口（市場轉述包括約 10/5 SDA Tranche 與後續 Starlink）。營運節奏旁證，非正式財報。",
+      "whyItMatters": "Holding 名下發射節奏係營運旁證；週末無新美股報價，應把官網窗口與 SEC／IR 分開睇，唔好把發射成功直接等同入賬。",
+      "whatToWatch": "SpaceX Launches 頁後續窗口是否如期；若有 SEC／IR 披露再核對。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-10-04",
+          "title": "Launches schedule",
+          "url": "https://www.spacex.com/launches",
+          "verified": true
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-10-01",
+          "title": "NROL-97 Mission",
+          "url": "https://www.spacex.com/launches/nrol97",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-02",
+          "title": "SPCX last US close",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "1810-oct2-buyback-nddr",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：10/2 翌日披露——場內回購 411.2 萬股，約 9,923.77 萬港元",
+      "summary": "Holding 1810.HK。港股週末休市。HKEX 翌日披露報表（提交日 2026-10-02）：於交易所回購 4,112,000 股 B 類普通股，每股回購價最高 24.26／最低 23.98 港元，合計約 99,237,673.2 港元；擬註銷。Yahoo 最近完整收市 10/2：24.24。另第三方 CnEVPost 等轉述 9 月汽車交付逾 4 萬（公司微博口徑；非本簡報核對原文）。",
+      "whyItMatters": "翌日披露報表係港股回購節奏嘅官方紀錄；回購授權剩餘與禁售／禁售新股期（NDDR 列至 2026-11-01）同股價走勢係分開概念。",
+      "whatToWatch": "後續 NDDR／回購進度；澎程（Sky Nomad）首個完整月交付披露節奏（第三方指約 10/7 後）。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi NDDR",
+          "date": "2026-10-02",
+          "title": "Next Day Disclosure Return — share buybacks",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1002/2026100203045.pdf",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "CnEVPost",
+          "date": "2026-10-01",
+          "title": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
+          "url": "https://cnevpost.com/2026/10/01/xiaomi-auto-sept-2026-deliveries/",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-02",
+          "title": "1810.HK last HK close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "gld-spym-veu-weekend-closes",
+      "ticker": "GLD",
+      "title": "GLD／SPYM／VEU：週末美股休市；承接週五收市（Fed／HKMA 宏觀背景）",
+      "summary": "Holdings GLD、SPYM、VEU。Yahoo 最近完整收市均為 10/2：GLD 380.14、SPYM 90.60、VEU 83.45。週末無新美股報價。宏觀方面（profile 已勾 Fed／HKMA）：市場關注 10/28 FOMC；金價與實質利率／美元敘事仍係第三方週末評論主題，本簡報唔發明現貨金數字。",
+      "whyItMatters": "三個 Holding ETF 係組合底倉；週末應記低「最後收市日」而唔係臆測週一跳空。",
+      "whatToWatch": "週一開市後報價；10/28 FOMC 前後利率預期變化。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-02",
+          "title": "GLD last close",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-02",
+          "title": "SPYM last close",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-02",
+          "title": "VEU last close",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-dgx-spark-64gb",
+      "ticker": "NVDA",
+      "title": "NVIDIA：官方 Blog——DGX Spark 新增 64GB 配置，10/23 起售約 4,999 美元",
+      "summary": "Research NVDA。NVIDIA Blog（2026-10-02）：DGX Spark 新增 64GB 統一記憶體配置，保留 GB10 Grace Blackwell Superchip 與 DGX OS／AI 軟體堆疊；官方稱可支援最多約 1,000 億參數本地模型，兩台可經 Sync Cluster Assistant 叢集。由 Acer／ASUS／Dell／Gigabyte／HP／MSI 於 10/23 起售，起價 4,999 美元。另 Blog（10/1）指 OpenAI GPT-6 Astra Ultrafast 跑於 Blackwell。Yahoo 最近完整收市 10/2：233.95。",
+      "whyItMatters": "本地 AI 工作站係雲端之外嘅產品線敘事；64GB SKU 反映記憶體成本壓力下嘅入門定價，唔等於資料中心 GPU 指引。",
+      "whatToWatch": "10/23 夥伴上架與定價；官方 IR／財報對 data center 與 China DC assumed zero 嘅更新。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-10-02",
+          "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+          "verified": true
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-10-01",
+          "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "TechNews",
+          "date": "2026-10-03",
+          "title": "記憶體太貴！128GB DGX Spark 價格飆破 6,000 美元，輝達改推 64GB 版本搶市",
+          "url": "https://technews.tw/2026/10/03/nvidia-64-gb-dgx-spark/",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-02",
+          "title": "NVDA last US close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-mai-voice-surface-preview",
+      "ticker": "MSFT",
+      "title": "Microsoft：週末安靜；承接 MAI 串流語音模型；10/8 前後 Surface／本地 AI 發表會受關注",
+      "summary": "Research MSFT。iThome（2026-10-02）報道 Microsoft AI 推出自研即時串流語音轉錄 MAI-Transcribe-2-Streaming（約 60 語言），並更新 MAI-Voice-2.1／Flash。T客邦（第三方預測，2026-10-03）整理微軟約 10/7–10/8 Windows／Surface 特別發表會，主題鎖定本地 AI，外媒揣測 NVIDIA RTX Spark 與 Surface 聯動——屬活動前預測，非正式產品規格。Yahoo 最近完整收市 10/2：517.53。",
+      "whyItMatters": "語音／本地 AI 係 Azure 與裝置端敘事嘅延伸；發表會前預測唔等於已出貨規格。",
+      "whatToWatch": "發表會後官方產品頁／IR；Partner Center 對 Copilot usage-based billing 預設開啟時程。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "iThome",
+          "date": "2026-10-02",
+          "title": "微軟推出首款自研即時串流語音轉錄模型，並更新MAI語音模型",
+          "url": "https://www.ithome.com.tw/news/179375",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "T客邦",
+          "date": "2026-10-03",
+          "title": "微軟 10/8 發表會重點預測整理：NVIDIA RTX Spark 聯手微軟 Surface",
+          "url": "https://www.techbang.com/posts/133763-microsoft-surface-event-ai-laptop-128gb",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-02",
+          "title": "MSFT last US close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "1398-exdiv-oct9-countdown",
+      "ticker": "1398.HK",
+      "title": "工行（1398.HK）：週末休市；中期息除淨日 10/9 臨近（登記日 10/20、H 股派息 11/25）",
+      "summary": "Research 1398.HK（Notion Ticker 01398）。港股週末休市。ICBC／HKEX 現金股息公告（更新 2026-09-29）：中期普通股息每 10 股人民幣 1.511 元；H 股除淨日 2026-10-09，過戶截止 10/12 16:30，暫停過戶 10/13–10/20，登記日 10/20，H 股派息日 11/25；港元金額與匯率待公佈。Yahoo 最近完整收市 10/2：7.455。",
+      "whyItMatters": "除息日前新手常混淆「股價技術性除息」與「現金到賬」；登記日與派息日唔同。",
+      "whatToWatch": "10/9 除淨後報價；港元派息金額／匯率公佈；業績／資本充足相關公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC / HKEX",
+          "date": "2026-09-29",
+          "title": "Interim dividend cash dividend with currency option (update)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-02",
+          "title": "1398.HK last HK close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "dgx-spark-personal-ai",
+      "title": "DGX Spark（個人 AI 超級電腦）",
+      "titleEn": "DGX Spark personal AI supercomputer",
+      "what": "DGX Spark 係 NVIDIA 以 GB10 Grace Blackwell Superchip 打造嘅桌上型／個人 AI 超級電腦，預載 DGX OS 與 CUDA AI 軟體堆疊，主打喺本地跑 Agent、推論與微調，唔使每一次都開雲端實例。",
+      "whyItMatters": "新手睇到「AI 超級電腦」容易當係資料中心機櫃。DGX Spark 係個人／桌面級產品線；64GB 與 128GB 係記憶體配置差異，價格會受記憶體成本影響，唔等於 NVDA 資料中心指引。",
+      "whereToday": "NVIDIA Blog（10/2）宣布 64GB 配置 10/23 起由多家 OEM 以約 4,999 美元起售；TechNews 亦報道 128GB 市價受記憶體漲價推高。",
+      "whatToWatch": "10/23 上架與實際街價；官方對本地 AI／RTX Spark PC 路線嘅後續更新。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/3ef99f70bc56811faec5ea5019a91411"
+    }
+  ],
+  "audioUrl": "data/audio/2026-10-04.mp3",
+  "audioScriptChars": 2512,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
