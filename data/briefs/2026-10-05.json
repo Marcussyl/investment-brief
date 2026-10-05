@@ -1,0 +1,274 @@
+{
+ "date": "2026-10-05",
+ "stories": [
+  {
+   "id": "spcx-spacexsi-rename-sda-crew12",
+   "ticker": "SPCX",
+   "title": "SpaceX（SPCX）：馬斯克稱 AI 部門將改名 SpaceXSI；週一 SDA 衛星發射、Crew-12 最早 10/7 離站",
+   "summary": "Holding SPCX。Reuters（10/4）：馬斯克在 X 回覆稱會把旗下 AI 部門 SpaceXAI 改名為 SpaceXSI（呼應特朗普改用「超級智能」一詞），未有時間表，公司未回應。SpaceX 官網列出 SDA Tranche 1 第四批衛星任務，當地媒體指週一清晨自范登堡發射。NASA（10/3）：Crew-12 最早美東 10/7 01:05 離站、10/8 約 11:25 濺落加州外海。另 TechNews 引述馬斯克 X 帖文確認與台積電就 Terafab 晶片廠「仍屬討論階段」。Yahoo 最近收市 10/2：158.96。",
+   "whyItMatters": "改名係品牌動作，唔會改變收入或現金流；發射／載人任務屬營運節奏旁證。Terafab 只係洽談，冇正式協議，唔好當成已落實嘅資本開支。",
+   "whatToWatch": "SDA 任務結果與 Crew-12 濺落；SpaceXSI 改名是否有正式公告或 SEC 文件；Terafab 有冇簽約消息。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "news",
+     "publisher": "Reuters",
+     "date": "2026-10-04",
+     "title": "Musk says he will rename SpaceXAI to SpaceXSI",
+     "url": "https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/",
+     "verified": true
+    },
+    {
+     "category": "company",
+     "publisher": "SpaceX",
+     "date": "2026-10-05",
+     "title": "SDA's Fourth Tranche 1 Mission",
+     "url": "https://www.spacex.com/launches/sda-t1tl-a",
+     "verified": true
+    },
+    {
+     "category": "company",
+     "publisher": "NASA",
+     "date": "2026-10-03",
+     "title": "NASA, SpaceX Set No Earlier Than Oct. 7 for Crew-12 Departure",
+     "url": "https://www.nasa.gov/blogs/commercialcrew/2026/10/03/nasa-spacex-set-no-earlier-than-oct-7-for-crew-12-departure/",
+     "verified": true
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "TechNews",
+     "date": "2026-10-04",
+     "title": "台積電可能加入 Terafab，馬斯克證實正在洽談晶片製造合作",
+     "url": "https://finance.technews.tw/2026/10/04/elon-musk-confirmed-that-hes-in-talks-with-tsmc-for-joining-the-terafab/",
+     "verified": true
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-02",
+     "title": "SPCX last close",
+     "url": "https://finance.yahoo.com/quote/SPCX/"
+    }
+   ]
+  },
+  {
+   "id": "1810-hk-reopen-golden-week-phones",
+   "ticker": "1810.HK",
+   "title": "小米（1810.HK）：港股今日復市；10/2 後未見新 HKEX 公告，DIGITIMES 觀察十一長假手機消費",
+   "summary": "Holding 1810.HK。HKEX 披露易 10/1–10/5 只見 10/2 翌日披露報表（回購），週末未有新公告。DIGITIMES（10/5）專題觀察中國十一長假手機消費，指國補（約人民幣 2,500 億）延續，關注新機能否帶動換機潮——屬第三方觀察。Yahoo 最近收市 10/2：24.24。",
+   "whyItMatters": "profile 已勾選中國消費；國補同長假銷情會影響手機出貨敘事，但要等公司或官方數據核實，唔好只睇媒體觀察。",
+   "whatToWatch": "今日港股開市後報價；後續 NDDR／回購；10 月汽車交付與手機銷情官方數字。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "company",
+     "publisher": "HKEX / Xiaomi NDDR",
+     "date": "2026-10-02",
+     "title": "Next Day Disclosure Return",
+     "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1002/2026100203045.pdf",
+     "verified": true
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "DIGITIMES",
+     "date": "2026-10-05",
+     "title": "中國十一手機消費觀察：2,500億國補續航 新品能否帶動換機潮？",
+     "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770159_8H12BY0N46GLS5LFZW92F",
+     "verified": true
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-02",
+     "title": "1810.HK last close",
+     "url": "https://finance.yahoo.com/quote/1810.HK/"
+    }
+   ]
+  },
+  {
+   "id": "gld-spym-veu-fed-minutes-oil",
+   "ticker": "GLD",
+   "title": "GLD／SPYM／VEU：本週聯儲局會議紀錄與財報季；週末胡塞武裝襲擊沙特設施，油價上升",
+   "summary": "Holdings GLD、SPYM、VEU。Yahoo 最近收市 10/2：GLD 380.14、SPYM 90.60、VEU 83.45。Barron's（經 moomoo，10/5）指美股期貨在財報季與聯儲局會議紀錄公布前上升。Reuters（10/4）：也門胡塞武裝襲擊沙特阿美設施後油價上升；伊朗稱條件未落實前霍爾木茲海峽不會重開。智通財經（經富途，10/3）指港交所正籌備人民幣黃金期貨。",
+   "whyItMatters": "profile 已勾 Fed／HKMA：會議紀錄可能改變市場對 10/28 FOMC 嘅預期，從而影響美元、利率同金價；中東風險通常會推高避險需求，但唔保證金價方向。",
+   "whatToWatch": "會議紀錄內容；油價同美債孳息；今日美股開市後三隻 ETF 報價。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "news",
+     "publisher": "Barron's via moomoo",
+     "date": "2026-10-05",
+     "title": "Stock Futures Are Rising With Earnings Season, Fed Minutes Ahead",
+     "url": "https://www.moomoo.com/news/post/1000583815/stock-futures-are-rising-with-earnings-season-fed-minute"
+    },
+    {
+     "category": "news",
+     "publisher": "Reuters",
+     "date": "2026-10-04",
+     "title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites",
+     "url": "https://www.reuters.com/business/energy/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-2026-10-04/",
+     "verified": true
+    },
+    {
+     "category": "news",
+     "publisher": "Reuters",
+     "date": "2026-10-04",
+     "title": "Iran says Strait of Hormuz will not reopen until conditions are met",
+     "url": "https://www.reuters.com/world/middle-east/iran-says-strait-hormuz-will-not-reopen-until-conditions-are-met-2026-10-04/",
+     "verified": true
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "智通財經 via 富途",
+     "date": "2026-10-03",
+     "title": "對標倫紐黃金市場，港交所正積極籌備人民幣黃金期貨",
+     "url": "https://news.futunn.com/post/1000549609/benchmarking-the-london-gold-market-the-hong-kong-stock-exch"
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-02",
+     "title": "GLD last close",
+     "url": "https://finance.yahoo.com/quote/GLD/"
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-02",
+     "title": "SPYM last close",
+     "url": "https://finance.yahoo.com/quote/SPYM/"
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-02",
+     "title": "VEU last close",
+     "url": "https://finance.yahoo.com/quote/VEU/"
+    }
+   ]
+  },
+  {
+   "id": "nvda-foxconn-robot-gb300",
+   "ticker": "NVDA",
+   "title": "NVIDIA（NVDA）：官方 Blog 披露與鴻海以機器人組裝 GB300 測試托盤，目標成功率 99.5%",
+   "summary": "Research NVDA。TechNews（10/4）引述 NVIDIA Blog：西雅圖機器人實驗室與 Isaac 團隊同 GB300 代工商鴻海合作，自動化匯流排組裝與多連接器插入；工廠門檻為成功率至少 99.5%、匯流排 124 秒內完成，目前匯流排成功率已逾 95%，但需約 160 秒。另智通財經（經富途，10/5）報道摩根士丹利再將 NVIDIA 列為半導體首選——屬券商觀點。Yahoo 最近收市 10/2：233.95。",
+   "whyItMatters": "AI 伺服器產能瓶頸唔止晶片，仲有組裝人手；自動化進度可能影響出貨節奏，但目前仍係研發階段。券商評級係意見，唔係公司指引。",
+   "whatToWatch": "NVIDIA 官方 Blog／IR 後續更新；下一份財報對 data center 出貨嘅說法。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "thirdParty",
+     "publisher": "TechNews",
+     "date": "2026-10-04",
+     "title": "挑戰 99.5% 成功率，NVIDIA 攜鴻海讓機器人組裝 GB300",
+     "url": "https://finance.technews.tw/2026/10/04/nvidia-foxconn-robot/",
+     "verified": true
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "智通財經 via 富途",
+     "date": "2026-10-05",
+     "title": "大摩重將英偉達列為半導體首選股",
+     "url": "https://news.futunn.com/post/1000559114/morgan-stanley-has-once-again-named-nvidia-as-its-top"
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-02",
+     "title": "NVDA last close",
+     "url": "https://finance.yahoo.com/quote/NVDA/"
+    }
+   ]
+  },
+  {
+   "id": "msft-surface-event-ta419",
+   "ticker": "MSFT",
+   "title": "Microsoft（MSFT）：本週 Windows／Surface 發表會；納德拉分享用 Copilot 與 Excel 代理；Proofpoint 揭 TA419 網釣微軟帳號",
+   "summary": "Research MSFT。CNET 與 Windows Central（10/4）預告本週 Windows／Surface 發表會（Windows Central 指 10/7）。TechNews（10/5）報道納德拉用 Copilot 及 Excel 代理追蹤 SEC 文件、檢視 ROIC，強調要質疑 AI 輸出。iThome（10/2）引述 Proofpoint：中國相關組織 TA419 以 AI 政策為餌，用 AiTM 網釣竊取 Microsoft 帳號憑證。另 MT Newswires（經 moomoo，10/3）市場傳聞指 SpaceX AI 部門洽談向微軟出租算力——未經證實。Yahoo 最近收市 10/2：517.53。",
+   "whyItMatters": "發表會係產品敘事，唔等於收入；資安事件提醒企業客戶風險。算力租賃傳聞未有公司確認，唔好當事實。",
+   "whatToWatch": "發表會後官方產品頁；下一份季度業績（Azure 增長）。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "thirdParty",
+     "publisher": "CNET",
+     "date": "2026-10-04",
+     "title": "What to Expect From This Week's Microsoft Windows and Surface Event",
+     "url": "https://www.cnet.com/tech/computing/microsoft-windows-surface-event-2026-what-to-expect-to-see-on/",
+     "verified": true
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "TechNews",
+     "date": "2026-10-05",
+     "title": "重新定義 CEO 的工作流程，微軟納德拉：把 AI 當成需要被質疑的助手",
+     "url": "https://finance.technews.tw/2026/10/05/nadella-ai-agent-applications-executives/",
+     "verified": true
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "iThome",
+     "date": "2026-10-02",
+     "title": "中國相關網路間諜TA419鎖定美國AI政策圈，假冒前白宮官員進行Microsoft帳號網釣",
+     "url": "https://www.ithome.com.tw/news/179378",
+     "verified": true
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "MT Newswires via moomoo",
+     "date": "2026-10-03",
+     "title": "SpaceX's AI Unit in Talks to Lease Compute Capacity to Microsoft: Market Chatter",
+     "url": "https://www.moomoo.com/news/post/1000560359/spacex-s-ai-unit-in-talks-to-lease-compute-capacity",
+     "verified": false
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-02",
+     "title": "MSFT last close",
+     "url": "https://finance.yahoo.com/quote/MSFT/"
+    }
+   ]
+  },
+  {
+   "id": "1398-exdiv-oct9",
+   "ticker": "1398.HK",
+   "title": "工行（1398.HK）：港股今日復市；中期息除淨日 10/9 臨近，未見新公告",
+   "summary": "Research 1398.HK（Notion Ticker 01398）。HKEX 披露易 10/1–10/5 未見新公告。按 ICBC／HKEX 現金股息公告（更新 2026-09-29）：中期普通股息每 10 股人民幣 1.511 元；H 股除淨日 10/9，登記日 10/20，派息日 11/25；港元金額與匯率待公佈。Yahoo 最近收市 10/2：7.45。",
+   "whyItMatters": "除淨日股價通常會按股息技術性調整；登記日同派息日唔同，新手唔好混淆。",
+   "whatToWatch": "10/9 除淨；港元派息金額／匯率公佈。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "company",
+     "publisher": "ICBC / HKEX",
+     "date": "2026-09-29",
+     "title": "Interim dividend cash dividend with currency option (update)",
+     "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf",
+     "verified": true
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-02",
+     "title": "1398.HK last close",
+     "url": "https://finance.yahoo.com/quote/1398.HK/"
+    }
+   ]
+  }
+ ],
+ "concepts": [
+  {
+   "id": "fomc-minutes",
+   "title": "FOMC 會議紀錄（FOMC minutes）",
+   "titleEn": "FOMC minutes",
+   "what": "FOMC 會議紀錄係聯儲局喺議息會議後約三星期公布嘅詳細紀錄，寫低官員點樣討論通脹、就業同利率，以及有幾多人支持或反對決定。",
+   "whyItMatters": "議息當日只得聲明同記者會；紀錄會透露內部分歧，市場可能據此調整對下次會議嘅預期，從而影響美元、美債孳息、金價同港元拆息。",
+   "whereToday": "Barron's（經 moomoo，10/5）指美股期貨在財報季與聯儲局會議紀錄公布前上升；富途一周前瞻亦列出紀錄為本週焦點。",
+   "whatToWatch": "紀錄公布後市場對 10/28 FOMC 嘅預期變化；金管局會否跟隨調整基本利率。",
+   "relatedTickers": [
+    "GLD",
+    "SPYM",
+    "VEU"
+   ],
+   "notionUrl": "https://app.notion.com/p/3f099f70bc5681caa786d8ada8f83304"
+  }
+ ],
+ "audioUrl": "data/audio/2026-10-05.mp3",
+ "audioScriptChars": 2552,
+ "audioVoice": "zh-TW-HsiaoChenNeural"
+}
