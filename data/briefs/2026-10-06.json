@@ -1,0 +1,324 @@
+{
+  "date": "2026-10-06",
+  "stories": [
+    {
+      "id": "spcx-rally-ms-note-sda-scrub-crew12",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：週一收市 171.09、升約 7.6% 創 6 月中以來高位；SDA 衛星發射最後一分鐘取消，Crew-12 最早 10/7 離站",
+      "summary": "Holding SPCX。Yahoo 收市：10/2 158.96 → 10/5 171.09（約 +7.6%）。CNBC（10/5）指升幅緊隨摩根士丹利週日報告——券商稱股價「便宜」，並提到 AI 產品、星艦（Starship）進度及 neocloud 合約；CNBC 亦指第三季業績預計 10 月下旬公布。Spaceflight Now：週一清晨 SDA 21 顆數據傳輸衛星任務在倒數最後一分鐘取消，新日期未公布。NASA：Crew-12 最早美東 10/7 08:05 離站（約香港時間 10/7 晚上 8:05），之後於加州外海濺落。Reuters（10/5）：SpaceX 申請批准興建佛州輸氣管道，支援卡納維爾角發射。",
+      "whyItMatters": "單日大升主要係券商觀點帶動，唔係新財報數字；券商評級同目標價係意見，唔代表公司指引。發射取消屬營運節奏常見事，要睇改期後能否成功。",
+      "whatToWatch": "SDA 任務新發射日期；Crew-12 離站及濺落；10 月下旬第三季業績日期公告；星艦下一次試飛。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-05",
+          "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+          "url": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Spaceflight Now",
+          "date": "2026-10-05",
+          "title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency",
+          "url": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
+          "verified": true
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-10-05",
+          "title": "SDA's Fourth Tranche 1 Mission",
+          "url": "https://www.spacex.com/launches/sda-t1tl-a",
+          "verified": true
+        },
+        {
+          "category": "company",
+          "publisher": "NASA",
+          "date": "2026-10-05",
+          "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+          "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+          "verified": true
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-10-05",
+          "title": "SpaceX seeks approval for Florida gas pipeline to support Cape Canaveral launches",
+          "url": "https://www.reuters.com/business/energy/spacex-seeks-approval-florida-gas-pipeline-support-cape-canaveral-launches-2026-10-05/",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-05",
+          "title": "SPCX last close",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "1810-hk-buyback-oct5-memory-cost",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：10/5 再回購 200 萬股、涉資約 4,759 萬港元；記憶體漲價消息持續",
+      "summary": "Holding 1810.HK。HKEX 翌日披露報表（10/5）：當日在聯交所回購 2,000,000 股 B 類股，價格 23.76–23.84 港元，總額 47,590,208 港元；根據 2026/6/2 回購授權累計已回購 131,712,200 股（約 0.51%），新股發行暫停期至 11/4。Yahoo 收市：10/2 24.24 → 10/5 23.88（約 -1.5%）。DIGITIMES（10/6）報道供應鏈指 2027 年 HBM4 長約價可能大幅上升；另一則標題指 Google Pixel 10a 因記憶體成本悄悄加價——屬第三方報道。",
+      "whyItMatters": "回購係公司用現金買回自己股份，係硬數據（有 HKEX 文件）；但回購唔保證股價方向。記憶體漲價可能推高手機物料成本，市場會關注小米手機毛利。",
+      "whatToWatch": "之後嘅 NDDR／回購節奏；十一黃金週後手機及汽車銷情官方數字；下一份業績對毛利率嘅說明。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi NDDR",
+          "date": "2026-10-05",
+          "title": "Next Day Disclosure Return (Share Buyback)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1005/2026100501644.pdf",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "DIGITIMES",
+          "date": "2026-10-06",
+          "title": "2027年HBM4漲價年增近2倍 記憶體原廠進入全面「超額毛利」",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770524_6036XFBB17284B5C0D1UH",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "DIGITIMES",
+          "date": "2026-10-06",
+          "title": "Google Pixel 10a悄漲價 記憶體成本推升至599美元",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770490_43W3NOTULSORF3LWVUS9V",
+          "verified": false
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-05",
+          "title": "1810.HK last close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "gld-spym-veu-nasdaq-record-fed-minutes",
+      "ticker": "GLD",
+      "title": "GLD／SPYM／VEU：納指創收市新高、標普升 0.66%；金價持穩，聯儲局會議紀錄香港時間週四凌晨 2 時公布",
+      "summary": "Holdings GLD、SPYM、VEU。Yahoo 收市 10/5：GLD 379.55（約 -0.2%）、SPYM 91.22（約 +0.7%）、VEU 83.88（約 +0.5%）。富途早報引述收市：標普 500 升 0.66% 至 7,773.95，納指升 1.05% 至 27,477.31 創新高，美債收益率走高但股市承受得住。Reuters（10/5）標題：美元偏強、收益率高企抵銷聯儲局加息預期降溫，金價持穩。聯儲局 9 月會議紀錄於美東 10/7 下午 2 時（香港時間 10/8 凌晨 2 時）公布。明報（10/5）：1 個月 HIBOR 連跌 4 日見一周低。",
+      "whyItMatters": "profile 已勾 Fed／HKMA：會議紀錄可能改變市場對 10/27–28 FOMC 嘅預期，從而影響美元、美債、金價同港元拆息（HIBOR）。股市新高唔代表之後一定續升。",
+      "whatToWatch": "週四凌晨會議紀錄；美債收益率；HIBOR 走勢；GLD 與美元同步變化。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "富途資訊",
+          "date": "2026-10-06",
+          "title": "富途早報：納指、英偉達、台積電創新高，SpaceX漲近8%",
+          "url": "https://news.futunn.com/post/1000595351/futu-morning-brief-before-being-elected-trump-once-again-pressured",
+          "verified": true
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-10-05",
+          "title": "Gold steady as stronger dollar and high yields offset waning Fed hike expectations",
+          "url": "https://www.reuters.com/world/india/gold-gains-october-fed-rate-hike-prospects-fade-2026-10-05/",
+          "verified": true
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-10-06",
+          "title": "Nasdaq notches record high close as investors focus on earnings",
+          "url": "https://www.reuters.com/world/europe/wall-st-futures-dip-tech-stocks-take-breather-2026-10-05/",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Finance Calendar",
+          "date": "2026-10-06",
+          "title": "FOMC Minutes October 2026: Date, Time",
+          "url": "https://www.financecalendar.com/event/fomc-minutes-october-2026/",
+          "verified": true
+        },
+        {
+          "category": "news",
+          "publisher": "明報",
+          "date": "2026-10-05",
+          "title": "港元拆息普遍向下 1個月HIBOR連跌4日 見一周低",
+          "url": "https://finance.mingpao.com/fin/instantf/20261005/1791170453534/%E6%B8%AF%E5%85%83%E6%8B%86%E6%81%AF%E6%99%AE%E9%81%8D%E5%90%91%E4%B8%8B-1%E5%80%8B%E6%9C%88hibor%E9%80%A3%E8%B7%8C4%E6%97%A5-%E8%A6%8B%E4%B8%80%E5%91%A8%E4%BD%8E",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-05",
+          "title": "GLD last close",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-05",
+          "title": "SPYM last close",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-05",
+          "title": "VEU last close",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-record-close-foxconn-sept-groq-suit",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：收市 238.90 創新高；鴻海 9 月營收首破新台幣 1 兆元；前 Groq 工程師入稟質疑 200 億美元交易",
+      "summary": "Research NVDA。Yahoo 收市：10/2 233.95 → 10/5 238.90（約 +2.1%）；富途早報指為歷史收市新高、市值約 5.76 萬億美元。Reuters（10/5）標題：摩根士丹利指 AI 電力緊張衝擊晶片供應鏈之際，NVIDIA 與 Broadcom 相對受保護——屬券商觀點。鴻海（AI 伺服器主要代工夥伴）10/5 公布 9 月營收新台幣 1 兆 1,586.33 億元，月增 25.70%、年增 38.42%（TechNews）。CNBC：兩名前 Groq 工程師 10/2 於特拉華衡平法院入稟，指 NVIDIA 與 Groq 的 200 億美元交易壓低股東價值；Groq 稱訴訟「毫無根據」，NVIDIA 未回應。",
+      "whyItMatters": "供應商營收係 AI 伺服器需求嘅旁證，但唔等於 NVIDIA 本身業績；官司處於起步階段，結果未知。",
+      "whatToWatch": "10 月下旬起科技財報季；鴻海第三季法說；訴訟進展；NVIDIA IR 公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-10-05",
+          "title": "Nvidia, Broadcom shielded as AI power crunch hits chip supply chain, says Morgan Stanley",
+          "url": "https://www.reuters.com/business/nvidia-broadcom-shielded-ai-power-crunch-hits-chip-supply-chain-says-morgan-2026-10-05/",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "TechNews",
+          "date": "2026-10-05",
+          "title": "台股史上首家單月營收破兆，鴻海 9 月衝上 1.16 兆元",
+          "url": "https://finance.technews.tw/2026/10/05/2026-sep-foxconn/",
+          "verified": true
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-05",
+          "title": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
+          "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "富途資訊",
+          "date": "2026-10-06",
+          "title": "富途早報（英偉達收市新高）",
+          "url": "https://news.futunn.com/post/1000595351/futu-morning-brief-before-being-elected-trump-once-again-pressured",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-05",
+          "title": "NVDA last close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-claude-budget-ddr-event",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：收市 525.18；報道指內部 Claude 預算削減逾三分之一；明晚 Windows／Surface 發表會",
+      "summary": "Research MSFT。Yahoo 收市：10/2 517.53 → 10/5 525.18（約 +1.5%）。華爾街見聞（經富途）引述 The Information（10/5）：微軟內部 Claude 預算較峰值削減逾三分之一，推動員工改用自研工具；但透過微軟平台向外部客戶提供的 Anthropic 模型服務仍增長——屬報道，公司未正式公布。iThome：微軟《2026 數位防禦報告》指 2025/7–2026/6 台灣錄得 193 起國家級駭客事件，全球第三。Windows Central：Windows 與 Surface 特別發表會定於 10/7（美東）。",
+      "whyItMatters": "減少外購 AI、改用自研模型可能影響成本結構，但未有公司數字；發表會屬產品敘事，唔等於收入。",
+      "whatToWatch": "10/7 發表會內容；下一份季度業績中 Azure 及 AI 相關數字。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "華爾街見聞 via 富途",
+          "date": "2026-10-06",
+          "title": "Meta、微軟設法減少員工對Claude依賴",
+          "url": "https://news.futunn.com/post/1000590634/meta-and-microsoft-seek-to-reduce-employee-reliance-on-claude",
+          "verified": false
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft",
+          "date": "2026-10-05",
+          "title": "2026 Digital Defense Report",
+          "url": "https://www.microsoft.com/en-us/security/security-insider/threat-landscape/2026-digital-defense-report",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "iThome",
+          "date": "2026-10-05",
+          "title": "微軟揭2026國家級駭客活動，臺灣、日本遭遇事件躍居全球第三、第四",
+          "url": "https://www.ithome.com.tw/news/179391",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Windows Central",
+          "date": "2026-10-06",
+          "title": "What to expect at Microsoft's special Windows & Surface event on October 7",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/what-to-expect-at-microsofts-special-windows-and-surface-event-on-october-7-surface-laptop-ultra-and-rtx-spark-revealed-new-agentic-os-capabilities-and-more",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-05",
+          "title": "MSFT last close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "1398-exdiv-oct9-no-filing",
+      "ticker": "1398.HK",
+      "title": "工行（1398.HK）：收市 7.45 持平；10/2–10/6 無新公告，中期息 10/9 除淨",
+      "summary": "Research 1398.HK（Notion Ticker 01398）。HKEX 披露易 10/2–10/6 未見新公告。Yahoo 收市 10/2 及 10/5 均為 7.45。按 ICBC／HKEX 現金股息公告（更新 2026-09-29）：中期普通股息每 10 股人民幣 1.511 元；H 股除淨日 10/9，登記日 10/20，派息日 11/25。香港經濟日報（10/5）專欄討論除淨前走勢——屬第三方觀點。",
+      "whyItMatters": "除淨日股價通常按股息金額技術性調整，並唔代表公司價值變差；新手要分清除淨日、登記日同派息日。",
+      "whatToWatch": "10/9 除淨；港元派息金額及匯率公佈。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC / HKEX",
+          "date": "2026-09-29",
+          "title": "Interim dividend cash dividend with currency option (update)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf",
+          "verified": true
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "香港經濟日報",
+          "date": "2026-10-05",
+          "title": "工行（01398）除淨在即 整固待突破",
+          "url": "https://knowledge.hket.com/article/4202873/%E5%B7%A5%E8%A1%8C%EF%BC%8801398%EF%BC%89%E9%99%A4%E6%B7%A8%E5%9C%A8%E5%8D%B3%20%E6%95%B4%E5%9B%BA%E5%BE%85%E7%AA%81%E7%A0%B4",
+          "verified": true
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-05",
+          "title": "1398.HK last close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "hibor",
+      "title": "HIBOR（香港銀行同業拆息）",
+      "titleEn": "HIBOR (Hong Kong Interbank Offered Rate)",
+      "what": "HIBOR 係香港銀行之間互相借港元嘅利率，有隔夜、1 個月、3 個月等不同年期，每日由香港銀行公會公布。",
+      "whyItMatters": "好多 H 按（按揭）、銀行貸款同港元定存息都跟 HIBOR 行；因為聯繫匯率，HIBOR 長遠會受美國利率影響，所以聯儲局決定會間接影響香港人嘅供樓同存款回報。",
+      "whereToday": "明報（10/5）報道 1 個月 HIBOR 連跌 4 日見一周低；同時市場等待美東 10/7 公布嘅聯儲局會議紀錄。",
+      "whatToWatch": "香港時間 10/8 凌晨聯儲局會議紀錄；10/27–28 FOMC 議息後金管局基本利率；每日 HIBOR 定盤。",
+      "relatedTickers": [
+        "GLD",
+        "1398.HK"
+      ],
+      "notionUrl": "https://app.notion.com/p/3f199f70bc56814daef2dde0fc395186"
+    }
+  ],
+  "audioUrl": "data/audio/2026-10-06.mp3",
+  "audioScriptChars": 2957,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
