@@ -1,0 +1,431 @@
+{
+ "date": "2026-10-08",
+ "stories": [
+  {
+   "id": "spcx-debt-credit-risk-fcc-d2d",
+   "ticker": "SPCX",
+   "title": "SpaceX（SPCX）：收市 167.60、跌約 2.5%；400 億美元買 GPU 融資細節浮現，信用風險指標升至新高；FCC 批出 15,000 粒直連手機衛星",
+   "summary": "Holding SPCX。Yahoo 收市：10/6 171.92 → 10/7 167.60（約 -2.5%）；富途快訊：Meta、SpaceX 跌超 2%。CNBC 引知情人士：Apollo 及多家銀行與 SpaceX 洽談為 400 億美元 NVIDIA GPU 採購融資，主要透過投資級債市，可能以 GPU 作抵押；CNBC 指 SpaceX 6 月上市後兩星期曾發 250 億美元債券，但其後 AI 相關債券受壓、信用利差擴闊。Bloomberg／FT 標題：SpaceX 信用風險指標因集資報道升至新高（付費牆，細節未核實）。CNBC／FCC：FCC 太空局 10/6 批准 SpaceX 由 15,000 粒衛星組成嘅新直連手機系統，FCC 將於 10/29 表決更多頻譜建議。SEC EDGAR 10/1 後未見 SpaceX 新公司文件。",
+   "whyItMatters": "借錢買晶片會令利息支出同負債上升；「信用風險指標」上升代表債券投資者要求更高回報先肯借錢，股東亦會擔心財務壓力。另一邊，直連手機衛星獲批屬業務利好，兩者要一齊睇。",
+   "whatToWatch": "SpaceX 有冇正式發債公告；Crew-12 美國時間 10/8 濺落；10/29 FCC 表決；第三季業績日期。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "news",
+     "publisher": "CNBC",
+     "date": "2026-10-07",
+     "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+     "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html"
+    },
+    {
+     "category": "news",
+     "publisher": "Bloomberg",
+     "date": "2026-10-07",
+     "title": "SpaceX Credit-Risk Gauge Hits Fresh High on Fundraising Reports",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-07/spacex-credit-risk-gauge-hits-record-high-on-fundraising-reports",
+     "verified": false
+    },
+    {
+     "category": "news",
+     "publisher": "Financial Times",
+     "date": "2026-10-07",
+     "title": "SpaceX credit risk jumps on worries over its borrowing spree",
+     "url": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29",
+     "verified": false
+    },
+    {
+     "category": "news",
+     "publisher": "CNBC",
+     "date": "2026-10-07",
+     "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
+     "url": "https://www.cnbc.com/2026/10/07/fcc-spectrum-auction-spacex-amazon.html"
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "富途快訊",
+     "date": "2026-10-08",
+     "title": "美股三大指數集體收跌……Meta、SpaceX跌超2%",
+     "url": "https://news.futunn.com/flash/1000671500/the-three-major-us-stock-indexes-all-closed-lower-with"
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-07",
+     "title": "SPCX last close",
+     "url": "https://finance.yahoo.com/quote/SPCX/"
+    }
+   ]
+  },
+  {
+   "id": "gld-spym-veu-fed-minutes-yields",
+   "ticker": "GLD",
+   "title": "GLD／SPYM／VEU：聯儲局會議紀錄指多數官員預計年底前再加息，美債收益率再升；美股由紀錄高位回落，金價跌至兩個月低位附近",
+   "summary": "Holdings GLD、SPYM、VEU。Yahoo 收市 10/7：GLD 375.88（約 -1.7%）、SPYM 91.46（約 -0.3%）、VEU 82.85（約 -1.1%）。聯儲局 9/15–16 會議紀錄（10/7 公布，原文）：全體與會者支持加息 0.25 厘至 3.75%–4%；「多數」與會者認為年底前再加息一次「可能合適」，但強調每次會議按數據決定；少數官員提出要為國債市場壓力做好準備。富途快訊：道指跌 0.66%、標普 500 及納指各跌 0.22%。Reuters 標題：30 年期美債收益率見 24 年新高，其後 10 年期債券拍賣需求強勁令收益率回落；富途轉述華爾街見聞：10 年期拍賣認購倍數 2.77 倍，為 2016 年以來最高。金十數據（經富途）：現貨金一度跌穿 4,100 美元。",
+   "whyItMatters": "profile 已勾 Fed：加息預期高，美債收益率上升，持有黃金（冇利息）嘅機會成本就升，所以金價受壓；高息亦會壓低股票估值，美元強亦對美國以外股票（VEU）不利。",
+   "whatToWatch": "10/27–28 FOMC 會議；本週美國通脹數據；美債收益率能否回落；金價能否守住 4,100 美元附近。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "company",
+     "publisher": "Federal Reserve",
+     "date": "2026-10-07",
+     "title": "Minutes of the Federal Open Market Committee, September 15–16, 2026",
+     "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
+    },
+    {
+     "category": "news",
+     "publisher": "Reuters",
+     "date": "2026-10-07",
+     "title": "Fed policymakers divided over rate-hike logic in September, minutes show",
+     "url": "https://www.reuters.com/business/fed-policymakers-divided-over-rate-hike-logic-september-minutes-show-2026-10-07/",
+     "verified": false
+    },
+    {
+     "category": "news",
+     "publisher": "Reuters",
+     "date": "2026-10-07",
+     "title": "Wall Street ends lower, off record highs, as Treasury yields climb",
+     "url": "https://www.reuters.com/business/wall-st-futures-slip-yields-oil-rebound-fed-minutes-focus-2026-10-07/",
+     "verified": false
+    },
+    {
+     "category": "news",
+     "publisher": "Reuters",
+     "date": "2026-10-07",
+     "title": "US bonds selloff eases, yields off highs, after strong 10-year note auction",
+     "url": "https://www.reuters.com/business/us-30-year-bond-yield-hits-fresh-24-year-high-2026-10-07/",
+     "verified": false
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "富途快訊",
+     "date": "2026-10-08",
+     "title": "美股三大指數集體收跌，道指跌0.66%，納指跌0.22%，標普500指數跌0.22%",
+     "url": "https://news.futunn.com/flash/1000671500/the-three-major-us-stock-indexes-all-closed-lower-with"
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "華爾街見聞 via 富途",
+     "date": "2026-10-08",
+     "title": "10年期美債拍賣認購倍數2.77倍創2016年來新高",
+     "url": "https://news.futunn.com/post/1000673873/the-bid-to-cover-ratio-for-the-10-year-us",
+     "verified": false
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "金十數據 via 富途",
+     "date": "2026-10-07",
+     "title": "現貨黃金一度跌破4100大關，避險光環敗給高息美債？",
+     "url": "https://news.futunn.com/post/1000657794/spot-gold-briefly-dipped-below-the-4100-mark-has-the",
+     "verified": false
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-07",
+     "title": "GLD last close",
+     "url": "https://finance.yahoo.com/quote/GLD/"
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-07",
+     "title": "SPYM last close",
+     "url": "https://finance.yahoo.com/quote/SPYM/"
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-07",
+     "title": "VEU last close",
+     "url": "https://finance.yahoo.com/quote/VEU/"
+    }
+   ]
+  },
+  {
+   "id": "1810-hk-hyperos4-apple-monthly-return",
+   "ticker": "1810.HK",
+   "title": "小米（1810.HK）：收市 23.94、跌約 1.3%；澎湃 OS 4 宣布兼容 Apple 生態；9 月股份變動月報表顯示 B 類股增加約 3,553 萬股",
+   "summary": "Holding 1810.HK。Yahoo 收市：10/6 24.26 → 10/7 23.94（約 -1.3%）。HKEX 披露易：小米 10/7 提交截至 9/30 嘅股份變動月報表，B 類已發行股份由 21,329,946,459 增至 21,365,475,889（增加 35,529,430 股），文件列出部分來自購股權行使（例行文件）。e-zone：小米 10/7 經官方微博宣布國行版澎湃 HyperOS 4 兼容 Apple 生態，支援與 AirDrop 互傳等功能；香港及國際版經 Google Quick Share 實現。同業方面，DIGITIMES 導語：華為余承東指記憶體等零件加價令每部手機硬件成本多出逾 200 美元。富途快訊標題：恒生科技指數成分股將由 30 隻擴至 50 隻。",
+   "whyItMatters": "回購會減少股數，但員工股權激勵會增加股數，兩者一加一減先係股東真正嘅攤薄情況。零件加價係成本壓力；系統兼容 Apple 屬產品吸引力，但未有數據證明帶動銷量。",
+   "whatToWatch": "新嘅回購翌日披露報表；A 股 10/8 復市後港股情緒；10 月汽車交付數字；恒生科技指數擴容正式文件。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "company",
+     "publisher": "Xiaomi / HKEXnews",
+     "date": "2026-10-07",
+     "title": "Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+     "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "e-zone",
+     "date": "2026-10-07",
+     "title": "跨越iOS與Android界限！小米澎湃OS 4官宣全面兼容Apple生態",
+     "url": "https://ezone.hk/article/20112916/%E8%B7%A8%E8%B6%8Aios%E8%88%87android%E7%95%8C%E9%99%90-%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83os-%E5%AE%98%E5%AE%A3%E5%85%A8%E9%9D%A2%E5%85%BC%E5%AE%B9apple%E7%94%9F%E6%85%8B-%E6%94%AF%E6%8F%B4%E7%84%A1%E7%B8%ABairdrop%E7%AD%89-%E5%A4%A7%E5%A0%B4%E6%99%AF"
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "DIGITIMES",
+     "date": "2026-10-08",
+     "title": "余承東示警零組件成本飆升 華為手機售價恐迎新一輪調整",
+     "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770740_ROL8LIKP36EBGF1KCZ6KS",
+     "verified": false
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "富途快訊",
+     "date": "2026-10-07",
+     "title": "恒生指數公司宣布恒生科技指數諮詢結果：成分股數量由30只擴至50只",
+     "url": "https://news.futunn.com/flash/1000647315/hang-seng-indexes-company-announced-the-results-of-its-consultation",
+     "verified": false
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-07",
+     "title": "1810.HK last close",
+     "url": "https://finance.yahoo.com/quote/1810.HK/"
+    }
+   ]
+  },
+  {
+   "id": "nvda-samsung-record-gpu-financing-rtx-spark",
+   "ticker": "NVDA",
+   "title": "NVIDIA（NVDA）：收市 237.47、跌約 0.7%；RTX Spark 筆電 10/16 上市；三星第三季初步利潤破紀錄，客戶舉債買 AI 晶片成新趨勢",
+   "summary": "Research NVDA。Yahoo 收市：10/6 239.24 → 10/7 237.47（約 -0.7%）。NVIDIA Blog（10/7）：黃仁勳與納德拉宣布 RTX Spark 平台登陸 Windows，筆電即日預訂、10/16 上市，小型桌機 11 月開賣。CNBC：三星第三季初步營業利潤 107.4 萬億韓圜（約 802 億美元），按年升 782%，受 AI 記憶體需求帶動。融資方面：CNBC 指 Apollo 等洽談為 SpaceX 400 億美元 NVIDIA GPU 採購融資；TechNews 引外電指博通洽談約 300 億美元融資助 OpenAI 買定製晶片（另有報道指逾 500 億美元，未確認）。DIGITIMES 導語：華為稱昇騰喺中國市場嘅情況及需求缺口。",
+   "whyItMatters": "三星破紀錄反映 AI 需求仍強；但買家越來越靠借錢買晶片，若債市收緊，可能影響訂單節奏。定製晶片同中國國產晶片係 NVIDIA 長線競爭變數。",
+   "whatToWatch": "10/15 台積電法說；10/16 RTX Spark 上市評測；三星月底完整財報；NVIDIA IR 公告。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "company",
+     "publisher": "NVIDIA Blog",
+     "date": "2026-10-07",
+     "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+     "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+    },
+    {
+     "category": "news",
+     "publisher": "CNBC",
+     "date": "2026-10-08",
+     "title": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
+     "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html"
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "TechNews 科技新報",
+     "date": "2026-10-08",
+     "title": "博通傳籌資 300 億美元，助 OpenAI 採購客製化 AI 晶片",
+     "url": "https://technews.tw/2026/10/08/broadcom-reportedly-raising-30-billion-to-fund-openai-custom-ai-chip-procurement/"
+    },
+    {
+     "category": "news",
+     "publisher": "WSJ",
+     "date": "2026-10-07",
+     "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
+     "url": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
+     "verified": false
+    },
+    {
+     "category": "thirdParty",
+     "publisher": "DIGITIMES",
+     "date": "2026-10-08",
+     "title": "昇騰中國市佔超車NVIDIA 華為徐直軍揭國內需求缺口仍大",
+     "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=770741",
+     "verified": false
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-07",
+     "title": "NVDA last close",
+     "url": "https://finance.yahoo.com/quote/NVDA/"
+    }
+   ]
+  },
+  {
+   "id": "msft-surface-laptop-ultra-mxc",
+   "ticker": "MSFT",
+   "title": "Microsoft（MSFT）：收市 529.76 持平；發表會公布 Surface Laptop Ultra 起價 2,599 美元、10/16 出貨，Windows 加入 AI 代理安全容器",
+   "summary": "Research MSFT。Yahoo 收市：10/6 529.30 → 10/7 529.76（約 +0.1%）。CNBC：搭載 NVIDIA AI 晶片嘅 Surface Laptop Ultra 起價 2,599 美元，即日預訂、10/16 出貨；Meta 會推出 Windows 版 Muse AI 代理；CNBC 引 Gartner 指微軟唔屬全球六大 PC 品牌。NVIDIA Blog：微軟宣布 Microsoft Execution Containers（MXC）正式推出，俾 AI 代理喺作業系統管控下於背景運行。Bloomberg 標題：微軟稱新筆電效能勝 MacBook（公司說法，付費牆未核實）。",
+   "whyItMatters": "硬件收入佔微軟比例細，發表會更大意義係 Windows 能否成為 AI 代理平台，長遠帶動軟件同雲端收入；但現階段只係產品發布，未有銷售數據。",
+   "whatToWatch": "10/16 出貨後評測；下季業績 Windows／Surface 及 Azure 數字；Copilot 收費變化。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "news",
+     "publisher": "CNBC",
+     "date": "2026-10-07",
+     "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+     "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html"
+    },
+    {
+     "category": "company",
+     "publisher": "NVIDIA Blog",
+     "date": "2026-10-07",
+     "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+     "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+    },
+    {
+     "category": "news",
+     "publisher": "Reuters",
+     "date": "2026-10-07",
+     "title": "Microsoft brings more AI to PCs as it challenges Apple",
+     "url": "https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/",
+     "verified": false
+    },
+    {
+     "category": "news",
+     "publisher": "Bloomberg",
+     "date": "2026-10-07",
+     "title": "Microsoft Says New Laptop With Nvidia Chip Outperforms MacBooks",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-07/microsoft-says-new-laptop-with-nvidia-chip-outperforms-macbooks",
+     "verified": false
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-07",
+     "title": "MSFT last close",
+     "url": "https://finance.yahoo.com/quote/MSFT/"
+    }
+   ]
+  },
+  {
+   "id": "1398-exdiv-tomorrow-hibor-qatar-loan",
+   "ticker": "1398.HK",
+   "title": "工行（1398.HK）：收市 7.58 持平；中期息明日（10/9）除淨；1 個月 HIBOR 連跌 6 日至約 2.84 厘；傳與三大行合組 30 億美元卡塔爾能源貸款",
+   "summary": "Research 1398.HK（Notion Ticker 01398）。Yahoo 收市：10/6 7.58 → 10/7 7.58（持平）；HKEX 披露易 10/6–10/8 早上未見工行新公告。按工行／HKEX 公告：中期息每 10 股人民幣 1.511 元，10/9 除淨。大紀元（10/7）：1 個月 HIBOR 連跌 6 日至 2.83905 厘，創 8/27 後最低；隔夜 HIBOR 2.04333 厘；港元報 7.8479，貼近 7.85 弱方；1 個月 Term SOFR 與 HIBOR 息差擴至約 0.97 厘。星島引彭博：卡塔爾能源取得 30 億美元、5 年期貸款，由中銀、工行、農行、建行提供，息率 SOFR 加 50 點子（工行未公告）。",
+   "whyItMatters": "profile 已勾 HKMA：美元息高過港元息，套息交易令港元偏弱；聯儲局再加息預期會令息差更闊。除淨日當日股價通常會按股息金額下調，唔代表公司價值突然減少。",
+   "whatToWatch": "10/9 除淨；港匯會否觸及 7.85 弱方保證；每日 HIBOR 定盤；10/20 登記日。唔構成買賣建議。",
+   "sources": [
+    {
+     "category": "company",
+     "publisher": "ICBC / HKEX",
+     "date": "2026-09-29",
+     "title": "Interim dividend cash dividend with currency option (update)",
+     "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf"
+    },
+    {
+     "category": "news",
+     "publisher": "大紀元時報香港",
+     "date": "2026-10-07",
+     "title": "【港元拆息】1個月HIBOR連跌6日 見逾一個月低",
+     "url": "https://hk.epochtimes.com/news/2026-10-07/20500808"
+    },
+    {
+     "category": "news",
+     "publisher": "明報",
+     "date": "2026-10-07",
+     "title": "港元拆息普遍向下 1個月HIBOR見逾一個月低",
+     "url": "https://finance.mingpao.com/fin/instantf/20261007/1791343123756/%E6%B8%AF%E5%85%83%E6%8B%86%E6%81%AF%E6%99%AE%E9%81%8D%E5%90%91%E4%B8%8B-1%E5%80%8B%E6%9C%88hibor%E8%A6%8B%E9%80%BE%E4%B8%80%E5%80%8B%E6%9C%88%E4%BD%8E",
+     "verified": false
+    },
+    {
+     "category": "news",
+     "publisher": "星島日報（引彭博）",
+     "date": "2026-10-06",
+     "title": "中資行續向中東企業融資 卡塔爾能源據報獲四大銀行貸款30億美元",
+     "url": "https://www.singtao.ca/googleamp/amp.php?region=toronto_hk&cat=144&post_id=7648137"
+    },
+    {
+     "category": "marketData",
+     "publisher": "Yahoo Finance",
+     "date": "2026-10-07",
+     "title": "1398.HK last close",
+     "url": "https://finance.yahoo.com/quote/1398.HK/"
+    }
+   ]
+  }
+ ],
+ "concepts": [
+  {
+   "id": "credit-spread",
+   "title": "信用利差（credit spread）",
+   "titleEn": "Credit spread",
+   "what": "信用利差即係公司債券收益率減同年期國債收益率嘅差距，反映投資者借錢俾呢間公司要求嘅額外回報。",
+   "whyItMatters": "利差擴闊代表市場覺得公司風險高咗，公司再借錢會更貴，股價亦可能受壓；利差收窄就相反。",
+   "whereToday": "CNBC 指 SpaceX 擬借約 400 億美元買 NVIDIA GPU，但 AI 相關債券近期受壓、信用利差擴闊；Bloomberg／FT 標題指 SpaceX 信用風險指標升至新高。",
+   "whatToWatch": "SpaceX 正式發債條款（票面息、年期、有冇抵押）；美債收益率走勢；AI 公司其他發債反應。",
+   "relatedTickers": [
+    "SPCX",
+    "NVDA"
+   ],
+   "notionUrl": "https://app.notion.com/p/3f399f70bc568172b29bcf78930365f6"
+  }
+ ],
+ "tickers": [
+  {
+   "symbol": "SPCX",
+   "nameCn": "SpaceX",
+   "exchange": "NASDAQ",
+   "role": "持仓",
+   "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+   "lastFiling": null
+  },
+  {
+   "symbol": "GLD",
+   "nameCn": "SPDR 黃金 ETF",
+   "exchange": "NYSE Arca",
+   "role": "持仓",
+   "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+   "lastFiling": null
+  },
+  {
+   "symbol": "SPYM",
+   "nameCn": "SPDR Portfolio S&P 500 ETF",
+   "exchange": "NYSE Arca",
+   "role": "持仓",
+   "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+   "lastFiling": null
+  },
+  {
+   "symbol": "VEU",
+   "nameCn": "Vanguard 全球（美國除外）ETF",
+   "exchange": "NYSE Arca",
+   "role": "持仓",
+   "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+   "lastFiling": null
+  },
+  {
+   "symbol": "1810.HK",
+   "nameCn": "小米集團",
+   "exchange": "HKEX",
+   "role": "持仓",
+   "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+   "lastFiling": {
+    "title": "Monthly Return for the month ended 30 September 2026",
+    "date": "2026-10-07",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+   }
+  },
+  {
+   "symbol": "MSFT",
+   "nameCn": "微軟",
+   "exchange": "NASDAQ",
+   "role": "研究",
+   "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+   "lastFiling": null
+  },
+  {
+   "symbol": "NVDA",
+   "nameCn": "英偉達",
+   "exchange": "NASDAQ",
+   "role": "研究",
+   "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+   "lastFiling": null
+  },
+  {
+   "symbol": "1398.HK",
+   "nameCn": "工商銀行",
+   "exchange": "HKEX",
+   "role": "研究",
+   "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+   "lastFiling": {
+    "title": "Interim dividend cash dividend with currency option (update)",
+    "date": "2026-09-29",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf"
+   }
+  }
+ ],
+ "audioUrl": "data/audio/2026-10-08.mp3",
+ "audioScriptChars": 3485,
+ "audioVoice": "zh-TW-HsiaoChenNeural"
+}
