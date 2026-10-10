@@ -1,0 +1,298 @@
+{
+  "date": "2026-10-10",
+  "stories": [
+    {
+      "id": "spcx-spectrum-telecom-shock",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：宣布收購美國全國性低頻頻譜組合，電信股重挫；SPCX 週五約升 1%（收 162.57）",
+      "summary": "Holding SPCX。CNBC：SpaceX 週四宣布與 Grain Management 達成協議，收購最多 14 MHz 成對 800 MHz 低頻頻譜牌照組合，目標令 Starlink Mobile 成為美國主要流動網絡營運商；交易須經 FCC 批准。馬斯克於 X 稱「very big deal」。週五 Verizon 收跌 8.75%（2002 年以來最差單日）、T-Mobile 跌 13.27%、AT&T 跌 9.81%；CNBC 指 SPCX 當日約升 1%。Yahoo 收市：10/8 160.57 → 10/9 162.57。FCC 主席 Brendan Carr 接受 CNBC 訪問指頻譜市場競爭對消費者有利；10/29 FCC 仍將表決更多衛星直連手機相關頻譜建議。屬公司聲明＋第三方報道。",
+      "whyItMatters": "頻譜係流動通訊嘅「牌照資源」。低頻（約 800 MHz）穿透建築物較好，對 Starlink 由衛星上網伸展到手機服務好關鍵；電信股大跌反映市場擔心競爭格局改變。",
+      "whatToWatch": "FCC 審批時間表；SpaceX 會否再披露成交價／覆蓋時間表；10/29 FCC 表決。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-08",
+          "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+          "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-09",
+          "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
+          "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "富途快訊／MT Newswires",
+          "date": "2026-10-09",
+          "title": "SpaceX Shares Rise as Low-Band Spectrum Acquisition Supports Mobile Connectivity Push",
+          "url": "https://www.moomoo.com/news/post/1000836555/spacex-shares-rise-as-low-band-spectrum-acquisition-supports-mobile"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "SPCX last close",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-pengcheng-70k-locks",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：澎程系列上市 30 日鎖單逾 7 萬輛；港股週五收 25.96，較前收約升近一成",
+      "summary": "Holding 1810.HK。IT之家／每經等轉述小米汽車 10/8 公布：9/7–10/7 澎程系列上市 30 天鎖單已超過 70,000 台；雷軍另指澎程首月交付逾 10,000 台、9 月小米汽車整體交付逾 40,000 台。Yahoo：10/8 收 23.66 → 10/9 收 25.96（約 +9.7%）。第三方亦有「記憶體成本上升、華為／小米手機調價」報道（非公司公告）。鎖單≠最終交付，產能同交付節奏仍要睇。",
+      "whyItMatters": "Holding 權重：汽車鎖單係需求領先指標，但交車同毛利先決定收入入賬；股價單日急升通常反映預期，唔等於業績已兌現。",
+      "whatToWatch": "之後只公佈「第一波鎖單」同「首銷月」數據（公司副總裁表述）；月度交付；記憶體成本對手機毛利嘅影響。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "IT之家",
+          "date": "2026-10-08",
+          "title": "小米澎程首銷月鎖單進展公布：上市30天，鎖單已超過7萬台",
+          "url": "https://www.ithome.com/1/010/628.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "每日經濟新聞 via 同花順",
+          "date": "2026-10-08",
+          "title": "小米澎程系列上市30天鎖單量超7萬輛",
+          "url": "https://stock.10jqka.com.cn/20261008/c680487731.shtml"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "1810.HK last close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "gld-spym-veu-friday-rebound",
+      "ticker": "GLD",
+      "title": "GLD／SPYM／VEU：週五美股同金價反彈；富途快訊指現貨金曾升逾 1.6% 上破 4,200 美元／盎司",
+      "summary": "Holdings GLD、SPYM、VEU。Yahoo 10/9 收市：GLD 384.58（10/8 378.62，約 +1.6%）、SPYM 91.64（10/8 91.07，約 +0.6%）、VEU 82.82（10/8 82.18，約 +0.8%）。富途快訊：美股三大指數週五集體收漲（道指 +0.83%、納指 +0.64%、標普 500 +0.59%）；另一則快訊標題指現貨金升 1.6% 上破 4,200 美元／盎司。Reuters 標題：金價見一週高位、有望錄得週升。密歇根大學 10 月消費者信心初值 46.3（預期 47.8）經富途轉述。週末休市，下週銀行股業績季展開。",
+      "whyItMatters": "profile 已勾 Fed：金價同美股一齊反彈，可能反映風險偏好回暖或多種宏觀敘事並存；消費者信心偏弱同通脹預期仍係聯儲局議息背景。",
+      "whatToWatch": "下週大型銀行業績；10/27–28 FOMC；金價能否企穩 4,200 附近；HIBOR／美債收益率。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "富途快訊",
+          "date": "2026-10-09",
+          "title": "美股三大指數集體收漲，道指漲0.83%，納指漲0.64%，標普500指數漲0.59%",
+          "url": "https://news.futunn.com/flash/1000814319/the-three-major-us-stock-indexes-all-closed-higher-with"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "富途快訊",
+          "date": "2026-10-09",
+          "title": "Spot Gold Rises 1.6% Above $4,200/Oz",
+          "url": "https://news.moomoo.com/news/flash/1000812091/spot-gold-rises-1-6-above-4200-oz"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-10-09",
+          "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+          "url": "https://www.reuters.com/markets/commodities/gold-hits-one-week-high-heads-weekly-gain-bargain-hunting-2026-10-09/",
+          "verified": false
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "GLD/SPYM/VEU last closes",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "msft-perm-labor-cert-suspension",
+      "ticker": "MSFT",
+      "title": "微軟（MSFT）：美國勞工部暫停其永久勞工證（綠卡申請）計劃；週五股價反彈收 535.07",
+      "summary": "Research MSFT。CNBC：美國勞工部 10/8 宣布暫停微軟、Adobe 及多家 IT 外判商於 Permanent Labor Certification（永久勞工證）計劃嘅新申請；勞工部長指微軟同 Adobe「因多項進行中嘅聯邦調查」被暫停。副總統 Vance 批評微軟 2025 年裁員約 6,000 人後仍大量申請 H-1B。微軟回應稱美國員工絕大多數係美國人，上個財政年度約 6,000 宗 H-1B 申請中 80% 係延長或變更現有員工身份。Yahoo：10/8 收 522.61 → 10/9 收 535.07（約 +2.4%）；富途快訊亦指微軟週五升逾 2%。屬監管／政治消息，非業績公告。",
+      "whyItMatters": "科技大廠依賴全球人才；永久勞工證暫停可能影響招聘同員工留任敘事，但短期對雲端／AI 收入影響通常有限，市場亦要分開睇股價反彈同政策風險。",
+      "whatToWatch": "調查同暫停會否延長；微軟下次業績對員工人數／研發開支嘅表述；Windows AI 產品（例如 RTX Spark 相關）出貨進度。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-08",
+          "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
+          "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "富途快訊",
+          "date": "2026-10-09",
+          "title": "美股三大指數集體收漲……微軟、特斯拉漲超2%",
+          "url": "https://news.futunn.com/flash/1000814319/the-three-major-us-stock-indexes-all-closed-higher-with"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "MSFT last close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-science-1b-firmus-ipo-pull",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：承諾未來五年投入約 10 億美元推進美國科學；旗下支持嘅 Firmus 撤回澳洲 IPO；週五收 229.28",
+      "summary": "Research NVDA。NVIDIA 新聞室 10/8：於華盛頓活動宣布未來五年承諾總值約 10 億美元，推進美國超級智能科研、量子計算、醫療同能源安全等領域，並提及與 Genesis Mission／國家實驗室合作。CNBC：NVIDIA 支持嘅澳洲 AI 數據中心營運商 Firmus 撤回原計劃約 50 億美元 IPO，指市場波動同發售條款未能反映業務價值，改尋私人融資。Yahoo：NVDA 10/8 230.48 → 10/9 229.28（約 -0.5%）；週中曾因 OpenAI 營收報道令 AI 股波動（第三方）。公司新聞室承諾≠季度業績。",
+      "whyItMatters": "科研承諾屬長線品牌同生態布局；Firmus 撤回 IPO 反映 AI 基建融資情緒轉謹慎，可能影響市場對「AI 相關上市／估值」嘅風險偏好，但唔等於 NVIDIA 自身訂單消失。",
+      "whatToWatch": "NVIDIA 下季指引同數據中心收入；AI 相關 IPO／發債窗口；中國數據中心假設仍為零嘅表述有冇更新。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-08",
+          "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-09",
+          "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+          "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "NVDA last close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-sse-accepts-private-placement",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：向特定對象發行 A 股申請獲上交所受理；港股週五收 7.50",
+      "summary": "Research 1398.HK。工行公司公告（臨 2026-048）：2026-10-08 收到上交所受理通知（上證上審（再融資）〔2026〕322號），向特定對象發行 A 股申請文件齊備、進入審核。事項仍須上交所審核通過及中國證監會同意註冊後方可實施，時間同結果仍有不確定性。第三方報道指募集資金規模約不超過 1,000 億元人民幣、用於補充核心一級資本（以公司預案／募集說明書為準）。Yahoo：10/8 收 7.57 → 10/9 收 7.50。受理≠獲批。",
+      "whyItMatters": "定向增發會增加股本、可能攤薄現有股東；但銀行補核心一級資本可提升資本充足率、支撐放貸。港股同 A 股價差、審批進度都會影響情緒。",
+      "whatToWatch": "上交所審核問詢；證監會註冊決定；最終發行價同對象；下一次資本充足率披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "工商銀行 IR",
+          "date": "2026-10-08",
+          "title": "關於向特定對象發行A股股票申請獲得上海證券交易所受理的公告",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/2026100803.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "上海證券報",
+          "date": "2026-10-09",
+          "title": "工商銀行關於向特定對象發行A股股票申請獲得上海證券交易所受理的公告",
+          "url": "https://paper.cnstock.com/html/2026-10/09/content_2274916.htm"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "1398.HK last close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "low-band-spectrum",
+      "title": "低頻頻譜（low-band spectrum）",
+      "titleEn": "Low-band spectrum",
+      "what": "頻譜係政府牌照俾電訊商用特定無線電波段傳數據。低頻（例如約 800 MHz）波長較長，覆蓋遠、較易穿牆，但單一段可傳嘅數據量通常少過高頻。",
+      "whyItMatters": "冇足夠合適頻譜，流動網絡就難喺室內同偏遠地區穩定服務；衛星／手機直連同傳統電信商競爭時，低頻往往係關鍵缺口。",
+      "whereToday": "SpaceX 宣布收購最多 14 MHz 成對 800 MHz 全國性低頻頻譜組合，宣稱有助 Starlink Mobile 成為美國主要流動網絡營運商；Verizon／AT&T／T-Mobile 股價大跌。",
+      "whatToWatch": "FCC 會否批准交易；SpaceX 會否再建地面基站；10/29 FCC 其他頻譜表決。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/3f599f70bc56812d96f9e0c64e912f0c"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR Portfolio S&P 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Monthly Return for the month ended 30 September 2026",
+        "date": "2026-10-07",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Interim dividend cash dividend with currency option (update)",
+        "date": "2026-09-29",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-10-10.mp3",
+  "audioScriptChars": 3002,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
