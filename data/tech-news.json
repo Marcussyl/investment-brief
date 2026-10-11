@@ -1,239 +1,215 @@
 {
- "updated": "2026-10-10T08:32:57+08:00",
- "disclaimer": "非投資建議 / Not financial advice. Educational tech digest only. Sources linked; third-party items flagged in summaries where relevant.",
- "items": [
-  {
-   "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-   "summary": "CNBC：SpaceX 宣布向 Grain Management 收購最多 14 MHz 成對 800 MHz 全國性低頻頻譜，推動 Starlink Mobile；馬斯克稱「very big deal」。電信股翌日大跌。第三方·非公告。",
-   "source": "CNBC Tech",
-   "date": "2026-10-08",
-   "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-   "tickers": [
-    "SPCX"
-   ],
-   "impact": "低頻頻譜填補衛星直連手機嘅技術缺口，市場可能重新評估傳統電信商同 Starlink 嘅競爭敘事。",
-   "newbieTake": "留意 FCC 審批同 SpaceX 後續有冇披露建設時間表。"
-  },
-  {
-   "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
-   "summary": "CNBC：週五 Verizon 跌 8.75%、T-Mobile 跌 13.27%、AT&T 跌 9.81%；SpaceX 約升 1%。FCC 主席 Carr 指頻譜競爭對消費者有利。第三方·非公告。",
-   "source": "CNBC Tech",
-   "date": "2026-10-09",
-   "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
-   "tickers": [
-    "SPCX"
-   ],
-   "impact": "電信股單日重挫顯示市場對「衛星＋地面」流動網絡敘事敏感，但分析師亦提醒建成可靠地面網絡仍需時間同資本。",
-   "newbieTake": "比較電信商同 SPCX 嘅後續股價同監管新聞，唔好只睇單日波動。"
-  },
-  {
-   "title": "SpaceX Shares Rise as Low-Band Spectrum Acquisition Supports Mobile Connectivity Push",
-   "summary": "富途轉述 MT Newswires：SpaceX 股價因低頻頻譜收購而上升，市場解讀為支持其流動通訊推進。原文來源：MT Newswires。第三方·非公告。",
-   "source": "富途快訊",
-   "date": "2026-10-09",
-   "url": "https://www.moomoo.com/news/post/1000836555/spacex-shares-rise-as-low-band-spectrum-acquisition-supports-mobile",
-   "tickers": [
-    "SPCX"
-   ],
-   "impact": "第三方快訊同 CNBC 主線一致，強化「頻譜＝流動網絡入場券」嘅市場關注。",
-   "newbieTake": "對照公司聲明同 FCC 文件，避免只睇快訊標題。"
-  },
-  {
-   "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
-   "summary": "NVIDIA 新聞室：未來五年承諾約 10 億美元推進美國科學超級智能研發，涵蓋量子、醫療、能源安全，並支援 Genesis Mission 同國家實驗室合作。公司新聞室/IR。",
-   "source": "NVIDIA Newsroom",
-   "date": "2026-10-08",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
-   "tickers": [
-    "NVDA"
-   ],
-   "impact": "科研承諾屬長線生態同政策敘事，對短期 GPU 出貨影響有限，但可能強化 NVIDIA 同美國政府／實驗室嘅合作形象。",
-   "newbieTake": "分開睇「承諾金額」同「季度數據中心收入」，唔好混為一談。"
-  },
-  {
-   "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
-   "summary": "CNBC：NVIDIA 支持嘅澳洲 AI 數據中心營運商 Firmus 撤回原計劃約 50 億美元 IPO，指市場波動同發售條款未能反映業務價值，改尋私人融資。第三方·非公告。",
-   "source": "CNBC Tech",
-   "date": "2026-10-09",
-   "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
-   "tickers": [
-    "NVDA"
-   ],
-   "impact": "AI 基建 IPO 窗口收窄，可能令市場更審視 AI 相關估值同融資條件，屬情緒指標多過訂單指標。",
-   "newbieTake": "留意私人融資條款同有冇其他 AI 基建上市被推遲。"
-  },
-  {
-   "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
-   "summary": "CNBC：美國勞工部暫停微軟、Adobe 及多家 IT 服務商於永久勞工證計劃嘅新申請；微軟回應指絕大多數美國員工係美國人。第三方·非公告。",
-   "source": "CNBC Tech",
-   "date": "2026-10-08",
-   "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
-   "tickers": [
-    "MSFT"
-   ],
-   "impact": "人才同移民政策可能影響科技股敘事，但短期對雲端收入影響通常難量化。",
-   "newbieTake": "留意暫停期限同微軟下次業績對員工人數嘅表述。"
-  },
-  {
-   "title": "天然氣管線延宕，甲骨文擬動用卡車供氣搶救 AI 資料中心進度",
-   "summary": "TechNews：報道指天然氣管線延誤下，Oracle 擬以卡車運送天然氣，搶救 AI 資料中心進度。第三方·非公告。",
-   "source": "TechNews 科技新報",
-   "date": "2026-10-09",
-   "url": "https://technews.tw/2026/10/09/oracle-trucks-gas-ai-data-center-progress-natural-gas-pipeline-delays/",
-   "tickers": [
-    "NVDA",
-    "MSFT"
-   ],
-   "impact": "電力／燃氣供應成為 AI 資料中心瓶頸，可能拖慢機架上電同 GPU 安裝節奏，市場關注「算力需求」之外嘅基建約束。",
-   "newbieTake": "追蹤大型雲端資本開支同資料中心上線時間表。"
-  },
-  {
-   "title": "格羅方德與台積電簽署 20 億美元協議，於紐約建立 CoWoS 矽中介層供應鏈",
-   "summary": "TechNews：GlobalFoundries 與台積電簽署約 20 億美元協議，於紐約建立 CoWoS 矽中介層供應鏈。第三方·非公告。",
-   "source": "TechNews 科技新報",
-   "date": "2026-10-09",
-   "url": "https://finance.technews.tw/2026/10/09/globalfoundries-signs-2-billion-deal-with-tsmc/",
-   "tickers": [
-    "NVDA"
-   ],
-   "impact": "先進封裝（CoWoS 相關）產能仍係 AI GPU 供應鏈關鍵；美國在地化可能影響交期同成本結構。",
-   "newbieTake": "屬供應鏈長線消息，留意後續產能爬坡同客戶認證。"
-  },
-  {
-   "title": "聯發科第三季營收 1,680 億元超財測創新高，ASIC 市場表現受期待",
-   "summary": "TechNews：聯發科公布第三季營收約 1,680 億新台幣，超財測並創新高，市場關注 ASIC 表現。第三方·非公告。",
-   "source": "TechNews 科技新報",
-   "date": "2026-10-09",
-   "url": "https://finance.technews.tw/2026/10/09/mediateks-third-quarter-revenue-of-168-billion-yuan-exceeded-financial-forecasts-",
-   "tickers": [],
-   "impact": "手機 SoC 同 ASIC 需求並存時，市場可能解讀為 AI／邊緣運算擴散，而不只係單一 GPU 故事。",
-   "newbieTake": "等正式財報拆分手機同 ASIC 貢獻。"
-  },
-  {
-   "title": "光寶科第三季營收季增 9%，康舒單季首破百億元",
-   "summary": "TechNews：光寶科第三季營收季增約 9%；康舒單季營收首破百億新台幣，報道指 AI 電源需求仍強。第三方·非公告。",
-   "source": "TechNews 科技新報",
-   "date": "2026-10-09",
-   "url": "https://finance.technews.tw/2026/10/09/ai-power-demand-remains-strong-liteon-q3-revenue-up-9-percent-acbel-hits-new-high",
-   "tickers": [
-    "NVDA"
-   ],
-   "impact": "AI 伺服器電源同散熱供應鏈營收上升，通常被視為資料中心建設仍在進行嘅旁證。",
-   "newbieTake": "月／季營收係領先指標，仍要睇毛利率同訂單能見度。"
-  },
-  {
-   "title": "比 High NA EUV 更強！ASML 下一代 Hyper NA EUV 有望 10 年內問世",
-   "summary": "TechNews：報道指 ASML 下一代 Hyper NA EUV 有望於約 10 年內問世，性能相對 High NA 再提升。第三方·非公告。",
-   "source": "TechNews 科技新報",
-   "date": "2026-10-09",
-   "url": "https://technews.tw/2026/10/09/asml-next-gen-hyper-na-euv-stronger-high-na-expected-10-years/",
-   "tickers": [],
-   "impact": "微影設備路線圖影響先進製程長期成本同良率，對晶片供應格局屬超長線變數。",
-   "newbieTake": "屬展望性報道，留意 ASML 官方技術日有冇正式時間表。"
-  },
-  {
-   "title": "Anthropic傳聯手三星博通開發最強AI晶片，2奈米黑科技規格曝光",
-   "summary": "T客邦：傳 Anthropic 與三星、博通合作開發 AI 晶片，報道提及 2 奈米等規格（未獲官方確認）。第三方·非公告。",
-   "source": "T客邦",
-   "date": "2026-10-10",
-   "url": "https://www.techbang.com/posts/133979-anthropic-broadcom-samsung-2nm-ai-chip",
-   "tickers": [
-    "NVDA"
-   ],
-   "impact": "大型模型公司自研／定製晶片可能分流部分 GPU 需求，亦反映先進製程同封裝產能爭奪。",
-   "newbieTake": "屬傳聞，等公司或供應鏈正式公告再核實規格。"
-  },
-  {
-   "title": "史上最快 Claude 模型登場！Haiku 5.5 定價下殺 90%",
-   "summary": "T客邦：Anthropic 推出 Haiku 5.5，報道指速度提升同定價大幅下調，主打長上下文同高併發。第三方·非公告。",
-   "source": "T客邦",
-   "date": "2026-10-09",
-   "url": "https://www.techbang.com/posts/133973-haiku-5-5-price-cut-new-tokenizer-token-usage",
-   "tickers": [],
-   "impact": "模型降價可能刺激推理用量上升，從而帶動雲端同晶片用量，但亦加劇價格競爭。",
-   "newbieTake": "觀察雲端巨頭推理價格同用量數據有冇跟從。"
-  },
-  {
-   "title": "Google發表全新Gemini Agent數位員工！深度整合Workspace生態系",
-   "summary": "T客邦／iThome：Google 發表 Gemini Agent，可建立企業 AI 同事、整合 Workspace 協作。第三方·非公告。",
-   "source": "T客邦",
-   "date": "2026-10-09",
-   "url": "https://www.techbang.com/posts/133981-google-gemini-agent-digital-employee",
-   "tickers": [
-    "MSFT"
-   ],
-   "impact": "AI 代理由聊天走向可執行動作，微軟同 Google 喺辦公生態競爭升溫。",
-   "newbieTake": "比較 Microsoft 365 Copilot／Windows 代理同 Gemini Agent 嘅企業採用新聞。"
-  },
-  {
-   "title": "SpaceX收購低頻頻譜以擴張Starlink行動通訊能力",
-   "summary": "iThome：報道 SpaceX 收購低頻頻譜以擴張 Starlink 行動通訊能力，與歐美電信股波動同一主線。第三方·非公告。",
-   "source": "iThome",
-   "date": "2026-10-09",
-   "url": "https://www.ithome.com.tw/news/179551",
-   "tickers": [
-    "SPCX"
-   ],
-   "impact": "華文科技媒體同步跟進頻譜收購，顯示事件已成跨市場焦點。",
-   "newbieTake": "以公司聲明同 FCC 文件做準，媒體標題可能簡化細節。"
-  },
-  {
-   "title": "微軟測試新Windows Search，不只能搜尋還能執行動作",
-   "summary": "iThome：微軟測試新版 Windows Search，強調除搜尋外亦可執行動作，屬 Windows AI 代理能力延伸。第三方·非公告。",
-   "source": "iThome",
-   "date": "2026-10-09",
-   "url": "https://www.ithome.com.tw/news/179549",
-   "tickers": [
-    "MSFT"
-   ],
-   "impact": "系統層搜尋變成「可執行動作」接口，可能強化 Windows 作為 AI 代理入口嘅敘事。",
-   "newbieTake": "屬測試功能，留意正式版本發布範圍。"
-  },
-  {
-   "title": "網頁版及Windows Outlook 11月將封鎖MSIX附件",
-   "summary": "iThome：微軟指網頁版及 Windows Outlook 將於 11 月封鎖 MSIX 附件，屬安全強化措施。第三方·非公告。",
-   "source": "iThome",
-   "date": "2026-10-09",
-   "url": "https://www.ithome.com.tw/news/179553",
-   "tickers": [
-    "MSFT"
-   ],
-   "impact": "企業資安設定收緊通常唔直接改收入，但反映微軟持續強化終端同郵件防護。",
-   "newbieTake": "IT 管理者需留意內部派送軟件流程會否受影響。"
-  },
-  {
-   "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-   "summary": "CNBC：三星公布第三季初步營業利潤創新高，報道指 AI 帶動晶片需求（分部細節稍後公布）。第三方·非公告。",
-   "source": "CNBC Tech",
-   "date": "2026-10-08",
-   "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-   "tickers": [],
-   "impact": "記憶體大廠盈利高峰通常伴隨漲價周期，對手機／PC 品牌係成本壓力、對 GPU 伺服器係供應同成本雙刃。",
-   "newbieTake": "等三星正式財報拆分記憶體同手機貢獻。"
-  },
-  {
-   "title": "Lumentum Stock Hits All-Time High on Word the Company Can't Keep Up With AI Demand",
-   "summary": "富途轉述 Barron's：Lumentum 股價創新高，傳公司光學元件需求跟不上 AI 需求。原文來源：Barron's。第三方·非公告。",
-   "source": "富途快訊",
-   "date": "2026-10-09",
-   "url": "https://www.moomoo.com/news/post/1000848512/lumentum-stock-hits-all-time-high-on-word-the-company",
-   "tickers": [
-    "NVDA"
-   ],
-   "impact": "光通訊／光學元件缺貨敘事，通常被視為 AI 資料中心網絡升級仍然火熱嘅旁證。",
-   "newbieTake": "屬股價同傳聞，留意公司業績會否證實訂單能見度。"
-  },
-  {
-   "title": "Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports",
-   "summary": "富途快訊轉述：日經亞洲報道指蘋果因需求疲弱削減 iPhone 18 Pro 訂單。原文來源：報道轉述。（按標題／導語整理，原文受付費牆或防爬限制，細節未核實。）第三方·非公告。",
-   "source": "富途快訊",
-   "date": "2026-10-09",
-   "url": "https://news.moomoo.com/news/flash/1000812454/apple-cuts-iphone-18-pro-orders-due-to-soft-demand",
-   "tickers": [
-    "1810.HK"
-   ],
-   "impact": "高端手機訂單下修可能影響供應鏈氣氛；對小米等品牌，更要分開睇自身銷量同行業需求。",
-   "newbieTake": "等蘋果或供應鏈官方說明，唔好只憑單一快訊下結論。"
-  }
- ]
+  "updated": "2026-10-11T08:50:00+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. Educational tech digest only. Sources linked; third-party items flagged in summaries where relevant.",
+  "items": [
+    {
+      "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+      "summary": "Reuters 引述 FT：NVIDIA 洽談加碼投資開源模型初創 Reflection AI，或直接收購。第三方·非公告。",
+      "source": "Reuters Tech",
+      "date": "2026-10-10",
+      "url": "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場關注 NVIDIA 由晶片延伸到模型生態，可能加強其軟硬件綁定敘事。",
+      "newbieTake": "留意 NVIDIA 有冇正式公告或監管審查消息。"
+    },
+    {
+      "title": "Microsoft's Nadella says AI needs an 'emergency brake' that humans control",
+      "summary": "CNBC：微軟 CEO Nadella 表示先進 AI 需要由人類控制嘅「緊急煞車」機制。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-10",
+      "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "大型科技公司對 AI 安全取態可能影響監管討論同產品推出節奏。",
+      "newbieTake": "睇下微軟之後有冇推出具體 AI 安全政策或產品功能。"
+    },
+    {
+      "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
+      "summary": "Reuters：美國政府暫停微軟及部分 IT 公司嘅綠卡程序，並調查大學。第三方·非公告。",
+      "source": "Reuters Tech",
+      "date": "2026-10-10",
+      "url": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "移民政策收緊可能增加科技公司招聘外籍工程師嘅難度同成本。",
+      "newbieTake": "留意微軟回應同政策會否擴大到其他公司。"
+    },
+    {
+      "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+      "summary": "科技新報：美超微承包台商喺美認罪，涉非法轉運約 25 億美元含輝達 AI 晶片伺服器至中國。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-10",
+      "url": "https://finance.technews.tw/2026/10/10/ting-wei-sun/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "出口管制執法加強，市場可能更關注 AI 晶片供應鏈合規風險。",
+      "newbieTake": "留意美國商務部會否再收緊對華 AI 晶片規則。"
+    },
+    {
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "summary": "CNBC：整理企業取得 NVIDIA GPU 嘅不同途徑，包括雲端租用、neocloud 同自建。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-10",
+      "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "雲端（如 Azure）同 neocloud 係 GPU 需求重要渠道，反映 AI 算力需求分佈。",
+      "newbieTake": "比較不同雲端供應商嘅資本開支數字。"
+    },
+    {
+      "title": "Nvidia reportedly halts GeForce RTX 5090 production",
+      "summary": "Tom's Hardware：傳 NVIDIA 停產 RTX 5090，把 GB202 晶片留俾數據中心同專業 GPU。傳聞，未證實。",
+      "source": "Tom's Hardware",
+      "date": "2026-10-10",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "如屬實，反映 NVIDIA 把產能優先分配俾利潤更高嘅 AI／專業產品。",
+      "newbieTake": "留意 NVIDIA 官方會否確認，以及遊戲卡價格變化。"
+    },
+    {
+      "title": "Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports",
+      "summary": "Reuters 引述日經亞洲：蘋果因需求疲弱削減 iPhone 18 Pro 訂單。第三方·非公告。",
+      "source": "Reuters Tech",
+      "date": "2026-10-09",
+      "url": "https://www.reuters.com/business/retail-consumer/apple-cuts-iphone-18-pro-orders-due-soft-demand-nikkei-asia-reports-2026-10-09/",
+      "tickers": [],
+      "impact": "高階手機需求轉弱可能影響整個手機供應鏈，亦係小米等對手嘅參考。",
+      "newbieTake": "留意蘋果下次業績對 iPhone 需求嘅講法。"
+    },
+    {
+      "title": "華爲小米手機同日漲價 最高漲1000元：供應鏈稱價格回不去了",
+      "summary": "華為、小米手機同日調價，最高漲 1,000 元人民幣，供應鏈指記憶體成本上升。原文來源：內地媒體轉載。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-10",
+      "url": "https://news.futunn.com/hk/post/1000821762/huawei-and-xiaomi-raise-smartphone-prices-on-same-day-with",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "記憶體漲價推高手機成本，加價可保毛利但可能影響銷量。",
+      "newbieTake": "留意小米有冇正式確認同下季手機出貨數據。"
+    },
+    {
+      "title": "中國汽車流通協會發布9月純電動車1年車齡保值率榜單 小米YU7位居第一",
+      "summary": "觀點網：9 月純電動車一年車齡保值率榜單，小米 YU7 排第一。第三方·非公告。",
+      "source": "觀點網",
+      "date": "2026-10-10",
+      "url": "https://www.guandian.hk/article/20261010/10023957.html",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "保值率高有助提升買家信心，對電動車需求有正面敘事。",
+      "newbieTake": "留意小米汽車 10 月交付數字。"
+    },
+    {
+      "title": "SpaceX收購低頻頻譜以擴張Starlink行動通訊能力",
+      "summary": "iThome：SpaceX 收購 800 MHz 低頻頻譜，擴展 Starlink 行動通訊服務。第三方·非公告。",
+      "source": "iThome",
+      "date": "2026-10-10",
+      "url": "https://www.ithome.com.tw/news/179551",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "低頻頻譜有助衛星直連手機覆蓋，市場關注對傳統電信商嘅競爭壓力。",
+      "newbieTake": "留意 FCC 審批同 SpaceX 建網時間表。"
+    },
+    {
+      "title": "US, European telecom stocks slide as SpaceX spectrum deal rattles sector",
+      "summary": "Reuters：SpaceX 頻譜交易令美歐電信股普遍下跌。第三方·非公告。",
+      "source": "Reuters Tech",
+      "date": "2026-10-09",
+      "url": "https://www.reuters.com/business/media-telecom/us-european-telecom-stocks-slide-spacex-spectrum-deal-rattles-sector-2026-10-09/",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "市場重新評估衛星通訊對電信業嘅威脅。",
+      "newbieTake": "比較電信股同 SPCX 之後幾週表現。"
+    },
+    {
+      "title": "缺料缺礦又搶輸 AI！低軌衛星「巨型星系」大夢受挫，業界預期恐掀淘汰整併潮",
+      "summary": "科技新報：低軌衛星業者面對材料短缺同 AI 搶資源，業界預期可能出現整併。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-11",
+      "url": "https://technews.tw/2026/10/11/space-ai-resource-competition/",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "規模較細嘅衛星業者壓力大，可能鞏固頭部業者如 Starlink 嘅地位。",
+      "newbieTake": "留意其他低軌星系計劃有冇延誤或合併消息。"
+    },
+    {
+      "title": "Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation",
+      "summary": "Reuters 獨家：紅杉支持嘅晶片初創 Nuvacore 以約 25 億美元估值集資。第三方·非公告。",
+      "source": "Reuters Tech",
+      "date": "2026-10-09",
+      "url": "https://www.reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09/",
+      "tickers": [],
+      "impact": "AI 晶片初創仍吸引資金，顯示市場對挑戰者嘅興趣。",
+      "newbieTake": "留意佢哋產品定位同 NVIDIA 嘅競爭關係。"
+    },
+    {
+      "title": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case",
+      "summary": "Reuters：高通同 Arm 合約糾紛案陪審團下週再商議。第三方·非公告。",
+      "source": "Reuters Tech",
+      "date": "2026-10-09",
+      "url": "https://www.reuters.com/business/media-telecom/qualcomm-arm-set-jury-verdict-contract-breach-feud-2026-10-09/",
+      "tickers": [],
+      "impact": "判決可能影響手機晶片授權成本同 Arm 架構生態。",
+      "newbieTake": "留意下週裁決結果。"
+    },
+    {
+      "title": "週末新聞速寫：OpenAI年化營收｜Terafab規劃2032年量產｜蘋果減供iPhone 18 Pro零組件｜中國將抑制對歐盟出口HEV",
+      "summary": "DIGITIMES 週末整理：OpenAI 營收、Terafab 量產規劃、蘋果減少 iPhone 18 Pro 零組件備貨等。第三方·非公告。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-10",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771057_PGALY6QK64YVXT6R04KLG",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "供應鏈角度可見 AI 同手機需求分化。",
+      "newbieTake": "睇下 Terafab 同 SpaceX 相關進度。"
+    },
+    {
+      "title": "毛利率衝破 87%！川湖 40 年只做滑軌，AI 伺服器市占近八成",
+      "summary": "科技新報：川湖專注伺服器滑軌，AI 伺服器市佔近八成，毛利率高。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-10",
+      "url": "https://finance.technews.tw/2026/10/10/king-slide-success-story-revealed/",
+      "tickers": [],
+      "impact": "AI 伺服器需求惠及零組件供應鏈。",
+      "newbieTake": "學習睇供應鏈公司毛利率同客戶集中度。"
+    },
+    {
+      "title": "Why Nvidia's Stock Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
+      "summary": "moomoo 轉載 MarketWatch 評論：NVIDIA 股價避過博通、甲骨文受 AI 信貸疑慮拖累嘅跌勢。原文來源：MarketWatch。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-10",
+      "url": "https://www.moomoo.com/news/post/1000874958/why-nvidia-s-stock-is-dodging-the-ai-credit-scare",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場區分 AI 公司嘅資產負債表質素，借貸多嘅公司受壓較大。",
+      "newbieTake": "比較 NVIDIA 同甲骨文嘅負債同現金流。"
+    },
+    {
+      "title": "HYUNDAI 全球執行長：若缺乏防線，中國車恐衝擊美國市場",
+      "summary": "T客邦：現代汽車 CEO 指如缺乏防線，中國車可能衝擊美國市場。第三方·非公告。",
+      "source": "T客邦",
+      "date": "2026-10-11",
+      "url": "https://www.techbang.com/posts/133588-hyundai-ceo-chinese-cars-impact-us-market",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "中國電動車出海競爭力受關注，但美國貿易壁壘仍高。",
+      "newbieTake": "留意中國車企海外銷售數據。"
+    }
+  ]
 }
