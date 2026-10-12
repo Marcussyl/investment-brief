@@ -1,0 +1,217 @@
+{
+  "updated": "2026-10-12T08:40:00+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. Educational tech digest only. Sources linked; third-party items flagged in summaries where relevant.",
+  "items": [
+    {
+      "title": "防範 AI 風險，微軟 CEO 納德拉：須由人類設立與執行煞車機制",
+      "summary": "科技新報轉述：微軟 CEO Nadella 指先進 AI 需由人類設立同執行煞車機制。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-12",
+      "url": "https://infosecu.technews.tw/2026/10/12/microsofts-nadella-says-ai-needs-an-emergency-brake-that-humans-control/",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "AI 安全取態可能影響監管討論同產品推出節奏。",
+      "newbieTake": "睇下微軟之後有冇具體安全功能或政策文件。"
+    },
+    {
+      "title": "寫程式免聯網？微軟 GitHub Copilot 本機 AI 模式月底登場",
+      "summary": "T客邦：GitHub Copilot 本機推論模式月底登場，Surface 實測速度受關注。第三方·非公告。",
+      "source": "T客邦",
+      "date": "2026-10-11",
+      "url": "https://www.techbang.com/posts/133964-surface-copilot-local-inference-63-tokens",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "本機 AI 可減少雲端依賴，亦係 Windows／Surface 硬件賣點。",
+      "newbieTake": "留意正式推出日同硬件需求。"
+    },
+    {
+      "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+      "summary": "Reuters 引述 FT：NVIDIA 洽談加碼投資或收購 Reflection AI。第三方·非公告。",
+      "source": "Reuters Tech",
+      "date": "2026-10-10",
+      "url": "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場關注 NVIDIA 由晶片延伸到模型生態。",
+      "newbieTake": "留意有冇正式公告或監管審查。"
+    },
+    {
+      "title": "三星、SK 海力士記憶體賺太多，ASML 調漲零組件 10% 價格分享利潤獲同意",
+      "summary": "科技新報：記憶體廠獲利強勁，ASML 調漲零組件約 10% 分享利潤。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-12",
+      "url": "https://technews.tw/2026/10/12/asml-raises-component-prices-by-10-to-share-profits/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "記憶體／設備商景氣上升，可能推高整條 AI／手機供應鏈成本。",
+      "newbieTake": "對照 DRAM 報價同手機品牌調價消息。"
+    },
+    {
+      "title": "雲端巨頭首度入股台灣 PCB 廠！亞馬遜為何押寶金像電？",
+      "summary": "科技新報：亞馬遜入股台灣 PCB 廠金像電，凸顯雲端資本開支對供應鏈嘅拉動。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-12",
+      "url": "https://technews.tw/2026/10/12/why-is-amazon-betting-on-gold-circuit/",
+      "tickers": [],
+      "impact": "雲端巨頭直接投資供應鏈，反映 AI 基建需求持續。",
+      "newbieTake": "留意其他雲端商會否跟進類似投資。"
+    },
+    {
+      "title": "台積電 15 日將公布第三季財報，市場聚焦三大關鍵",
+      "summary": "科技新報財經：台積電 10/15 公布 Q3，市場聚焦先進製程、AI 相關營收同資本支出。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-12",
+      "url": "https://finance.technews.tw/2026/10/12/tsmc-will-release-its-third-quarter-financial-report-on-the-15th/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "台積電指引係半導體同 AI 供應鏈重要溫度計。",
+      "newbieTake": "對照 NVIDIA 同雲端客戶資本開支。"
+    },
+    {
+      "title": "長鑫存儲準備年底推出 4F² DDR5 RDIMM 產品，估超前三星兩年",
+      "summary": "科技新報：中國長鑫存儲擬年底推 4F² DDR5 RDIMM。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-11",
+      "url": "https://technews.tw/2026/10/11/cxmt-dram-memory-4f%c2%b2-ddr5/",
+      "tickers": [],
+      "impact": "中國記憶體技術進度受關注，可能影響全球供給敘事。",
+      "newbieTake": "留意產品是否量產同出口管制限制。"
+    },
+    {
+      "title": "涉非法轉運 25 億美元輝達 AI 晶片至中國！美超微承包台商在美認罪",
+      "summary": "科技新報：美超微承包商涉非法轉運含輝達 AI 晶片伺服器至中國並認罪。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-10",
+      "url": "https://finance.technews.tw/2026/10/10/ting-wei-sun/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "出口管制執法加強，供應鏈合規風險上升。",
+      "newbieTake": "留意美國商務部後續執法。"
+    },
+    {
+      "title": "缺料缺礦又搶輸 AI！低軌衛星「巨型星系」大夢受挫",
+      "summary": "科技新報：低軌衛星業者面對材料短缺同 AI 搶資源，業界預期或整併。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-11",
+      "url": "https://technews.tw/2026/10/11/space-ai-resource-competition/",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "資源緊張可能鞏固頭部星系（如 Starlink）優勢。",
+      "newbieTake": "留意其他低軌計劃延誤或合併。"
+    },
+    {
+      "title": "AI is automating coding. So why are software developer job postings on the rise?",
+      "summary": "CNBC：AI 自動化編程同時，軟件工程職缺仍上升。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-11",
+      "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "市場討論 AI 對軟件人才需求係替代定互補。",
+      "newbieTake": "對照大型科技公司招聘同裁員數據。"
+    },
+    {
+      "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+      "summary": "CNBC：AI 安全守門人角色愈受關注。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-11",
+      "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "安全同合規可能成為大型科技公司新競爭維度。",
+      "newbieTake": "留意監管機構對 AI 安全嘅新要求。"
+    },
+    {
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "summary": "CNBC：整理企業取得 NVIDIA GPU 嘅途徑（雲端、neocloud、自建）。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-10",
+      "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "雲端同 neocloud 係 GPU 需求重要渠道。",
+      "newbieTake": "比較雲端資本開支數字。"
+    },
+    {
+      "title": "華爲小米手機同日漲價 最高漲1000元：供應鏈稱價格回不去了",
+      "summary": "富途轉述：華為、小米手機因記憶體成本調價。第三方·非公司公告。",
+      "source": "富途快訊",
+      "date": "2026-10-10",
+      "url": "https://news.futunn.com/hk/post/1000821762/huawei-and-xiaomi-raise-smartphone-prices-on-same-day-with",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "記憶體漲價推高手機成本，加價可保毛利但或影響銷量。",
+      "newbieTake": "留意小米有冇正式確認。"
+    },
+    {
+      "title": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元",
+      "summary": "富途轉載 SemiAnalysis 觀點：指 NVIDIA 相關表外承諾規模上升。第三方觀點·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-12",
+      "url": "https://news.futunn.com/post/1000840911/nvidia-s-off-balance-sheet-commitments-soar-to-530-billion",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場討論供應協議同資本承諾如何影響 AI 供應鏈風險。",
+      "newbieTake": "對照公司財報附註同分析師方法，勿單信單一數字。"
+    },
+    {
+      "title": "Why Nvidia's Stock Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
+      "summary": "moomoo 轉載評論：NVIDIA 相對避過 AI 信貸疑慮拖累。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-10",
+      "url": "https://www.moomoo.com/news/post/1000874958/why-nvidia-s-stock-is-dodging-the-ai-credit-scare",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場區分 AI 相關公司嘅資產負債表質素。",
+      "newbieTake": "比較現金流同負債結構，唔好只睇股價。"
+    },
+    {
+      "title": "企業如何防止AI代理「做錯事」，專家建議四大治理方向",
+      "summary": "iThome：企業 AI 代理治理建議。第三方·非公告。",
+      "source": "iThome",
+      "date": "2026-10-10",
+      "url": "https://www.ithome.com.tw/news/179532",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "AI 代理落地需要權限、審計同人工把關。",
+      "newbieTake": "對照微軟等大廠產品安全設計。"
+    },
+    {
+      "title": "AI 導入成敗關鍵不在技術，員工「不會用、不敢用」才是最大障礙",
+      "summary": "科技新報：企業 AI 導入最大障礙係員工採用。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-12",
+      "url": "https://technews.tw/2026/10/12/we-keep-missing-the-most-important-point-about-ai-adoption/",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "軟件訂閱收入取決於實際採用率，唔單係模型能力。",
+      "newbieTake": "留意企業軟件 ARR 同使用率指標。"
+    },
+    {
+      "title": "毛利率衝破 87%！川湖 40 年只做滑軌，AI 伺服器市占近八成",
+      "summary": "科技新報：川湖 AI 伺服器滑軌市佔高、毛利率高。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-10",
+      "url": "https://finance.technews.tw/2026/10/10/king-slide-success-story-revealed/",
+      "tickers": [],
+      "impact": "AI 伺服器需求惠及細分零組件供應鏈。",
+      "newbieTake": "學習睇供應鏈毛利率同客戶集中度。"
+    }
+  ]
+}

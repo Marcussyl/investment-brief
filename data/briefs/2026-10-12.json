@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-12",
+  "stories": [
+    {
+      "id": "spcx-starlink-pipeline-monday",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：今日窗口發射 Starlink；佛羅里達天然氣管道獲州監管關稅批准後續關注（週五收 162.57）",
+      "summary": "Holding SPCX。SpaceX 官網：Falcon 9 目標於 10/12（美東 19:00–23:00）由范登堡 SLC-4E 發射 27 枚 Starlink，一級擬於太平洋無人船回收。The Grid Fin 週末回顧：10/10 第四次嘗試後完成 SDA Tranche 1 數據衛星任務。Reuters（10/5）：子公司 Coastal Connect Services 向佛羅里達州公共服務委員會申請約 32.4 英里天然氣管道關稅，以支援卡納維拉角發射燃料供應；Grid Fin／委員會文件指 10/6 已通過關稅相關議題，惟建造同其他許可仍待完成。Yahoo：10/8 160.57 → 10/9 162.57。週末美股休市，週一（哥倫布日）債券休市但股市開市，暫無新收市價。",
+      "whyItMatters": "發射節奏同 Starlink 部署係 SpaceX 核心營運指標；自建燃料供應基礎設施反映發射量上升，但監管同建造進度仍有不確定性。",
+      "whatToWatch": "今日 Starlink 發射結果；CRS-35（官網列 10/13）；管道後續許可。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-10-12",
+          "title": "Starlink Mission (Falcon 9, SLC-4E)",
+          "url": "https://www.spacex.com/launches/sl-15-25"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-10-12",
+          "title": "Upcoming launches",
+          "url": "https://www.spacex.com/launches"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-10-05",
+          "title": "SpaceX seeks approval for Florida gas pipeline to support Cape Canaveral launches",
+          "url": "https://www.reuters.com/business/energy/spacex-seeks-approval-florida-gas-pipeline-support-cape-canaveral-launches-2026-10-05/"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "The Grid Fin",
+          "date": "2026-10-11",
+          "title": "This Week in SpaceX: SDA Flies on 4th Try; Two Airlines Pick Starlink",
+          "url": "https://thegridfin.com/this-week-in-spacex-oct-11-2026/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "SPCX last close",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-hk-reopen-buyback-memory",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：港股週一開市；近日持續股份回購披露；記憶體成本推升手機調價傳聞（週五收 25.96）",
+      "summary": "Holding 1810.HK。港股長週末後 10/12 開市。港交所翌日披露報表：小米 10/2 於聯交所回購 411.2 萬股 B 類股（約港幣 9,924 萬元）、10/5 回購 200 萬股（約港幣 4,759 萬元），作註銷用途；屬現有回購授權下日常披露，唔係新嘅 200 億港元計劃公告（該計劃 5/26 已公布）。富途等轉述：華為、小米手機因記憶體成本同日調價（第三方·非公司公告）。Yahoo：10/8 23.66 → 10/9 25.96。",
+      "whyItMatters": "回購會減少流通股，短線亦可提供買盤；記憶體漲價推高手機 BOM，加價可保毛利但或影響銷量。",
+      "whatToWatch": "今日港股開市後走勢；後續翌日披露回購；公司會否正式確認手機調價。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-10-02",
+          "title": "Next Day Disclosure Return — Xiaomi share repurchase 2 Oct 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1002/2026100203045.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-10-05",
+          "title": "Next Day Disclosure Return — Xiaomi share repurchase 5 Oct 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1005/2026100501644.pdf"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "富途牛牛",
+          "date": "2026-10-10",
+          "title": "華爲小米手機同日漲價 最高漲1000元：供應鏈稱價格回不去了",
+          "url": "https://news.futunn.com/hk/post/1000821762/huawei-and-xiaomi-raise-smartphone-prices-on-same-day-with"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "1810.HK last close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "gld-cpi-week-ahead",
+      "ticker": "GLD",
+      "title": "黃金（GLD）：現貨金週一附近約 4,200 美元水平；本週聚焦美國 CPI（週五 GLD 收 384.58）",
+      "summary": "Holding GLD。上週金價受債息回落同美元走勢支持反彈；公開報價顯示 10/12 附近現貨金約每盎司 4,200 美元水平（第三方報價，非 GLD 收市價）。Yahoo：GLD 10/8 378.62 → 10/9 384.58。本週市場聚焦美國 9 月 CPI（普遍預期週三公布）同銀行業績季開波；哥倫布日美債休市但股市開市。港元掛鈎美元，Fed／通脹數據會經利率預期影響金價同港息環境。",
+      "whyItMatters": "CPI 影響市場對 Fed 路徑嘅定價；實際利率同美元升跌係金價嘅重要短期驅動。",
+      "whatToWatch": "美國 CPI／核心 CPI；美元同美債息；GLD 今日收市。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "富途快訊",
+          "date": "2026-10-12",
+          "title": "一周前瞻｜美聯儲官員靜默期前密集發聲……中美CPI周三出爐",
+          "url": "https://news.futunn.com/post/1000837743/weekly-outlook-fed-officials-deliver-a-flurry-of-remarks-ahead"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-10-09",
+          "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+          "url": "https://www.reuters.com/world/india/gold-rises-softer-dollar-easing-yields-fed-outlook-focus-2026-10-09/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "GLD last close",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "spym-veu-cpi-banks-week",
+      "ticker": "SPYM",
+      "title": "大市 ETF（SPYM／VEU）：週一美股開市（債券休市）；本週 CPI 同大型銀行業績開季",
+      "summary": "Holding SPYM、VEU。富途早報／前瞻：本週焦點包括美國 CPI、大型銀行業績，以及台積電等晶片財報。哥倫布日美債休市但股市開市。Yahoo：SPYM 10/8 91.07 → 10/9 91.64；VEU 82.18 → 82.82。週末無新收市價。",
+      "whyItMatters": "SPYM 追蹤 S&P 500、VEU 追蹤美國以外股市；通脹同銀行業績會影響整體估值同風險偏好。",
+      "whatToWatch": "CPI 結果；JPMorgan 等銀行業績；美元對 VEU 嘅影響。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "富途快訊",
+          "date": "2026-10-12",
+          "title": "一周前瞻｜……中美CPI周三出爐；新一輪財報季開啟",
+          "url": "https://news.futunn.com/post/1000837743/weekly-outlook-fed-officials-deliver-a-flurry-of-remarks-ahead"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "富途早報",
+          "date": "2026-10-12",
+          "title": "富途早报｜……PCB概念……",
+          "url": "https://news.futunn.com/post/1000847699/futu-morning-brief-trump-announces-a-energy-ceasefire-between-russia"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "SPYM last close",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "VEU last close",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-reflection-memory-cycle",
+      "ticker": "NVDA",
+      "title": "英偉達（NVDA，研究）：Reflection AI 洽談報道仍在；記憶體／設備商利潤分享凸顯 AI 供應鏈緊俏（週五收 229.28）",
+      "summary": "Research NVDA。Reuters 引述 FT（10/10）：NVIDIA 洽談進一步投資或收購開源模型初創 Reflection AI（未經公司確認）。科技新報：三星、SK 海力士記憶體獲利強勁，ASML 調漲零組件約 10% 分享利潤獲同意（第三方）。富途轉載評論指市場關注 NVDA 相關表外承諾規模（第三方觀點）。Yahoo：10/8 230.48 → 10/9 229.28。",
+      "whyItMatters": "模型生態延伸同供應鏈漲價，都反映 AI 資本開支週期仍緊；記憶體漲價亦會傳導到手機同伺服器成本。",
+      "whatToWatch": "NVIDIA／Reflection 有冇正式公告；記憶體報價；11 月業績。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-10-10",
+          "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+          "url": "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-12",
+          "title": "三星、SK 海力士記憶體賺太多，ASML 調漲零組件 10% 價格分享利潤獲同意",
+          "url": "https://technews.tw/2026/10/12/asml-raises-component-prices-by-10-to-share-profits/"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "富途快訊",
+          "date": "2026-10-12",
+          "title": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis……",
+          "url": "https://news.futunn.com/post/1000840911/nvidia-s-off-balance-sheet-commitments-soar-to-530-billion"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "NVDA last close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-nadella-brake-greencard",
+      "ticker": "MSFT",
+      "title": "微軟（MSFT，研究）：Nadella「AI 緊急煞車」同綠卡程序暫停報道延續；本機 Copilot 消息浮現（週五收 535.07）",
+      "summary": "Research MSFT。CNBC／科技新報：Nadella 指先進 AI 需要由人類設立同執行嘅煞車機制。Reuters：特朗普政府暫停微軟及部分 IT 公司綠卡程序（上週末報道）。T客邦：GitHub Copilot 本機 AI 模式月底登場（第三方產品報道）。Yahoo：10/8 522.61 → 10/9 535.07。工商銀行（1398.HK，研究）長週末無重大公司新聞；Yahoo 列 10/9 收 7.50。",
+      "whyItMatters": "AI 安全取態同移民政策都會影響大型軟件公司嘅產品節奏同人才成本。",
+      "whatToWatch": "微軟官方安全政策細節；綠卡措施後續；季度業績日。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-10",
+          "title": "Microsoft's Nadella says AI needs an 'emergency brake' that humans control",
+          "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-12",
+          "title": "防範 AI 風險，微軟 CEO 納德拉：須由人類設立與執行煞車機制",
+          "url": "https://infosecu.technews.tw/2026/10/12/microsofts-nadella-says-ai-needs-an-emergency-brake-that-humans-control/"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters",
+          "date": "2026-10-10",
+          "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
+          "url": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "T客邦",
+          "date": "2026-10-11",
+          "title": "寫程式免聯網？微軟 GitHub Copilot 本機 AI 模式月底登場",
+          "url": "https://www.techbang.com/posts/133964-surface-copilot-local-inference-63-tokens"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "MSFT last close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-09",
+          "title": "1398.HK last close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "memory-cycle",
+      "title": "記憶體週期（memory / DRAM cycle）",
+      "titleEn": "Memory cycle",
+      "what": "記憶體（DRAM、NAND 等）價格會隨供需大幅起伏：短缺時報價急升、廠商賺暴利；過剩時價格急跌。手機、伺服器、AI 加速器都要用大量記憶體，所以呢個週期會傳導到成條科技供應鏈。",
+      "whyItMatters": "記憶體漲價會推高手機同伺服器 BOM 成本，品牌可能加價或壓縮毛利；設備商（例如曝光機）亦可能趁景氣加價分享利潤。",
+      "whereToday": "科技新報指三星、SK 海力士記憶體獲利強勁，ASML 調漲零組件約 10%；富途等亦報道手機因記憶體成本調價，與 Active 持倉小米相關。",
+      "whatToWatch": "DRAM／HBM 現貨同合約價；手機品牌官方調價確認；伺服器出貨。",
+      "relatedTickers": [
+        "1810.HK",
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/3f799f70bc5681b1a6c2eeed2125c98b"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR Portfolio S&P 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Monthly Return for the month ended 30 September 2026",
+        "date": "2026-10-07",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Interim dividend cash dividend with currency option (update)",
+        "date": "2026-09-29",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-10-12.mp3",
+  "audioScriptChars": 2406,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
