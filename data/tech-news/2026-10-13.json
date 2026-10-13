@@ -1,0 +1,221 @@
+{
+  "updated": "2026-10-13T08:45:00+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. Educational tech digest only. Sources linked; third-party items flagged in summaries where relevant.",
+  "items": [
+    {
+      "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+      "summary": "微軟官方：Maia 200 已上線；Maia 300 將於 2027 量產，並把 Maia 作為產品同服務嘅主要推理系統。公司新聞室。",
+      "source": "Microsoft",
+      "date": "2026-10-12",
+      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "可能改變雲端推理成本結構，市場常解讀為減少對外部 GPU 依賴。",
+      "newbieTake": "分清「推理」同「訓練」採購，唔好一聽到自研晶片就當成全面替代。"
+    },
+    {
+      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "summary": "CNBC：微軟將以自研 Maia 為主處理 AI 推理，Maia 300 2027 量產；訓練仍與 NVIDIA／AMD 合作。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-12",
+      "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "市場關注對 NVDA 推理需求嘅長線影響。",
+      "newbieTake": "睇下業績會有冇拆開 GPU 同自研加速器開支。"
+    },
+    {
+      "title": "微軟新自研晶片問世衝擊輝達股價，市場關注台積電財報穩定半導體市場",
+      "summary": "科技新報：微軟自研晶片消息衝擊輝達股價；市場同時關注台積電財報。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-13",
+      "url": "https://finance.technews.tw/2026/10/13/the-launch-of-microsofts-new-self-developed-chip-impacts-nvidias-stock-price/",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "半導體供應鏈情緒受超大規模客戶自研進度牽動。",
+      "newbieTake": "留意台積電財報對先進製程同 AI 相關需求嘅講法。"
+    },
+    {
+      "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+      "summary": "NVIDIA 新聞室：與 Cisco 推出 USFP 高密度光學模組構想，瞄準 400Gb/s-per-lane，協助 AI 工廠擴容。公司新聞室。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-12",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "網絡同光學係 AI 工廠擴容瓶頸之一，NVIDIA 繼續向全棧延伸。",
+      "newbieTake": "公司新聞室優先於傳聞；留意規格何時落地。"
+    },
+    {
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories",
+      "summary": "NVIDIA 博客：於 OCP 峰會談 Vera Rubin 架構開放，協助擴展 AI 工廠。公司博客。",
+      "source": "NVIDIA Blog",
+      "date": "2026-10-12",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "開放架構有助生態採用，亦係同自研加速器競爭嘅敘事之一。",
+      "newbieTake": "對照客戶自研進度同 NVIDIA 平台鎖定策略。"
+    },
+    {
+      "title": "全球手機市場陷 14 年低谷，記憶體短缺拖累出貨量、Q3 年減 20%",
+      "summary": "科技新報：Counterpoint 指全球手機 Q3 出貨年減約 20%；記憶體短缺同漲價係主因。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-13",
+      "url": "https://technews.tw/2026/10/13/global-smartphone-shipments-hit-a-new-low-with-20-percent-yoy-decline/",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "記憶體週期由 AI 伺服器傳導到手機出貨同售價。",
+      "newbieTake": "結合小米出貨同毛利策略一齊睇，唔好只睇出貨量。"
+    },
+    {
+      "title": "出货量暴跌20%！全球手机市场创十四年来最惨第三季度",
+      "summary": "富途轉述：全球手機 Q3 出貨大跌；報道指小米出貨跌幅較大。原文來源：外電／研究機構。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-13",
+      "url": "https://news.futunn.com/post/1000923679/shipments-plunge-20-global-mobile-phone-market-records-worst-third",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "出貨量同市佔變化會影響手機股短線情緒。",
+      "newbieTake": "等公司官方數字確認，唔好只靠第三方追蹤。"
+    },
+    {
+      "title": "荷包又要縮水了！AI 浪潮搶走產能，明年記憶體與 SSD 恐全面大漲 20%",
+      "summary": "T客邦：分析指 AI 搶產能，預期記憶體同 SSD 價格續升。第三方·非公告。",
+      "source": "T客邦",
+      "date": "2026-10-13",
+      "url": "https://www.techbang.com/posts/133733-ai-servers-dram-nand-q4-prices-rise-20-percent",
+      "tickers": [
+        "1810.HK",
+        "NVDA"
+      ],
+      "impact": "記憶體漲價繼續影響手機 BOM 同伺服器成本。",
+      "newbieTake": "對照現貨／合約價，唔好當單一預測為事實。"
+    },
+    {
+      "title": "AI 晶片新星 Cerebras 失寵 市場憂 OpenAI 訂單生變",
+      "summary": "科技新報：Cerebras 股價受壓，市場憂慮 OpenAI 訂單風險。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-13",
+      "url": "https://finance.technews.tw/2026/10/13/once-wall-streets-darling-cerebras-stock-is-struggling/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "AI 晶片挑戰者估值對大客戶訂單極敏感。",
+      "newbieTake": "學習分辨訂單傳聞同已簽約收入。"
+    },
+    {
+      "title": "先台積電一步公布業績，ASML 第三季有望獲利年增翻倍",
+      "summary": "科技新報：ASML 即將公布業績，市場預期獲利大幅增長。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-13",
+      "url": "https://finance.technews.tw/2026/10/13/asmls-third-quarter-profit-is-expected-to-double-year-on-year/",
+      "tickers": [],
+      "impact": "設備商業績係先進製程同 AI 資本開支嘅領先指標。",
+      "newbieTake": "睇指引多過單季驚喜。"
+    },
+    {
+      "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
+      "summary": "CNBC：英特爾同博通 CEO 警告資金緊張可能成為 AI 最大瓶頸。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-12",
+      "url": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "市場關注係「算力不夠」定「融資／資本不夠」。",
+      "newbieTake": "對照超大規模雲端資本開支同債務成本。"
+    },
+    {
+      "title": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
+      "summary": "CNBC：量子計算公司 IonQ 擬全股票收購網絡安全公司 Elisity。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-12",
+      "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
+      "tickers": [],
+      "impact": "量子同網絡安全跨界併購反映新技術敘事仍活躍。",
+      "newbieTake": "全股票交易要留意攤薄同整合風險。"
+    },
+    {
+      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+      "summary": "CNBC：Meta 推出 Muse Wonder AI 模型，測試用戶付費意願。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-12",
+      "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+      "tickers": [],
+      "impact": "大型平台繼續用新模型測試 AI 變現。",
+      "newbieTake": "留意係產品實驗定已規模化收入。"
+    },
+    {
+      "title": "微軟Decision-1專攻AI代理決策，準確率83.5%領先同類模型",
+      "summary": "iThome：微軟 Decision-1 專攻 AI 代理決策，報道指準確率領先同類。第三方·非公告。",
+      "source": "iThome",
+      "date": "2026-10-12",
+      "url": "https://www.ithome.com.tw/news/179586",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "代理（agent）決策能力係下一輪產品競爭重點。",
+      "newbieTake": "官方論文／產品頁優先於媒體摘要。"
+    },
+    {
+      "title": "為什麼 Surface 不再出 AMD 版了？微軟副總裁首度解答",
+      "summary": "T客邦：微軟解釋 Surface 短期唔再出 AMD 版本。第三方·非公告。",
+      "source": "T客邦",
+      "date": "2026-10-12",
+      "url": "https://www.techbang.com/posts/133649-microsoft-surface-drops-amd-processors",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "PC 產品線供應商選擇反映成本同 AI PC 策略。",
+      "newbieTake": "屬產品線細節，唔等於整體雲端策略轉向。"
+    },
+    {
+      "title": "日月光投控 9 月和第三季營收創高，AI 先進封測幫大忙",
+      "summary": "科技新報：日月光 9 月同 Q3 營收創新高，受惠 AI 先進封測。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-12",
+      "url": "https://finance.technews.tw/2026/10/12/ase-fr-2609-q3/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "先進封測係 AI 供應鏈中段，營收可作產業溫度計。",
+      "newbieTake": "單月營收要同毛利、客戶集中度一齊睇。"
+    },
+    {
+      "title": "DIGTIMES：AI伺服器鏈捲入337調查等議題精選",
+      "summary": "電子時報議題精選提及 AI 伺服器鏈相關 337 調查等（摘要級）。第三方·非公告。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-12",
+      "url": "https://www.digitimes.com.tw/tech/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "貿易同智財調查可增加供應鏈不確定性。",
+      "newbieTake": "等正式法律／ITC 文件再判斷影響範圍。"
+    },
+    {
+      "title": "NVIDIA Options Spot-On: On October 12th, 2.83 Million Contracts Were Traded",
+      "summary": "富途／moomoo 轉述：NVIDIA 期權成交活躍。原文來源：期權數據轉載。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-12",
+      "url": "https://www.moomoo.com/news/post/1000959554/nvidia-options-spot-on-on-october-12th-2-83-million",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "期權量大反映短線波動同對沖需求上升。",
+      "newbieTake": "期權活躍唔等於方向已定，只係波動訊號。"
+    }
+  ]
+}

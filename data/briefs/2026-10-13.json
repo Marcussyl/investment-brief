@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-13",
+  "stories": [
+    {
+      "id": "spcx-crs35-launch-day",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：今日 CRS-35 補給任務目標發射；Dragon 載逾 6,300 磅物資上國際太空站（週一收 163.42）",
+      "summary": "Holding SPCX。SpaceX 官網：Falcon 9 目標於 10/13 美東 06:33（約 HKT 18:33）由卡納維拉角 SLC-40 發射 CRS-35（商業補給第 35 次），載 Dragon 運送超過 6,300 磅物資同科研設備（含最後一組 iROSA 太陽能板）往國際太空站；備份窗口 10/14 美東 06:08。約 52 小時後 Dragon 擬於 10/15 美東約 11:00 自動對接 Harmony 模組；一級擬於 LZ-40 著陸。NASA 同 Space.com 亦有轉播安排。Yahoo：10/9 162.57 → 10/12 163.42。",
+      "whyItMatters": "CRS 係 NASA 合約下嘅常態營運節奏；發射同對接成功率係 SpaceX 現金流同可靠性嘅可觀察指標。",
+      "whatToWatch": "今日發射結果；10/15 對接；後續 Starlink／其他窗口。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-10-13",
+          "title": "CRS-35 Mission",
+          "url": "https://www.spacex.com/launches/crs35"
+        },
+        {
+          "category": "company",
+          "publisher": "NASA",
+          "date": "2026-10-07",
+          "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+          "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/"
+        },
+        {
+          "category": "news",
+          "publisher": "Space.com",
+          "date": "2026-10-12",
+          "title": "SpaceX launching 6,300 pounds of cargo to the ISS on Oct. 13",
+          "url": "https://www.space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-12",
+          "title": "SPCX last close",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-counterpoint-q3-shipments",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：Counterpoint 指 Q3 全球手機出貨年減約 20%；小米出貨跌逾 30%、市佔約 10%（週一收 24.52）",
+      "summary": "Holding 1810.HK。Reuters 引述 Counterpoint Research 初步估算（10/12）：2026 年第三季全球智能手機出貨按年下跌約 20%，係自 2012 年以來最差第三季；AI 基建搶佔記憶體產能推高 DRAM／NAND 成本，品牌加價、減量、優先保利潤。報道指小米出貨跌逾 30%，市佔降至約 10%，並削減低價機同部分海外市場曝險以保毛利。科技新報／富途亦有轉述（第三方數據，非公司公告）。港股：Yahoo 10/9 25.96 → 10/12 24.52。",
+      "whyItMatters": "出貨量跌唔等於公司一定差——可能係主動縮減低毛利機種；但記憶體短缺同時推高 BOM，會影響手機同家電毛利同銷量敘事。",
+      "whatToWatch": "小米官方季度出貨／收入指引；記憶體報價；汽車交付能否對沖手機壓力。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters（via Investing.com）",
+          "date": "2026-10-12",
+          "title": "Global smartphone shipments record worst third quarter in 14 years amid memory shortage",
+          "url": "https://www.investing.com/news/stock-market-news/global-smartphone-shipments-record-worst-third-quarter-in-14-years-amid-memory-shortage-4944572"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-13",
+          "title": "全球手機市場陷 14 年低谷，記憶體短缺拖累出貨量、Q3 年減 20%",
+          "url": "https://technews.tw/2026/10/13/global-smartphone-shipments-hit-a-new-low-with-20-percent-yoy-decline/"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "富途快訊",
+          "date": "2026-10-13",
+          "title": "出货量暴跌20%！全球手机市场创十四年来最惨第三季度",
+          "url": "https://news.futunn.com/post/1000923679/shipments-plunge-20-global-mobile-phone-market-records-worst-third"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-12",
+          "title": "1810.HK last close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "gld-monday-dip-cpi-ahead",
+      "ticker": "GLD",
+      "title": "黃金（GLD）：週一收 382.15，較上週五回落；本週仍聚焦美國 CPI（Fed／港息環境相關）",
+      "summary": "Holding GLD。Yahoo：GLD 10/9 384.58 → 10/12 382.15（約 −0.6%）。公開報道指美元走強令現貨金短期受壓（第三方報價／評論，非 GLD 官方）。本週市場焦點仍係美國 9 月 CPI（普遍預期週三），會影響 Fed 路徑定價同實際利率預期；港元掛鈎美元，Fed／通脹數據亦會經息差影響港息環境（宏觀：Fed／HKMA 已勾選）。",
+      "whyItMatters": "GLD 追蹤金價；通脹數據同美元／美債息係短線主要驅動，唔係單一「避險口號」。",
+      "whatToWatch": "美國 CPI／核心 CPI；美元指數同美債息；GLD 今日收市。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "富途快訊",
+          "date": "2026-10-13",
+          "title": "美股收盘｜……黄金小幅承压",
+          "url": "https://news.futunn.com/post/1000922657/us-stocks-close-as-a-new-earnings-season-is-about"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "富途早报",
+          "date": "2026-10-13",
+          "title": "富途早报｜哈玛克倾向更快加息……今晚银行巨头开启财报季",
+          "url": "https://news.futunn.com/post/1000924931/futu-morning-brief-hammack-leans-toward-faster-rate-hikes-while"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-12",
+          "title": "GLD last close",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "spym-veu-banks-earnings-open",
+      "ticker": "SPYM",
+      "title": "大市 ETF（SPYM／VEU）：週一美股漲跌互現；今晚大型銀行開啓財報季，本週仍有 CPI",
+      "summary": "Holding SPYM、VEU。富途早報／收市：新一輪財報季揭幕，今晚銀行巨頭業績開波；三大指數週一漲跌互現，芯片股偏弱。Yahoo：SPYM 10/9 91.64 → 10/12 91.58；VEU 82.82 → 82.49。SPYM 追蹤 S&P 500、VEU 追蹤美國以外股市——銀行業績同通脹數據會同時影響風險偏好同估值。",
+      "whyItMatters": "銀行財報係季初「溫度計」；CPI 則影響利率預期，兩者都會牽動你持倉嘅大市 ETF。",
+      "whatToWatch": "大型銀行業績（淨息差／信貸質素）；CPI；美元對 VEU 嘅影響。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "thirdParty",
+          "publisher": "富途早报",
+          "date": "2026-10-13",
+          "title": "富途早报｜……今晚银行巨头开启财报季",
+          "url": "https://news.futunn.com/post/1000924931/futu-morning-brief-hammack-leans-toward-faster-rate-hikes-while"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "富途快訊",
+          "date": "2026-10-12",
+          "title": "美股收盘｜新一轮财报季即将揭幕，三大指数涨跌互现",
+          "url": "https://news.futunn.com/post/1000922657/us-stocks-close-as-a-new-earnings-season-is-about"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-12",
+          "title": "SPYM last close",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-12",
+          "title": "VEU last close",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        }
+      ]
+    },
+    {
+      "id": "msft-maia-300-primary-inference",
+      "ticker": "MSFT",
+      "title": "微軟（MSFT，研究）：公布 Maia 300，稱 2027 起將 Maia 作為主要 AI 推理系統（週一收 541.15）",
+      "summary": "Research MSFT。微軟官方部落格（10/12，Scott Guthrie）：Azure Maia 200 已服務 Copilot 等生產負載；第三代 Maia 300 預計 2027 開始量產部署，並將 Maia 家族擴至多吉瓦級，作為微軟產品同服務嘅主要推理（inference）系統。公司稱 Maia 300 相對領先 GPU 系統有望每兆瓦多約 40% tokens；CNBC／The Verge 報道市場解讀為減少對 NVIDIA 推理產能依賴，但訓練（training）仍會用 NVIDIA／AMD。Yahoo：10/9 535.07 → 10/12 541.15。",
+      "whyItMatters": "超大規模雲端自研加速器會改變「邊度用 GPU、邊度用自家晶片」嘅成本結構；短線敘事常拖累供應商股價，但訓練需求未必同步消失。",
+      "whatToWatch": "Maia 實際部署進度；Azure 資本開支；微軟下次業績對 GPU 採購嘅講法。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft",
+          "date": "2026-10-12",
+          "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-12",
+          "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+          "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-13",
+          "title": "微軟新自研晶片問世衝擊輝達股價……",
+          "url": "https://finance.technews.tw/2026/10/13/the-launch-of-microsofts-new-self-developed-chip-impacts-nvidias-stock-price/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-12",
+          "title": "MSFT last close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-maia-reaction-cisco-optics",
+      "ticker": "NVDA",
+      "title": "英偉達（NVDA，研究）：微軟 Maia 消息下週一收跌；同日新聞室公布與 Cisco 新型光學模組（週一收 226.32）",
+      "summary": "Research NVDA。週一市場聚焦微軟 Maia 300「主要推理系統」敘事；Yahoo：NVDA 10/9 229.28 → 10/12 226.32。NVIDIA 新聞室同日：與 Cisco 推出 Ultra-Dense Small Form Factor Pluggable（USFP）光學模組構想，瞄準 400Gb/s-per-lane，協助 AI 工廠在相同網絡佔位下擴容（公司新聞室）。博客亦談 OCP 峰會同 Vera Rubin 架構開放。工商銀行（1398.HK，研究）暫無重大公司新聞；Yahoo 10/12 收 7.62（10/9 7.50）。",
+      "whyItMatters": "客戶自研推理晶片係長線競爭敘事；同時 NVIDIA 繼續用網絡／光學同生態擴張鞏固 AI 工廠位置——兩邊都要分開睇。",
+      "whatToWatch": "超大規模客戶資本開支；USFP 產業規格進度；NVDA 下季指引。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-12",
+          "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-10-12",
+          "title": "OCP Global Summit: NVIDIA Opens Vera Rubin Architecture…",
+          "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-12",
+          "title": "Microsoft to rely more on homegrown AI chips…",
+          "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-12",
+          "title": "NVDA last close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-12",
+          "title": "1398.HK last close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "inference-vs-training",
+      "title": "推理與訓練（inference vs training）",
+      "titleEn": "Inference vs training",
+      "what": "訓練（training）係用大量數據同算力「教」出一個 AI 模型；推理（inference）係模型已經訓練好之後，日常回答問題、跑 Copilot、生成內容時用嘅算力。同一個公司可以訓練用 GPU，推理改用自家加速器。",
+      "whyItMatters": "新聞講「減少依賴 NVIDIA」時，要分清係減推理採購、減訓練採購，定係兩者都減——對供應商同雲端成本嘅含義唔同。",
+      "whereToday": "微軟宣布 Maia 300 將成為產品同服務嘅主要推理系統（2027 起），同時報道指訓練仍會用 NVIDIA／AMD。",
+      "whatToWatch": "超大規模雲端自研晶片部署比例；業績會上對 GPU 同自研加速器開支嘅區分。",
+      "relatedTickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/3f899f70bc5681618b78c30ebc60f462"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR Portfolio S&P 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Monthly Return for the month ended 30 September 2026",
+        "date": "2026-10-07",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Interim dividend cash dividend with currency option (update)",
+        "date": "2026-09-29",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-10-13.mp3",
+  "audioScriptChars": 2612,
+  "audioVoice": "gTTS-zh-TW"
+}
