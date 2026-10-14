@@ -1,0 +1,227 @@
+{
+  "updated": "2026-10-14T08:45:00+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. Educational tech digest only. Sources linked; third-party items flagged in summaries where relevant.",
+  "items": [
+    {
+      "title": "SpaceX launches NASA science and cargo to the International Space Station",
+      "summary": "Spaceflight Now：Falcon 9 於美東 10/13 06:33（卡納維拉角 SLC-40）發射 CRS-35，Dragon 載逾 6,300 磅物資往國際太空站，一級於 LZ-40 著陸。第三方·非公告（發射實況報道）。",
+      "source": "Spaceflight Now",
+      "date": "2026-10-13",
+      "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "CRS 係 NASA 合約下常態營運；發射同著陸成功係可靠性同現金流嘅可觀察指標。",
+      "newbieTake": "留意 10/15 對接同後續發射窗口。"
+    },
+    {
+      "title": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
+      "summary": "CNBC：SpaceX 同意就 AI 安全風險向紐約市議會作證（接獲傳票後）。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-13",
+      "url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "市場可能更關注 SpaceX／xAI 相關治理同監管敘事，未必即時改變發射營運。",
+      "newbieTake": "留意作證時間同公開文件範圍。"
+    },
+    {
+      "title": "Why this little known Chinese chipmaker has caused a global stock rout",
+      "summary": "CNBC：中國記憶體廠長鑫（CXMT）技術進展報道引發全球芯片／記憶體股拋售情緒。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-13",
+      "url": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "擁擠嘅 AI 記憶體交易對競爭訊號極敏感，可能波及相關供應鏈同風險偏好。",
+      "newbieTake": "對照美光／三星／SK 海力士官方說法，唔好只靠單一報道。"
+    },
+    {
+      "title": "US chip stocks extend slide as China memory report, AI spending jitters hit sector",
+      "summary": "Reuters：美國芯片股延續跌勢，受中國記憶體報道同 AI 開支疑慮拖累。第三方·非公告。",
+      "source": "Reuters Tech",
+      "date": "2026-10-13",
+      "url": "https://www.reuters.com/world/china/us-chip-stocks-extend-slide-china-memory-report-ai-spending-jitters-hit-sector-2026-10-13/",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "板塊波動反映「AI 資本開支可持續性」同「記憶體競爭」兩條敘事同時發酵。",
+      "newbieTake": "留意超大規模雲端下季資本開支指引。"
+    },
+    {
+      "title": "輝達中國 AI 晶片市占下滑，華為加速追趕",
+      "summary": "科技新報引述 IDC／路透：輝達上半年中國資料中心 AI 加速器市佔約 34%、出貨年減約 44%；華為市佔約 28%。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-14",
+      "url": "https://technews.tw/2026/10/14/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "出口管制同本土替代可能改變中國市場結構，但全球訓練需求敘事仍分開睇。",
+      "newbieTake": "留意 NVIDIA 官方對中國收入口徑同下季指引。"
+    },
+    {
+      "title": "科技大廠都簽五年長約，三星 2027 年記憶體產能八成給了 AI 市場",
+      "summary": "科技新報引述韓媒：三星與科技大廠簽五年長約，2027 年記憶體產能近八成鎖定 AI（含 HBM／DRAM）。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-13",
+      "url": "https://finance.technews.tw/2026/10/13/samsung-plans-to-allocate-80-of-its-memory-production-capacity-to-the-ai-%e2%80%8b%e2%80%8bmarket-by-2027/",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "長約反映供應商把產能優先給 AI，可能令消費電子記憶體更緊。",
+      "newbieTake": "對照手機品牌對 BOM 成本同出貨策略嘅講法。"
+    },
+    {
+      "title": "DDR4 漲幅超越 DDR5，記憶體供不應求可能繼續兩年",
+      "summary": "科技新報引述巴克萊：DDR4 漲幅超過 DDR5，出現價格倒置；短缺或延續約兩年。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-13",
+      "url": "https://finance.technews.tw/2026/10/13/the-shortage-of-memory-chips-may-continue-for-another-two-years/",
+      "tickers": [
+        "1810.HK",
+        "NVDA"
+      ],
+      "impact": "記憶體週期由 AI 伺服器傳導到手機同 PC 成本。",
+      "newbieTake": "跟合約價同現貨價，唔好當單一預測為事實。"
+    },
+    {
+      "title": "日月光擴展 PowerSiP 平台，降低寄生佈線損耗逾 50% 提升3D SiP 系統效率",
+      "summary": "科技新報：日月光擴展 PowerSiP，稱可降低寄生佈線損耗逾 50%。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-14",
+      "url": "https://finance.technews.tw/2026/10/14/ase-extends-powersip-platform/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "先進封裝同電源整合係 AI／高效能系統嘅供應鏈焦點。",
+      "newbieTake": "對照封測廠營收同客戶集中度。"
+    },
+    {
+      "title": "NVIDIA Lands in Europe for GTC Berlin",
+      "summary": "NVIDIA 博客：GTC Berlin 登場，談歐洲生態同 agentic computing。公司博客。",
+      "source": "NVIDIA Blog",
+      "date": "2026-10-13",
+      "url": "https://blogs.nvidia.com/gtc-berlin-2026-news/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "歐洲投資同開源敘事可能強化區域生態綁定。",
+      "newbieTake": "留意有冇具體投資金額同合作對象嘅正式公告。"
+    },
+    {
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "summary": "NVIDIA 博客：RTX Spark 筆電／本地 AI 軟體生態更新。公司博客。",
+      "source": "NVIDIA Blog",
+      "date": "2026-10-13",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "本地 AI PC 係雲端之外另一條需求敘事，但出貨節奏仍待觀察。",
+      "newbieTake": "睇軟體生態同實際出貨／缺貨情況。"
+    },
+    {
+      "title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI",
+      "summary": "Reuters：NVIDIA 擬入股法國新創 Doctolib 等。第三方·非公告。",
+      "source": "Reuters Tech",
+      "date": "2026-10-13",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/nvidia-buy-minority-stake-frances-doctolib-2026-10-13/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "少數股權投資常用來綁定區域應用生態，唔等於即時營收。",
+      "newbieTake": "等正式交易條款同監管披露。"
+    },
+    {
+      "title": "近19萬元的Surface Laptop Ultra賣到缺貨，CUDA生態系真香",
+      "summary": "T客邦：微軟 Surface Laptop Ultra 高階機缺貨，報道連結 CUDA／本地 AI 生態。第三方·非公告。",
+      "source": "T客邦",
+      "date": "2026-10-13",
+      "url": "https://www.techbang.com/posts/134030-microsoft-surface-laptop-ultra-sold-out-ai-cuda",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "高階 AI PC 需求訊號，但單一型號缺貨唔等於整體 PC 復甦。",
+      "newbieTake": "對照微軟之後對 Surface／AI PC 出貨嘅講法。"
+    },
+    {
+      "title": "Google 擴大開放 Gemini 4 Argon 模型，付費用戶與開發者可用",
+      "summary": "科技新報：Google 擴大開放 Gemini 4 Argon 俾付費用戶同開發者。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-14",
+      "url": "https://technews.tw/2026/10/14/gemini-4-argon-is-now-globally-available/",
+      "tickers": [],
+      "impact": " frontier 模型競爭加劇，可能推高雲端推理用量敘事。",
+      "newbieTake": "比較各家 API 定價同企業採用節奏。"
+    },
+    {
+      "title": "全球半導體設備支出爆發！SEMI 估 2029 年達 2,270 億美元，美國擴產加速",
+      "summary": "科技新報引述 SEMI：全球半導體設備支出展望上修，美國擴產加速。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-14",
+      "url": "https://technews.tw/2026/10/14/semicon-west-clark-tseng/",
+      "tickers": [],
+      "impact": "設備支出係先進製程同 AI 產能嘅領先指標之一。",
+      "newbieTake": "睇 SEMI 報告原文口徑同區域拆分。"
+    },
+    {
+      "title": "議題精選：長鑫投出4F2 DDR5震撼彈",
+      "summary": "DIGITIMES 議題精選提及長鑫 4F² DDR5 相關進展（摘要級）。第三方·非公告。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-13",
+      "url": "https://www.digitimes.com.tw/tech/dt/most.asp?pack=80220&cnlid=1&cat=60&wpidx=6",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "中國記憶體架構進展係本輪芯片股情緒觸發點之一。",
+      "newbieTake": "等公司／研究機構完整技術對照，唔好只睇標題。"
+    },
+    {
+      "title": "AI交易逻辑生变！从日韩到美国，全球芯片股惨跌，明星IPO搁浅、长鑫技术突破接连敲警钟",
+      "summary": "富途轉述：全球芯片股受記憶體競爭同 AI 交易擁擠影響大跌。原文來源：華爾街見聞。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-13",
+      "url": "https://news.futunn.com/post/1001029027/ai-trading-logic-shifts-global-chip-stocks-plummet-from-japan",
+      "tickers": [
+        "NVDA",
+        "SPCX"
+      ],
+      "impact": "擁擠交易對利空更敏感，波動可能大於基本面即時變化。",
+      "newbieTake": "分開睇發射／營運新聞同板塊風險偏好。"
+    },
+    {
+      "title": "美股收盘｜三大指数震荡走弱，科技七巨头成“避风港”，苹果、微软齐创收盘新高",
+      "summary": "富途轉述：美股三大指數微跌；蘋果、微軟創收盤新高；半導體偏弱。原文來源：華爾街見聞。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-13",
+      "url": "https://news.futunn.com/post/1001041926/us-stocks-close-the-three-major-indices-edged-lower-amid",
+      "tickers": [
+        "MSFT",
+        "SPYM",
+        "NVDA",
+        "SPCX"
+      ],
+      "impact": "大市平淡時資金可能向少數大型科技集中，同時拋售擁擠主題。",
+      "newbieTake": "對照 SPYM 同單一持股當日表現差異。"
+    },
+    {
+      "title": "NVIDIA Options Spot-On: On October 13th, 1.89 Million Contracts Were Traded",
+      "summary": "moomoo 轉述：NVIDIA 期權 10/13 成交約 189 萬張。原文來源：期權數據轉載。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-13",
+      "url": "https://www.moomoo.com/news/post/1001077762/nvidia-options-spot-on-on-october-13th-1-89-million",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "期權活躍反映短線波動同對沖需求，唔等於方向已定。",
+      "newbieTake": "期權量大只係波動訊號，要同基本面新聞分開。"
+    }
+  ]
+}
