@@ -1,0 +1,228 @@
+{
+  "updated": "2026-10-15T08:26:18+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. Educational tech digest only. Sources linked; third-party items flagged in summaries where relevant.",
+  "items": [
+    {
+      "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
+      "summary": "NVIDIA 新聞室：推出 cuPotential（CUDA-X），協助以 AI agent 模擬原子／分子；半導體設備／EDA 廠採用相關庫推進「AI 定義晶圓廠」。公司新聞室。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-14",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-fabs",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "軟件庫同生態黏性可能強化 NVIDIA 喺設計／製造鏈嘅角色。",
+      "newbieTake": "可能進一步綁定 AI 工廠工作流程；留意客戶採用案例。"
+    },
+    {
+      "title": "OCP Global Summit: NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories",
+      "summary": "NVIDIA 博客：於 OCP 開放 Vera Rubin 機架同 compute tray 設計，方便供應商跟從供電、液冷同網絡規格。公司博客。",
+      "source": "NVIDIA Blog",
+      "date": "2026-10-12",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "機架標準化可縮短 AI 資料中心部署時間，亦強化平台鎖定。",
+      "newbieTake": "市場關注 800V 級供電同液冷供應鏈。"
+    },
+    {
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "summary": "NVIDIA 博客：RTX Spark 筆電預計 10/16 上市；Nemotron 3.5 Bolt 等本地 AI 模型同軟體更新配合。公司博客。",
+      "source": "NVIDIA Blog",
+      "date": "2026-10-13",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "個人／邊緣 AI 硬件節點，對照雲端訓練需求係另一條產品線。",
+      "newbieTake": "留意實際出貨同應用生態，唔好只睇發表會。"
+    },
+    {
+      "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research",
+      "summary": "NVIDIA 新聞室：承諾五年內投入 2.5 億美元推進英國 agentic AI 安全同保安研究。公司新聞室。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-14",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "安全／合規投入屬長期敘事，短線未必直接反映喺季績。",
+      "newbieTake": "同全球 AI 監管升温背景一齊睇。"
+    },
+    {
+      "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+      "summary": "微軟官方：Maia 200 已投產；Maia 300 瞄準 2027，並稱每兆瓦 tokens 可優於領先 GPU 系統約 40%（公司說法）。公司博客。",
+      "source": "Microsoft Blog",
+      "date": "2026-10-12",
+      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "自研推理加速器可能改變雲端對第三方 GPU 嘅採購組合。",
+      "newbieTake": "可能影響長期 GPU 需求結構；屬公司前瞻，需對照實際部署。"
+    },
+    {
+      "title": "Microsoft denies reports of 20% cloud cuts to offset AI spending",
+      "summary": "Fast Company：微軟否認 Azure 高層下令尋找約 20% 成本削減嘅報道，稱報道不準確。第三方轉述公司回應。",
+      "source": "Fast Company",
+      "date": "2026-10-14",
+      "url": "https://www.fastcompany.com/91623630/microsoft-denies-reports-of-20-cloud-cuts-to-offset-ai-spending",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "市場對 AI 開支紀律敏感；公司回應可短暫緩和成本削減傳聞。",
+      "newbieTake": "對照下季業績會上嘅費用同資本開支口徑。"
+    },
+    {
+      "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+      "summary": "CNBC：ASML 季績超預期，並指訂單興趣延伸至 2030。第三方·設備商新聞。",
+      "source": "CNBC Tech",
+      "date": "2026-10-14",
+      "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "上游微影設備訂單係 AI／先進製程資本開支嘅溫度計。",
+      "newbieTake": "可能反映晶圓廠長期擴產意願仍在。"
+    },
+    {
+      "title": "AI 強勁需求推升 ASML 第三季營收獲利創新高，全年營收展望上調",
+      "summary": "科技新報：ASML 第三季營收獲利創新高並上調全年展望，歸因 AI 需求。第三方·非公司原文。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-14",
+      "url": "https://finance.technews.tw/2026/10/14/asmls-third-quarter-revenue-and-profit-hit-record-highs/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "同上，強化「AI 資本開支未停」敘事。",
+      "newbieTake": "同記憶體／GPU 短線波動分開睇。"
+    },
+    {
+      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about enterprise AI timing",
+      "summary": "CNBC：Dell 急跌約 11%，市場擔心企業 AI 落地時間。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-14",
+      "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "伺服器／資料中心供應鏈情緒轉弱，可能外溢至雲端同芯片股風險偏好。",
+      "newbieTake": "市場關注「訂單何時變收入」，唔係否定長期 AI。"
+    },
+    {
+      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+      "summary": "CNBC：CoreWeave 股價受壓，相關債息近 15%，市場擔心 AI 基建融資過度。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-14",
+      "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "AI 基建融資成本上升，可能影響 GPU 雲租賃擴張速度。",
+      "newbieTake": "留意高收益債同私募融資環境。"
+    },
+    {
+      "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
+      "summary": "CNBC：美國八州就 ChatGPT 安全問題起訴 OpenAI。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-14",
+      "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "監管同訴訟風險可能影響模型部署節奏同合規成本。",
+      "newbieTake": "Microsoft 作為主要夥伴，市場或一併評估外溢。"
+    },
+    {
+      "title": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
+      "summary": "CNBC：SpaceX 同意就 AI 安全向紐約市議會作證。第三方·非公告。",
+      "source": "CNBC Tech",
+      "date": "2026-10-13",
+      "url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "治理／監管敘事升溫，短線或影響風險偏好多過發射營運。",
+      "newbieTake": "作證定於 10/16；留意公開文件。"
+    },
+    {
+      "title": "前執行長庫克掌舵 15 年，蘋果市值登 5 兆美元俱樂部",
+      "summary": "科技新報：蘋果市值進入約 5 兆美元量級俱樂部（報道口徑）。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-15",
+      "url": "https://finance.technews.tw/2026/10/15/apple-joins-nvidia-in-the-5-trillion-valuation-club/",
+      "tickers": [],
+      "impact": "大型科技市值里程碑，反映資金對少數巨頭集中。",
+      "newbieTake": "非 Active 持股；僅作市場氣氛參考。"
+    },
+    {
+      "title": "日本出錢、GF 在美興建 2 座晶圓廠 瑞薩／蘋果為客戶",
+      "summary": "科技新報：GlobalFoundries 在美新建兩座晶圓廠，瑞薩／蘋果為客戶（報道）。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-15",
+      "url": "https://technews.tw/2026/10/15/globalfoundries-selected-to-operate-two-new-semiconductor-fabs-in-new-york-under-landmark-u-s-japan-initiativ",
+      "tickers": [],
+      "impact": "先進／成熟製程在美擴產屬供應鏈重組題材。",
+      "newbieTake": "關注實際資本開支同投產時間表。"
+    },
+    {
+      "title": "Intel正式發表Intel GPU D系列運算卡，單卡搭載480 GB記憶體可吞300B參數LLM模型",
+      "summary": "T客邦：英特爾發表 GPU D 系列運算卡，強調大記憶體容量服務大型 LLM。第三方·非公司原文。",
+      "source": "T客邦",
+      "date": "2026-10-14",
+      "url": "https://www.techbang.com/posts/134127-intel-gpu-d-series",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "推理卡競爭加劇，可能影響雲端採購選擇。",
+      "newbieTake": "對照實際性能／軟件生態，唔好只睇規格表。"
+    },
+    {
+      "title": "英特爾推GPU D系列與Xeon新機櫃，瞄準代理AI推論市場",
+      "summary": "iThome：英特爾推 GPU D 系列同 Xeon 新機櫃，瞄準 agentic AI 推論。第三方。",
+      "source": "iThome",
+      "date": "2026-10-14",
+      "url": "https://www.ithome.com.tw/news/179683",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "推理市場競爭者增多，利好客戶議價、挑戰現有份额敘事。",
+      "newbieTake": "市場關注會否分流部分雲端推理需求。"
+    },
+    {
+      "title": "OpenAI GPT-6.1 Sol 記憶力有感升級！預設上下文長度暴增80%",
+      "summary": "T客邦：報道指 GPT-6.1 Sol 默認上下文長度大幅提升。第三方·非 OpenAI 公告原文。",
+      "source": "T客邦",
+      "date": "2026-10-14",
+      "url": "https://www.techbang.com/posts/134062-gpt-6-1-sol-context-window-500k-1m",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "更長上下文推高記憶體／頻寬需求，利好推理解基礎設施敘事。",
+      "newbieTake": "以官方發布為準；媒體規格或有出入。"
+    },
+    {
+      "title": "富途早报 | 通胀升温重锤科技股，AI基建融资又迎“鬼故事”",
+      "summary": "富途快訊：早報指通脹升溫打擊科技股，並提及 AI 基建融資疑慮。第三方·快訊彙編。",
+      "source": "富途快訊",
+      "date": "2026-10-15",
+      "url": "https://news.futunn.com/post/1001177720/futu-morning-brief-rising-inflation-hits-tech-stocks-hard-and",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "SPCX"
+      ],
+      "impact": "板塊情緒同融資成本敘事，可能放大短線波動。",
+      "newbieTake": "快訊屬彙編，個別數字請對照原文。"
+    }
+  ]
+}

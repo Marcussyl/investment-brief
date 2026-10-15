@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-15",
+  "stories": [
+    {
+      "id": "spcx-cpi-yields-crs-hearing",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：CRS-35 發射成功後仍受壓；熱 CPI／美債息拖累；週五紐約市議會 AI 安全作證",
+      "summary": "Holding SPCX。Spaceflight Now／NASA：CRS-35 已於美東 10/13 發射成功。Invezz（第三方·非公告）指美東 10/14 盤中約跌逾 2% 至約 153.22，指歸因 9 月 CPI 年增 3.7%（高於預期 3.6%）推高 10 年期美債息約至 5.29%，風險資產同 AI 股受壓；CRS 利好未能抵銷。CNBC：公司同意 10/16 美東 10:00 向紐約市議會科技委員會就 AI 安全作證。Yahoo 圖表最後有效收市仍為 10/13 156.54（10/14 收市暫未入 Yahoo，勿當成已核實收市）。",
+      "whyItMatters": "發射成功係營運指標；短線股價反而跟息率同風險偏好走，新手要分開「營運新聞」同「估值／資金面」。",
+      "whatToWatch": "10/16 作證公開內容；Yahoo／交易所 10/14 正式收市；後續發射同對接。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Spaceflight Now",
+          "date": "2026-10-13",
+          "title": "SpaceX launches NASA science and cargo to the ISS",
+          "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/"
+        },
+        {
+          "category": "news",
+          "publisher": "Invezz",
+          "date": "2026-10-14",
+          "title": "Why is SpaceX falling despite successful NASA resupply mission launch?",
+          "url": "https://invezz.com/news/2026/10/14/why-is-spacex-falling-despite-successful-nasa-resupply-mission-launch/"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-13",
+          "title": "SpaceX agrees to testify to NYC Council about AI safety",
+          "url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-13",
+          "title": "SPCX last Yahoo close (10/13; 10/14 not yet in chart)",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "gld-cpi-fed-hkma",
+      "ticker": "GLD",
+      "title": "黃金（GLD）／宏觀：熱 CPI 推高加息押注，現貨金跌穿約 4,100；金管局隔夜 HIBOR 2.25%",
+      "summary": "Holding GLD；宏觀剔選：Fed／FOMC vs 金管局。Kitco（第三方）：美東 10/14 現貨金約 4,098.80（跌約 1.47%），指 9 月 CPI 年增 3.7%、月增 0.6%，核心年增 2.6%；10 年期美債息一度近 5.3%；市場對 10 月加息機率由約 20% 升近 40%。金管局日報：截至 10/14 18:30，隔夜 HIBOR 2.25%。Yahoo：GLD 最後有效收市 10/13 381.67（10/14 圖表暫缺）。S&P 500 據 Kitco 10/14 收 7,718.94（跌約 1.1%）——對照 Holding SPYM。",
+      "whyItMatters": "黃金短線常跟「實質息／加息預期」反向；港元拆息跟聯儲路徑，影響按揭同流動性感覺。",
+      "whatToWatch": "本週 PPI／零售銷售；10/29 FOMC；金管局每日 HIBOR／總結餘。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Kitco",
+          "date": "2026-10-14",
+          "title": "Gold falls below $4,100 as hot CPI boosts Fed-hike bets",
+          "url": "https://www.kitco.com/news/article/2026-10-14/gold-falls-below-4100-silver-plunges-6-hot-cpi-boosts-fed-hike-bets-kitco"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-10-14",
+          "title": "Daily Monetary Statistics",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-13",
+          "title": "GLD last Yahoo close",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-13",
+          "title": "SPYM last Yahoo close",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        }
+      ]
+    },
+    {
+      "id": "1810-pengcheng-orders-rally",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：港股 10/14 收 26.38；鵬程系列首月鎖定訂單報道逾 7 萬（第三方）",
+      "summary": "Holding 1810.HK。Yahoo：10/13 25.04 → 10/14 26.38。etnet 盤中異動指升穿 20 天線、現報約 26.4（盤中）。多家快訊（大行研究／第三方·非公司公告）指 SKYNOMAD／鵬程系列上市首月鎖定訂單逾 7 萬，需求偏高階車型；UOB Kay Hian 據報將目標價調至 27.6 港元並維持 Hold（第三方·非公告）。",
+      "whyItMatters": "車業務訂單同產品組合會影響市場對「手機＋汽車＋生態」嘅增長想像；大行目標價係意見，唔係事實。",
+      "whatToWatch": "公司會否在官方渠道確認訂單口徑；下一次交付／產能更新。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "etnet",
+          "date": "2026-10-14",
+          "title": "小米(01810)漲逾5%突破20天線，現報26.4元",
+          "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?category=blocktrade&newsid=20261014404&section=categorized"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "GMT Eight / UOB Kay Hian flash",
+          "date": "2026-10-15",
+          "title": "Raises Xiaomi target to HK$27.6; Pengcheng locked orders exceed 70,000",
+          "url": "https://www.gmt8press.com/flash/detail/1551568"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-14",
+          "title": "1810.HK last close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-cupotential-ai-fabs",
+      "ticker": "NVDA",
+      "title": "英偉達（NVDA，研究）：發布 cuPotential 等 CUDA-X，推進「AI 定義晶圓廠」；OCP 開放 Vera Rubin 機架設計",
+      "summary": "Research NVDA。NVIDIA 新聞室 10/14：推 cuPotential（CUDA-X），供開發者建原子／分子模擬 AI agent；Synopsys、Cadence、KLA、Lam 等採用相關加速庫（公司新聞室）。第三方報道：OCP 峰會上開放 Vera Rubin 機架／compute tray 設計（含約 800V DC 供電規格）。Yahoo 最後有效收市 10/13 228.52。",
+      "whyItMatters": "NVIDIA 想從「賣 GPU」延伸到「定義 AI 工廠標準」；軟件庫同機架開源會影響生態黏性同資料中心供應鏈。",
+      "whatToWatch": "超大規模資本開支；RTX Spark 10/16 上市節奏；記憶體大廠官方回應。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-14",
+          "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-fabs"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Blog",
+          "date": "2026-10-12",
+          "title": "OCP Global Summit: NVIDIA Opens Vera Rubin Architecture",
+          "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
+        },
+        {
+          "category": "news",
+          "publisher": "Seoul Economic Daily",
+          "date": "2026-10-14",
+          "title": "Nvidia Opens Vera Rubin Rack Designs to Set Data Center Standards",
+          "url": "https://en.sedaily.com/international/2026/10/14/nvidia-opens-vera-rubin-rack-designs-to-set-data-center"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-13",
+          "title": "NVDA last Yahoo close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-maia-denies-cuts",
+      "ticker": "MSFT",
+      "title": "微軟（MSFT，研究）：Maia 200 已投產、Maia 300 瞄準 2027；否認 Azure「削 20% 成本」報道",
+      "summary": "Research MSFT。Microsoft 官方博客（10/12）：Maia 200 已服務 Copilot 等生產負載；計劃自 2027 年起把 Maia 家族擴至 multi-gigawatt，並稱 Maia 300 相對領先 GPU 系統每兆瓦可多約 40% tokens（公司說法）。Fast Company（10/14）：微軟發言人稱 The Information「約 20% 雲端成本削減」報道不準確，並指 Azure 高層並無下令做成本削減計劃（公司回應·經第三方轉述）。Yahoo：10/13 收 543.45（10/14 暫缺）。",
+      "whyItMatters": "自研加速器同費用紀律係市場同時追問嘅兩條線：一條睇推理解效率，一條睇開支會唔會失控。",
+      "whatToWatch": "Ignite 2026 更多 Maia 細節；下季資本開支口徑；OpenAI 相關監管新聞外溢。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Blog",
+          "date": "2026-10-12",
+          "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/"
+        },
+        {
+          "category": "news",
+          "publisher": "Fast Company",
+          "date": "2026-10-14",
+          "title": "Microsoft denies reports of 20% cloud cuts to offset AI spending",
+          "url": "https://www.fastcompany.com/91623630/microsoft-denies-reports-of-20-cloud-cuts-to-offset-ai-spending"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-13",
+          "title": "MSFT last Yahoo close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "asml-ai-capex-spym-veu",
+      "ticker": "SPYM",
+      "title": "廣市／設備：ASML 季績超預期、訂單興趣談到 2030；美股熱 CPI 後科技承壓（對照 SPYM／VEU）",
+      "summary": "Holding SPYM／VEU 背景。CNBC／科技新報：ASML 10/14 公布第三季營收獲利創新高，並指訂單興趣延伸至 2030，全年展望上調。同日 Dell 大跌、CoreWeave 債息受關注（CNBC），反映「企業 AI 落地時間」同「AI 融資成本」焦慮。Kitco：S&P 500 10/14 跌約 1.1%。Yahoo：SPYM 10/13 91.55、VEU 82.61（10/14 暫缺）。工商銀行（1398.HK）Yahoo 10/14 收 7.57，近兩日未見重大公司公告。中國消費：國稅總局指國慶假期服務／部分商品消費稅發票數據表現不俗（宏觀剔選·中國消費）。",
+      "whyItMatters": "指數 ETF 跟廣市；設備商訂單係 AI 資本開支鏈嘅上游溫度計，同「單一科技股新聞」要分開睇。",
+      "whatToWatch": "超大規模財報季資本開支；中國官方社零／消費數據更新。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-14",
+          "title": "ASML profit smashes expectations; order interest through 2030",
+          "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-14",
+          "title": "AI 強勁需求推升 ASML 第三季營收獲利創新高",
+          "url": "https://finance.technews.tw/2026/10/14/asmls-third-quarter-revenue-and-profit-hit-record-highs/"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-14",
+          "title": "Dell stock plunges 11% on enterprise AI timing fears",
+          "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html"
+        },
+        {
+          "category": "company",
+          "publisher": "State Taxation Administration (China)",
+          "date": "2026-10",
+          "title": "國慶假期服務消費和部分商品消費態勢良好（增值稅發票數據）",
+          "url": "https://www.chinatax.gov.cn/chinatax/n810219/n810724/c5252805/content.html"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-14",
+          "title": "1398.HK last close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "beige-book",
+      "title": "褐皮書（Beige Book）",
+      "titleEn": "Beige Book",
+      "what": "聯儲系統定期出版嘅地區經濟實況匯編，用各聯儲銀行收集嘅企業／銀行訪談同觀察，描述就業、物價、消費同貸款等「質性」狀況，唔係單一統計數字。",
+      "whyItMatters": "新手常只睇 CPI 數字；褐皮書幫你理解聯儲官員「點樣講現場感覺」，同數字一齊影響加息預期。",
+      "whereToday": "Kitco 指 10/14 Beige Book 顯示部分地區物價加速、燃料成本廣傳、就業變化不大，同熱 CPI 一齊推高加息押注，黃金同科技股受壓。",
+      "whatToWatch": "下次 FOMC（約 10/29）聲明同點陣圖有冇呼應呢啲「現場」描述。",
+      "relatedTickers": [
+        "GLD",
+        "SPYM",
+        "SPCX",
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/3fa99f70bc5681e7aaefcc95d34cf32d"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR Portfolio S&P 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Monthly Return for the month ended 30 September 2026",
+        "date": "2026-10-07",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Interim dividend cash dividend with currency option (update)",
+        "date": "2026-09-29",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-10-15.mp3",
+  "audioScriptChars": 2639,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
