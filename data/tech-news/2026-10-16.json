@@ -1,0 +1,225 @@
+{
+  "updated": "2026-10-16T08:31:22+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. Educational tech digest only. Sources linked; third-party items flagged in summaries where relevant.",
+  "items": [
+    {
+      "title": "馬斯克大讚黃仁勳！SpaceX 攜手輝達打造 Star Mind，明年量產",
+      "summary": "科技新報：Musk 稱與 NVIDIA 共同工程嘅 Star Mind 電腦遠超預期、目標明年量產。第三方轉述社群帖；對照 NVIDIA 8 月新聞室 Starmind／Vera 架構。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-16",
+      "url": "https://technews.tw/2026/10/16/elon-musk-praises-jensen-huang-spacex-nvidia-star-mind-mass-production-next-year/",
+      "tickers": [
+        "SPCX",
+        "NVDA"
+      ],
+      "impact": "太空／軌道 AI 基建敘事再被市場討論。",
+      "newbieTake": "量產年份係前瞻；等 IR 產能同發射時程。"
+    },
+    {
+      "title": "NVIDIA 揭 AI 工廠四大布局！串聯半導體設計、製造到晶圓廠自動化",
+      "summary": "科技新報：於 SEMICON 場合整理 NVIDIA 推動 AI 定義晶圓廠／設計製造鏈。第三方整理。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-15",
+      "url": "https://technews.tw/2026/10/15/nvidia-semicon-west-timothy-costa/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "強化軟件／庫同設備鏈綁定敘事。",
+      "newbieTake": "生態新聞多過即時財報；留意客戶採用案例。"
+    },
+    {
+      "title": "台積電營收看增 44% 評估德州設廠，法說會重點一次看",
+      "summary": "科技新報：整理台積電法說——AI 需求強、美元營收看增約 44%、評估德州擴產等。第三方整理公司說明會。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-15",
+      "url": "https://finance.technews.tw/2026/10/15/tsmc-earnings-call-2610/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "晶圓產能仍係 AI 供應瓶頸焦點。",
+      "newbieTake": "台積電非 Active 持倉，但影響 NVDA 供應鏈預期。"
+    },
+    {
+      "title": "台灣美光先進封裝與測試二廠啟用，深化 AI 時代高頻寬記憶體布局",
+      "summary": "科技新報：美光台灣先進封裝測試二廠啟用，指向 HBM／AI 記憶體封裝。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-15",
+      "url": "https://technews.tw/2026/10/15/micron-taiwans-advanced-packaging-and-testing-plant-2-commences-operation/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "HBM 封裝產能關乎 AI GPU 出貨節奏。",
+      "newbieTake": "記憶體週期同封裝瓶頸要分開睇。"
+    },
+    {
+      "title": "外資指英特爾晶圓代工與先進封裝獲重大突破，取得蘋果、輝達、微軟等廠商訂單",
+      "summary": "科技新報財經：外資觀點指 Intel 代工／封裝有進展並獲大客戶訂單——屬分析師轉述，非公司已核實訂單清單。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-16",
+      "url": "https://finance.technews.tw/2026/10/16/foreign-investors-point-to-major-breakthroughs-in-intels-wafer-foundry-and-advanced-packaging/",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "代工競爭格局或影響長期產能分配預期。",
+      "newbieTake": "標註「外資指」＝未核實；等 10-K／客戶公開確認。"
+    },
+    {
+      "title": "SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
+      "summary": "iThome：報導 SpaceXSI／Grok 語音新版同評測結果。第三方·非公告。",
+      "source": "iThome",
+      "date": "2026-10-15",
+      "url": "https://www.ithome.com.tw/news/179704",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "消費／開發者層 AI 產品節奏。",
+      "newbieTake": "產品評測≠上市公司已審計收入。"
+    },
+    {
+      "title": "微軟10月修補RCE漏洞達315個再創新高",
+      "summary": "iThome：微軟 10 月資安更新修補大量 RCE，提醒 DHCP／DNS 等風險。",
+      "source": "iThome",
+      "date": "2026-10-15",
+      "url": "https://www.ithome.com.tw/news/179725",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "企業 IT 維運同雲端安全負擔。",
+      "newbieTake": "資安修補係平台營運日常；唔等於財務指引。"
+    },
+    {
+      "title": "AI時代資料中心不再追著使用者跑，台電倡議「以光代電」納入AIDC選址策略",
+      "summary": "iThome：台電討論 AI 資料中心選址同電力／光纖策略。",
+      "source": "iThome",
+      "date": "2026-10-15",
+      "url": "https://www.ithome.com.tw/news/179721",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "電力同網路成為 AI 工廠擴產約束。",
+      "newbieTake": "基礎設施瓶頸可以慢過晶片新聞。"
+    },
+    {
+      "title": "TSMC excludes CPUs from AI accelerator growth forecast",
+      "summary": "DigiTimes：台積電將 CPU 剔出 AI 加速器成長預測口徑。公司相關說明／產業報導。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-15",
+      "url": "https://www.digitimes.com/news/a20261015PD251/tsmc-demand-taiwan-accelerator-growth.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場口徑更聚焦 GPU／ASIC 加速器。",
+      "newbieTake": "定義改變會影響「AI 營收」比較基礎。"
+    },
+    {
+      "title": "Cloud AI absorbs resources as non-AI semiconductors face prolonged downturn",
+      "summary": "DigiTimes：雲端 AI 吸走資源，非 AI 半導體復甦仍慢。產業報導。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-15",
+      "url": "https://www.digitimes.com/news/a20261015PD234/data-growth-technology-inflation-hbm.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "產能同定價可能繼續向 AI 傾斜。",
+      "newbieTake": "同一供應鏈內冷熱差好大。"
+    },
+    {
+      "title": "AI server tracker: Optical suppliers' September revenue jumps 90%",
+      "summary": "DigiTimes：追蹤台灣 AI 伺服器鏈——光學供應商 9 月營收跳升。產業追蹤。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-15",
+      "url": "https://www.digitimes.com/news/a20261015VL230/revenue-taiwan-ai-server-growth-communications.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "光通訊／互連成為 AI 工廠瓶頸同受惠位。",
+      "newbieTake": "營收跳升要睇基期同是否可持續。"
+    },
+    {
+      "title": "China's YMTC targets 9,600 MT/s with 4F² DRAM design",
+      "summary": "DigiTimes：報導中國 YMTC 以 4F² DRAM 設計指向更高速率。產業報導。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-15",
+      "url": "https://www.digitimes.com/news/a20261015VL224/dram-ymtc-design-manufacturing-nand-flash.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "記憶體競爭同地緣供應敘事再起。",
+      "newbieTake": "設計目標≠量產良率已達標。"
+    },
+    {
+      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+      "summary": "CNBC Tech：台積電連續第六季創紀錄獲利，AI 需求支撐。",
+      "source": "CNBC Tech",
+      "date": "2026-10-15",
+      "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "先進製程供應仍緊，利好／制約 GPU 出貨預期。",
+      "newbieTake": "晶圓代工財報係 AI 供應鏈溫度計。"
+    },
+    {
+      "title": "Nvidia, Apple, Broadcom in 'fierce' battle to make chips at TSMC",
+      "summary": "CNBC：客戶爭奪台積電產能；AI 同消費電子搶產能。",
+      "source": "CNBC Tech",
+      "date": "2026-10-15",
+      "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "產能分配影響出貨同議價。",
+      "newbieTake": "「搶產能」新聞要對照公司自己嘅指引。"
+    },
+    {
+      "title": "Memory stocks get hit. China and oversupply are the big worries",
+      "summary": "CNBC：記憶體股受壓，市場憂中國競爭同未來供過於求。",
+      "source": "CNBC Tech",
+      "date": "2026-10-15",
+      "url": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "HBM／DRAM 定價預期波動可傳導 AI 硬件鏈。",
+      "newbieTake": "短線情緒同長週期供需要分開。"
+    },
+    {
+      "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+      "summary": "NVIDIA 新聞室：與 Volvo 擴大自動駕駛安全合作。公司新聞室。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-15",
+      "url": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "汽車／邊緣 AI 設計贏單敘事。",
+      "newbieTake": "合作擴大≠即季收入大增。"
+    },
+    {
+      "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+      "summary": "NVIDIA 新聞室：與 Adobe 擴大代理式創作工具優化。公司新聞室。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-15",
+      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "創意軟件成為 GPU／CUDA 生態出口。",
+      "newbieTake": "軟件夥伴係生態黏性指標。"
+    },
+    {
+      "title": "中信证券：全球存储芯片股价波动加剧，关注长鑫等技术进展",
+      "summary": "富途快訊轉述中信證券觀點：記憶體股波動、關注中國廠技術突破對海外廠毛利影響。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-16",
+      "url": "https://news.futunn.com/flash/1001314842/citic-securities-recommend-monitoring-investment-opportunities-in-companies-within-the",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "記憶體情緒影響 AI 供應鏈風險偏好。",
+      "newbieTake": "券商觀點≠事實；對照 DigiTimes／公司指引。"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-16",
+  "audioUrl": "data/audio/2026-10-16.mp3",
+  "audioVoice": "zh-TW-HsiaoChenNeural",
+  "audioScriptChars": 2471,
+  "concepts": [
+    {
+      "id": "starshield",
+      "title": "Starshield（軍用級星鏈）",
+      "titleEn": "Starshield",
+      "what": "SpaceX 為美國政府／軍方客戶設計嘅軍用級衛星通訊服務，同面向消費者同企業嘅 Starlink 分開；合約同使用限制主要由美國政府客戶決定。",
+      "whyItMatters": "新手聽到「星鏈被限速」時，要分清係民用 Starlink 定軍用 Starshield，以及限制係公司自主定政府客戶指示——兩者對營運同政治風險解讀唔同。",
+      "whereToday": "BBC／CNBC：烏克蘭指高速移動終端連線受限、影響無人機任務；CNBC 解釋 Starshield 同 Starlink 分別。第三方·非 SpaceX 公告。",
+      "whatToWatch": "美國政府／SpaceX 有冇公開澄清；Holding SPCX 對政策敏感度。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/3fb99f70bc5681389593f0e0d4608056"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR Portfolio S&P 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Monthly Return for the month ended 30 September 2026",
+        "date": "2026-10-07",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Interim dividend cash dividend with currency option (update)",
+        "date": "2026-09-29",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-starshield-crs-dock",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：CRS-35 Dragon 對接 ISS；烏克蘭指 Starshield／Starlink 高速連線受限",
+      "summary": "Holding SPCX。NASA：CRS-35 Dragon 已於美東 10/15 11:00 對接國際太空站 Harmony 對地口，運送逾 6,300 磅物資。BBC／CNBC（第三方·非公告）：烏克蘭官員指軍用級終端在高速移動時連線受限，影響無人機等任務；CNBC 解釋 Starshield 與民用 Starlink 分別。Musk 稱 Starshield 由政府客戶控制（轉述）。Yahoo 圖表最後有效收市 10/14 152.16（較 10/13 156.54 低；10/15 美股收市暫未入 Yahoo，勿當成已核實收市）。",
+      "whyItMatters": "發射／對接係營運里程碑；政策同地緣限制可能影響市場對「星鏈軍事合約」嘅風險溢價——新手要分開「營運新聞」同「政策／合約條款」。",
+      "whatToWatch": "美方或 SpaceX 有冇正式澄清；今日（10/16）紐約市議會 AI 安全作證公開內容（若舉行）；Yahoo／交易所補 10/15 收市。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NASA",
+          "date": "2026-10-15",
+          "title": "SpaceX Dragon Docks with Science, Supplies, and Roll-Out Solar Arrays",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/10/15/spacex-dragon-docks-with-science-supplies-and-roll-out-solar-arrays/"
+        },
+        {
+          "category": "news",
+          "publisher": "BBC",
+          "date": "2026-10-14",
+          "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-15",
+          "title": "What is Starshield? SpaceX's military Starlink explained",
+          "url": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-14",
+          "title": "SPCX last Yahoo close (10/14; 10/15 not yet in chart)",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-nvda-star-mind",
+      "ticker": "SPCX",
+      "title": "SpaceX × NVIDIA：Musk 稱 Star Mind 電腦「遠超預期」、目標明年量產",
+      "summary": "Holding SPCX／Research NVDA。TechNews 引述 Musk 10/15 X 帖：與 NVIDIA 共同工程嘅 Star Mind 電腦「far better than almost anyone expects」，將於明年進入量產；並讚黃仁勳工程團隊。NVIDIA 8/24 新聞室曾公布 SpaceXAI 採用 Vera CPU，並計劃以優化 Vera Rubin NVL72 做第一代 Starmind AI 衛星——量產時間表仍屬前瞻陳述，非已交付業績。第三方轉述標註清楚。",
+      "whyItMatters": "軌道／太空 AI 基建係長線敘事；對新手，重點係「公告已有架構承諾」vs「社群帖講量產年份」——後者未等於訂單或收入已入帳。",
+      "whatToWatch": "NVIDIA／SpaceX 後續 IR 有冇量產產能、客戶或發射時程細節。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-16",
+          "title": "馬斯克大讚黃仁勳！SpaceX 攜手輝達打造 Star Mind，明年量產",
+          "url": "https://technews.tw/2026/10/16/elon-musk-praises-jensen-huang-spacex-nvidia-star-mind-mass-production-next-year/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-08-24",
+          "title": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale",
+          "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale"
+        }
+      ]
+    },
+    {
+      "id": "gld-china-wgc",
+      "ticker": "GLD",
+      "title": "黃金（GLD）：WGC—人行 9 月增持約 23 噸；中國黃金 ETF 持倉創月終紀錄約 304 噸",
+      "summary": "Holding GLD。世界黃金協會（WGC）中國更新／Kitco 轉述：人行 9 月增持約 23 噸（稱自 2023 年 10 月以來單月最大），官方持倉約 2,410 噸；中國黃金 ETF 9 月再增約 11 噸、月終持倉約 304 噸新高，惟金價回落令 AUM 月內約跌 2%。Yahoo：GLD 10/14 收 375.99（10/13 為 381.67；10/15 暫未入 Yahoo）。數字以 WGC／Kitco 為準，非 GLD 發行商公告。",
+      "whyItMatters": "港美息同通脹預期會左右金價短線；中國官方同 ETF 需求係結構性支撐敘事之一——新手唔好把「增持噸數」直接等同「GLD 明日一定升」。",
+      "whatToWatch": "約 10/29 FOMC；金管局每日 HIBOR／總結餘；GLD 補 10/15 收市。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "research",
+          "publisher": "World Gold Council",
+          "date": "2026-10-15",
+          "title": "China gold market update: Q3 ends with strong official gold buying",
+          "url": "https://www.gold.org/goldhub/gold-focus/2026/10/china-gold-market-update-q3-ends-strong-official-gold-buying"
+        },
+        {
+          "category": "news",
+          "publisher": "Kitco News",
+          "date": "2026-10-15",
+          "title": "China buys the gold dip as ETF holdings hit record and holiday demand lifts Q4 outlook – WGC",
+          "url": "https://www.kitco.com/news/article/2026-10-15/china-buys-gold-dip-etf-holdings-hit-record-and-holiday-demand-lifts-q4"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-14",
+          "title": "GLD last Yahoo close (10/14)",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "spym-ai-debt-rout",
+      "ticker": "SPYM",
+      "title": "美股風險偏好（SPYM／VEU）：AI 融資疑慮升溫；CoreWeave CDS 顯壓力；硬件股拋售",
+      "summary": "Holding SPYM／VEU。CNBC：全球科技硬件股 10/15 延續抛售，指市場憂 AI 融資同回報時程；CoreWeave 信用違約互換（CDS）報導指進入「困境」水準（第三方·非 Active 名單公司，僅作風險情緒指標）。Yahoo：SPYM 10/14 收 90.58、VEU 81.66（均低於 10/13）。非 SPYM／VEU 發行商公告。",
+      "whyItMatters": "寬基 ETF 會跟整體風險胃口；AI 債務同融資新聞可以同時打壓「持股 AI 硬件」同「樂觀成長股估值」——新手宜睇資金面多過單一新聞標題。",
+      "whatToWatch": "大型科技財報季、高收益／投資級利差、約 10/29 FOMC。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-15",
+          "title": "AI stocks tumble in global tech rout on AI funding worries",
+          "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-15",
+          "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+          "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-14",
+          "title": "SPYM / VEU last Yahoo closes (10/14)",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-ir-rout-dialogue",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：Volvo／Adobe 擴大合作；黃仁勳談中美 AI 對話；硬件股跟挫",
+      "summary": "Research NVDA。NVIDIA 新聞室 10/15：與 Volvo Cars 擴大自動駕駛安全合作；與 Adobe 擴大代理式創作優化。CNBC：黃仁勳呼籲中美就「潛在危險」AI 保持對話；同日亞洲／全球硬件股因 AI 融資疑慮下挫。Yahoo：NVDA 10/14 收 221.30（10/13 228.52；10/15 暫未入 Yahoo）。公司新聞室 vs 第三方盤勢分開讀。",
+      "whyItMatters": "IR 合作係產品／生態訊號；短線股價可以跟「AI 還債／融資」情緒走——新手唔好把合作新聞直接當成已兌現收入。",
+      "whatToWatch": "後續資料中心／汽車設計導入節奏；財報同指引對中國假設。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-15",
+          "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+          "url": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-15",
+          "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+          "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-15",
+          "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+          "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-14",
+          "title": "NVDA last Yahoo close (10/14)",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "1810-double11-china-consumer",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：港股 10/15 收 27.08；零售渠道傳雙 11 促銷（未核實官方銷售數字）",
+      "summary": "Holding 1810.HK。Yahoo：1810.HK 10/15 收 27.08（10/14 26.38）。本地零售／科技媒體近日流傳雙 11 促銷開搶訊息（第三方·非 HKEX／公司公告，未核實銷售目標或毛利影響）。Research 1398.HK 10/15 收 7.70，近日無重大已核實公司公告。中國消費宏觀僅作背景（profile 已勾選），唔覆蓋非 Active 奢侈股。",
+      "whyItMatters": "股價可以反映消費預期，但渠道促銷轉述唔等於已審計收入——新手要等官方披露。",
+      "whatToWatch": "小米後續 IR／中期銷售；港股今日開市。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-15",
+          "title": "1810.HK last Yahoo close (10/15)",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-15",
+          "title": "1398.HK last Yahoo close (10/15)",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-10-07",
+          "title": "Monthly Return for the month ended 30 September 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+        }
+      ]
+    }
+  ]
+}
