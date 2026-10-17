@@ -1,0 +1,211 @@
+{
+  "updated": "2026-10-17T08:31:11+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. Educational tech digest only. Sources linked; third-party items flagged in summaries where relevant.",
+  "items": [
+    {
+      "title": "輝達 CPO 布局再升級：推出「中介層光學」技術，邁向量產新里程",
+      "summary": "科技新報：NVIDIA 於 Semicon West 展示 Optics-on-Interposer CPO 原型；同時指 Quantum-X／Spectrum-X 等已有 CPO 量產應用。第三方整理。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-16",
+      "url": "https://technews.tw/2026/10/16/nvidia-cpo-technology-breakthrough-and-ecosystem/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "AI 硬件同汽車／互連敘事可能繼續被市場討論，短線亦受融資情緒左右。",
+      "newbieTake": "分開公司新聞室同第三方盤勢／社群轉述。"
+    },
+    {
+      "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+      "summary": "CNBC Tech 報導（第三方·非公司公告，除非另有 IR）。",
+      "source": "CNBC Tech",
+      "date": "2026-10-17",
+      "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "市場可能繼續關注政策／發射監管對太空通訊同運載敘事嘅影響。",
+      "newbieTake": "跟官方澄清同 FAA／IR 時間表，唔好只睇標題互相指責。"
+    },
+    {
+      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+      "summary": "NVIDIA 新聞室公告。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-16",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "AI 硬件同汽車／互連敘事可能繼續被市場討論，短線亦受融資情緒左右。",
+      "newbieTake": "分開公司新聞室同第三方盤勢／社群轉述。"
+    },
+    {
+      "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
+      "summary": "NVIDIA 新聞室公告。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-16",
+      "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "AI 硬件同汽車／互連敘事可能繼續被市場討論，短線亦受融資情緒左右。",
+      "newbieTake": "分開公司新聞室同第三方盤勢／社群轉述。"
+    },
+    {
+      "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+      "summary": "NVIDIA 新聞室公告。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-16",
+      "url": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "AI 硬件同汽車／互連敘事可能繼續被市場討論，短線亦受融資情緒左右。",
+      "newbieTake": "分開公司新聞室同第三方盤勢／社群轉述。"
+    },
+    {
+      "title": "台灣將收緊對中國先進晶片出口，未許可輸出產品將首度列刑事犯罪",
+      "summary": "為進一步同步美國的出口管制政策，並配合川普政府對先進半導體走私至中國的管制，台灣正準備收緊人工智慧（AI）晶片 […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-16",
+      "url": "https://finance.technews.tw/2026/10/16/taiwan-to-tighten-export-controls-on-advanced-chips-to-china/",
+      "tickers": [],
+      "impact": "半導體／AI 供應鏈消息可能影響整體科技風險偏好。",
+      "newbieTake": "對照 Active 名單：若無關持倉，僅作行業背景。"
+    },
+    {
+      "title": "彭博專訪 龔明鑫：台灣準備對中國緊縮 AI 晶片出口管制並打擊走私",
+      "summary": "經濟部長龔明鑫近日接受彭博專訪表示，台灣準備緊縮人工智慧（AI）晶片出口管制，進一步與美國限制措施保持一致，加 […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-16",
+      "url": "https://technews.tw/2026/10/16/bloomberg-interview-gong-ming-hsin-taiwan-tightens-ai-chip-export-controls-china/",
+      "tickers": [],
+      "impact": "半導體／AI 供應鏈消息可能影響整體科技風險偏好。",
+      "newbieTake": "對照 Active 名單：若無關持倉，僅作行業背景。"
+    },
+    {
+      "title": "ASML 警告美擴大 DUV 禁令，恐加速中國半導體自主化",
+      "summary": "荷蘭半導體設備大廠艾司摩爾（ASML）近日再度對美國國會擬推動的《硬體技術管制多邊協調法案》（MATCH Ac […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-16",
+      "url": "https://technews.tw/2026/10/16/asml-calls-us-restrictions-on-duv-sales-to-china-counterproductive-stance-reflects-strategic-dilemma-amid-pressure/",
+      "tickers": [],
+      "impact": "半導體／AI 供應鏈消息可能影響整體科技風險偏好。",
+      "newbieTake": "對照 Active 名單：若無關持倉，僅作行業背景。"
+    },
+    {
+      "title": "AI 融資疑慮風險升溫 BE / GEV 等能源股承壓",
+      "summary": "AI 基礎設施業者 CoreWeave 債務負擔引發市場疑慮，賣壓擴散至資料中心供電概念股，Bloom Ene […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-16",
+      "url": "https://finance.technews.tw/2026/10/16/ai-funding-concerns-escalate-pressure-energy-stocks-be-gev/",
+      "tickers": [],
+      "impact": "半導體／AI 供應鏈消息可能影響整體科技風險偏好。",
+      "newbieTake": "對照 Active 名單：若無關持倉，僅作行業背景。"
+    },
+    {
+      "title": "美超微尋覓兩年終於找到新財務長 延攬威騰老將",
+      "summary": "AI伺服器大廠美超微（Super Micro Computer）15 日宣布，延攬威騰（Western Dig […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-16",
+      "url": "https://finance.technews.tw/2026/10/16/supermicro-taps-western-digital-veteran-as-cfo/",
+      "tickers": [],
+      "impact": "半導體／AI 供應鏈消息可能影響整體科技風險偏好。",
+      "newbieTake": "對照 Active 名單：若無關持倉，僅作行業背景。"
+    },
+    {
+      "title": "Europe's answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns",
+      "summary": "CNBC Tech 報導（第三方·非公司公告，除非另有 IR）。",
+      "source": "CNBC Tech",
+      "date": "2026-10-16",
+      "url": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "市場可能繼續關注政策／發射監管對太空通訊同運載敘事嘅影響。",
+      "newbieTake": "跟官方澄清同 FAA／IR 時間表，唔好只睇標題互相指責。"
+    },
+    {
+      "title": "Managing open-weight model risk in enterprise deployments",
+      "summary": "微軟 Azure 博客：與 NVIDIA 聯合發布企業開源權重模型風險管理白皮書，提出五類風險分類並對齊 ISO／NIST。公司博客。",
+      "source": "Microsoft Azure Blog",
+      "date": "2026-10-16",
+      "url": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "雲同 GPU 生態喺企業治理／安全合規上嘅合作，可能影響開源模型落地節奏。",
+      "newbieTake": "白皮書係治理訊號，唔等於即時收入；等後續產品同財報。"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on potentially dangerous AI",
+      "summary": "CNBC（第三方）：黃仁勳呼籲中美就潛在危險 AI 保持對話。非 NVIDIA 新聞室全文。",
+      "source": "CNBC Tech",
+      "date": "2026-10-16",
+      "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "地緣同出口管制敘事可能繼續影響市場對 AI 芯片需求假設。",
+      "newbieTake": "對照公司財報對中國假設；對話呼籲唔等於政策已變。"
+    },
+    {
+      "title": "TSMC chip capacity is fierce battleground for AI customers, amid record quarter",
+      "summary": "CNBC（第三方）：台積電產能被指成 AI 客戶爭奪焦點，並提及業績背景。台積電非 Active 持倉，作供應鏈背景。",
+      "source": "CNBC Tech",
+      "date": "2026-10-16",
+      "url": "https://www.cnbc.com/2026/10/16/tsmc-chip-capacity-ai-customers-record-quarter.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "晶圓產能約束仍係 AI GPU 出貨節奏嘅常見焦點。",
+      "newbieTake": "供應鏈新聞影響預期多過即時財報；等 NVDA 指引。"
+    },
+    {
+      "title": "特朗普：白宮未干預烏克蘭星鏈限制；烏方官員存疑",
+      "summary": "原文來源：快訊轉述。特朗普稱非白宮下令限制；烏方官員對說法存疑並指與 SpaceX 溝通者認為白宮有參與。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-16",
+      "url": "https://news.futunn.com/flash/1001433554/trump-the-white-house-did-not-interfere-with-ukraine-s",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "政策同地緣表述分歧可能令市場對軍用星鏈合約風險更敏感。",
+      "newbieTake": "等正式澄清；唔好把互相轉述當已核實事實。"
+    },
+    {
+      "title": "黃仁勳：AI 市場動盪終會過去，硬件投資長線有回報",
+      "summary": "原文來源：快訊轉述。NVIDIA CEO 稱近期 AI 市場動盪終會過去，大規模硬件投資最終將產生回報。第三方轉述。",
+      "source": "富途快訊",
+      "date": "2026-10-16",
+      "url": "https://news.futunn.com/flash/1001431486/jensen-huang-ai-will-bring-about-transformation-current-market-turbulence",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "管理層語氣可能短暫影響情緒，但唔等於融資疑慮已消散。",
+      "newbieTake": "分開「管理層前瞻」同「已入帳業績」。"
+    },
+    {
+      "title": "Anthropic 讓 METR 研究員以員工級權限進駐，外部評估報告公司無權否決",
+      "summary": "科技新報：Anthropic 與 METR 加深外部安全評估安排。AI 安全治理主題。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-16",
+      "url": "https://technews.tw/2026/10/16/anthropic-metr-external-evaluation/",
+      "tickers": [],
+      "impact": "大型模型公司安全評估透明度可能成為企業採購嘅參考條件。",
+      "newbieTake": "屬行業治理背景；對照 MSFT／NVDA 開源權重風險白皮書。"
+    },
+    {
+      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "summary": "CNBC（第三方）：CoreWeave CDS 報導指進入困境水準，反映 AI 融資疑慮。非 Active 名單公司，僅作風險情緒指標。",
+      "source": "CNBC Tech",
+      "date": "2026-10-16",
+      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "tickers": [
+        "SPYM"
+      ],
+      "impact": "AI 債務情緒可能牽動寬基成長股風險偏好。",
+      "newbieTake": "CDS 係信用市場訊號，唔等於 SPYM 成分股同步。"
+    }
+  ]
+}

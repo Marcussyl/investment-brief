@@ -1,0 +1,283 @@
+{
+  "date": "2026-10-17",
+  "audioUrl": "data/audio/2026-10-17.mp3",
+  "concepts": [
+    {
+      "id": "cpo-optics-on-interposer",
+      "title": "共同封裝光學（CPO）／中介層光學（Optics-on-Interposer）",
+      "titleEn": "Co-Packaged Optics / Optics-on-Interposer",
+      "what": "CPO 把光通訊元件同交換／運算芯片封裝得更近以提升頻寬、降低功耗；Optics-on-Interposer（OOI）進一步把光學引擎放到中介層上，縮短電訊號路徑。",
+      "whyItMatters": "新手聽到 CPO／OOI 時，要分清係原型展示定已量產產品——兩者對收入時間表差好遠。",
+      "whereToday": "TechNews：NVIDIA 於 Semicon West 展示 OOI 原型；同時提到 Quantum-X／Spectrum-X 等已有 CPO 量產應用。第三方整理。",
+      "whatToWatch": "後續 IR 有冇量產時間表；資料中心互連出貨節奏。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/3fc99f70bc5681c28f3ff7b32cfbdaf2"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR Portfolio S&P 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Monthly Return for the month ended 30 September 2026",
+        "date": "2026-10-07",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Interim dividend cash dividend with currency option (update)",
+        "date": "2026-09-29",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-starshield-whitehouse-denial",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：Starshield 烏克蘭限速爭議延續；特朗普否認白宮下令",
+      "summary": "Holding SPCX。週末安靜帶（港／美股市周六休市）。CNBC／Reuters 轉述（第三方·非 SpaceX 公告）：有報導指限制烏克蘭軍用級 Starshield 高速終端嘅指令來自白宮內部；特朗普否認自己下令，並稱據匯報系統運作正常。AP：烏克蘭顧問稱正與 SpaceX／五角大樓談解除對終端逾約 160 km/h 移動時嘅連線上限。Yahoo 美股圖表最後有效收市：SPCX 2026-10-15 收 148.62（周五 10/16 盤中／盤後報價可能已變，未當已核實收市）。",
+      "whyItMatters": "政策同地緣會左右市場對「軍用星鏈合約」嘅風險溢價；新手要分開「第三方互相指責」同「公司／政府正式公告」。",
+      "whatToWatch": "有冇美方或 SpaceX 正式澄清；周一美股開市後 Yahoo／交易所補 10/16 收市。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-16",
+          "title": "Trump denies Musk claim he ordered Starlink restrictions in Ukraine",
+          "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC/Reuters",
+          "date": "2026-10-16",
+          "title": "Order to limit Starshield for Ukraine came from inside White House, Reuters reports",
+          "url": "https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html"
+        },
+        {
+          "category": "news",
+          "publisher": "AP",
+          "date": "2026-10-16",
+          "title": "Presidential adviser says Ukraine is in talks about military satellite network",
+          "url": "https://apnews.com/article/starlink-starshield-ukraine-russia-war-shahed-spacex-pentagon-385eb944f6c34990bdf21f624416b820"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-15",
+          "title": "SPCX last Yahoo chart close",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-starship-faa-peis",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：向 FAA 申請大幅提高德州 Starship 發射節奏（目標至約 456 次／年）",
+      "summary": "Holding SPCX。SpaceNews／Space.com（第三方·非公司 IR 全文）：SpaceX 尋求把 Starbase（德州）Starship 年發射額度由現時約 25 次大幅提高；FAA 啟動計劃性環境影響評估（PEIS）公眾意見程序，並安排 11 月公聽。報導指分階段：第一階段可至約 100 次發射／200 次着陸，第二階段至約 456 次發射／912 次着陸。屬監管申請進程，唔等於已批准產能。",
+      "whyItMatters": "發射節奏上限會約束 Starlink／未來軌道業務嘅產能想像；新手宜跟「FAA／PEIS 時間表」多過單一標題數字。",
+      "whatToWatch": "11 月 FAA 公聽同 PEIS 進度；公司後續 IR 有冇正式確認申請細節。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "SpaceNews",
+          "date": "2026-10-16",
+          "title": "SpaceX proposing sharp increase in Starship launches from Texas",
+          "url": "https://spacenews.com/spacex-proposing-sharp-increase-in-starship-launches-from-texas/"
+        },
+        {
+          "category": "news",
+          "publisher": "Space.com",
+          "date": "2026-10-15",
+          "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas"
+        }
+      ]
+    },
+    {
+      "id": "nvda-mercedes-cpo-huang",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：擴大 Mercedes 自動駕駛合作；TechNews 報中介層光學 CPO；黃仁勳談 AI 波動",
+      "summary": "Research NVDA。NVIDIA 新聞室 10/16：與 Mercedes-Benz 擴大高階自動駕駛安全合作（公司新聞室）。TechNews（第三方整理）：Semicon West 展示「中介層光學／Optics-on-Interposer」CPO 原型，強調仍屬研發評估階段；另有已量產 CPO 用於 Quantum-X／Spectrum-X 等。富途快訊轉述（第三方）：黃仁勳稱近期 AI 市場動盪終會過去、硬件投資長線有回報。Yahoo：NVDA 2026-10-15 收 217.23。",
+      "whyItMatters": "汽車設計導入係產品／生態訊號；CPO 關乎資料中心互連功耗同頻寬——原型同已量產產品要分開睇。",
+      "whatToWatch": "後續汽車量產車型／資料中心互連出貨節奏；周一補齊周五收市。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-16",
+          "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership",
+          "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-16",
+          "title": "輝達 CPO 布局再升級：推出「中介層光學」技術",
+          "url": "https://technews.tw/2026/10/16/nvidia-cpo-technology-breakthrough-and-ecosystem/"
+        },
+        {
+          "category": "news",
+          "publisher": "富途快訊",
+          "date": "2026-10-16",
+          "title": "黃仁勳談 AI 市場動盪",
+          "url": "https://news.futunn.com/flash/1001431486/jensen-huang-ai-will-bring-about-transformation-current-market-turbulence"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-15",
+          "title": "NVDA last Yahoo chart close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-nvda-open-weight-risk",
+      "ticker": "MSFT",
+      "title": "微軟 × NVIDIA：聯合發布企業開源權重模型風險管理白皮書",
+      "summary": "Research MSFT／NVDA。Microsoft Azure Blog 10/16（公司博客）：與 NVIDIA 聯合發布《Risk Management for Open-Weight Models in Enterprise》，提出五類風險分類（資安、資料保護、內容、人機互動、偏誤），並對齊 ISO／NIST 框架；強調「權重開源本身唔等於風險高低，要睇用例同部署」。非財報數字。Yahoo：MSFT 2026-10-15 收 539.44。",
+      "whyItMatters": "企業客戶點樣評估開源權重模型，會影響雲同 GPU 平台嘅採用節奏——屬治理／產品訊號，唔係即時收入。",
+      "whatToWatch": "後續 Foundry／評估工具更新；大型科技財報季。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Azure Blog",
+          "date": "2026-10-16",
+          "title": "Managing open-weight model risk in enterprise deployments",
+          "url": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-15",
+          "title": "MSFT last Yahoo chart close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "gld-spym-veu-quiet-weekend",
+      "ticker": "GLD",
+      "title": "週末安靜帶（GLD／SPYM／VEU）：美股休市；金價／風險偏好跟息口同 AI 融資敘事",
+      "summary": "Holding GLD／SPYM／VEU。周六港美休市。Yahoo 圖表最後有效收市：GLD 2026-10-15 收 382.71；SPYM 2026-10-15 收 90.84；VEU 2026-10-15 收 82.0（美股周五 10/16 收市若未入 Yahoo，勿當成已核實）。第三方評論繼續圍繞約 10/28–29 FOMC、美元同 AI 融資疑慮對風險資產嘅影響——非 ETF 發行商公告。Macro（profile 已勾）：Fed／HKMA 僅作背景。",
+      "whyItMatters": "寬基同黃金短線常跟息口同風險胃口；週末冇新收市，新手唔好把盤中傳聞當收市價。",
+      "whatToWatch": "周一開市補收市；約 10/29 FOMC；金管局 HIBOR／總結餘。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-15",
+          "title": "GLD last Yahoo chart close",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-15",
+          "title": "SPYM last Yahoo chart close",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-15",
+          "title": "VEU last Yahoo chart close",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        }
+      ]
+    },
+    {
+      "id": "1810-1398-hk-friday-close",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）／工行（1398.HK）：港股周五收市；週末無重大已核實公司公告",
+      "summary": "Holding 1810.HK／Research 1398.HK。Yahoo：1810.HK 2026-10-16 收 26.66；1398.HK 2026-10-16 收 7.59。周末港交所休市。近 48 小時未見小米／工行新 HKEX 重大公告（最近小米月報仍為 10/7）。中國消費宏觀僅作背景（profile 已勾選），唔覆蓋非 Active 奢侈股。",
+      "whyItMatters": "股價反映短線情緒，但冇新公告時，新手宜等官方披露多過渠道傳聞。",
+      "whatToWatch": "周一港股開市；小米後續 IR／中期銷售。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "1810.HK last Yahoo close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "1398.HK last Yahoo close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-10-07",
+          "title": "Monthly Return for the month ended 30 September 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2349,
+  "audioVoice": "zh-TW-HsiaoChenNeural"
+}
