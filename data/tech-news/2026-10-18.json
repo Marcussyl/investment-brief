@@ -1,0 +1,215 @@
+{
+  "updated": "2026-10-18T08:24:37+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. Educational tech digest only. Sources linked; third-party items flagged in summaries where relevant.",
+  "items": [
+    {
+      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+      "summary": "NVIDIA 新聞室：RTX Spark Windows 筆記型由 ASUS／Dell／HP／Lenovo／Microsoft／MSI 等開賣，強調本地 AI／創作／遊戲。公司公告。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-16",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "消費端／開發者本地 AI 產品節奏訊號；短線股價仍受整體 AI 融資情緒影響。",
+      "newbieTake": "產品開賣≠即時財報數字；以新聞室原文為準。"
+    },
+    {
+      "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving",
+      "summary": "NVIDIA 新聞室：與 Mercedes-Benz 擴大高階自動駕駛安全合作。公司公告。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-16",
+      "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "汽車設計導入屬生態／產品訊號，唔等於即時收入確認。",
+      "newbieTake": "跟後續量產車型時間表，唔好只睇合作標題。"
+    },
+    {
+      "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+      "summary": "NVIDIA 新聞室：與 Volvo Cars 擴大自動駕駛合作。公司公告。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-15",
+      "url": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "車廠合作延續自動駕駛平台敘事。",
+      "newbieTake": "公司新聞室優先於社交轉述。"
+    },
+    {
+      "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+      "summary": "NVIDIA 新聞室：與 Adobe 擴大協作，加速 agentic 創作流程。公司公告。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-15",
+      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "創作軟體生態可強化 RTX／CUDA 黏著度。",
+      "newbieTake": "屬產品合作消息，非財報。"
+    },
+    {
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "summary": "NVIDIA Blog：RTX Spark Windows PC 上市慶祝／推廣文。公司博客。",
+      "source": "NVIDIA Blog",
+      "date": "2026-10-17",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "呼應新聞室開賣，屬行銷／生態訊息。",
+      "newbieTake": "博客同新聞室一齊睇，數字以新聞室為準。"
+    },
+    {
+      "title": "AI 記憶體下一步？三星確認速度、可擴展性、持久性為發展重點",
+      "summary": "TechNews：三星於 OCP 峰會談 HBM5／CXL／QLC 等 AI 記憶體策略，並提及與 NVIDIA／AMD 等展示。第三方整理。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-17",
+      "url": "https://finance.technews.tw/2026/10/17/samsung-confirms-speed-scalability-and-durability-as-key-focuses-for-ai-memory-development/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "記憶體供應同規格影響 GPU／伺服器成本與出貨節奏。",
+      "newbieTake": "供應商策略≠NVDA 官方指引；對照公司 IR。"
+    },
+    {
+      "title": "大摩記憶體與 AI 供應鏈展望，HBM 與 SSD 合約價飆升",
+      "summary": "TechNews 轉述摩根士丹利研究：DRAM／NAND 合約價上調預期、HBM／Rubin 節奏等。第三方券商觀點。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-17",
+      "url": "https://finance.technews.tw/2026/10/17/morgan-stanley-memory-and-ai-supply-chain-outlook/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "供應鏈定價與機架結構討論可影響市場對 AI 硬件利潤率嘅想像。",
+      "newbieTake": "券商預估可錯；唔係買賣訊號。"
+    },
+    {
+      "title": "最賺錢的時候押注下一步，黃仁勳帶領輝達再一次歷史性轉型",
+      "summary": "TechNews 評論／整理黃仁勳與 NVIDIA 產品路線敘事。第三方。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-17",
+      "url": "https://technews.tw/2026/10/17/nvidia-completes-another-historic-transformation/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "長線敘事文章，短線仍受融資情緒左右。",
+      "newbieTake": "評論文≠公司財報；分開睇。"
+    },
+    {
+      "title": "日本核准台積電熊本二廠升級 3 奈米計畫，預計 2028 年底投產",
+      "summary": "TechNews：日本核准 TSMC 熊本二廠升級 3nm 相關計畫。第三方／政策報導。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-17",
+      "url": "https://finance.technews.tw/2026/10/17/japan-approves-tsmcs-kumamoto-fab-2-upgrade-plan-to-3nm-process/",
+      "tickers": [],
+      "impact": "先進製程產能地理布局屬行業背景（Active 名單無 TSM 個股）。",
+      "newbieTake": "僅作供應鏈背景；唔掛非 Active ticker。"
+    },
+    {
+      "title": "SK 海力士明確否認拿條件換美國允許中國大連廠設備輸入",
+      "summary": "TechNews：SK hynix 否認以條件交換美方允許大連廠設備。第三方。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-17",
+      "url": "https://finance.technews.tw/2026/10/17/sk-hynix-explicitly-denied-using-conditions-in-exchange-for-the-us-allowing-the-import-of-equipment-from-its-dalian-china-plant/",
+      "tickers": [],
+      "impact": "記憶體地緣／出口管制敘事可能影響供應鏈風險偏好。",
+      "newbieTake": "對照官方聲明；唔自動連結 Active 持股。"
+    },
+    {
+      "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+      "summary": "CNBC：特朗普否認下令限制烏克蘭 Starlink／Starshield。第三方·非 SpaceX IR。",
+      "source": "CNBC Tech",
+      "date": "2026-10-16",
+      "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "政策敘事可影響市場對軍用星鏈合約風險溢價。",
+      "newbieTake": "跟正式澄清，唔好只睇互相指責標題。"
+    },
+    {
+      "title": "Europe's answer to SpaceX rises as Ukraine Starshield limits raise concerns",
+      "summary": "CNBC：歐洲衛星相關股受 Starshield 限制敘事帶動上漲報導。第三方。",
+      "source": "CNBC Tech",
+      "date": "2026-10-16",
+      "url": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "競爭／替代敘事可能在短線情緒中被放大。",
+      "newbieTake": "歐洲競品股價≠SpaceX 基本面已變。"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+      "summary": "CNBC：黃仁勳呼籲美中就 AI 對話。第三方訪問／報導。",
+      "source": "CNBC Tech",
+      "date": "2026-10-15",
+      "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "地緣同出口管制預期可持續影響中國相關收入敘事。",
+      "newbieTake": "言論≠政策已改；對照公司指引假設。"
+    },
+    {
+      "title": "SpaceX to Post Third Quarter 2026 Results and Host Webcast on October 20",
+      "summary": "SpaceX IR：10/20 盤後公布 Q3，並舉行音訊 webcast。公司公告。",
+      "source": "SpaceX IR",
+      "date": "2026-10-16",
+      "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Post-Third-Quarter-2026-Results-and-Host-Webcast-on-October-20-2026-2026-QssQGye3im/default.aspx",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "業績日前後波動可能加大；屬事件時間表。",
+      "newbieTake": "盤後公布＝收市價未反映數字。"
+    },
+    {
+      "title": "Samsung to break ground on second Texas chip fab in November",
+      "summary": "DigiTimes（經 Google News 標題）：三星德州第二座晶圓廠預計 11 月動工。第三方。",
+      "source": "DigiTimes",
+      "date": "2026-10-16",
+      "url": "https://www.digitimes.com/",
+      "tickers": [],
+      "impact": "美國產能擴張屬半導體供應背景。",
+      "newbieTake": "詳情以 DigiTimes／公司原文為準；此處僅標題級。"
+    },
+    {
+      "title": "Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift",
+      "summary": "DigiTimes（經 Google News）：Rubin 仍預期多用 12 層 HBM4。第三方供應鏈傳聞。",
+      "source": "DigiTimes",
+      "date": "2026-10-15",
+      "url": "https://www.digitimes.com/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "HBM 配置傳聞可影響對出貨規格同成本嘅預期。",
+      "newbieTake": "供應鏈傳聞待公司／供應商確認。"
+    },
+    {
+      "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+      "summary": "Microsoft Blog：計劃將 Azure Maia 系統擴至多 GW 部署。公司博客（10/12，仍屬近窗產品敘事）。",
+      "source": "Microsoft Blog",
+      "date": "2026-10-12",
+      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "自研 AI 硅片／機架規模影響雲成本同對外部 GPU 需求敘事。",
+      "newbieTake": "公司博客屬前瞻；以財報核對進度。"
+    },
+    {
+      "title": "Anthropic自建Scion取代Git，CI取出程式碼時間從數分鐘縮至數秒",
+      "summary": "iThome：Anthropic 以自建 Scion 取代 Git 加速 CI。資安／開發工具向。",
+      "source": "iThome",
+      "date": "2026-10-16",
+      "url": "https://www.ithome.com.tw/news/179733",
+      "tickers": [],
+      "impact": "AI 實驗室工程基建消息，對 Active 持股間接。",
+      "newbieTake": "行業效率案例；唔自動連結股價。"
+    }
+  ]
+}

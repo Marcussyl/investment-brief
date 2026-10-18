@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-18",
+  "audioUrl": "data/audio/2026-10-18.mp3",
+  "concepts": [
+    {
+      "id": "after-hours-earnings",
+      "title": "盤後業績（after-hours earnings）",
+      "titleEn": "After-hours earnings release",
+      "what": "美股「盤後業績」指公司在常規交易時段（美東約 9:30–16:00）結束後才公布季報或營運數據。投資者常要等盤後或翌日開市才見到股價對數字的反應；公司亦常同日舉行業績 webcast／電話會議解釋細節。",
+      "whyItMatters": "新手容易以為「今天收市價已反映即將公布的業績」——其實盤後數字一出，股價可在盤後／盤前大幅跳動。睇業績要分清：官方 IR 公布時間、webcast，同第三方預估。",
+      "whereToday": "SpaceX IR（2026-10-16）：宣布 2026 年第三季財務及營運結果將於 10/20（周二）美股收市後公布，並於美中部時間下午 3:30（美東 4:30）舉行音訊 webcast。Yahoo：SPCX 2026-10-16 收 146.03。",
+      "whatToWatch": "10/20 收市後 IR／webcast；翌日開市對 Connectivity／AI／Space 分部同資本開支嘅解讀。唔構成買賣建議。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/3fd99f70bc5681fc8cb1cd27ed6107a1"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR Portfolio S&P 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Monthly Return for the month ended 30 September 2026",
+        "date": "2026-10-07",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Interim dividend cash dividend with currency option (update)",
+        "date": "2026-09-29",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-q3-earnings-oct20",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：公司 IR 宣布 10/20 盤後公布 Q3；周五收 146.03",
+      "summary": "Holding SPCX。週末安靜帶（港／美周日休市）。SpaceX Investor Relations（公司 IR，2026-10-16）：第三季財務及營運結果將於 2026-10-20（周二）美股收市後公布；管理層同日美中部時間下午 3:30（美東 4:30）舉行音訊 webcast，並可於 ir.spacex.com 重播／預先登記提問。Yahoo：SPCX 2026-10-16 收 146.03（較 10/15 收 148.62 低；CNBC 報價頁同日顯示約 −1.74%）。第三方（Yahoo／TECHi 等）圍繞業績前分析／分析師目標——非公司指引。",
+      "whyItMatters": "盤後業績意味著周五收市價尚未反映 10/20 數字；新手宜分清「IR 官方時間表」同「第三方預估／目標價」。",
+      "whatToWatch": "10/20 盤後 IR 全文同 webcast；Connectivity（Starlink）／AI／Space 分部同資本開支解讀。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-16",
+          "title": "SpaceX to Post Third Quarter 2026 Results and Host Webcast on October 20, 2026",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Post-Third-Quarter-2026-Results-and-Host-Webcast-on-October-20-2026-2026-QssQGye3im/default.aspx"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "SPCX Yahoo chart close",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC Quotes",
+          "date": "2026-10-16",
+          "title": "SPCX quote page (close 146.03)",
+          "url": "https://www.cnbc.com/quotes/SPCX"
+        }
+      ]
+    },
+    {
+      "id": "spcx-starshield-weekend-follow",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：Starshield／烏克蘭連線爭議週末無新公司公告",
+      "summary": "Holding SPCX。CNBC（2026-10-16，第三方）：特朗普否認白宮下令限制烏克蘭軍用級 Starlink／Starshield；歐洲衛星股 Eutelsat 等被報導受相關敘事帶動（非 SpaceX IR）。週末未見 SpaceX 新 IR 澄清。屬地緣／政策第三方報導延續，唔等於合約條款已變。",
+      "whyItMatters": "政策同地緣會左右市場對軍用星鏈嘅風險溢價；新手要分開「互相指責」同「公司／政府正式文件」。",
+      "whatToWatch": "有冇美方或 SpaceX 正式澄清；周一開市情緒。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-16",
+          "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+          "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-16",
+          "title": "Europe's answer to SpaceX rises as Ukraine Starshield limits raise concerns",
+          "url": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html"
+        }
+      ]
+    },
+    {
+      "id": "nvda-rtx-spark-ai-selloff",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：RTX Spark PC 開賣；周五 AI 股回調中收 214.13",
+      "summary": "Research NVDA。NVIDIA 新聞室 10/16：RTX Spark Windows PC 即日起由 ASUS、Dell、HP、Lenovo、Microsoft、MSI 等推出（公司新聞室；起價等以官網為準）。同時美股周五 AI／科技股受融資成本同債務擔憂拖累（WSJ／Yahoo 第三方盤勢）：Yahoo NVDA 2026-10-16 收 214.13。TechNews（10/17，第三方）：記憶體／HBM 供應鏈同三星 AI 記憶體策略等討論延續。",
+      "whyItMatters": "產品開賣係消費／開發者生態訊號；短線股價亦受「AI 基建點融資」情緒左右——兩者要分開睇。",
+      "whatToWatch": "RTX Spark 出貨節奏；後續資料中心財報季；記憶體供應約束第三方追蹤。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-16",
+          "title": "NVIDIA RTX Spark PCs Available Today",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-17",
+          "title": "AI 記憶體下一步？三星確認速度、可擴展性、持久性為發展重點",
+          "url": "https://finance.technews.tw/2026/10/17/samsung-confirms-speed-scalability-and-durability-as-key-focuses-for-ai-memory-development/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "NVDA last Yahoo close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance / markets wrap",
+          "date": "2026-10-16",
+          "title": "Nasdaq, S&P 500 end lower; AI stocks fall",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html"
+        }
+      ]
+    },
+    {
+      "id": "msft-friday-ai-financing",
+      "ticker": "MSFT",
+      "title": "微軟（MSFT）：周五收 529.05；市場聚焦 AI 基建融資同雲端電力協議",
+      "summary": "Research MSFT。Yahoo：MSFT 2026-10-16 收 529.05。Investing.com 盤勢（第三方）列微軟為當日 Dow 偏弱者之一。Benzinga 週報（第三方）提及公用事業 NiSource 與微軟數據中心長期電力協議、以及微軟重組 Azure／自研 Maia 路線等——屬第三方整理，非即日新 IR 全文。週末無重大已核實公司財報。",
+      "whyItMatters": "雲同自研芯片係長線產品敘事；短線股價跟大盤 AI 融資情緒一齊波動時，新手唔好把盤勢標題當公司指引。",
+      "whatToWatch": "後續 Azure／資本開支披露；約 10/28–29 FOMC 前後風險偏好。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "MSFT last Yahoo close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        },
+        {
+          "category": "news",
+          "publisher": "Investing.com",
+          "date": "2026-10-16",
+          "title": "U.S. stocks lower at close; MSFT among Dow laggards",
+          "url": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-034-4954815"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Blog",
+          "date": "2026-10-12",
+          "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/"
+        }
+      ]
+    },
+    {
+      "id": "gld-spym-veu-fri-close-macro",
+      "ticker": "GLD",
+      "title": "週末安靜帶（GLD／SPYM／VEU）：周五美股收市已入圖；盯約 10/29 FOMC",
+      "summary": "Holding GLD／SPYM／VEU。周日休市。Yahoo 已補 2026-10-16 收市：GLD 382.01；SPYM 89.83；VEU 81.54。第三方盤勢（Yahoo／WSJ）：周五 S&P／Nasdaq 受 AI 股回調拖累；聯儲主席 Warsh 未預告即時加息路徑，CME FedWatch 等對 10 月底議息定價有所調整（第三方，非正式 Fed 聲明）。Macro（profile 已勾）：Fed／HKMA 僅作背景。",
+      "whyItMatters": "寬基同黃金短線常跟息口同風險胃口；週末冇新收市，新手用已核實周五收市作基準即可。",
+      "whatToWatch": "周一開市；約 10/29 FOMC；金管局 HIBOR／總結餘。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "GLD close",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "SPYM close",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "VEU close",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "Markets wrap: Nasdaq/S&P lower; FedWatch context",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html"
+        }
+      ]
+    },
+    {
+      "id": "1810-1398-weekend-quiet",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）／工行（1398.HK）：港股周五收市；週末無重大新公告",
+      "summary": "Holding 1810.HK／Research 1398.HK。Yahoo：1810.HK 2026-10-16 收 26.66；1398.HK 2026-10-16 收 7.59。週末港交所休市。近 48 小時未見小米／工行新 HKEX 重大公告（最近小米月報仍為 10/7）。中國消費宏觀僅作背景（profile 已勾選），唔覆蓋非 Active 奢侈股。",
+      "whyItMatters": "冇新公告時，新手宜等官方披露多過渠道促銷／論壇帖。",
+      "whatToWatch": "周一港股開市；小米後續 IR／銷售數據。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "1810.HK close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "1398.HK close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-10-07",
+          "title": "Monthly Return for the month ended 30 September 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2242,
+  "audioVoice": "gTTS-zh-TW"
+}
