@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-19",
+  "audioUrl": "data/audio/2026-10-19.mp3",
+  "concepts": [
+    {
+      "id": "hkex-market-holiday",
+      "title": "港股休市日（HKEX market holiday）",
+      "titleEn": "Hong Kong stock market holiday",
+      "what": "港交所（HKEX）部分日子會全日休市，例如公眾假期或其「翌日」。休市日唔會有正常現貨股票交易同收市價；圖表上最後有效收市通常停喺上一個交易日。美股同港股假期唔一定同一日，所以持有兩邊資產時要分開睇。",
+      "whyItMatters": "新手容易以為「星期一一定開市」。若當日港股休市，1810.HK／1398.HK 等港股唔會有新收市；美股若開市，SPCX／NVDA 等仍可能有報價。唔好把休市當「冇新聞＝冇風險」。",
+      "whereToday": "2026-10-19（周一）因重陽節翌日，港股全日休市（港交所假期安排／滬港通相關通知）；預計 10/20（周二）恢復。美股周一如常交易時段。富途要聞亦提示「港股周一休市」。",
+      "whatToWatch": "10/20 港股重開；美股今晚開市後 SPCX 業績前情緒。唔構成買賣建議。",
+      "relatedTickers": [
+        "1810.HK",
+        "1398.HK",
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/3fe99f70bc568190833ee82541223a82"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR Portfolio S&P 500 ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）ETF",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米集團",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Monthly Return for the month ended 30 September 2026",
+        "date": "2026-10-07",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Interim dividend cash dividend with currency option (update)",
+        "date": "2026-09-29",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092901754_c.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-q3-tomorrow",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：周二 10/20 盤後公布 Q3；周一美股重開、業績前倒數",
+      "summary": "Holding SPCX。公司 IR（2026-10-16）：第三季財務及營運結果將於 2026-10-20（周二）美股收市後公布；管理層同日美中部時間下午 3:30（美東 4:30）舉行音訊 webcast（ir.spacex.com 可重播／預先登記）。Yahoo：SPCX 2026-10-16（周五）收 146.03——周一開市前最後已核實收市。富途要聞（第三方）將 SpaceX 與本週科技財報／GTC 敘事並列——非公司指引。",
+      "whyItMatters": "盤後業績意味周五收市價尚未反映 10/20 數字；新手宜跟 IR 時間表同 webcast，多過第三方目標價。",
+      "whatToWatch": "今晚美股開市至明日盤後 IR 全文；Connectivity／AI／Space 分部同資本開支解讀。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-16",
+          "title": "SpaceX to Post Third Quarter 2026 Results and Host Webcast on October 20, 2026",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Post-Third-Quarter-2026-Results-and-Host-Webcast-on-October-20-2026-2026-QssQGye3im/default.aspx"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR Events",
+          "date": "2026-10-20",
+          "title": "Q3 2026 Earnings event page",
+          "url": "https://ir.spacex.com/events/event-details/2026/Q3-2026-Earnings/default.aspx"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "SPCX last Yahoo chart close",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "category": "news",
+          "publisher": "富途快訊",
+          "date": "2026-10-19",
+          "title": "一周前瞻：科技財報與 SpaceX 業績（第三方）",
+          "url": "https://news.futunn.com/post/1001479135/weekly-outlook-nvidia-s-gtc-and-tech-giants-earnings-reports"
+        }
+      ]
+    },
+    {
+      "id": "hk-holiday-1810-1398",
+      "ticker": "1810.HK",
+      "title": "港股周一休市（重陽翌日）：小米 1810／工行 1398 無新收市",
+      "summary": "Holding 1810.HK／Research 1398.HK。港交所安排：2026-10-19（周一）因重陽節翌日全日休市；10/20（周二）恢復（並影響港股通相關交易日）。Yahoo 最後有效收市仍為 2026-10-16：1810.HK 26.66；1398.HK 7.59。近 48 小時未見小米／工行新 HKEX 重大公告（小米月報仍為 10/7）。中國消費宏觀僅作背景（profile 已勾），不覆蓋非 Active 奢侈股。",
+      "whyItMatters": "休市日唔等於「冇風險」——只係冇本地現貨成交；美股／新聞仍可影響翌日開市預期。",
+      "whatToWatch": "10/20 港股重開；小米後續 IR／銷售數據。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "上海證券交易所／港股通通知",
+          "date": "2026-10-15",
+          "title": "关于沪港通下港股通交易日安排的通知（10/19 暂停）",
+          "url": "https://www.sse.com.cn/services/hkexsc/disclo/announ/c/c_20261015_10834749.shtml"
+        },
+        {
+          "category": "news",
+          "publisher": "富途快訊",
+          "date": "2026-10-19",
+          "title": "一周前瞻提及港股周一休市",
+          "url": "https://news.futunn.com/post/1001479135/weekly-outlook-nvidia-s-gtc-and-tech-giants-earnings-reports"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "1810.HK close",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "1398.HK close",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-10-07",
+          "title": "Xiaomi Monthly Return Sep 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700862.pdf"
+        }
+      ]
+    },
+    {
+      "id": "nvda-hbm-samsung-tsmc",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：韓媒稱三星下代 HBM 基礎晶粒應輝達要求改採台積電 3 奈米",
+      "summary": "Research NVDA。TechNews（2026-10-19，第三方·非 NVIDIA／三星官方中文新聞室全文）：韓媒報導三星應 NVIDIA 要求，下一代 HBM 基礎晶粒（base die）擬採用台積電 3 奈米製程。屬供應鏈／製程傳言層級，需對照雙方後續官方說明。NVIDIA 新聞室近況仍以 RTX Spark 開賣（10/16）及車廠自動駕駛合作為公司公告主軸。Yahoo：NVDA 2026-10-16 收 214.13。",
+      "whyItMatters": "HBM 基礎晶粒製程影響良率、成本同出貨節奏；新手要把「韓媒／科技媒體轉述」同「公司新聞室」分開。",
+      "whatToWatch": "三星／NVIDIA／台積電有冇正式確認；本週 GTC／財報季氣氛。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-19",
+          "title": "韓媒：三星應輝達要求，下代 HBM 基礎晶粒採台積電 3 奈米",
+          "url": "https://technews.tw/2026/10/19/samsung-nvidia-request-tsmc-3nm-next-gen-hbm-base-die/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-16",
+          "title": "NVIDIA RTX Spark PCs Available Today",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "NVDA last Yahoo close",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        },
+        {
+          "category": "news",
+          "publisher": "富途快訊",
+          "date": "2026-10-19",
+          "title": "半導體／光通信夜盤反彈（第三方盤勢）",
+          "url": "https://news.futunn.com/flash/1001488991/nasdaq-100-index-futures-extended-their-gains-to-nearly-1"
+        }
+      ]
+    },
+    {
+      "id": "msft-maia-reopen",
+      "ticker": "MSFT",
+      "title": "微軟（MSFT）：周一美股重開；公司博客談 Azure Maia 放大至多 GW",
+      "summary": "Research MSFT。Microsoft 官方博客（2026-10-12）：Azure Maia 200 已服務生產負載（含 Copilot）；計劃由 2027 年起把 Maia 家族放大至多 GW 部署，並介紹 Maia 300 推理導向架構（公司博客，非今日新財報）。Yahoo：MSFT 2026-10-16 收 529.05。本週市場亦聚焦大型科技財報節奏（第三方）。",
+      "whyItMatters": "自研推理加速器係雲成本／產能長線敘事；短線股價仍可能跟 AI 融資情緒一齊波動。",
+      "whatToWatch": "Ignite／後續資本開支披露；約 10/28–29 FOMC。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Blog",
+          "date": "2026-10-12",
+          "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "MSFT last Yahoo close",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        },
+        {
+          "category": "news",
+          "publisher": "富途快訊",
+          "date": "2026-10-19",
+          "title": "一周前瞻：科技財報密集（第三方）",
+          "url": "https://news.futunn.com/post/1001479135/weekly-outlook-nvidia-s-gtc-and-tech-giants-earnings-reports"
+        }
+      ]
+    },
+    {
+      "id": "gld-spym-veu-monday-macro",
+      "ticker": "GLD",
+      "title": "GLD／SPYM／VEU：周一美股重開；盯 10/27–28 FOMC 與金價盤初波動",
+      "summary": "Holding GLD／SPYM／VEU。Yahoo 周五收市：GLD 382.01；SPYM 89.83；VEU 81.54（2026-10-16）。富途快訊（第三方）：周一亞洲早段現貨金短線波動後報約 4161 美元／盎司——現貨報價≠GLD 收市，勿直接等同。Macro（profile 已勾）：Fed 10/27–28 議息、決策約港時間 10/29 凌晨；金管局基本利率按公式跟 Fed，僅作背景。US payrolls 未勾選，本簡報不展開。",
+      "whyItMatters": "寬基同黃金常跟息口預期同風險胃口；休市週末後第一個美股交易日，波動可能放大。",
+      "whatToWatch": "今晚美股收市；約 10/29 FOMC；金管局 HIBOR／總結餘。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "GLD close",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "SPYM close",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "marketData",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-16",
+          "title": "VEU close",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        },
+        {
+          "category": "news",
+          "publisher": "富途快訊",
+          "date": "2026-10-19",
+          "title": "現貨黃金周一開盤波動（第三方）",
+          "url": "https://news.futunn.com/flash/1001487307/at-monday-s-open-spot-gold-initially-fell-by-more"
+        },
+        {
+          "category": "news",
+          "publisher": "Federal Reserve",
+          "date": "2026-10-01",
+          "title": "Fed October 2026 calendar (FOMC 27–28)",
+          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+        }
+      ]
+    },
+    {
+      "id": "macro-fomc-countdown",
+      "ticker": "SPYM",
+      "title": "宏觀背景：FOMC 約兩週後；褐皮書已出、港股今日休市",
+      "summary": "Profile 已勾 Fed／FOMC vs HKMA。聯儲官網日程：FOMC 2026-10-27 至 10-28，記者會同日。10/14 褐皮書已公布（先前簡報已覆蓋）。港股今日休市、美股重開，跨市場假期錯位常見。唔展开非 Active 標的。",
+      "whyItMatters": "息口預期會同時影響美股 ETF、黃金同港元利率聯動；新手記低「港股休市 ≠ 全球冇事」。",
+      "whatToWatch": "FOMC 聲明措辭；HKMA 基本利率公式聯動。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Federal Reserve",
+          "date": "2026-10-01",
+          "title": "October 2026 calendar — FOMC 27–28",
+          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "Federal Reserve",
+          "date": "2026-10-14",
+          "title": "Beige Book — October 2026",
+          "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2139,
+  "audioVoice": "gTTS-zh-TW"
+}
