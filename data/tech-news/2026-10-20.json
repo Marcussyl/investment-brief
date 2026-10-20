@@ -1,0 +1,210 @@
+{
+  "updated": "2026-10-20T08:26:42+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. Educational tech digest only. Sources linked; third-party items flagged in summaries where relevant.",
+  "items": [
+    {
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "summary": "NVIDIA 部落格：執行長於柏林與德國總理論工業 AI 路線圖與落地應用。公司新聞室／部落格。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-19",
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：主權／工業 AI 敘事，偏軟體與生態合作。",
+      "newbieTake": "官方敘事；唔等於下季財報指引。"
+    },
+    {
+      "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich",
+      "summary": "NVIDIA 新聞室：於歐洲 JUPITER 超算以大量 GPU 創紀錄模擬容錯量子計算相關流程。公司新聞室。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-19",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：高效能運算／模擬用例曝光。",
+      "newbieTake": "科研合作稿；同資料中心出貨指引係兩回事。"
+    },
+    {
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family",
+      "summary": "NVIDIA 部落格：擴大 Nemotron 開源模型家族（含 Super VL 等），覆蓋資料中心到桌面。公司部落格。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-15",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：開源模型強化平台黏性想像。",
+      "newbieTake": "產品／模型發布；睇採用多過標題。"
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "summary": "TechCrunch：報導 Nemotron 3.5 Super VL 與 Bolt 系列，對應企業 agent 與 RTX Spark／本地 PC。",
+      "source": "Reuters Tech / CNBC Tech",
+      "date": "2026-10-19",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：媒體解讀開源模型策略。",
+      "newbieTake": "第三方媒體；細節以 NVIDIA 原文為準。"
+    },
+    {
+      "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
+      "summary": "MarkTechPost：Run:ai GPU 編排以 Apache 2.0 開源，含排程與 GPU fractioning。第三方·非公告整理。",
+      "source": "MarkTechPost",
+      "date": "2026-10-18",
+      "url": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：叢集利用率工具開源。",
+      "newbieTake": "第三方整理；以 NVIDIA／GitHub 原倉為準。"
+    },
+    {
+      "title": "為什麼三星要結盟台積電，生產下代 NVHBM 3 奈米基礎晶片？",
+      "summary": "TechNews：討論三星下代 HBM 基礎晶粒與台積電 3 奈米／NVIDIA 需求相關產業分析。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-19",
+      "url": "https://technews.tw/2026/10/19/samsung-nvidia-request-tsmc-3nm-next-gen-hbm-base-die/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：HBM 供應鏈製程選擇影響成本與時程想像。",
+      "newbieTake": "產業媒體分析；等三星／NVIDIA／台積電官方說明。"
+    },
+    {
+      "title": "AI 算力浪潮與地緣雙軌演進！2027 年半導體設備競格全解析",
+      "summary": "TechNews：整理 2027 年半導體設備競爭格局，連結 AI 算力與地緣因素。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-20",
+      "url": "https://technews.tw/2026/10/20/ai-computing-power-wave-geopolitical-dual-track-evolution-2027-semiconductor-equipment-co",
+      "tickers": [],
+      "impact": "可能／市場關注：設備資本支出長線敘事。",
+      "newbieTake": "展望文；唔係即時訂單公告。"
+    },
+    {
+      "title": "陳立武：中國晶片製造落後不大，英特爾正積極建構與台積電平起平坐業務",
+      "summary": "TechNews 財經：英特爾 CEO 談製造競爭力與代工業務目標。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-20",
+      "url": "https://finance.technews.tw/2026/10/20/chinas-chip-manufacturing-technology-is-not-far-behind/",
+      "tickers": [],
+      "impact": "可能／市場關注：晶圓代工競爭話語。",
+      "newbieTake": "訪談整理；對照後續資本支出與客戶公告。"
+    },
+    {
+      "title": "蘋果、特斯拉以中國記憶體做籌碼要韓商降價，韓媒：當前還難以撼動",
+      "summary": "TechNews 轉述韓媒：記憶體議價與供應鏈動態。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-20",
+      "url": "https://technews.tw/2026/10/20/apple-and-tesla-are-using-chinese-memory-chips-as-leverage-to-pressure-south-korean-compa",
+      "tickers": [],
+      "impact": "可能／市場關注：記憶體價格／週期情緒。",
+      "newbieTake": "韓媒轉述；價格係週期變數，唔係單一新聞定論。"
+    },
+    {
+      "title": "SK 海力士聯手韓政府與四大銀行，推 2 兆韓圜貸款保證支援半導體供應商",
+      "summary": "TechNews：韓國政策性融資支援半導體供應鏈。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-19",
+      "url": "https://finance.technews.tw/2026/10/19/sk-hynix-govt-to-provide-2-tln-won-in-loan-guarantees-to-semiconductor-suppliers/",
+      "tickers": [],
+      "impact": "可能／市場關注：供應鏈融資環境。",
+      "newbieTake": "政策／融資新聞；唔直接等於股價方向。"
+    },
+    {
+      "title": "日本擬對雲端服務等設安全認證制度，實質上排除受中俄影響業者",
+      "summary": "TechNews 資安：日本擬對雲端等服務設安全認證，可能影響供應商資格。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-19",
+      "url": "https://infosecu.technews.tw/2026/10/19/japan-security-certification-cloud-services-exclude-china-russia-influenced-firm",
+      "tickers": [],
+      "impact": "可能／市場關注：雲端／地緣合規門檻。",
+      "newbieTake": "政策草案／報導階段；以官方法規文本為準。"
+    },
+    {
+      "title": "特斯拉前工程師創立 Industrial Next，攜手 BMW 訓練產線 AI 機器人不需重編程就能換線",
+      "summary": "TechNews：產線 AI 機器人新創與 BMW 合作敘事。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-20",
+      "url": "https://technews.tw/2026/10/20/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "tickers": [],
+      "impact": "可能／市場關注：工業 AI／機器人應用。",
+      "newbieTake": "新創故事；同 Active 持倉無直接對應。"
+    },
+    {
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "summary": "NVIDIA 部落格：RTX Spark Windows PC 陸續上市，強調本地 AI。公司部落格。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-17",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：消費／創作者端 AI PC 鋪貨。",
+      "newbieTake": "產品上市稿；同資料中心 GPU 出貨分開睇。"
+    },
+    {
+      "title": "一图前瞻 | SpaceX财报10月20日盘后来袭，AI合同兑现与资本开支节奏成核心看点",
+      "summary": "富途要聞前瞻 SPCX 盤後業績焦點（AI 合約、資本開支）。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-20",
+      "url": "https://news.futunn.com/post/1001503662/one-chart-preview-spacex-s-earnings-repo",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：業績前市場討論點。",
+      "newbieTake": "第三方前瞻；今晚以 SpaceX IR 原文為準。"
+    },
+    {
+      "title": "大摩：SpaceX(SPCX.US)三季报只是“前菜”，星舰第15飞与物理智能经济才是催化剂",
+      "summary": "富途要聞轉述摩根士丹利觀點。第三方·非公告／非指引。",
+      "source": "富途快訊",
+      "date": "2026-10-20",
+      "url": "https://news.futunn.com/post/1001540659/morgan-stanley-spacex-s-spcxus-q3-earnin",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：分析師叙事，影響情緒多過事實。",
+      "newbieTake": "券商意見；唔係公司指引。"
+    },
+    {
+      "title": "美股收盘 | AI交易回暖，纳指涨超1%；存储、半导体板块涨幅居前",
+      "summary": "富途要聞收市摘要：AI 交易回暖、半導體／存儲走強。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-20",
+      "url": "https://news.futunn.com/post/1001573653/us-stock-market-closing-ai-trading-rebou",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：大市風險偏好一日波動。",
+      "newbieTake": "收市情緒摘要；單日唔代表趨勢。"
+    },
+    {
+      "title": "亚马逊向所有PyTorch开发者开放 AWS Trainium AI 芯片，无需改写代码",
+      "summary": "富途要聞：AWS 放寬 Trainium 對 PyTorch 開發者使用門檻。第三方·非公告（相對 Amazon 原文）。",
+      "source": "富途快訊",
+      "date": "2026-10-20",
+      "url": "https://news.futunn.com/post/1001544519/amazon-opens-aws-trainium-ai-chips-to-al",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：自研加速器生態競爭敘事。",
+      "newbieTake": "雲端自研芯片動態；對 NVDA 係間接競爭想像。"
+    },
+    {
+      "title": "剑指英伟达CUDA护城河：亚马逊推出开源工具TorchNeuron",
+      "summary": "富途要聞：Amazon 開源 TorchNeuron，意圖降低 CUDA 鎖定。第三方·非公告。",
+      "source": "富途快訊",
+      "date": "2026-10-20",
+      "url": "https://news.futunn.com/post/1001556136/targeting-nvidia-s-cuda-moat-amazon-laun",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：軟體生態競爭。",
+      "newbieTake": "標題偏聳動；實際遷移成本同採用率先重要。"
+    }
+  ]
+}
