@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-21",
+  "audioUrl": "data/audio/2026-10-21.mp3",
+  "concepts": [
+    {
+      "id": "nameplate-compute",
+      "title": "名牌算力（nameplate compute）",
+      "titleEn": "Nameplate compute",
+      "what": "名牌算力係資料中心／AI 基建常用口徑：按設備「銘牌」標示嘅電力或算力容量加總（好多時用 GW 發電容量類比），反映已安裝或可宣告嘅算力規模，唔等於當季已百分之百用滿、已全部轉成收入嘅實際負載。",
+      "whyItMatters": "公司同分析師會用名牌算力講「起咗幾大廠」。新手要問：係已通電？已出租？有無電力／冷卻瓶頸？同當季 SI／雲收入點樣對得上？",
+      "whereToday": "SpaceX Q3 業績稿寫名牌算力於 2026-09-30 達約 1.7 GW（6/30 約 1.4 GW；去年同期約 0.6 GW），同 SI 分部擴建一齊出現。",
+      "whatToWatch": "後續對利用率、雲合約啟動時點、資本開支回報嘅說法。唔構成買賣建議。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/40099f70bc568113ac7ed3dfa9c79ea2"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Reports Third Quarter 2026 Results",
+        "date": "2026-10-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR黃金",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return (share scheme issues)",
+        "date": "2026-10-16",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1016/2026101601166.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Advancing digital sovereignty with greater control and choice",
+        "date": "2026-10-20",
+        "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Date of Board Meeting",
+        "date": "2026-10-20",
+        "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261020.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-q3-results",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：Q3 營收 146 億美元、按年 +161%；淨利 44 億（上市公司首季盈利）",
+      "summary": "Holding SPCX。公司經 SEC 提交之 Q3 業績稿（截至 2026-09-30）：總營收約 145.75 億美元（按年 +161%）；經營溢利 27.9 億；淨利 44.04 億（去年同期淨虧約 10.5 億）；Adjusted EBITDA 約 88.1 億。分部：Connectivity 約 52.5 億（按年 +69%）、SI（原 AI）約 75.6 億（按年約 +830%）、Space 約 17.7 億。Starlink 消費用戶期末約 1,360 萬；名牌算力（nameplate compute）約 1.7 GW。同期資本開支約 196 億（SI 佔約 164 億）。Yahoo：美股常規收市價欄 SPCX 約 147.79（對應 10/20 常規時段；歷史日 K 仍見 10/19 收 147.96）——盤後／夜盤波動以報價端為準，唔發明數字。",
+      "whyItMatters": "呢期係 Holding 首份「上市公司季度盈利」印刷：營收結構已明顯偏向 SI／Connectivity，同時 SI 資本開支極大。新手宜分開睇 GAAP 淨利、Adjusted EBITDA，同埋 capex／現金流，唔好只睇標題「首季賺錢」。",
+      "whatToWatch": "IR webcast 重播／逐字稿對 SI 雲合約、Cursor 併購會計、Starlink Mobile／800 MHz 頻譜交易時點嘅說法；後續 10-Q。第三方合併傳聞另見下一則。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SEC EDGAR / SpaceX",
+          "date": "2026-10-20",
+          "title": "SpaceX Reports Third Quarter 2026 Results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-20",
+          "title": "Q3 2026 Earnings webcast event",
+          "url": "https://ir.spacex.com/events/event-details/2026/Q3-2026-Earnings/"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters (via Investing.com)",
+          "date": "2026-10-20",
+          "title": "SpaceX quarterly revenue jumps, beats estimates as AI business surges",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-quarterly-revenue-jumps-beats-estimates-as-ai-business-surges-4960995"
+        },
+        {
+          "category": "news",
+          "publisher": "WSJ",
+          "date": "2026-10-20",
+          "title": "SpaceX Reports First Profit as Public Company, Revenue Jumps 161%",
+          "url": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d"
+        }
+      ]
+    },
+    {
+      "id": "spcx-tsla-merger-talk",
+      "ticker": "SPCX",
+      "title": "SpaceX／特斯拉：馬斯克稱已組委員會討論潛在合併（第三方·非公告）",
+      "summary": "Holding SPCX。WSJ／路透等（2026-10-20）引述馬斯克：特斯拉與 SpaceX 已成立委員會，討論潛在合併；馬斯克稱合併係「好主意」。此為傳媒訪問／第三方報道，截至簡報撰寫時未見 SpaceX IR／SEC 正式合併協議公告。可與 Q3 業績同日敘事一併觀察，但唔等同已落實交易。",
+      "whyItMatters": "合併傳聞會影響估值口徑（業務範圍、關聯交易、投票權），但「組委員會」距離簽訂協議／股東批准仍然好遠。新手要分清：業績數字（公司文件）vs 策略傳聞（訪問）。",
+      "whatToWatch": "有無 SEC／IR 正式披露、特別委員會職權範圍、時間表。無公告前當未核實交易。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "WSJ",
+          "date": "2026-10-20",
+          "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
+          "url": "https://www.wsj.com/business/autos/tesla-spacex-merger-committees-musk-2026"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters (Google News headline)",
+          "date": "2026-10-20",
+          "title": "Musk calls Tesla-SpaceX merger a 'good idea' as SpaceX posts first profit as a public company",
+          "url": "https://www.reuters.com/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "富途快訊／要聞",
+          "date": "2026-10-21",
+          "title": "SpaceX夜盤與合併委員會討論（快訊轉述）",
+          "url": "https://news.futunn.com/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-china-rtx-pro-orders",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：路透稱字節／阿里／騰訊訂購逾 350 億美元級 RTX PRO 5500（第三方）",
+      "summary": "Research NVDA。路透（2026-10-20）獨家引述知情人士：ByteDance、阿里、騰訊合計訂購逾 300 萬張 NVIDIA RTX PRO 5500（工作站級、相對符合現行出口合規口徑嘅產品），表面總值逾約 350 億美元；NVIDIA 向夥伴表示未必能滿足全部訂單，有來源稱或只能滿足約 5%–10% 需求。B300 對華仍受限；H200 需個案審批。此為第三方報道，非 NVIDIA 公司新聞室指引。Yahoo RMP：NVDA 約 216.47（10/20 常規時段）。",
+      "whyItMatters": "反映「合規降規產品」喺中國市場需求仍然大，同時產能／出口政策係瓶頸。新手要分開：訂單傳聞 ≠ 已確認收入；亦唔等於資料中心旗艦 GPU 恢復對華出貨。",
+      "whatToWatch": "公司後續財報／電話會對中國收入假設；實際出貨節奏同出口牌照。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters (via Investing.com)",
+          "date": "2026-10-20",
+          "title": "ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+          "url": "https://www.investing.com/news/stock-market-news/exclusivebytedance-alibaba-tencent-place-over-35-billion-worth-of-nvidia-chip-orders-4959231"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-10-21",
+          "title": "路透：字節阿里騰訊訂購總值逾 350 億美元輝達晶片",
+          "url": "https://technews.tw/2026/10/21/bytedance-alibaba-tencent-place-over-35-billion-worth-of-nvidia-chip-orders/"
+        }
+      ]
+    },
+    {
+      "id": "msft-sovereign-cloud",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：擴展 Sovereign Cloud／Azure Local（公司部落格）",
+      "summary": "Research MSFT。Microsoft 官方部落格（2026-10-20，Douglas Phillips）：公布 Sovereign Cloud 下一階段能力，包括 Sovereign Public／Private Cloud 與合作夥伴生態；強調 Data Guardian（歐盟存取監督）、Production Touch Ledger、客戶自持金鑰、Sovereign Control Panel；Foundry Local、GitHub Enterprise Local 等將於 Ignite（11/17–19）一般可用，支援斷線環境。另有路透指 Microsoft 因電力延誤退出英國 Nscale 資料中心交易（第三方）。Yahoo RMP：MSFT 約 531.87（10/20）。",
+      "whyItMatters": "主權雲係政府／受規管行業簽 Azure 大型合約時常見門檻；產品能否喺客戶機房／斷網運行，會影響長約談判。退出單一資料中心交易則提醒：電力同基建時點可以打亂雲資本開支節奏。",
+      "whatToWatch": "Ignite 正式 GA 清單；後續對歐洲／公共部門收入嘅口徑。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Blog",
+          "date": "2026-10-20",
+          "title": "Advancing digital sovereignty with greater control and choice",
+          "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Source EMEA",
+          "date": "2026-10-20",
+          "title": "Advancing Digital Sovereignty with Greater Control and Choice",
+          "url": "https://news.microsoft.com/source/emea/2026/10/advancing-digital-sovereignty-with-greater-control-and-choice/"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters (via Investing.com)",
+          "date": "2026-10-20",
+          "title": "Microsoft pulls out of UK Nscale data centre deal over power delay",
+          "url": "https://www.investing.com/news/stock-market-news/microsoft-pulls-out-of-uk-nscale-data-centre-deal-over-power-delay-4960690"
+        }
+      ]
+    },
+    {
+      "id": "icbc-board-9m",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：董事會將於 10 月 30 日審批前三季業績",
+      "summary": "Research 1398.HK。公司港交所公告（2026-10-20）：董事會定於 2026-10-30（周五）舉行會議，審批截至 2026-09-30 止九個月業績，以及優先股股息等事宜。Yahoo：1398.HK 2026-10-20 收約 7.49 港元（港股已恢復正常交易）。",
+      "whyItMatters": "銀行股晨間簡報多數係「日程」多過「驚喜」：九個月業績同優先股息會影響股息／資本敘事，但要等正式業績稿先有數字。",
+      "whatToWatch": "10/30 業績公告全文：淨息差、不良貸款、資本充足率口徑。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC / HKEX announcement",
+          "date": "2026-10-20",
+          "title": "Date of Board Meeting (nine-month results)",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261020.pdf"
+        }
+      ]
+    },
+    {
+      "id": "gld-fed-hkma",
+      "ticker": "GLD",
+      "title": "GLD／金價：Fed 進入黑燈期、市場關注 10 月底會議；港元仍近聯繫匯率弱方",
+      "summary": "Holding GLD。第三方（FXStreet 等，2026-10-20）：現貨金徘徊約 4,100–4,150 美元區間，交易員關注聯邦儲備局官員已進入會議前黑燈期，下次決策溝通約 10/28。Yahoo：GLD 常規市價欄約 377.65（10/20）；歷史日 K 見 10/19 收 379.69。USD/HKD 約 7.848（Yahoo HKD=X，10/20），仍近聯匯弱方兌換保證區間。SPYM／VEU 同日 RMP 約 90.53／81.85——闊市場 beta，無公司專屬新聞。",
+      "whyItMatters": "金 ETF 價格跟現貨同實物信託結構；利率路徑預期一變，金同美元／港元資金流會一齊郁。HK 投資者要同時睇 Fed 叙事同 HKMA 聯匯，而唔係只睇美元金價標題。",
+      "whatToWatch": "10/28 Fed 議息同記者會用詞；港元兌換保證有無觸發。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "FXStreet",
+          "date": "2026-10-20",
+          "title": "Gold struggles near $4,150 as global rate hike risks loom",
+          "url": "https://www.fxstreet.com/news/gold-struggles-near-4-150-as-global-rate-hike-risks-loom-202610202013"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-10-21",
+          "title": "Linked Exchange Rate System overview",
+          "url": "https://www.hkma.gov.hk/eng/key-functions/money/linked-exchange-rate-system/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-20",
+          "title": "GLD / USDHKD market data",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2822,
+  "audioVoice": "gTTS-zh-TW"
+}

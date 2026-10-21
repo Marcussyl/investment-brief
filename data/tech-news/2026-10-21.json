@@ -1,0 +1,222 @@
+{
+  "updated": "2026-10-21T08:29:58+08:00",
+  "disclaimer": "非投資建議。摘要僅供學習；數字與連結以原文為準。",
+  "items": [
+    {
+      "title": "路透：字節阿里騰訊訂購總值逾 350 億美元輝達晶片",
+      "summary": "TechNews 轉述路透：三大中國科技企業訂購大量 RTX PRO 5500（合規工作站級），表面總值逾約 350 億美元；供應或遠低於訂單。第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-21",
+      "url": "https://technews.tw/2026/10/21/bytedance-alibaba-tencent-place-over-35-billion-worth-of-nvidia-chip-orders/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：合規降規產品需求大，但產能與出口政策仍係瓶頸，唔等於旗艦資料中心 GPU 恢復對華自由出貨。",
+      "newbieTake": "對照公司後續對中國收入口徑，訂單傳聞要等出貨先算數。"
+    },
+    {
+      "title": "Google Cloud 英國當機，銀行與公共服務大規模中斷",
+      "summary": "TechNews：Google Cloud 於英國出現大規模服務中斷，銀行與公共服務受影響。雲端集中風險再成焦點。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-21",
+      "url": "https://technews.tw/2026/10/21/google-cloud-uk-outage-major-disruption-banks-public-services/",
+      "tickers": [],
+      "impact": "可能／市場關注：主權雲／多雲備援叙事或再被提起，同 Microsoft Sovereign Cloud 產品線同一主題帶。",
+      "newbieTake": "睇災後檢討同客戶合約賠償條款，多過即日股價標題。"
+    },
+    {
+      "title": "2027 年全球資料中心新增產能將翻倍，瓶頸再度轉回半導體晶片與記憶體",
+      "summary": "TechNews 財經：報告指 2027 年資料中心新增產能或翻倍，瓶頸由電力／土地再轉回晶片與記憶體供應。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-20",
+      "url": "https://finance.technews.tw/2026/10/20/global-data-center-capacity-will-double-by-2027/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：AI 基建鏈上 GPU、HBM、先進封裝需求叙事延續。",
+      "newbieTake": "產能預測係方向，唔係單一公司下季指引。"
+    },
+    {
+      "title": "輝達發表矽中介層光學封裝原型晶片，布局 2028 年 Feynman 平台",
+      "summary": "TechNews：NVIDIA 展示矽中介層光學（optics-on-interposer）封裝原型，指向 2028 Feynman 平台互連。公司／產業鏈報導。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-20",
+      "url": "https://finance.technews.tw/2026/10/20/nvidia-unveils-prototype-silicon-interposer-optical-packaging-chip/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：CPO／光學封裝長線叙事，影響先進封裝與光通訊供應鏈。",
+      "newbieTake": "原型≠量產時間表；對照舊概念頁「共同封裝光學」。"
+    },
+    {
+      "title": "輝達在台首開政府事務總監職缺，深化政策溝通拚新總部布局",
+      "summary": "TechNews：NVIDIA 於台灣公開政府事務總監職缺，外界解讀為加深在地政策溝通與總部布局。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-20",
+      "url": "https://technews.tw/2026/10/20/nvidia-director-government-affairs-taiwan/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：政策與在地營運敘事，偏軟資訊。",
+      "newbieTake": "職缺消息唔等於投資決策；留意官方總部時程公告。"
+    },
+    {
+      "title": "高雄台積電 F22 廠區工安意外，螺栓斷裂致 4 人墜落送醫後續勒令停工",
+      "summary": "TechNews：台積電高雄 F22 工安意外，後續勒令停工。半導體供應鏈工安與工期風險。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-20",
+      "url": "https://technews.tw/2026/10/20/industrial-accident-at-tsmc-f22-plant-in-kaohsiung/",
+      "tickers": [],
+      "impact": "可能／市場關注：先進製程擴產時程與工安監管，間接關係 AI 晶片供應節奏。",
+      "newbieTake": "先睇官方停工範圍同復工時點，唔好外推成全公司產能歸零。"
+    },
+    {
+      "title": "馬斯克晶圓夢跨大步，Terafab 傳 2027 年進駐首台 ASML EUV",
+      "summary": "TechNews：傳 SpaceX／馬斯克相關 Terafab 計劃 2027 年導入 ASML EUV。第三方傳聞。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-20",
+      "url": "https://technews.tw/2026/10/20/elon-musk-terafab-first-asml-euv-2027/",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：垂直整合晶圓叙事，離量產與財報貢獻仍遠。",
+      "newbieTake": "對照 SPCX 正式業績稿有無確認 capex 細項；傳聞要標示未核實。"
+    },
+    {
+      "title": "AI 基建需求狂飆！OCP 設備市場 2030 年挑戰 9,000 億美元",
+      "summary": "TechNews：開放運算計畫（OCP）相關設備市場長期規模預測上修。產業展望類。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-20",
+      "url": "https://technews.tw/2026/10/20/ai-infrastructure-demand-ocp-equipment-market-challenge-900-billion-2030/",
+      "tickers": [],
+      "impact": "可能／市場關注：伺服器、交換、電源鏈長期需求叙事。",
+      "newbieTake": "長線 TAM 預測波幅大，適合作背景唔好當即期催化。"
+    },
+    {
+      "title": "NVIDIA RTX Spark遊戲功能掛保證，RTX功能與防作弊系統通通大丈夫",
+      "summary": "T客邦：NVIDIA 強調 RTX Spark 平台遊戲／RTX 功能與防作弊相容。消費與工作站邊緣 AI PC 叙事。",
+      "source": "T客邦",
+      "date": "2026-10-20",
+      "url": "https://www.techbang.com/posts/134263-nvidia-rtx-spark-game-features-anti-cheat",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：個人／工作站 AI PC 產品線完整度，偏消費端。",
+      "newbieTake": "產品功能稿；同資料中心 GPU 財報驅動唔同層。"
+    },
+    {
+      "title": "小米Redmi K100預告將發表！165Hz大螢幕、獨顯晶片下放",
+      "summary": "T客邦：Redmi K100 預告，強調高更新率螢幕與遊戲取向晶片。小米手機產品線消息。",
+      "source": "T客邦",
+      "date": "2026-10-20",
+      "url": "https://www.techbang.com/posts/134257-redmi-k100-launch-165hz-d2-chip",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "可能／市場關注：中階機競爭與出貨結構，短訊級產品新聞。",
+      "newbieTake": "發表會規格先行；真正睇出貨同 ASP 要等後續銷售數據。"
+    },
+    {
+      "title": "iPhone Duo 官方電池數據揭曉：4883mAh 雙電芯搭配 60W 快充",
+      "summary": "T客邦整理蘋果摺疊機電池與快充規格資訊，手機硬體競爭參考。",
+      "source": "T客邦",
+      "date": "2026-10-20",
+      "url": "https://www.techbang.com/posts/134254-apple-iphone-duo-battery-capacity-4883mah",
+      "tickers": [],
+      "impact": "可能／市場關注：高階手機續航規格戰，間接影響安卓陣營對標。",
+      "newbieTake": "規格新聞；對 Active 小米係競爭背景而非直接業績。"
+    },
+    {
+      "title": "Atlas退場後，OpenAI把ChatGPT塞進了你現在用的瀏覽器",
+      "summary": "T客邦：OpenAI 強化瀏覽器內 ChatGPT 體驗，代理／自動化方向。",
+      "source": "T客邦",
+      "date": "2026-10-20",
+      "url": "https://www.techbang.com/posts/134208-chatgpt-browser-extension-update-tabs-autofill",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注：AI 代理入口爭奪，雲與搜尋敘事連動。",
+      "newbieTake": "產品更新頻密；長遠睇雲推理用量同配對關係。"
+    },
+    {
+      "title": "AI網攻兵臨城下：從臺灣受駭事件看AI自主攻擊掀起的典範轉移",
+      "summary": "iThome：討論 AI 驅動網攻與防守典範轉移，資安／企業 IT 視角。",
+      "source": "iThome",
+      "date": "2026-10-20",
+      "url": "https://www.ithome.com.tw/news/179843",
+      "tickers": [],
+      "impact": "可能／市場關注：企業資安開支與 AI 安全產品需求。",
+      "newbieTake": "趨勢文；落到個別資安股要另查財報。"
+    },
+    {
+      "title": "OpenAI釋出AI基準測試MultiLangBench，評測20種程式語言",
+      "summary": "iThome：OpenAI 發布多語言程式基準，衡量模型開發能力。",
+      "source": "iThome",
+      "date": "2026-10-20",
+      "url": "https://www.ithome.com.tw/news/179840",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注：模型評測標準化，影響企業採購比較方式。",
+      "newbieTake": "基準領先≠營收；留意雲上模型實際採用率。"
+    },
+    {
+      "title": "Cloudflare公開低延遲AI模型Clairic，可直接擷取與估算數值",
+      "summary": "iThome：Cloudflare 公開低延遲模型 Clairic，邊緣 AI 推論方向。",
+      "source": "iThome",
+      "date": "2026-10-20",
+      "url": "https://www.ithome.com.tw/news/179836",
+      "tickers": [],
+      "impact": "可能／市場關注：邊緣／網路層 AI 推論競爭，互補雲端 GPU。",
+      "newbieTake": "產品稿；觀察後續企業客戶案例。"
+    },
+    {
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "summary": "NVIDIA 部落格：於柏林談工業 AI 與德國路線圖。公司新聞室／部落格。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-19",
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：主權／工業 AI 生態叙事，偏軟體與合作。",
+      "newbieTake": "官方叙事；唔等於下季財報指引。"
+    },
+    {
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "summary": "NVIDIA 部落格：RTX Spark 相關 Windows PC 上市慶祝。公司新聞室。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-19",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：邊緣／個人 AI PC 產品節奏。",
+      "newbieTake": "消費產品線；同資料中心主軸分開睇。"
+    },
+    {
+      "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿美元",
+      "summary": "富途要聞轉述 SpaceX Q3：SI／AI 相關收入急升、資本開支高企。原文來源：業績稿／傳媒。請以 SEC 原文核對數字。",
+      "source": "富途快訊",
+      "date": "2026-10-21",
+      "url": "https://news.futunn.com/post/1001720455",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：Holding 業績後定價，市場聚焦 SI 增速與 capex 可否持續。",
+      "newbieTake": "快訊易誇張用詞；數字以 SEC／IR 為準。"
+    },
+    {
+      "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
+      "summary": "富途／moomoo 要聞轉述 WSJ：馬斯克稱特斯拉與 SpaceX 已組委員會討論潛在合併。第三方·非公司合併公告。原文來源：WSJ。",
+      "source": "富途快訊",
+      "date": "2026-10-21",
+      "url": "https://news.moomoo.com/news/1001769669",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：策略整合傳聞或影響風險溢價，但距離正式協議仍遠。",
+      "newbieTake": "無 SEC／IR 合併公告前，當未核實交易。"
+    }
+  ]
+}
