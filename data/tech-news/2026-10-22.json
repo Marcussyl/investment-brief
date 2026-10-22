@@ -1,0 +1,214 @@
+{
+  "updated": "2026-10-22T08:31:48+08:00",
+  "disclaimer": "Educational digest only. Not investment advice. Traditional Chinese summaries; Active-watchlist tickers only on item tickers[]. Sources may be third-party.",
+  "items": [
+    {
+      "title": "台達電入列輝達 DSX POD 合作陣容，AI 工廠部署最快縮短至 14 天",
+      "summary": "TechNews：NVIDIA 公布 DSX POD，台達電名列全球伙伴；公司稱場地就緒下部署可由約六個月縮至約 14 日，交付展望 2027 初。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-22",
+      "url": "https://technews.tw/2026/10/22/delta-electronics-nvidia-dsx-pod-ai-factory-deployment-14-days/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：電力與冷卻供應鏈同模組化 AI 工廠綁得更緊，叙事由賣晶片延伸到縮短 time to first token。",
+      "newbieTake": "對照 NVIDIA 新聞室原文，分清係参考設計／伙伴出貨，唔係即季確認收入。"
+    },
+    {
+      "title": "輝達砸大錢布局供應鏈戰略，點名台灣、日本、韓國多家供應鏈廠商受惠",
+      "summary": "TechNews 整理 GTC 期間 NVIDIA 同供應鏈扩產／合作訊息，涵蓋封測、元件等同業。第三方整理·非單一公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-21",
+      "url": "https://finance.technews.tw/2026/10/21/nvidia-invests-heavily-in-its-supply-chain-strategy/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：產能瓶頸若緩解，有助 Vera Rubin／資料中心出貨能見度，但仍視實際晶圓與封測產能。",
+      "newbieTake": "下一份 NVDA 業績會點講供應同交期。"
+    },
+    {
+      "title": "川普揭 15 億美元晶片生產回流計畫，商務部長嫌在台灣製造太遠了",
+      "summary": "TechNews 轉述美方晶片回流政策口徑同對台製造距離嘅政治評論。屬政策／第三方報道。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-21",
+      "url": "https://finance.technews.tw/2026/10/21/trump-1-5-billion-chip-reshoring-commerce-secretary-taiwan-manufacturing-too-far/",
+      "tickers": [],
+      "impact": "可能／市場關注：地緣同補貼預期會影響晶圓廠選址敘事，唔等於即時改變 Active 名單公司財報。",
+      "newbieTake": "政策標題要等預算同落地工廠時間表。"
+    },
+    {
+      "title": "OpenAI 前研究長創立 Arda 募資，以 AI 加速美國工廠產線改造",
+      "summary": "TechNews／Finance：前 OpenAI 研究主管新創聚焦製造業 AI 改造並披露募資。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-22",
+      "url": "https://finance.technews.tw/2026/10/22/ex-openai-exec-launches-1-5b-ai-manufacturing-startup-arda/",
+      "tickers": [],
+      "impact": "可能／市場關注：工業 AI 應用叙事升溫，對算力同邊緣部署需求係長線主題。",
+      "newbieTake": "同 Active 雲／晶片名無直接對價，當背景即可。"
+    },
+    {
+      "title": "電動車電池退役後的維修、儲能與回收",
+      "summary": "TechNews：解釋 EV 電池退役後第二生命路徑，非單一車廠公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-22",
+      "url": "https://technews.tw/2026/10/22/what-happens-to-an-ev-battery-after-its-removed-from-your-car/",
+      "tickers": [],
+      "impact": "可能／市場關注：電池循環經濟影響長期成本同 ESG 叙事。",
+      "newbieTake": "睇車企業績時可留意電池質保同回收政策，唔係今日交易信號。"
+    },
+    {
+      "title": "三鏡頭全上 2 億畫素：OPPO Find X10 系列發表",
+      "summary": "T客邦：OPPO 發表 Find X10／Pro Max，強調高畫素相機規格。",
+      "source": "T客邦",
+      "date": "2026-10-22",
+      "url": "https://www.techbang.com/posts/134238-oppo-find-x10-pro-max-200mp-triple-camera",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "可能／市場關注：安卓旗艦規格戰續打，對小米等手機同行屬產品節奏背景。",
+      "newbieTake": "對照小米下一款旗艦發表同出貨指引。"
+    },
+    {
+      "title": "4 個 Gemini 4 Argon AI 合作通關《Minecraft》",
+      "summary": "T客邦：報道 Google Gemini 相關代理在遊戲環境長時自主表現。屬產品／演示新聞。",
+      "source": "T客邦",
+      "date": "2026-10-21",
+      "url": "https://www.techbang.com/posts/134315-four-gemini-argon-ai-beat-minecraft",
+      "tickers": [],
+      "impact": "可能／市場關注：長程代理能力演示升溫，帶動對推理算力同安全沙盒嘅討論。",
+      "newbieTake": "演示唔等於企業付費合約，等雲巨頭業績口徑。"
+    },
+    {
+      "title": "Acer TravelMate P2 16 AI 商務筆電上市",
+      "summary": "T客邦：宏碁推出搭載 Core Ultra 系列 3 嘅 AI 商務筆電並公布售價。",
+      "source": "T客邦",
+      "date": "2026-10-21",
+      "url": "https://www.techbang.com/posts/134314-acer-travelmate-p2-16-ai-core-ultra-launch-price",
+      "tickers": [],
+      "impact": "可能／市場關注：PC AI PC 換機周期仍喺進行，屬終端需求觀察點。",
+      "newbieTake": "對 Active 名單無直接持股連結，當產業背景。"
+    },
+    {
+      "title": "Google Cloud 倫敦區域服務中斷近 8 小時",
+      "summary": "iThome：Google Cloud 倫敦區域故障約 8 小時，影響英國銀行同公共服務。",
+      "source": "iThome",
+      "date": "2026-10-21",
+      "url": "https://www.ithome.com.tw/news/179852",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注：雲可靠性事件會令企業更重視多雲／區域備援，間接影響 Azure 等同業敘事。",
+      "newbieTake": "下週 MSFT 業績可留意雲可靠性同區域產能說法。"
+    },
+    {
+      "title": "資安署示警 AI 攻擊進入新階段",
+      "summary": "iThome：台灣資安機關提醒 AI 輔助攻擊升溫，企業應先守個資庫。",
+      "source": "iThome",
+      "date": "2026-10-21",
+      "url": "https://www.ithome.com.tw/news/179865",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：安全代理／運行時防護（如 OpenShell 類方案）需求叙事同 AI 普及一齊升。",
+      "newbieTake": "對照 NVIDIA OpenShell 新聞室，分清產品發布同實際採購。"
+    },
+    {
+      "title": "Broadcom Wi-Fi 晶片漏洞波及臺灣網通廠商",
+      "summary": "iThome：WPSplinter 漏洞影響採用相關 Broadcom Wi-Fi 晶片嘅產品。",
+      "source": "iThome",
+      "date": "2026-10-21",
+      "url": "https://www.ithome.com.tw/news/179857",
+      "tickers": [],
+      "impact": "可能／市場關注：網通資安修補成本同品牌信任受關注。",
+      "newbieTake": "無 Active 直接代碼，當半導體周邊風險背景。"
+    },
+    {
+      "title": "NVIDIA Introduces DSX POD AI Factories（公司新聞室）",
+      "summary": "NVIDIA 官方：工廠預組裝 Vera Rubin AI 工廠貨櫃参考設計，目標縮短至首枚生產 token 時間；早期 2027 交付。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-21",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：系統級方案或提高單 GW 基礎設施 ASP 叙事，同時考驗伙伴產能。",
+      "newbieTake": "公司新聞室優先；再睇 CNBC 等第三方解讀。"
+    },
+    {
+      "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
+      "summary": "NVIDIA 官方：OpenShell 参考架構結合 Vera Rubin、Vera CPU、BlueField-4，強調企業代理隔離同執行時管控；名單提及 Microsoft、SpaceX Super Intelligence 等合作方。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-21",
+      "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：安全代理基建或成企業採購附加層；點名伙伴唔等於已確認大額貢獻收入。",
+      "newbieTake": "Availability 已宣布，下一步睇誰公布生產部署案例。"
+    },
+    {
+      "title": "Nvidia seeks to slash data center deployment times with DSX Pods",
+      "summary": "原文來源：市場快訊。Moomoo 轉述 NVIDIA DSX Pod 縮短資料中心部署時間嘅報道。",
+      "source": "富途快訊",
+      "date": "2026-10-21",
+      "url": "https://www.moomoo.com/news/post/1001899512/nvidia-seeks-to-slash-data-center-deployment-times-with-new-dsx-pods",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：同官方 DSX POD 新聞一致嘅二級傳播，強化「部署速度」主題。",
+      "newbieTake": "以 NVIDIA 新聞室為準，快訊只做索引。"
+    },
+    {
+      "title": "美股收盤｜強勁季報提振 AI 交易，納指反彈；芯片、存储走强",
+      "summary": "原文來源：富途早報類彙編。概述 10/21 美股收市：AI／芯片情緒回暖，金價走高等。非單一公司公告。",
+      "source": "富途快訊",
+      "date": "2026-10-21",
+      "url": "https://news.futunn.com/post/1001864021/us-stocks-close-strong-quarterly-earnings-boost-ai",
+      "tickers": [
+        "NVDA",
+        "SPCX",
+        "GLD"
+      ],
+      "impact": "可能／市場關注：風險偏好回升時，Active 內科技同黃金 ETF 可能同向或輪動，視當日主導叙事。",
+      "newbieTake": "收市綜述唔替代個別持倉基本面。"
+    },
+    {
+      "title": "據悉 SpaceX 與特斯拉瞄準明年上半年達成合併交易",
+      "summary": "原文來源：市場傳聞快訊。富途閃電報道路透／市場消息指時間表；雙方未見聯署合併公告。",
+      "source": "富途快訊",
+      "date": "2026-10-21",
+      "url": "https://news.futunn.com/flash/1001869289/it-is-reported-that-spacex-and-tesla-are-aiming-to-reach-a-merger-deal-in-the-first-half-of-next-year",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：事件驅動波動大，在無正式協議前屬高噪音。",
+      "newbieTake": "等 8-K／新聞室；時間表傳聞可忽略優先級。"
+    },
+    {
+      "title": "DigiTimes：SpaceX Q3 重返經營獲利，SI 營收超越 Connectivity",
+      "summary": "DigiTimes 英語稿整理 SpaceX Q3：經營層面轉盈，Super Intelligence 營收超越 Connectivity 分部。第三方產業報道，數字以公司 SEC 稿為準。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-21",
+      "url": "https://www.digitimes.com/news/a20261021VL200.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：第三方复述強化 SI 已成營收主力嘅叙事，同 Holding 已讀 SEC 稿一致。",
+      "newbieTake": "仍以 SEC earnings release 核對，唔好只睇產業媒體標題。"
+    },
+    {
+      "title": "DigiTimes：ByteDance／阿里／騰訊測試美方 AI 晶片限制邊界",
+      "summary": "DigiTimes：討論中國雲廠商喺出口管制下對 NVIDIA 等合規／降規產品嘅採購測試。第三方。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-21",
+      "url": "https://www.digitimes.com/news/a20261021VL208/alibaba-bytedance-tencent-nvidia-chips.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：中國相關收入能見度仍受政策約束，合規產品訂單唔等於旗艦 GPU 自由出貨。",
+      "newbieTake": "對照 NVDA 對中國 DC 口徑同後續出貨。"
+    }
+  ]
+}

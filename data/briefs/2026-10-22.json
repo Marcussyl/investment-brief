@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-22",
+  "audioUrl": "data/audio/2026-10-22.mp3",
+  "concepts": [
+    {
+      "id": "time-to-first-token",
+      "title": "首枚生產 token 時間（time to first token）",
+      "titleEn": "Time to first token",
+      "what": "資料中心／AI 工廠語境裡，「首枚生產 token 時間」係指新算力由運到現場、接電接網之後，到真正開始跑生產級模型、向外輸出可用推理／訓練結果（token）所需嘅時間。NVIDIA 講 DSX POD 時用呢個口徑對照傳統現場組裝可能要約六個月、模組化貨櫃方案聲稱可縮到約 14 日（公司新聞室，2026-10-21）。",
+      "whyItMatters": "營收同利用率要等「開始產 token」先計到。新手見到「GW 名牌算力」或「貨櫃 AI 工廠」標題，宜再問：係咪已通電？已出貨？已有客戶負載？部署時間縮短唔等於當季收入即刻入帳。",
+      "whereToday": "NVIDIA 喺 GTC Berlin 推出 DSX POD 參考設計，強調工廠預組裝 Vera Rubin AI 工廠貨櫃，目標縮短部署至首枚生產 token 嘅時間；合作伙伴陣容包括多間系統／電力冷卻廠商，交付展望早期 2027。",
+      "whatToWatch": "伙伴何時公布可訂貨／出貨時間表，同客戶實際「接電到產 token」案例。唔構成買賣建議。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/40199f70bc5681498a49e37030998263"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Reports Third Quarter 2026 Results",
+        "date": "2026-10-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Share repurchase 21 Oct 2026 (via HKEX; third-party summary)",
+        "date": "2026-10-21",
+        "url": "https://www.stcn.com/article/detail/4231327.html"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "FY2027 Q1 earnings date (28 Oct 2026)",
+        "date": "2026-10-07",
+        "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Introduces DSX POD AI Factories",
+        "date": "2026-10-21",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Date of Board Meeting (9M 2026 results)",
+        "date": "2026-10-20",
+        "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261020.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-post-earnings-tape",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：Q3 後首個完整美股交易日；Yahoo 常規價欄約 159.31（對照 10/20 收 147.79）",
+      "summary": "Holding SPCX。公司已於 10/20 經 SEC 刊 Q3（截至 2026-09-30）營收約 145.75 億美元（按年 +161%）、淨利約 44.04 億、Adjusted EBITDA 約 88.1 億，並指引 2027 年 Q1 營收 330–370 億美元。CNBC（2026-10-21）報道盤中彈約一成，並引述業績會上馬斯克談潛在特斯拉合併。Yahoo Finance：日 K 歷史收市序列暫仍見至 10/20 收 147.79；常規市價欄（regularMarketPrice）約 159.31——反映 10/21 常規時段，盤後／夜盤以報價端為準，唔發明數字。",
+      "whyItMatters": "Holding 首份盈利季之後，市場會同時消化 SI／Connectivity 結構、巨額 SI capex，同埋合併傳聞。新手宜分開睇「已印刷業績」同「未落實企業行動」。",
+      "whatToWatch": "10-Q 細節、IR webcast 重播對 SI 雲合約同合併委員會口徑；特斯拉自身業績／官方是否確認任何交易。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SEC EDGAR / SpaceX",
+          "date": "2026-10-20",
+          "title": "SpaceX Reports Third Quarter 2026 Results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-21",
+          "title": "SpaceX stock jumps after earnings; Musk hints at Tesla tie-up",
+          "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-22",
+          "title": "SPCX quote (regularMarketPrice / history)",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-tesla-merger-committees",
+      "ticker": "SPCX",
+      "title": "SpaceX／特斯拉：馬斯克稱雙方董事會已設委員會討論合併（第三方·非公司合併公告）",
+      "summary": "Holding 相關。CNBC／AP 等引述 10/20–21 業績會：馬斯克表示正考慮同特斯拉合併，並稱雙方董事會已成立委員會討論整合；未見雙方聯署嘅正式合併協議或交易條款。任何「明年上半年成交」時間表屬傳媒／市場傳聞，要等監管文件或公司新聞室先算落地。",
+      "whyItMatters": "合併會改變控股結構、換股比例同監管審批路徑；在未有 DEFINITIVE 協議前，屬事件驅動噪音多過可核對現金流。",
+      "whatToWatch": "特斯拉／SpaceX 是否各自 8-K／新聞室確認委員會或交易條款；監管（包括利益衝突披露）。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-21",
+          "title": "SpaceX stock jumps; Musk hints at Tesla tie-up",
+          "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"
+        },
+        {
+          "category": "news",
+          "publisher": "AP News",
+          "date": "2026-10-20",
+          "title": "SpaceX reports a profit; Musk hints at possible Tesla merger",
+          "url": "https://apnews.com/article/spacex-musk-turns-profit-losses-67064446bf0afdf529db55bdec82af69"
+        }
+      ]
+    },
+    {
+      "id": "nvda-dsx-pod",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：推出 DSX POD——工廠預組裝 Vera Rubin AI 工廠貨櫃，部署目標縮至約 14 日",
+      "summary": "Research NVDA。公司新聞室（2026-10-21，GTC Berlin）：DSX POD 係完整 Vera Rubin AI 工廠參考設計，由伙伴喺模組化貨櫃內預先整合／驗證後交付，聲稱喺場地準備妥當下，部署時間可由約六個月縮至最快約 14 日；交付展望早期 2027。伙伴名單包括 Dell、HPE、Lenovo、Foxconn、Schneider、Vertiv、台達電等。Yahoo：NVDA 日 K 至 10/20 收 216.47；常規價欄約 221.97（對應 10/21 常規時段）。",
+      "whyItMatters": "叙事由「賣 GPU／機架」延伸到「縮短 time to first token」嘅系統方案；新手要分清係參考設計／伙伴出貨，唔等於 NVIDIA 即季確認咁多貨櫃收入。",
+      "whatToWatch": "早期 2027 出貨案例、伙伴訂價同客戶利用率披露；下季業績會否量化 DSX／Rubin 貢獻。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-21",
+          "title": "NVIDIA Introduces DSX POD AI Factories",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-21",
+          "title": "Nvidia announces Vera Rubin racks that can be shipped on a truck",
+          "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-22",
+          "title": "NVDA quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-buyback-1021",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：10/21 回购約 190 萬股 B 類，金額約 5,095 萬港元（第三方引港交所）",
+      "summary": "Holding 1810.HK。證券時報·數據寶（2026-10-21）引港交所公告：10/21 以每股 26.760–26.840 港元回购 190.00 萬股，金額約 5,095.10 萬港元；並指年內累計回购約 126.02 億港元（第三方統計，未獨立核對每筆）。Yahoo／港股：10/21 收 26.80（按日 −0.96% vs 10/20 收 27.06）。路透快訊亦見「1.9 million Type B／HKD 51 million」口徑。未取得可直連嘅港交所 PDF 連結——數字以公告為準，標示第三方。",
+      "whyItMatters": "回购係公司用現金減少流通股；對 Holding 新手，重點係授權額度、取消與否、同埋是否持續多日，而唔係單日金額本身。",
+      "whatToWatch": "後續「翌日披露報表」／年報對取消股份同剩餘授權；汽車／手機下一份業績。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "證券時報·數據寶（引港交所）",
+          "date": "2026-10-21",
+          "title": "小米 10月21日回购5095.10万港元",
+          "url": "https://www.stcn.com/article/detail/4231327.html"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters (via TradingView)",
+          "date": "2026-10-21",
+          "title": "Xiaomi bought back 1.9 million Type B shares for HKD 51 million",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN466207:0-xiaomi-bought-back-1-9-million-type-b-shares-for-hkd-51-million-on-oct-21-hkex-filing-shows/"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-21",
+          "title": "1810.HK history",
+          "url": "https://finance.yahoo.com/quote/1810.HK/history/"
+        }
+      ]
+    },
+    {
+      "id": "msft-earnings-oct28",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：FY2027 Q1 業績訂 10 月 28 日美股收市後公布（公司 IR）",
+      "summary": "Research MSFT。Microsoft Source（2026-10-07）同 IR 活動頁：FY2027 第一季業績將於 2026-10-28（星期三）美股收市後刊出，電話會議太平洋時間下午 2:30。市場焦點多落喺 Azure 增速（公司先前指引常數貨幣約 44%–45%，屬舊指引回顧，實際數字等當日印刷）。Yahoo：日 K 至 10/20 收 531.87；常規價欄約 532.95。",
+      "whyItMatters": "雲同 AI capex 指引會牽動整個算力鏈情緒；新手宜等官方 press release／10-Q，唔好提前當分析師預測係事實。",
+      "whatToWatch": "10/28 收市後 Azure／Microsoft Cloud 增速、capex 同 RPO 說法。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Source",
+          "date": "2026-10-07",
+          "title": "Microsoft announces quarterly earnings release date",
+          "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft IR",
+          "date": "2026-10-28",
+          "title": "FY2027 Q1 Earnings Conference Call page",
+          "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-22",
+          "title": "MSFT quote",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "gld-fed-hkma",
+      "ticker": "GLD",
+      "title": "GLD／宏觀：金價 ETF 10/21 常規價約 378.95；美元兌港元約 7.8469，仍近聯繫匯率弱方",
+      "summary": "Holding GLD + 已勾選宏觀（Fed／HKMA／USD-HKD；中國消費／奢侈品僅作背景）。Yahoo：GLD 日 K 至 10/20 收 377.65；常規價欄約 378.95（對應 10/21）。公開報價 USDHKD 約 7.8469（2026-10-21），仍接近 HKMA 7.75–7.85 區間弱方。市場正等待下旬 Fed 會議同相關通脹數據；中國消費數據今日冇新公司印刷加喺 Active 名單。SPYM／VEU 為闊市場 Holding ETF：Yahoo 常規價約 90.99／82.14（10/21 時段），日 K 歷史暫至 10/20。",
+      "whyItMatters": "港元近弱方關口時，HKMA 機制同美息差係港股資金面背景；GLD 反映金價同實物信託結構，唔等於槓桿賭息口。",
+      "whatToWatch": "Fed 會議聲明／點陣、港元會否觸發弱方兌換保證操作；下一批中國社零／奢侈品同行數據。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-22",
+          "title": "GLD / SPYM / VEU quotes",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "macro",
+          "publisher": "HKMA",
+          "date": "2026-10-22",
+          "title": "Linked Exchange Rate System (7.75–7.85)",
+          "url": "https://www.hkma.gov.hk/eng/key-functions/money/linked-exchange-rate-system/"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2700,
+  "audioVoice": "gTTS-zh-TW"
+}
