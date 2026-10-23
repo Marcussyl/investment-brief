@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-23",
+  "audioUrl": "data/audio/2026-10-23.mp3",
+  "concepts": [
+    {
+      "id": "neocloud",
+      "title": "Neocloud（新雲／GPU 雲）",
+      "titleEn": "Neocloud",
+      "what": "Neocloud 係市場對「以 GPU／加速器為核心、專做 AI 訓練同推理出租」嘅雲服務商嘅叫法，有別於傳統綜合公有雲。佢哋通常重資本開支、重電力同融資，客戶用租嚟嘅算力跑模型。",
+      "whyItMatters": "新手見到「AI 需求好旺」同「AI 股跌」可以同時出現：需求敘事同融資／回報節奏係兩件事。NVDA 賣卡同系統會受 neocloud 擴張節奏影響，但股價亦會反映資本是否跟得上。",
+      "whereToday": "CNBC（2026-10-22）引述黃仁勳喺 GTC Berlin 場邊訪問：neocloud 需求「off the charts」，但營運資金／資本稀缺掣肘擴張；同日美股 AI／半導體板塊大幅調整。",
+      "whatToWatch": "歐洲電力同融資環境、neocloud 同業股價／負債敘事、同 NVDA 後續對歐洲投資口徑。唔構成買賣建議。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/40299f70bc56819c804fe7377c402960"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Reports Third Quarter 2026 Results",
+        "date": "2026-10-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Share repurchase 21 Oct 2026 (via HKEX; third-party summary)",
+        "date": "2026-10-21",
+        "url": "https://www.stcn.com/article/detail/4231327.html"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "FY2027 Q1 earnings date (28 Oct 2026)",
+        "date": "2026-10-07",
+        "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Unveils Minerva (AI factory observability)",
+        "date": "2026-10-22",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-minerva-to-bring-end-to-end-observability-for-ai-factories"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Interim dividend HKD amount update (payment 25 Nov 2026)",
+        "date": "2026-10-21",
+        "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261021_2.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-lockup-capex-selloff",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：解禁＋高 CapEx 敘事下收 144.75（約 −9%）；盤後有基站建設報道",
+      "summary": "Holding SPCX。Motley Fool／Seeking Alpha 等報道：美股 10/22 常規時段收約 144.75，約跌 9%，成交放大；背景包括 Q3 已公布嘅強勁收入／首份 IPO 後盈利季之後嘅獲利了結、約 19.6 億美元級別資本開支關注，以及 lock-up 解禁潮。Yahoo Finance chart meta／報導一致指向該收市價（歷史日 K 曾滯後一日，已用 regularMarketPrice 補 10/22）。第三方報道（Bloomberg 引述／Yahoo 轉載）稱 SpaceX 洽談最少約 8 萬個美國蜂窩基站，盤後通信股異動——屬媒體引述「知情人士」，非公司正式公告。",
+      "whyItMatters": "Holding 要分開睇：已印刷嘅 Q3 數字、解禁／流通量、同未落實嘅企業行動（基站、無線、同 Tesla 委員會討論）。高 CapEx 可以同「賺到錢」同時存在。",
+      "whatToWatch": "10-Q／IR 對 SI capex 同自由現金流口徑；後續解禁日（報道指 10/24 另有一批）；基站／頻譜是否有 SEC 或公司新聞室確認。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Motley Fool",
+          "date": "2026-10-22",
+          "title": "Stock Market Today, Oct. 22: SpaceX Earnings Beat Sparks Profit-Taking",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-today-oct-22-spacex-earnings-beat-sparks-profit-taking/"
+        },
+        {
+          "category": "news",
+          "publisher": "Seeking Alpha",
+          "date": "2026-10-22",
+          "title": "SpaceX falls 9% amid capital spending concerns",
+          "url": "https://seekingalpha.com/news/4656304-spacex-falls-9-amid-capital-spending-concerns"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance / Stocktwits",
+          "date": "2026-10-22",
+          "title": "SpaceX Reportedly Eyes 80,000 Cell Sites (Bloomberg-cited; not a company filing)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reportedly-eyes-80-000-224720565.html"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-23",
+          "title": "SPCX quote / history",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "category": "company",
+          "publisher": "SEC EDGAR / SpaceX",
+          "date": "2026-10-20",
+          "title": "SpaceX Reports Third Quarter 2026 Results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+        }
+      ]
+    },
+    {
+      "id": "gld-fed-oil-macro",
+      "ticker": "GLD",
+      "title": "黃金 ETF（GLD）隨油價／加息預期回吐；Yahoo 10/22 收約 369.00；下周 FOMC",
+      "summary": "Holding GLD。Yahoo／市場數據：10/22 收約 369.00（對照 10/21 收 378.95）。CNBC：現貨金受油價上升同「更高更久」利率預期拖累；CME FedWatch 口徑顯示 10/27–28 FOMC 加息機率偏低、12 月加息定價仍高（第三方工具，會變）。港元與美元掛鈎：美息路徑會透過息差同流動性影響本港現金／債／金配置討論——屬宏觀背景，唔係買賣指示。",
+      "whyItMatters": "Profile 剔咗 Fed／FOMC vs 金管局／聯匯。金價同「避險」唔保證同步：當市場更擔心通脹→加息時，無孳息嘅金可能被拋。",
+      "whatToWatch": "10/27–28 FOMC 聲明同點陣／記者會語氣；10/29 PCE；金管局是否因美息／港元弱方／強方兌換保證而有公開操作說明。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-22",
+          "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
+          "url": "https://www.cnbc.com/2026/10/22/gold-drops-over-1percent-as-oil-rally-reinforces-higher-for-longer-rate-outlook.html"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-23",
+          "title": "GLD quote",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "macro",
+          "publisher": "AP News",
+          "date": "2026-10-22",
+          "title": "How major US stock indexes fared Thursday 10/22/2026",
+          "url": "https://apnews.com/article/stocks-wall-street-nasdaq-dow-1970e79d013cbddcae89c53b4b98f384"
+        }
+      ]
+    },
+    {
+      "id": "spym-veu-ai-tape",
+      "ticker": "SPYM",
+      "title": "標普 ETF（SPYM）跟美股回調：AI／半導體疑慮帶動標普約 −1.2%、納指約 −2.6%",
+      "summary": "Holding SPYM（低成本標普 500）同 VEU（全球除美）。AP／Reuters：10/22 標普 500 收約 7,663.43（約 −1.21%），納指約 −2.60%；費城半導體指數報道指單日大跌。Yahoo：SPYM 10/22 收約 89.93（10/21：90.99）；VEU 收約 80.91（10/21：82.14）。闊市場 ETF 反映指數，唔等於單一科技股。",
+      "whyItMatters": "Holding 用指數 ETF 時，單日科技拋售會直接反映喺 SPYM；VEU 則睇海外風險偏好同美元／息口。",
+      "whatToWatch": "下周 FOMC 前後風險資產波動；VEU 對應地區（歐／日／新興）是否跟美股定各自消息。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "AP News",
+          "date": "2026-10-22",
+          "title": "How major US stock indexes fared Thursday 10/22/2026",
+          "url": "https://apnews.com/article/stocks-wall-street-nasdaq-dow-1970e79d013cbddcae89c53b4b98f384"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters via Investing.com",
+          "date": "2026-10-22",
+          "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+          "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-23",
+          "title": "SPYM / VEU quotes",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-1810-pullback",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：港股 10/22 收 25.80（約 −3.73%）；中國消費情緒仍係背景",
+      "summary": "Holding 1810.HK。Yahoo：10/22 收 25.80，較 10/21 收 26.80 回落約 3.73%，成交偏活躍。未見同日必須跟進嘅公司正式業績公告（以 IR／港交所為準）；價格波動可能同時反映港股風險偏好同中國消費／手機／汽車情緒——profile 剔咗中國消費同奢侈品作宏觀背景，但 Active 名單無奢侈品牌，故唔覆蓋 LVMH 等。",
+      "whyItMatters": "Holding 港股名：美股 AI 回調同本地流動性／北水情緒都可能影響估值波動；要對照是否有回購／業績／指引等公司行動。",
+      "whatToWatch": "港交所／公司公告是否有新回購或產品節奏；內地消費數據同手機／EV 出貨第三方追蹤（標明非公告）。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-22",
+          "title": "1810.HK history — close 25.80 on 22 Oct",
+          "url": "https://finance.yahoo.com/quote/1810.HK/history/"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / third-party summary (prior)",
+          "date": "2026-10-21",
+          "title": "Prior share repurchase coverage (verify on HKEX)",
+          "url": "https://www.stcn.com/article/detail/4231327.html"
+        }
+      ]
+    },
+    {
+      "id": "nvda-neocloud-gtc",
+      "ticker": "NVDA",
+      "title": "NVIDIA：黃仁勳稱 neocloud 需求極旺但資本稀缺；新聞室推 Minerva；Yahoo 10/22 約 212.21",
+      "summary": "Research NVDA。CNBC（10/22）GTC Berlin 場邊：黃仁勳稱 neocloud 需求「off the charts」，但 working capital／資本供給不足掣肘。NVIDIA 新聞室同日刊 Minerva（AI 工廠端到端可觀測性）。Yahoo chart meta：10/22 常規價約 212.21（10/21 收 221.97）。闊市場半導體拋售之下，公司新聞同股價要分開睇。",
+      "whyItMatters": "研究名：需求敘事（neocloud／AI 工廠）同融資／回報疑慮可以喺同一日並存；新手宜問「邊啲係新聞室事實、邊啲係宏觀風險偏好」。",
+      "whatToWatch": "Minerva／DSX 伙伴出貨同客戶案例；neocloud 同業融資同股價敘事；中國 DC 指引假設是否有更新（舊題）。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-22",
+          "title": "Nvidia CEO Jensen Huang says neocloud demand is off the charts but capital is scarce",
+          "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-22",
+          "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-minerva-to-bring-end-to-end-observability-for-ai-factories"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-23",
+          "title": "NVDA quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-windows-agents-earnings",
+      "ticker": "MSFT",
+      "title": "Microsoft：同 NVIDIA 推 Windows AI agents／RTX Spark；FY2027 Q1 業績日 10/28 臨近",
+      "summary": "Research MSFT。第三方／業界報道（IT Brief 等，10/22）：微軟同 NVIDIA 喺活動上描述 Windows 上嘅 AI agent 基建（包括 Microsoft Execution Containers）同 RTX Spark／Surface Laptop Ultra 等硬體方向——細節以微軟／NVIDIA 官方為準，部分消費硬件規格屬廠商口徑。Yahoo：MSFT 10/22 約 521.08（10/21 收 532.95）。公司早前公布業績日為 2026-10-28。",
+      "whyItMatters": "雲（Azure）同裝置端 AI 係兩條線；業績前市場會同時消化 CapEx、AI 變現同大市風險偏好。",
+      "whatToWatch": "10/28 業績：Azure 增長、AI 基礎設施開支、同任何對自研 Maia／外部 GPU 組合嘅更新。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "IT Brief",
+          "date": "2026-10-22",
+          "title": "Nvidia & Microsoft unveil AI agents for Windows PCs",
+          "url": "https://itbrief.news/story/nvidia-microsoft-unveil-ai-agents-for-windows-pcs"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft",
+          "date": "2026-10-07",
+          "title": "Microsoft announces quarterly earnings release date",
+          "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-23",
+          "title": "MSFT quote",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2652,
+  "audioVoice": "gTTS-zh-TW"
+}

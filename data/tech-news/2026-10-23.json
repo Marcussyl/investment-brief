@@ -1,0 +1,216 @@
+{
+  "updated": "2026-10-23T08:29:22+08:00",
+  "disclaimer": "市場動態仅供学习；非投资建议。第三方快訊已尽量标注。",
+  "items": [
+    {
+      "title": "NVIDIA 新聞室：Minerva 為 AI 工廠提供端到端可觀測性",
+      "summary": "公司新聞室（2026-10-22）：公布 Minerva，定位 AI 工廠運維／可觀測性，屬 GTC Berlin 產品線延伸。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-22",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-minerva-to-bring-end-to-end-observability-for-ai-factories",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：軟件／運維工具敘事補足賣硬體，長線或綁定 AI 工廠交付。",
+      "newbieTake": "[公司新聞室/IR] 以新聞室原文為準；出貨同收入認列時間未在標題保證。"
+    },
+    {
+      "title": "Supermicro：NVIDIA Vera CPU 液冷機架，對應 agentic AI 沙箱密度",
+      "summary": "Supermicro IR（10/22）：256 顆 NVIDIA Vera CPU、全液冷，聲稱單架可支援大量 agent sandbox，補足 Vera Rubin NVL72。",
+      "source": "Supermicro IR",
+      "date": "2026-10-22",
+      "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Introduces-the-NVIDIA-Vera-CPU-Rack-a-256-CPU-100-Liquid-Cooled-Rack-Scale-Solution-Complementing-the-NVIDIA-Vera-Rubin-Platform-for-Agentic-AI-at-Scale/default.aspx",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：agentic AI 需要高密度 CPU＋GPU 配比，供應鏈消息偏基建。",
+      "newbieTake": "[公司新聞室/IR] 伙伴 IR，非 NVIDIA 自身指引。"
+    },
+    {
+      "title": "黃仁勳：neocloud 需求極旺但資本稀缺（GTC Berlin 場邊）",
+      "summary": "CNBC：NVIDIA CEO 稱 neocloud 需求 off the charts，惟 working capital 不足掣肘擴張，並談歐洲電力與 AI 生態。",
+      "source": "CNBC Tech",
+      "date": "2026-10-22",
+      "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：把「算力需求」同「融資／電力約束」拆開睇，影響 AI 基建股風險偏好。",
+      "newbieTake": "訪問係管理層口述，唔等於業績指引；對照公司新聞室產品稿。"
+    },
+    {
+      "title": "黃仁勳批 AI 毀滅人類論：搏版面的不實廉價說法",
+      "summary": "美國人工智慧（AI）晶片業巨擘輝達（Nvidia）執行長黃仁勳 22 日表示，有關 AI 可能毀滅人類的相關警 […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-23",
+      "url": "https://technews.tw/2026/10/23/nvidia-boss-criticises-cheap-ai-doomsday-warnings/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "輝達前團隊打造新創 Dream Labs 獲 9,000 萬美元融資，推出通用機器人 API",
+      "summary": "由輝達前機器人研究團隊成員創立的美國新創 Dream Labs，於 10 月 19 日宣布完成 9,000 萬 […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-23",
+      "url": "https://technews.tw/2026/10/23/robot-brain-api-debuts/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "算力成本降 67%，輝達力挺新創 doubleAI 推出首款「程式碼執行模型」",
+      "summary": "以色列特拉維夫 AI 新創公司 doubleAI 於 19 日宣布推出首款人工智慧模型「Maxwell」，旨在 […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-23",
+      "url": "https://technews.tw/2026/10/23/nvidia-startup-maxwell-cuts-computing-costs/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "黃仁勳籲歐洲加快腳步、別過度依賴監管，盼德國以物理 AI 突圍",
+      "summary": "NVIDIA 於柏林展開 GTC Berlin 大會之前，執行長黃仁勳過去 7 天內接連造訪法國、瑞典、英國及 […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-22",
+      "url": "https://technews.tw/2026/10/22/jensen-huang-has-a-message-for-europe/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "中國客戶棄華為昇騰搶買 RTX PRO 5500，輝達僅能滿足 5%~10% 市場需求",
+      "summary": "在中國人工智慧（AI）晶片出貨量方面，華為雖正逐漸縮小與輝達（NVIDIA）的市場差距，但包括字節跳動、阿里巴 […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-22",
+      "url": "https://technews.tw/2026/10/22/chinese-customers-are-abandoning-huaweis-ascend-and-rushing-to-buy-rtx-pro-5500/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "Nvidia公布Vera Rubin資料中心參考設計DSX POD，號稱最快2周可完成部署",
+      "summary": "Nvidia週三在GTC Berlin 2026大會公布基於Vera Rubin平臺的參考設計，以協助基礎架構業者或企業加速建構AI資料中心，號稱部署時間最短可壓縮到14天。",
+      "source": "iThome",
+      "date": "2026-10-22",
+      "url": "https://www.ithome.com.tw/news/179882",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "微軟開源Scope評測平臺，追蹤AI程式開發代理的任務表現",
+      "summary": "微軟開源評測平臺Scope，可讓GitHub Copilot、Claude Code等AI程式開發代理執行指定任務，檢查是否按照文件正確使用軟體開發套件（SDK）、應用程式介面（API）及相關工具。平臺也會記錄操作過程與測試結果，協助開發團隊找出代理執行任務時遇到的問題。",
+      "source": "iThome",
+      "date": "2026-10-22",
+      "url": "https://www.ithome.com.tw/news/179868",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "Infineon, Nvidia push gallium nitride power for 800-volt AI data centers",
+      "summary": "Infineon Technologies is expanding its work with Nvidia on 800-volt direct current power architectures for AI data centers, with a focus on gallium nitride (GaN) chips in the intermediate bus converte",
+      "source": "DigiTimes",
+      "date": "2026-10-22",
+      "url": "https://www.digitimes.com/news/a20261022VL220/infineon-data-gallium-gan-2025.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "Why Terafab approached South Korean suppliers first",
+      "summary": "Elon Musk is moving ahead with Terafab, as Tesla and SpaceX reportedly negotiate with about 10 South Korean semiconductor materials, components, and equipment suppliers. The discussions cover process",
+      "source": "DigiTimes",
+      "date": "2026-10-22",
+      "url": "https://www.digitimes.com/news/a20261022PD229/elon-musk-equipment-tesla-materials-spacex.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "Inside Nvidia DSX POD: How a factory-built AI data center could go live in 14 days",
+      "summary": "Nvidia used its first GTC conference in Berlin to present a factory-style approach to AI, framing AI production as an industrial process. CEO Jensen Huang introduced the DSX full-stack architecture an",
+      "source": "DigiTimes",
+      "date": "2026-10-22",
+      "url": "https://www.digitimes.com/news/a20261022PD232/nvidia-data-center-gtc-berlin-production.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "SK 海力士取消 Solidigm 美國 IPO 計畫，股東反對與監管疑慮成關鍵",
+      "summary": "根據外電報導，韓國記憶體大廠 SK 海力士原計劃推動旗下快閃記憶體子公司 Solidigm 赴美上市，但因面臨 […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-23",
+      "url": "https://technews.tw/2026/10/23/sk-hynix-cancel-solidigm-us-ipo-shareholder-opposition-regulatory-concerns/",
+      "tickers": [],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "2026 智慧能源週：標檢局推氫能檢測標準、台捷論壇聚焦 AI 綠電布局",
+      "summary": "2026 年台灣國際智慧能源週與國際淨零永續展於 10 月 14～16 日在南港展開，其中經濟部標準檢驗局在「 […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-23",
+      "url": "https://technews.tw/2026/10/23/2026-smart-energy-week-bsmi-promotes-hydrogen-energy-testing-standards-taiwan-czech-forum-focuses-ai-green-power-layout/",
+      "tickers": [],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "Google 執行長皮查伊靠 AI 代理團隊掌握公司動態，每天可省下大把時間",
+      "summary": "Google 執行長皮查伊（Sundar Pichai）在 Podcast 節目〈Sources〉透露，他用多 […]",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-22",
+      "url": "https://finance.technews.tw/2026/10/22/sundar-pichai-explains-how-a-team-of-ai-agents-helps-him-run-the-company/",
+      "tickers": [],
+      "impact": "可能／市場關注：同 AI、半導體或 Active 觀察名單相關，宜對照原始來源。",
+      "newbieTake": "新手宜分清公司新聞室／監管公告同第三方轉述；唔構成買賣建議。"
+    },
+    {
+      "title": "富途快訊：報道稱 SpaceX 洽談接入約 8 萬座蜂窩基站",
+      "summary": "快訊轉述：SpaceX 夜盤一度走高，AT&T／T-Mobile 走弱；稱公司洽談接入大量蜂窩基站以搭建自有無線網絡。屬第三方快訊，非公司公告。",
+      "source": "富途快訊",
+      "date": "2026-10-23",
+      "url": "https://news.futunn.com/flash/1002023395/bloom-energy-fell-more-than-5-in-after-hours-trading",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：把衛星直連手機敘事延伸到地面基站密度，電信同塔類股票盤後波動。",
+      "newbieTake": "[第三方·非公告] 以 Bloomberg／公司 IR 是否確認為準；快訊標題常混雜多檔股票。"
+    },
+    {
+      "title": "富途快訊：黃仁勳稱 AI 算力需求旺盛，資本仍是瓶頸（早報摘要）",
+      "summary": "富途早報撮要提到黃仁勳對 AI 算力需求同資本約束嘅說法，與 CNBC 場邊訪問同一主題。",
+      "source": "富途快訊",
+      "date": "2026-10-23",
+      "url": "https://news.futunn.com/flash/1002022244",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：強化「需求≠融資已到位」嘅市場討論。",
+      "newbieTake": "[第三方·非公告] 早報係匯編；請對照 CNBC 原文同 NVIDIA 新聞室。"
+    }
+  ]
+}
