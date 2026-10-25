@@ -1,220 +1,219 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "disclaimer": "非投資建議。市場動態僅供學習；數字以公司／交易所原文為準。",
   "items": [
     {
-      "title": "NVIDIA 新聞室：Minerva 為 AI 工廠提供端到端可觀測性",
-      "summary": "公司新聞室（2026-10-22）：發布 Minerva AIOps 平台，整合 GPU／網絡／工作負載遙測，強調異常偵測同根因分析。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-10-22",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-minerva-to-bring-end-to-end-observability-for-ai-factories",
+      "title": "CNBC：NVIDIA 作為 AI 融資方迎來 neocloud 壓力測試",
+      "summary": "第三方報道（2026-10-24）：neocloud 股價同信用利差轉差，市場討論 NVIDIA 投資／擔保協助客戶融資嘅風險。原文來源：CNBC。",
+      "source": "CNBC Tech",
+      "date": "2026-10-24",
+      "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
       "tickers": [
         "NVDA"
       ],
-      "impact": "可能／市場關注：軟件同運維工具敘事補足賣硬體，長線或綁定 AI 工廠交付。",
-      "newbieTake": "[公司新聞室/IR] 以新聞室原文為準；出貨同收入認列時間未在標題保證。"
+      "impact": "可能／市場關注：融資敘事同賣晶片敘事被拆開討論，信用環境轉緊時估值波動或加大。",
+      "newbieTake": "對照下一次季報 off-balance-sheet 承諾口徑；唔好把第三方解讀當成公司已宣布損失。"
     },
     {
-      "title": "NVIDIA 新聞室：歐洲企業用 DSX 應對 AI 工廠電力瓶頸",
-      "summary": "公司新聞室（2026-10-21）：介紹夥伴如何用 DSX 藍圖把電網同 AI 工廠一體規劃，回應電力瓶頸。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-10-21",
-      "url": "https://nvidianews.nvidia.com/news/how-companies-are-using-nvidia-dsx-to-break-the-power-bottleneck",
+      "title": "TechNews：AWS 產能預訂至 2028，亞馬遜示警電力與記憶體短缺",
+      "summary": "科技新報（2026-10-24）：引述亞馬遜管理層指 AWS 產能已預訂至 2028，並警示電力與記憶體供應緊張。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-24",
+      "url": "https://technews.tw/2026/10/24/aws-capacity-booked-2028-amazon-warns-power-memory-shortages/",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：雲端供給瓶頸同時推高對 GPU／電力／記憶體供應鏈嘅敘事。",
+      "newbieTake": "Active 內可對照 MSFT Azure 同 NVDA 供應鏈下一季指引，而非單一標題。"
+    },
+    {
+      "title": "TechNews：輝達 DSX 強調 AI 資料中心省電，最高稱可省約 30%",
+      "summary": "科技新報（2026-10-24）：報道 NVIDIA 從用電端切入 AI 工廠方案，DSX 相關敘事指最高可省電約 30%（以原文為準）。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-24",
+      "url": "https://technews.tw/2026/10/24/nvidia-dsx-ai-data-center-power-shortage-30-percent-savings/",
       "tickers": [
         "NVDA"
       ],
-      "impact": "可能／市場關注：電力／基建約束同 GPU 需求同樣影響擴張節奏。",
-      "newbieTake": "[公司新聞室/IR] 屬解決方案敘事；唔等於單一季業績數字。"
+      "impact": "可能／市場關注：缺電成為 AI 基建主線時，省電／整櫃方案或成差異化賣點。",
+      "newbieTake": "[第三方整理] 以公司新聞室／規格頁核對百分比口徑同適用條件。"
     },
     {
-      "title": "NVIDIA 新聞室：Cosmos 擴充世界模型訓練與部署工具",
-      "summary": "公司新聞室（2026-10-21）：擴充 Cosmos 平台，加入訓練工具同 Data Factory 藍圖，面向實體 AI。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-10-21",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-cosmos-opens-new-tools-to-train-evaluate-and-deploy-world-models",
+      "title": "TechNews：輝達點將供應鏈，矽品 CPO 產能敘事、欣興／京元電擴產",
+      "summary": "科技新報（2026-10-24）：圍繞 NVIDIA AI 工廠供應鏈，提到先進封裝／測試擴產敘事（SPIL、Unimicron、KYEC 等）。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-24",
+      "url": "https://technews.tw/2026/10/24/nvidia-names-4-supply-chain-boost-production-shipments-kyec-unimicron-spil/",
       "tickers": [
         "NVDA"
       ],
-      "impact": "可能／市場關注：實體 AI／機器人軟件棧延伸，強化平台黏性敘事。",
-      "newbieTake": "[公司新聞室/IR] 產品線擴張；商業化時間表需另找指引。"
+      "impact": "可能／市場關注：封測與載板產能仍被視為 AI 出貨瓶頸之一。",
+      "newbieTake": "Active 只標 NVDA；供應鏈個股非 watchlist，勿自行加倉位解讀。"
     },
     {
-      "title": "Microsoft Source：確認 10/28 公布 FY27 Q1 業績",
-      "summary": "公司 IR 確認 2026-10-28 美股收市後公布 FY2027 第一季業績，並舉行電話會議。",
-      "source": "Microsoft Source",
-      "date": "2026-10-07",
-      "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/",
-      "tickers": [
-        "MSFT"
-      ],
-      "impact": "可能／市場關注：業績日係 Azure／capex 敘事焦點，牽動 AI 供應鏈情緒。",
-      "newbieTake": "[公司新聞室/IR] 排期已確認；數字要等當日稿。"
-    },
-    {
-      "title": "TechNews：輝達揭露 Rubin Ultra NVL576 架構",
-      "summary": "科技新報報道輝達披露將大量 Rubin Ultra GPU 以 CPO 等互連組成巨型系統。",
+      "title": "TechNews：576 顆 GPU 合體——Rubin Ultra NVL576 架構曝光",
+      "summary": "科技新報（2026-10-23）：介紹 NVIDIA 以 CPO 連接 576 顆 Rubin Ultra 形成巨型 GPU 架構敘事。",
       "source": "TechNews 科技新報",
       "date": "2026-10-23",
       "url": "https://technews.tw/2026/10/23/nvidia-to-connect-576-rubin-ultra-gpus-using-cpo-to-create-one-giant-gpu/",
       "tickers": [
         "NVDA"
       ],
-      "impact": "可能／市場關注：AI／半導體／算力主題同 Active 觀察名單相關。",
-      "newbieTake": "[第三方·非公告] 媒體整理；重要數字請對照公司原文。"
+      "impact": "可能／市場關注：超大規模機櫃方案強化「整廠出貨」敘事，亦提高電力／光學互連要求。",
+      "newbieTake": "出貨時程以公司 roadmap／財報為準，標題唔等於即季收入。"
     },
     {
-      "title": "TechNews：黃仁勳稱 2029 年前記憶體難過剩",
-      "summary": "科技新報引述黃仁勳對記憶體供給同合作態度嘅說法。",
+      "title": "TechNews：美國砸約 3.89 億美元扶植功率半導體，鎖定 AI 資料中心",
+      "summary": "科技新報（2026-10-24）：報道美國政府投資功率半導體，應用指向 AI 資料中心與核融合等。",
       "source": "TechNews 科技新報",
-      "date": "2026-10-23",
-      "url": "https://technews.tw/2026/10/23/memory-oversupply-is-unlikely-before-2029/",
+      "date": "2026-10-24",
+      "url": "https://technews.tw/2026/10/24/us-invests-389-million-boost-power-semiconductors-ai-data-centers-nuclear-fusion-applicat",
+      "tickers": [],
+      "impact": "可能／市場關注：AI 缺電帶動功率元件政策補貼與產能話題。",
+      "newbieTake": "政策金額同受惠公司名單以官方公告為準；非 Active 個股唔標 ticker。"
+    },
+    {
+      "title": "TechNews：AMD 模組讓 Radeon 可跑 NVIDIA DLSS（含光線重建）",
+      "summary": "科技新報（2026-10-24）：報道第三方／社群模組將 DLSS 功能移植到 RDNA，屬相容性實驗敘事。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-24",
+      "url": "https://technews.tw/2026/10/24/all-dlss-features-including-ray-reconstruction-have-been-ported-to-rdna-4-and-3/",
       "tickers": [
         "NVDA"
       ],
-      "impact": "可能／市場關注：AI／半導體／算力主題同 Active 觀察名單相關。",
-      "newbieTake": "[第三方·非公告] 媒體整理；重要數字請對照公司原文。"
+      "impact": "可能／市場關注：生態互通實驗或影響軟體護城河討論，但官方支援仍係關鍵。",
+      "newbieTake": "非官方移植唔等於產品策略改變；以 NVIDIA／AMD 官方聲明為準。"
     },
     {
-      "title": "TechNews：SpaceX 突擊加薪徵才趕建超級電腦",
-      "summary": "科技新報報道 SpaceX 因算力需求以加薪吸引員工趕工擴建超級電腦。",
+      "title": "TechNews：台積電明年營收敘事——除輝達外亦看 AMD",
+      "summary": "科技新報（2026-10-24）：評論台積電成長動能除 NVIDIA 外，亦提到 AMD 等客戶需求。",
       "source": "TechNews 科技新報",
+      "date": "2026-10-24",
+      "url": "https://technews.tw/2026/10/24/tsmc-revenue-exceed-8-trillion-next-year-nvidia-lisa-su/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：先進製程產能分配討論持續，影響 AI 供應鏈節奏。",
+      "newbieTake": "台積電非 Active；只作 NVDA 供應鏈背景。"
+    },
+    {
+      "title": "DigiTimes：SpaceX 8 萬基站敘事——Starlink 攻行動網路",
+      "summary": "電子時報標題（約 2026-10-23）：SpaceX 推進大規模地面基站，強化 Starlink 行動網路挑戰既有電信敘事。頁面或需訂閱。",
+      "source": "DigiTimes 電子時報",
       "date": "2026-10-23",
-      "url": "https://technews.tw/2026/10/23/spacex-urgently-hiring-employees-pay-raises-build-supercomputer/",
+      "url": "https://www.digitimes.com/news/a20261023VL221/spacex-starlink-mobile-infrastructure.html",
       "tickers": [
         "SPCX"
       ],
-      "impact": "可能／市場關注：AI／半導體／算力主題同 Active 觀察名單相關。",
-      "newbieTake": "[第三方·非公告] 媒體整理；重要數字請對照公司原文。"
+      "impact": "可能／市場關注：衛星直連手機／地面網擴張會牽動電信競爭同 capex 故事。",
+      "newbieTake": "[第三方·或需訂閱] 以公司 IR／監管申請核對基站數字。"
     },
     {
-      "title": "TechNews：SpaceX／Grok 擴大商業合作敘事（NVIDIA、Databricks）",
-      "summary": "科技新報報道 Grok 商業版圖同夥伴計畫，提及 NVIDIA、Databricks。",
-      "source": "TechNews 科技新報",
-      "date": "2026-10-23",
-      "url": "https://technews.tw/2026/10/23/grok-partner-program/",
+      "title": "DigiTimes：NVIDIA 否認短期記憶體過剩憂慮，CXMT 合作大門未關",
+      "summary": "電子時報（2026-10-24 刊）：引述 Huang 指未來數年唔預期記憶體供給過剩，並對與中國長鑫（CXMT）合作持開放態度（標題層）。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-24",
+      "url": "https://www.digitimes.com/news/a20261023PD243/nvidia-cxmt-demand-technology-market.html",
       "tickers": [
-        "SPCX",
         "NVDA"
       ],
-      "impact": "可能／市場關注：AI／半導體／算力主題同 Active 觀察名單相關。",
-      "newbieTake": "[第三方·非公告] 媒體整理；重要數字請對照公司原文。"
+      "impact": "可能／市場關注：記憶體週期同地緣供應鏈敘事並存，影響 HBM／DRAM 預期。",
+      "newbieTake": "[第三方·或需訂閱] 出口管制同實際出貨仍以官方合規披露為準。"
     },
     {
-      "title": "TechNews：AI 燒錢疑慮下美股科技賣壓",
-      "summary": "科技新報／財經版報道 AI 資本開支疑慮引發美股近月較大賣壓。",
-      "source": "TechNews 科技新報",
+      "title": "DigiTimes：Lenovo 以 NVIDIA Vera Rubin NVL72 交付推 AI 反攻",
+      "summary": "電子時報標題：聯想強調 Rubin 系統交付同美國廠擴張，作為 AI 伺服器敘事。",
+      "source": "DigiTimes 電子時報",
       "date": "2026-10-23",
-      "url": "https://finance.technews.tw/2026/10/23/stocks-see-steepest-decline-in-months-amid-a-i-worries/",
+      "url": "https://www.digitimes.com/news/a20261023PD225/lenovo-nvidia-infrastructure-rubin-manufacturing.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：OEM 出貨節奏係觀察 Rubin 放量嘅旁證之一。",
+      "newbieTake": "聯想非 Active；只作 NVDA 系統夥伴背景。"
+    },
+    {
+      "title": "DigiTimes：Semco MLCC 交期約 61 週，AI 伺服器被動元件供應緊張",
+      "summary": "電子時報標題：三星電機 MLCC 長交期令供應商於 AI 供應鏈佔優。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-10-23",
+      "url": "https://www.digitimes.com/news/a20261023VL202/semco-mlcc-ai-server-2027-demand.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：AI 伺服器不只缺 GPU，被動元件交期亦成瓶頸敘事。",
+      "newbieTake": "交期數字以供應商／DigiTimes 原文為準；非投資建議。"
+    },
+    {
+      "title": "T客邦：ChatGPT 瀏覽器外掛新 Work 模式，可整理分頁與填表",
+      "summary": "T客邦（2026-10-24）：報道 ChatGPT 瀏覽器外掛新增 Work 模式，強調自動化瀏覽工作流。",
+      "source": "T客邦",
+      "date": "2026-10-24",
+      "url": "https://www.techbang.com/posts/134341-chatgpt-browser-extension-work-mode-tabs-forms",
+      "tickers": [],
+      "impact": "可能／市場關注：代理型（agent）瀏覽工具競爭升溫，牽動雲端推理用量敘事。",
+      "newbieTake": "產品功能更新唔等於即時財報影響；觀察後續 MAU／付費數據。"
+    },
+    {
+      "title": "iThome：Anthropic 捐出 Agent Skills 標準，OpenAI／Google 工程師亦將參與",
+      "summary": "iThome（2026-10-23）：報道 Anthropic 開放 Agent Skills 標準，跨廠工程師參與維護。",
+      "source": "iThome",
+      "date": "2026-10-23",
+      "url": "https://www.ithome.com.tw/news/179921",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：代理互通標準若成形，或降低單一棧鎖定、改變企業採用節奏。",
+      "newbieTake": "標準開源進度同雲端／PC agent（如 Windows MXC）落地要分開睇。"
+    },
+    {
+      "title": "iThome：OpenAI 模型擴展上架 Google Cloud",
+      "summary": "iThome（2026-10-23）：報道 OpenAI 模型再擴展雲端平台合作，於 Google Cloud 上架。",
+      "source": "iThome",
+      "date": "2026-10-23",
+      "url": "https://www.ithome.com.tw/news/179915",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注：模型多雲分發影響 Azure 獨家敘事同雲端競爭。",
+      "newbieTake": "以 OpenAI／各雲官方公告核對上架範圍；唔預設單一雲贏家。"
+    },
+    {
+      "title": "iThome：Google 為 AI 代理配置獨立虛擬機，憑證由外部閘道管理",
+      "summary": "iThome（2026-10-23）：報道 Google 為 AI 代理提供獨立 VM，企業憑證改由外部閘道管理以提升安全邊界。",
+      "source": "iThome",
+      "date": "2026-10-23",
+      "url": "https://www.ithome.com.tw/news/179917",
+      "tickers": [],
+      "impact": "可能／市場關注：企業 AI 代理落地重點由模型轉向身分／隔離／治理。",
+      "newbieTake": "資安架構新聞屬基礎設施主題；非 Active 個股唔標 ticker。"
+    },
+    {
+      "title": "富途快訊：SpaceX 擬洽商接入約 8 萬基站，擴行動網路敘事",
+      "summary": "原文來源：市場要聞彙整。標題指 SpaceX 洽商大規模基站接入，劍指美國行動網路布局。",
+      "source": "富途快訊",
+      "date": "2026-10-24",
+      "url": "https://www.moomoo.com/news/video/1002184623/spacex-aims-to-secure-80000-cell-sites-for-new-network",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：地面基站數字若屬實，會強化 Starlink 電信競爭敘事同 capex 討論。",
+      "newbieTake": "以監管申請／公司披露核對基站數字；影音快訊唔等於 IR。"
+    },
+    {
+      "title": "富途快訊：亞馬遜 CEO 稱 AI 推理仍貴約 10 倍，自家晶片或係答案",
+      "summary": "原文來源：市場要聞。標題引述亞馬遜 CEO 指 AI inference 成本仍高，並提及自研晶片路徑。",
+      "source": "富途快訊",
+      "date": "2026-10-24",
+      "url": "https://www.moomoo.com/news/post/1002220505/amazon-ceo-says-ai-inference-is-still-10-times-too",
       "tickers": [
         "NVDA",
         "MSFT"
       ],
-      "impact": "可能／市場關注：AI／半導體／算力主題同 Active 觀察名單相關。",
-      "newbieTake": "[第三方·非公告] 媒體整理；重要數字請對照公司原文。"
-    },
-    {
-      "title": "CNBC：黃仁勳稱 neocloud 需求 off the charts，資本稀缺",
-      "summary": "CNBC 引述 GTC Berlin 場邊——neocloud 需求強但融資掣肘。",
-      "source": "CNBC Tech",
-      "date": "2026-10-23",
-      "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能／市場關注：美股科技同 Active 名單相關敘事。",
-      "newbieTake": "[第三方·非公告] 媒體報道；非公司公告。"
-    },
-    {
-      "title": "CNBC：黃仁勳指未見 2029 記憶體過剩跡象",
-      "summary": "CNBC 報道黃仁勳表示睇唔到 2029 記憶體過剩。",
-      "source": "CNBC Tech",
-      "date": "2026-10-22",
-      "url": "https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能／市場關注：美股科技同 Active 名單相關敘事。",
-      "newbieTake": "[第三方·非公告] 媒體報道；非公司公告。"
-    },
-    {
-      "title": "CNBC：SpaceX 業績後市場討論同 Tesla 合併傳聞",
-      "summary": "CNBC 報道 Q3 後市場焦點轉向合併相關討論（非公司公告）。",
-      "source": "CNBC Tech",
-      "date": "2026-10-23",
-      "url": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
-      "tickers": [
-        "SPCX"
-      ],
-      "impact": "可能／市場關注：美股科技同 Active 名單相關敘事。",
-      "newbieTake": "[第三方·非公告] 媒體報道；非公司公告。"
-    },
-    {
-      "title": "CNBC：SpaceX 對烏克蘭 Starlink 限制相關報道",
-      "summary": "CNBC 跟進 Starlink 在烏克蘭使用限制同影響嘅報道。",
-      "source": "CNBC Tech",
-      "date": "2026-10-23",
-      "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-      "tickers": [
-        "SPCX"
-      ],
-      "impact": "可能／市場關注：美股科技同 Active 名單相關敘事。",
-      "newbieTake": "[第三方·非公告] 媒體報道；非公司公告。"
-    },
-    {
-      "title": "CNBC：GTC Berlin 現場——Jensen-mania、機器人同 neocloud 壓力",
-      "summary": "CNBC 現場特稿描述 GTC Berlin 氣氛同 neocloud 融資壓力。",
-      "source": "CNBC Tech",
-      "date": "2026-10-23",
-      "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能／市場關注：美股科技同 Active 名單相關敘事。",
-      "newbieTake": "[第三方·非公告] 媒體報道；非公司公告。"
-    },
-    {
-      "title": "富途快訊：美國將氦列關鍵材料，半導製造係考量",
-      "summary": "快訊指美國把氦列關鍵材料，供應風險上升，半導體製造為考量之一。",
-      "source": "富途快訊",
-      "date": "2026-10-23",
-      "url": "https://news.futunn.com/post/1002162823/the-united-states-has-designated-helium-as-a-critical-material",
-      "tickers": [],
-      "impact": "可能／市場關注：短線情緒同主題資金流向。",
-      "newbieTake": "[第三方·非公告] 快訊摘要；價格以交易所／Yahoo 為準。"
-    },
-    {
-      "title": "富途快訊：西部數據 CFO 指 AI 需求未見頂",
-      "summary": "快訊引述西部數據 CFO 反駁 AI 需求見頂論。",
-      "source": "富途快訊",
-      "date": "2026-10-23",
-      "url": "https://news.futunn.com/post/1002163592/western-digital-s-cfo-refuted-claims-that-ai-demand-has",
-      "tickers": [],
-      "impact": "可能／市場關注：短線情緒同主題資金流向。",
-      "newbieTake": "[第三方·非公告] 快訊摘要；價格以交易所／Yahoo 為準。"
-    },
-    {
-      "title": "富途快訊：芯片抵押融資重塑 AI 債務市場敘事",
-      "summary": "快訊綜述用芯片／算力資產融資嘅趨勢報道。",
-      "source": "富途快訊",
-      "date": "2026-10-23",
-      "url": "https://news.futunn.com/post/1002147849/from-coreweave-to-anthropic-chip-collateralized-financing-is-reshaping-the",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能／市場關注：短線情緒同主題資金流向。",
-      "newbieTake": "[第三方·非公告] 快訊摘要；價格以交易所／Yahoo 為準。"
-    },
-    {
-      "title": "富途快訊：SpaceX 洽商接入大量蜂窩基站（第三方）",
-      "summary": "快訊跟進 SpaceX 洽商接入蜂窩基站、通信股異動嘅市場討論。",
-      "source": "富途快訊",
-      "date": "2026-10-23",
-      "url": "https://news.futunn.com/post/1002165838/top-20-in-trading-volume-apple-s-iphone-duo-sales",
-      "tickers": [
-        "SPCX"
-      ],
-      "impact": "可能／市場關注：短線情緒同主題資金流向。",
-      "newbieTake": "[第三方·非公告] 快訊摘要；價格以交易所／Yahoo 為準。"
+      "impact": "可能／市場關注：推理成本下降壓力同時推動自研加速器同外購 GPU 需求再平衡討論。",
+      "newbieTake": "對照雲端財報對 AI 毛利／capex 口徑；數字以原訪為準。"
     }
   ]
 }

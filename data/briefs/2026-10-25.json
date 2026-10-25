@@ -1,0 +1,274 @@
+{
+  "date": "2026-10-25",
+  "audioUrl": "data/audio/2026-10-25.mp3",
+  "audioScriptChars": 2431,
+  "audioVoice": "gTTS-zh-TW",
+  "concepts": [
+    {
+      "id": "capex-payback-period",
+      "title": "Capex 回本期（payback period）",
+      "titleEn": "Capex payback period",
+      "what": "回本期係指一筆資本開支（capex）用項目產生嘅現金流／利潤「回本」大概要幾耐。短回本期意味著管理層認為投資很快可以自我融資；長回本期就要靠外部融資同更長嘅需求假設。",
+      "whyItMatters": "新手睇到「一季花幾百億」會先嚇一跳；要同時問：回本期假設用邊個價格、有冇長約、同需求若轉弱時風險邊個扛。回本期短唔等於無風險。",
+      "whereToday": "週末第三方報道（Yahoo Finance 等，對照 SPCX Q3 業績說明會口徑）指 SpaceX CFO 話喺「現價」下新 AI compute 部署回本期少於一年，同時 Q4 capex 指引約 350–400 億美元量級。數字以 SEC／IR 原文為準；第三方整理或有誤差。",
+      "whatToWatch": "後續 10-Q／IR 對 capex、自由現金流同 compute 租賃價格口徑；周一 SPCX 開盤後市場點解讀回本期假設。唔構成買賣建議。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/40499f70bc568170878dcb22528f2778"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Reports Third Quarter 2026 Results",
+        "date": "2026-10-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持仓",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "DATE OF BOARD MEETING — Q3 2026 results board meeting 24 Nov 2026",
+        "date": "2026-10-23",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "FY2027 Q1 earnings date (28 Oct 2026)",
+        "date": "2026-10-07",
+        "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Unveils Minerva (AI factory observability)",
+        "date": "2026-10-22",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-minerva-to-bring-end-to-end-observability-for-ai-factories"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on convening 2026 third quarterly results release (30 Oct)",
+        "date": "2026-10-23",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301062.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-sun-first-tradable-spacenews",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：周日安靜帶——10/24 解禁首個可交易日仍係周一 10/26；SpaceNews：太空軍部分任務改 Falcon Heavy；周五收約 147.49",
+      "summary": "Holding SPCX。美股週末休市。周六日曆合資格嘅 180 日 lock-up 批次（最多約 3.284 億股 Class A）首個可交易時段仍係周一 10/26（第三方解禁日曆對照 prospectus；合資格 ≠ 一定會賣）。SpaceNews（2026-10-24）報道美國太空軍因 Vulcan 延遲，將部分飛彈預警／地月相關任務由 Vulcan 改派至 SpaceX Falcon Heavy，並與 ULA 做任務對調。週末第三方亦圍繞 Q3 業績會上 Q4 capex／compute 回本期口徑討論（以 SEC／IR 原文為準）。Yahoo 周五 10/23 收約 147.49。",
+      "whyItMatters": "新手週末要分開：已印刷業績、已發生解禁、周一先可交易嘅批次、同國防發射排期新聞——四條線可以同時存在。",
+      "whatToWatch": "周一 10/26 開盤成交量同波動；後續 10-Q／IR；Dec 8 剩餘 180 日批次。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "SpaceNews",
+          "date": "2026-10-24",
+          "title": "Space Force shifts missile-warning, cislunar missions from Vulcan to Falcon Heavy",
+          "url": "https://spacenews.com/space-force-shifts-missile-warning-cislunar-missions-from-vulcan-to-spacex/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Panke unlock calendar",
+          "date": "2026-10-24",
+          "title": "SpaceX (SPCX) lock-up — Oct 24 tranche, first tradable Mon 26",
+          "url": "https://tape.panke.app/unlocks"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-25",
+          "title": "SPCX quote (Fri 10/23 close ~147.49)",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "category": "company",
+          "publisher": "SEC EDGAR / SpaceX",
+          "date": "2026-10-20",
+          "title": "SpaceX Reports Third Quarter 2026 Results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+        }
+      ]
+    },
+    {
+      "id": "1810-board-meeting-q3-date",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：港交所公告董事會 11/24 審議未審核三季報；周五收 26.80；港股週末休市",
+      "summary": "Holding 1810.HK。港交所／公司公告（2026-10-23）：董事會將於 2026-11-24（周二）舉行會議，審議並批准截至 2026-09-30 止三個月及九個月未審核綜合業績。Yahoo 周五 10/23 收 26.80 港元。周日安靜帶——業績數字尚未印刷；週末第三方「今日升幅」傳聞與港股休市不符，勿採納。",
+      "whyItMatters": "排期公告只係話你幾時有機會睇到正式數字；汽車鎖定訂單或券商目標價屬第三方，要同公告分開。",
+      "whatToWatch": "11/24 季報原文（手機／IoT／汽車分部、毛利率、回購執行）；周一港股開市後成交。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING (Q3 2026 results)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-25",
+          "title": "1810.HK quote (Fri 10/23 close 26.80)",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-cnbc-neocloud-financier",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：CNBC 周末長文——neocloud 融資壓力測試「晶片商兼融資方」角色；周五收約 210.96",
+      "summary": "Research NVDA。CNBC（2026-10-24）報道：隨 neocloud 股價回調同信用利差上升，市場關注 NVIDIA 以投資／擔保協助客戶融資 AI 基建嘅風險暴露（文中引述季報 off-balance-sheet AI cloud 協議等口徑；數字以公司 filing 為準）。Huang 接受 CNBC 訪問時仍指 neocloud 需求「off the charts」，並提到中間缺營運資金。Yahoo 周五 10/23 收約 210.96。週末無新公司新聞室主打公告可核對。",
+      "whyItMatters": "新手要分開「賣晶片收入」同「幫客戶融資／擔保」兩層敘事；後者喺信用環境轉緊時會被放大討論，唔等於即時現金支出。",
+      "whatToWatch": "下一次 10-Q／電話會對 off-balance-sheet 承諾同殘值保證口徑；neocloud 同業融資新聞。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-24",
+          "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+          "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-25",
+          "title": "NVDA quote (Fri 10/23 close ~210.96)",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-earnings-nscale-essex",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：公司排期 10/28 發布業績；Guardian／路透等指退出英國 Nscale Essex 數據中心租約（電力延誤）；周五收約 524.51",
+      "summary": "Research MSFT。公司新聞室（2026-10-07）宣布 FY2027 Q1 業績發布日為 2026-10-28。The Guardian（2026-10-18）及路透相關報道指 Microsoft 因電力供應延誤退出英國 Nscale／Essex 大型 AI 數據中心項目租約；報道稱公司表示仍承諾其他 Nscale 合約——屬第三方·非公司 IR 主公告，細節以原文為準。Yahoo 周五 10/23 收約 524.51。周日安靜帶，等周二業績原文。",
+      "whyItMatters": "電力同電網排期可以令「已宣布嘅算力租約」延後或重組；業績會先睇 Azure／AI 指引同 capex 口徑。",
+      "whatToWatch": "10/28 業績同電話會對 Azure、AI capex、外部雲租約；核對 Nscale 相關披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft News Center",
+          "date": "2026-10-07",
+          "title": "Microsoft announces quarterly earnings release date",
+          "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+        },
+        {
+          "category": "news",
+          "publisher": "The Guardian",
+          "date": "2026-10-18",
+          "title": "Microsoft drops huge AI datacentre project in Essex over power supply concerns",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-25",
+          "title": "MSFT quote (Fri 10/23 close ~524.51)",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "gld-spym-veu-fomc-week-quiet",
+      "ticker": "GLD",
+      "title": "週末安靜帶（GLD／SPYM／VEU）：盯本週 FOMC 10/27–28；周五收 GLD 366.61／SPYM 89.45／VEU 80.70",
+      "summary": "Holding GLD、SPYM、VEU。美股週末休市，Yahoo 最新可核對收市為周五 10/23：GLD 約 366.61、SPYM 約 89.45、VEU 約 80.70。聯儲局官網日曆：FOMC 兩日會議 10/27–28，決策同記者會 10/28（美東；港時間約 10/29 凌晨）。Macro 剔選 Fed／FOMC vs 金管局／聯匯屬背景——唔等於今日有新金管局行動。",
+      "whyItMatters": "利率路徑同時影響黃金機會成本同美股／海外股票風險偏好；週末冇新收市價，唔好發明數字。",
+      "whatToWatch": "FOMC 聲明同記者會措辭；其後金管局 Base Rate 公式是否跟。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Federal Reserve",
+          "date": "2026-10-25",
+          "title": "October 2026 calendar — FOMC meeting Oct 27–28",
+          "url": "https://federalreserve.gov/newsevents/2026-october.htm"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-25",
+          "title": "GLD / SPYM / VEU quotes (Fri 10/23 closes)",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "1398-q3-still-pending-oct30",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：三季報仍排 10/30；周五收 7.24；港股週末休市",
+      "summary": "Research 1398.HK。公司／港交所公告（2026-10-23）擬於 10/30 披露 2026 年第三季度業績並舉行電話說明會。Yahoo 周五 10/23 收 7.24 港元。周日安靜帶——數字尚未印刷。",
+      "whyItMatters": "銀行股要等正式季報同說明會口徑（息差、資產質素、資本），排期公告唔係業績。",
+      "whatToWatch": "10/30 季報原文同電話會問答。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / ICBC",
+          "date": "2026-10-23",
+          "title": "Announcement on convening 2026 third quarterly results release",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301062.pdf"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-25",
+          "title": "1398.HK quote (Fri 10/23 close 7.24)",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ]
+}
