@@ -1,0 +1,216 @@
+{
+  "updated": "2026-10-26",
+  "disclaimer": "非投資建議。市場動態僅供學習；數字以公司／交易所原文為準。",
+  "items": [
+    {
+      "title": "CNBC：NVIDIA 作為 AI 融資方迎來 neocloud 壓力測試",
+      "summary": "第三方·非公告（2026-10-24）：neocloud 股價與信用成本轉差，市場討論 NVIDIA 投資／表外擔保協助客戶融資嘅風險。數字以 CNBC 引述同公司 SEC 原文為準。",
+      "source": "CNBC Tech",
+      "date": "2026-10-24",
+      "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：融資敘事同賣晶片敘事被拆開，信用環境轉緊時估值波動或加大。",
+      "newbieTake": "對照下一次季報 off-balance-sheet 承諾口徑；唔好把第三方解讀當成公司已宣布損失。"
+    },
+    {
+      "title": "TechNews：AI「腦腐」研究警告——過多低質內容或令推理退化",
+      "summary": "科技新報（2026-10-25）：引述研究指模型若大量吸收低質「農場文」，推理能力可能退化且難逆轉。屬研究／科普整理。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-25",
+      "url": "https://technews.tw/2026/10/25/ai-brain-rot/",
+      "tickers": [],
+      "impact": "可能／市場關注：訓練資料品質成為模型競爭力同合規討論點。",
+      "newbieTake": "屬研究敘事，唔等於即季財報項目；無 Active ticker。"
+    },
+    {
+      "title": "TechNews：Supermicro 攜 Nokia，引入 NVIDIA Aerial RAN 邊緣 AI",
+      "summary": "科技新報（2026-10-25）：報道 Supermicro 與 Nokia 合作，將 NVIDIA Aerial RAN Computer 方案導入網絡邊緣，支援低延遲 AI 服務。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-25",
+      "url": "https://technews.tw/2026/10/25/supermicro-nokia-nvidia-aerial-ran-computer/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：電信邊緣算力係 GPU 需求敘事延伸，惟出貨節奏視標案。",
+      "newbieTake": "以合作新聞為線索，實際貢獻要等供應商或 NVDA 分部披露。"
+    },
+    {
+      "title": "TechNews：南亞科 Q3 獲利創紀錄但股價重挫——長鑫擴產陰影",
+      "summary": "科技新報（2026-10-25）：報道台灣記憶體廠業績與中國長鑫擴產預期並存，股價反應分化。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-25",
+      "url": "https://technews.tw/2026/10/25/nanya-2028/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：DRAM／記憶體週期影響 AI 伺服器 BOM 成本同供應敘事。",
+      "newbieTake": "Active 只標 NVDA 作供應鏈關聯；個股非 watchlist 唔標。"
+    },
+    {
+      "title": "TechNews：AWS 產能預訂至 2028，亞馬遜示警電力與記憶體短缺",
+      "summary": "科技新報（2026-10-24）：引述亞馬遜管理層指 AWS 產能已預訂至 2028，並警示電力與記憶體供應緊張。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-24",
+      "url": "https://technews.tw/2026/10/24/aws-capacity-booked-2028-amazon-warns-power-memory-shortages/",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：雲端供給瓶頸同時推高對 GPU／電力／記憶體供應鏈嘅敘事。",
+      "newbieTake": "Active 內可對照 MSFT Azure 與 NVDA 供應鏈下一季指引。"
+    },
+    {
+      "title": "TechNews：輝達 DSX 強調 AI 資料中心省電，最高稱可省約 30%",
+      "summary": "科技新報（2026-10-24）：報道 NVIDIA 從用電端切入 AI 工廠方案，DSX 相關敘事指最高可省電約 30%（以原文為準）。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-24",
+      "url": "https://technews.tw/2026/10/24/nvidia-dsx-ai-data-center-power-shortage-30-percent-savings/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：缺電成為 AI 基建主線時，省電／整櫃方案或成差異化賣點。",
+      "newbieTake": "第三方整理；以公司新聞室／規格頁核對百分比口徑。"
+    },
+    {
+      "title": "TechNews：美國砸約 3.89 億美元扶植功率半導體，鎖定 AI 資料中心",
+      "summary": "科技新報（2026-10-24）：報道美國政府投資功率半導體，應用指向 AI 資料中心與核融合等。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-24",
+      "url": "https://technews.tw/2026/10/24/us-invests-389-million-boost-power-semiconductors-ai-data-centers-nuclear-fusion-applicat",
+      "tickers": [],
+      "impact": "可能／市場關注：AI 缺電帶動功率元件政策補貼與產能話題。",
+      "newbieTake": "政策金額同受惠名單以官方公告為準；非 Active 唔標 ticker。"
+    },
+    {
+      "title": "TechNews：沒有指令的 AI 都在做什麼？MIT 虛擬島嶼實驗",
+      "summary": "科技新報（2026-10-24）：介紹 MIT 實驗——AI agent 在無指令環境下會玩耍、推理甚至做實驗。屬研究整理。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-24",
+      "url": "https://technews.tw/2026/10/24/researchers-stranded-an-ai-agent-on-a-virtual-island/",
+      "tickers": [],
+      "impact": "可能／市場關注：agent 自主行為研究影響安全治理敘事。",
+      "newbieTake": "科普向；唔構成產品出貨指引。"
+    },
+    {
+      "title": "iThome：OpenAI 模型上架 Google Cloud，多雲擴張",
+      "summary": "iThome（2026-10-23）：報道 OpenAI 模型再擴展至 Google Cloud，雲端平台合作版圖擴大。",
+      "source": "iThome",
+      "date": "2026-10-23",
+      "url": "https://www.ithome.com.tw/news/179915",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注：多雲分散或改變單一雲廠商敘事權重。",
+      "newbieTake": "對照 MSFT 10/28 業績會點樣講 Azure／OpenAI 關係。"
+    },
+    {
+      "title": "iThome：Anthropic 捐出 Agent Skills 標準，OpenAI／Google 工程師參與",
+      "summary": "iThome（2026-10-23）：Anthropic 開源捐出 Agent Skills 標準，OpenAI、Google 工程師亦將參與維護。",
+      "source": "iThome",
+      "date": "2026-10-23",
+      "url": "https://www.ithome.com.tw/news/179921",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：agent 互通標準或降低生態鎖定、加速企業導入。",
+      "newbieTake": "標準≠短期營收；留意雲同 GPU 廠點樣跟進。"
+    },
+    {
+      "title": "iThome：Google 為 AI 代理配置獨立虛擬機器，企業憑證外置閘道",
+      "summary": "iThome（2026-10-23）：報道 Google 為 AI agent 配置獨立 VM，企業憑證由外部閘道管理，強化隔離。",
+      "source": "iThome",
+      "date": "2026-10-23",
+      "url": "https://www.ithome.com.tw/news/179917",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注：企業 AI 代理安全架構成雲廠商差異化賣點。",
+      "newbieTake": "對照同業 agent 安全方案（含 NVDA OpenShell 敘事）。"
+    },
+    {
+      "title": "iThome：1Password 擴大 AI 代理登入支援，整合 Muse、Grok Bot",
+      "summary": "iThome（2026-10-23）：密碼管理工具擴大對 AI 代理登入支援，點名 Muse、Grok Bot 等整合。",
+      "source": "iThome",
+      "date": "2026-10-23",
+      "url": "https://www.ithome.com.tw/news/179942",
+      "tickers": [],
+      "impact": "可能／市場關注：agent 身份與憑證管理成為企業資安配套。",
+      "newbieTake": "工具層新聞；無 Active ticker。"
+    },
+    {
+      "title": "NVIDIA 新聞室：OpenShell 參考架構——安全 AI Agents",
+      "summary": "公司新聞室／IR（2026-10-21）：NVIDIA 推出 OpenShell Reference Architecture，結合 Vera Rubin、Vera CPU 與 BlueField-4，強調企業級 agent 治理與隔離。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-21",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-OpenShell-Reference-Architecture-for-Safe-AI-Agents/default.aspx",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：軟體／安全平台敘事補足硬體，長線或支援授權收入討論。",
+      "newbieTake": "公司新聞室原稿；對照第三方對軟體年費傳聞要分開。"
+    },
+    {
+      "title": "T客邦：HPE Spaceborne 超級電腦將登月測試 AI 運算",
+      "summary": "T客邦（2026-10-25）：報道搭載 GPU 嘅超級電腦方案將隨 Astrolab 無人月球車測試 AI 運算（太空／邊緣算力敘事）。",
+      "source": "T客邦",
+      "date": "2026-10-25",
+      "url": "https://www.techbang.com/posts/134348-hpe-spaceborne-4-moon-ai-experiments",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：極端環境邊緣 AI 屬長期敘事，短期營收權重通常有限。",
+      "newbieTake": "趣味科研向；唔好當成季內出貨催化。"
+    },
+    {
+      "title": "T客邦：美國充電樁建設續增，儘管 EV 銷售偏冷",
+      "summary": "T客邦（2026-10-25）：報道美國充電基礎設施投資續增，與電動車銷售冷熱不一。",
+      "source": "T客邦",
+      "date": "2026-10-25",
+      "url": "https://www.techbang.com/posts/134069-us-ev-charging-infrastructure-grows-as-sales-cool",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "可能／市場關注：充電建設同 EV 銷量脫鉤時，車廠訂單節奏更要看區域政策。",
+      "newbieTake": "Active 內小米 EV 業務可作對照，但美國基建≠中國／港股訂單。"
+    },
+    {
+      "title": "富途快訊：SpaceX 據報洽談約 8 萬基站建設全國無線網絡",
+      "summary": "原文來源：Bloomberg（第三方·非公告）。Moomoo／富途轉載視頻／要聞指 SpaceX 目標鎖定約 8 萬個蜂窩基站以建新網絡，電信股受壓敘事。",
+      "source": "富途快訊",
+      "date": "2026-10-24",
+      "url": "https://www.moomoo.com/news/video/1002184623/spacex-aims-to-secure-80000-cell-sites-for-new-network",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：衛星直連手機／地面網絡敘事或影響電信同 SPCX 估值辯論。",
+      "newbieTake": "第三方傳聞；等公司 IR／監管披露再核對規模同時間表。"
+    },
+    {
+      "title": "富途快訊：SpaceX 約 400 億美元債券定價息率據報高於 8%",
+      "summary": "原文來源：Benzinga（第三方·非公告）。要聞指 SpaceX 大型債務融資定價息率高於 8%。數字以原文為準，非 SEC 確認全文。",
+      "source": "富途快訊",
+      "date": "2026-10-23",
+      "url": "https://www.moomoo.com/news/post/1002215994/spacex-pays-up-40-billion-debt-deal-prices-above-8",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：融資成本上升時，市場會重新衡量 capex 同槓桿節奏。",
+      "newbieTake": "對照公司後續債券／10-Q 披露；唔好只靠快訊標題。"
+    },
+    {
+      "title": "Tom's Hardware：Huang 談約每 GPU 年費 2,000 美元跑 AI factory agents",
+      "summary": "第三方·非公告（2026-10-25）：引述 GTC 言論，討論軟體授權或成重大收入；同時指現有 AI Enterprise 標價更高，重疊範圍未明。",
+      "source": "Tom's Hardware",
+      "date": "2026-10-25",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：軟體訂閱敘事若落實，或改變「純硬體」估值框架，惟定價細節未確認。",
+      "newbieTake": "以公司正式價目／財報軟件收入為準，傳聞數字只係討論起點。"
+    }
+  ]
+}
