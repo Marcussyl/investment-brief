@@ -1,0 +1,218 @@
+{
+  "updated": "2026-10-27",
+  "disclaimer": "非投資建議。市場動態僅供學習；數字以公司／交易所原文為準。",
+  "items": [
+    {
+      "title": "SpaceX IR：約 400 億美元 Apollo GPU 融資租賃（Vera Rubin）",
+      "summary": "公司新聞室／IR（2026-10-26）：具約束力承諾訂立約 400 億美元 master finance lease，標的為下一代 NVIDIA Vera Rubin；仍須交割條件，預期年底前交割。",
+      "source": "SpaceX IR",
+      "date": "2026-10-26",
+      "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx",
+      "tickers": [
+        "SPCX",
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：大型 AI 基建融資結構成為焦點；交割前仍屬承諾。",
+      "newbieTake": "分開「租約承諾」同「設備已交付／收入已入帳」。"
+    },
+    {
+      "title": "CNBC：分析師指 SpaceX 地面 AI 基建敘事或未完全反映喺估值",
+      "summary": "第三方·非公告（2026-10-26）：Bernstein／Deutsche 等上調目標價，討論地面算力成本優勢；屬券商意見，非公司指引。",
+      "source": "CNBC Tech",
+      "date": "2026-10-26",
+      "url": "https://www.cnbc.com/2026/10/26/spacexs-ai-infrastructure-plans-are-not-fully-priced-in-analysts-say.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "可能／市場關注：分析師敘事與 IR 融資新聞同日疊加。",
+      "newbieTake": "目標價係第三方意見，唔係成交價保證。"
+    },
+    {
+      "title": "TechNews：馬斯克稱 SpaceX 籌得約 400 億美元買輝達晶片",
+      "summary": "科技新報（2026-10-26）：整理 Musk 言論同新雲端淘汰敘事；請對照公司 IR 原文（融資租賃／交割條件）。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-26",
+      "url": "https://finance.technews.tw/2026/10/26/predicts-neocloud-shakeout/",
+      "tickers": [
+        "SPCX",
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：中文圈快速傳播 IR 主題。",
+      "newbieTake": "以 SpaceX IR 全文為準，唔好只睇標題。"
+    },
+    {
+      "title": "NVIDIA Newsroom：DSX POD AI Factories 參考設計",
+      "summary": "公司新聞室（2026-10-21）：推出 DSX POD 模組化 AI 工廠參考設計，稱準備好場地可大幅縮短部署時間；合作夥伴預計 2027 年初交付。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-21",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：部署速度同電力／冷卻配套仍係瓶頸敘事。",
+      "newbieTake": "參考設計≠每座廠房都能 14 日上線——場地電力冷卻要先就緒。"
+    },
+    {
+      "title": "NVIDIA Newsroom：Minerva AIOps 觀測 AI 工廠",
+      "summary": "公司新聞室（2026-10-22）：Minerva 整合基建同工作負載遙測，協助提早發現問題、維持 GPU 有效工時。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-22",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-minerva-to-bring-end-to-end-observability-for-ai-factories",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：軟體／運維層補強「賣晶片」以外嘅敘事。",
+      "newbieTake": "產品發布係能力展示；收入貢獻要等後續披露。"
+    },
+    {
+      "title": "TechNews：輝達預訂產能至 2028、欣興談 AI 高階載板",
+      "summary": "科技新報（2026-10-26）：引述欣興等供應鏈說法，AI 高階載板擴產同產能預訂；屬供應鏈採訪整理。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-26",
+      "url": "https://finance.technews.tw/2026/10/26/unimicron-jensen-huang-capacity-rush-jan-shan-jie-new-pcb-game/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：CoWoS／載板瓶頸敘事延續。",
+      "newbieTake": "供應鏈產能預訂≠最終出貨保證。"
+    },
+    {
+      "title": "TechNews：鴻海合作 Nvidia 展示智造成果",
+      "summary": "科技新報（2026-10-26）：報道鴻海與 NVIDIA 於智造／自動化合作展示；第三方整理。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-26",
+      "url": "https://finance.technews.tw/2026/10/26/foxconn-nvidia-smart-manufacture/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：製造端導入 AI 加速議題。",
+      "newbieTake": "展示成果同財務貢獻要分開睇。"
+    },
+    {
+      "title": "TechNews：AI 資料中心電力——800V 高壓直流方案",
+      "summary": "科技新報（2026-10-26／27）：整理 AI 機櫃電力升級同台廠供應鏈布局；屬產業整理。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-27",
+      "url": "https://technews.tw/2026/10/27/liteon-and-delta-lead-push-into-ai-server-power-racks/",
+      "tickers": [],
+      "impact": "可能／市場關注：電力架構成為 AI 基建下一個瓶頸討論。",
+      "newbieTake": "電力方案新聞屬產業鏈，唔直接等於個別 Active 名業績。"
+    },
+    {
+      "title": "TechNews：Anthropic 公開 IPO 遞件（代碼 ANT）",
+      "summary": "科技新報（2026-10-27）：報道 Anthropic 向 SEC 遞交 S-1、擬納斯達克上市；屬第三方整理。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-27",
+      "url": "https://finance.technews.tw/2026/10/27/anthropic-files-s-1-with-the-sec-for-proposed-initial-public-offering/",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注：大模型公司上市潮影響雲／算力敘事。",
+      "newbieTake": "Anthropic 非 Active 持倉；只作雲生態背景。"
+    },
+    {
+      "title": "TechNews：Meta 擬股權融資最高約 950 億美元撐 AI 開支",
+      "summary": "科技新報（2026-10-27）：報道 Meta 考慮大規模股權融資因應 AI capex；第三方·非公告細節以公司文件為準。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-27",
+      "url": "https://finance.technews.tw/2026/10/27/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion/",
+      "tickers": [],
+      "impact": "可能／市場關注：大科技 AI 融資需求敘事升溫。",
+      "newbieTake": "Meta 非 Active；作為 AI 資本開支背景。"
+    },
+    {
+      "title": "TechNews：電動車電池老化導致電能浪費研究",
+      "summary": "科技新報（2026-10-26／27）：研究指少數老化電芯可能導致可觀電能浪費；屬科研／產業整理。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-27",
+      "url": "https://technews.tw/2026/10/27/main-causes-short-lifespan-ev-batteries/",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "可能／市場關注：EV 電池壽命同殘值討論。",
+      "newbieTake": "研究結論唔等於單一車企當季數據。"
+    },
+    {
+      "title": "TechNews：實體 AI 仍處「樂高時代」",
+      "summary": "科技新報（2026-10-26／27）：引述輝達前高層指機器人／實體 AI 仍喺打基礎階段。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-27",
+      "url": "https://technews.tw/2026/10/27/embodied-ai-enters-lego-era/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：降低對短期機器人爆發嘅預期敘事。",
+      "newbieTake": "長期主題≠短期出貨保證。"
+    },
+    {
+      "title": "Microsoft：FY2027 Q1 業績排期 10/28 盤後",
+      "summary": "公司新聞室（2026-10-07 公告）：10/28 收市後發布業績並 webcast。",
+      "source": "Microsoft News",
+      "date": "2026-10-07",
+      "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注：Azure／AI capex 口徑將成焦點。",
+      "newbieTake": "等公司數字，唔好提前當結果。"
+    },
+    {
+      "title": "富途快訊：韓央行官員——HBM 帶動明年晶片產量上升",
+      "summary": "富途快訊（2026-10-27）：轉述韓國央行官員指 HBM 帶動產量上升、價格漲幅或放緩。原文來源為官方／通訊社表述。",
+      "source": "富途快訊",
+      "date": "2026-10-27",
+      "url": "https://news.futunn.com/flash/1002340524/bank-of-korea-official-driven-by-hbm-products-chip-output",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：記憶體／HBM 供給敘事。",
+      "newbieTake": "官方展望屬宏觀，唔等於單一公司出貨。"
+    },
+    {
+      "title": "富途快訊：AI 熱潮推動韓國 Q3 經濟增長",
+      "summary": "富途快訊（2026-10-26）：報道韓國第三季經濟增長同 AI／出口敘事。",
+      "source": "富途快訊",
+      "date": "2026-10-26",
+      "url": "https://news.futunn.com/flash/1002335071/ai-boom-drives-export-expansion-south-korea-s-economy-grew",
+      "tickers": [],
+      "impact": "可能／市場關注：亞洲供應鏈景氣背景。",
+      "newbieTake": "宏觀增長數字唔直接等於個股業績。"
+    },
+    {
+      "title": "iThome：OpenAI 將不再在連網環境下訓練頂尖模型",
+      "summary": "iThome（2026-10-26）：報道 OpenAI 訓練環境安全策略調整；屬資安／產業新聞。",
+      "source": "iThome",
+      "date": "2026-10-26",
+      "url": "https://www.ithome.com.tw/news/179949",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注：訓練安全同雲環境隔離議題。",
+      "newbieTake": "政策／流程新聞，短期難量化收入。"
+    },
+    {
+      "title": "Google Cloud × NVIDIA：Vera Rubin 基建 GA 進程",
+      "summary": "NVIDIA Blog（2026-10-21）：Google Cloud A5X／Vera Rubin NVL72 基建將陸續 GA，並規劃歐洲擴張。公司博客。",
+      "source": "NVIDIA Blog",
+      "date": "2026-10-21",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：雲端 Vera Rubin 供應敘事。",
+      "newbieTake": "雲廠上架時程同實際用量要分開。"
+    },
+    {
+      "title": "TechNews：中國拆解 RTX 5090 改裝 AI 伺服器元件",
+      "summary": "科技新報（2026-10-26）：報道灰色市場拆解遊戲卡改裝 AI 用途；屬第三方觀察。",
+      "source": "TechNews 科技新報",
+      "date": "2026-10-26",
+      "url": "https://technews.tw/2026/10/26/geforce-rtx-5090/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注：反映正規 AI 伺服器供給緊張嘅旁證敘事。",
+      "newbieTake": "灰色市場現象唔等於公司官方渠道數據。"
+    }
+  ]
+}

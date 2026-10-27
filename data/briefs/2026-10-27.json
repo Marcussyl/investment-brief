@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-27",
+  "audioUrl": "data/audio/2026-10-27.mp3",
+  "audioScriptChars": 2138,
+  "audioVoice": "gTTS-zh-TW",
+  "concepts": [
+    {
+      "id": "finance-lease",
+      "title": "融資租賃（finance lease／設備融資租賃）",
+      "titleEn": "Finance lease / master finance lease",
+      "what": "融資租賃係一種用長期租約去取得設備使用權嘅結構：出租人買入設備，再租畀承租人；Master finance lease 係框架協議，總額度談妥後再按交付批次開租期排程。",
+      "whyItMatters": "新聞標題嘅「籌得 XX 億買 GPU」往往係承諾規模，唔等於現金已全數流出，亦唔等於設備已全部交付——要分開擁有權、使用權同交割條件。",
+      "whereToday": "SpaceX IR（2026-10-26）與 Apollo 管理實體達成約 400 億美元 master finance lease 具約束力承諾，標的含 NVIDIA Vera Rubin；仍須交割條件，預期年底前交割，租期排程預期 2027 上半年交付後開始。",
+      "whatToWatch": "8-K／10-Q 租約條款與交割；實際交付與租金排程。唔構成買賣建議。",
+      "relatedTickers": [
+        "SPCX",
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/40699f70bc5681bcbedce93ce9e12746"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+        "date": "2026-10-26",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "DATE OF BOARD MEETING — Q3 2026 results board meeting 24 Nov 2026",
+        "date": "2026-10-23",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "FY2027 Q1 earnings date (28 Oct 2026)",
+        "date": "2026-10-07",
+        "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Unveils Minerva (AI factory observability)",
+        "date": "2026-10-22",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-minerva-to-bring-end-to-end-observability-for-ai-factories"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on convening 2026 third quarterly results release (30 Oct)",
+        "date": "2026-10-23",
+        "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261023.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-apollo-40b-gpu-finance-lease",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：公司 IR——約 400 億美元 Apollo 主導 GPU 融資租賃（Vera Rubin）；周一收約 146.90",
+      "summary": "Holding SPCX。SpaceX IR（2026-10-26）公布：與 Apollo 管理實體達成具約束力承諾，訂立約 400 億美元 master finance lease，租入下一代 NVIDIA Vera Rubin 晶片及相關設備；Goldman Sachs 為 sole structuring agent，BlackRock、GSAM、KKR 等為 anchor。仍須滿足交割條件，預期 2026 年底前交割；租期排程預期 2027 上半年設備交付後開始。CFO 指 SI 基建回本期少於一年（公司口徑）。同日為 Day-135 解禁後首個可交易日；Yahoo／公開價周一約 146.90（周五 147.49）。數字以公司 IR／後續 8-K 為準。",
+      "whyItMatters": "新手要把融資租賃承諾、交割條件未完成、解禁合資格≠一定會賣分開——IR 係資金結構，唔等於晶片已上架或收入已入帳。",
+      "whatToWatch": "8-K／租約條款；交割進度；10-Q 對 capex／lease 披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters via Investing.com",
+          "date": "2026-10-26",
+          "title": "SpaceX enters $40 billion deal with Apollo for AI chip financing",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-enters-40-billion-deal-with-apollo-for-ai-chip-financing-4972566"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-26",
+          "title": "SpaceX's AI infrastructure plans are not fully priced in, analysts say",
+          "url": "https://www.cnbc.com/2026/10/26/spacexs-ai-infrastructure-plans-are-not-fully-priced-in-analysts-say.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-26",
+          "title": "SPCX regularMarketPrice ~146.90",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-vera-rubin-spacex-lease-dsx",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：Vera Rubin 出現喺 SpaceX 租約敘事；DSX POD／Minerva 新聞室更新；周一收約 216.00",
+      "summary": "Research NVDA。SpaceX IR 明文租約標的為下一代 NVIDIA Vera Rubin——屬客戶／租戶融資結構，唔等於 NVIDIA 已確認該單收入。Newsroom 近周有 Minerva（約 10/22）同 DSX POD AI factories（約 10/21）。Yahoo／公開價周一約 216.00（周五 210.96）。",
+      "whyItMatters": "見到「最大 GPU 融資」標題時，要分清係買家／租戶融資新聞，定係 NVIDIA 自己嘅出貨／指引更新。",
+      "whatToWatch": "下一次季報 data center／客戶融資披露；DSX／Vera Rubin 交付時間表。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "Vera Rubin chips in $40B master finance lease",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-22",
+          "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-minerva-to-bring-end-to-end-observability-for-ai-factories"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-21",
+          "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe's Infrastructure Deployment",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-26",
+          "title": "NVDA regularMarketPrice ~216.00",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-earnings-oct28-tminus1",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：公司排期明日（10/28）盤後發布 FY2027 Q1；周一收約 532.60",
+      "summary": "Research MSFT。Microsoft News Center（2026-10-07）確認 FY2027 Q1 於 2026-10-28 美股收市後發布，電話會 PT 14:30 webcast。第三方預覽聚焦 Azure 同 AI capex，非本周新 IR。Yahoo／公開價周一約 532.60（周五 524.51）。",
+      "whyItMatters": "業績日前一日係校準「雲＋AI 開支」敘事嘅固定錨點；數字要以公司 IR 為準。",
+      "whatToWatch": "10/28 業績：Azure／Intelligent Cloud、capex、毛利率。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft News Center",
+          "date": "2026-10-07",
+          "title": "Microsoft announces quarterly earnings release date",
+          "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-26",
+          "title": "MSFT regularMarketPrice ~532.60",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "gld-spym-veu-fomc-day1",
+      "ticker": "GLD",
+      "title": "GLD／SPYM／VEU：今日起 FOMC 10/27–28；金價周一反彈敘事；周一收 GLD 367.82／SPYM 90.06／VEU 80.86",
+      "summary": "Holdings GLD、SPYM、VEU。CNBC／Reuters（2026-10-26）指現貨金約反彈，油價回落緩和通脹憂慮，市場等待本週 Fed；普遍預期本週暫停、仍討論 12 月加息機率（第三方）。HKMA Base Rate 跟 Fed。Yahoo 周一：GLD 367.82、SPYM 90.06、VEU 80.86。無新 ETF 發行人特別公告。",
+      "whyItMatters": "可用 GLD 觀察實際利率／美元預期，用 SPYM／VEU 觀察風險資產——決策喺週三美東，會議首日≠結果已出。",
+      "whatToWatch": "FOMC 聲明同記者會；HKMA 跟隨；周四 PCE。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC/Reuters",
+          "date": "2026-10-26",
+          "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting",
+          "url": "https://www.cnbc.com/2026/10/26/gold-gains-on-softer-oil-prices-fed-decision-in-focus.html"
+        },
+        {
+          "category": "company",
+          "publisher": "Federal Reserve",
+          "date": "2026-10",
+          "title": "FOMC meeting calendars",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-10-06",
+          "title": "Eddie Yue on Recent trend in the Hong Kong dollar",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/insight/2026/10/20261006/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-26",
+          "title": "GLD/SPYM/VEU closes",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "1810-hk-board-nov24-watch",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：董事會 11/24 審議三季報日程不變；周一港股收 26.90",
+      "summary": "Holding 1810.HK。HKEX（2026-10-23）董事會將於 2026-11-24 審議截至 2026-09-30 止三個月及九個月未經審核業績。Yahoo 周一 10/26 收 26.90。未審核數字以 11/24 後公告為準。",
+      "whyItMatters": "Holding 要以交易所公告日曆為準，唔好用舊第三方訂單傳聞代替季報。",
+      "whatToWatch": "11/24 董事會後業績公告；期間港股成交。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "HKEX",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-26",
+          "title": "1810.HK close 26.90",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "1398-hk-results-oct30-countdown",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：三季報仍排周五 10/30；周一港股收 7.44",
+      "summary": "Research 1398.HK。公司擬於 2026-10-30 披露三季報，並於 17:30–18:30 舉行電話業績說明會。無改期公告。Yahoo 周一 10/26 收 7.44。",
+      "whyItMatters": "銀行股新手可先盯淨息差、不良貸款同資本充足率口径，等官方數字。",
+      "whatToWatch": "10/30 三季報同電話會材料。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "ICBC/HKEX",
+          "date": "2026-10-23",
+          "title": "Announcement on convening 2026 third quarterly results release",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261023.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-26",
+          "title": "1398.HK close 7.44",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ]
+}
