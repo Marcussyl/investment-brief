@@ -1,0 +1,44 @@
+投資簡報。10月28日。
+SpaceX（SPCX）：第三方——Anthropic S-1 披露算力開支名義上限約 1,205 億美元至 2029；周二收約 148.58
+Holding SPCX。 Yahoo／公開價周二 regularMarketPrice 約 148.58（周一收 146.90；日線 close 欄位暫未見 10/27 bar， 以 RMP／收市時間核對）。 第三方（Yahoo Finance 等， 2026-10-26）報道 Anthropic IPO／S-1：對 SpaceX 算力開支最多可達約 1,205 億美元至 2029；全額交付後月費可升至約 31 億美元；初始期後雙方可 90 日通知終止——屬招股文件名義上限， 唔係 SpaceX 本周新 IR。 Space.com 亦報道 10/27 Vandenberg Falcon 9 Starlink Group 15-16 發射（營運新聞）。 上周五 Apollo 約 400 億美元 master finance lease IR 仍待交割。 數字以公司 IR／SEC 原文為準。 
+點解要理？
+新手要把「客戶招股書名義上限」「已交付容量／已確認收入」「融資租賃承諾未交割」分開——標題最大數字唔等於現金已入帳。 
+接下來睇咩？
+SpaceX 後續 IR／10-Q 對客戶合約；Apollo 租約交割。 唔構成買賣建議。 
+
+NVIDIA（NVDA）：公司新聞室——Vera Rubin NVL72／Vera CPU 於 OCI 正式供應；另擴 Meta Muse 合作並擬投資 30 億美元；周二收約 217.94
+Research NVDA。 NVIDIA Newsroom（2026-10-27）：與 Oracle 宣布 Vera Rubin NVL72 同 Vera CPU 於 OCI 一般供應（GA）， 並計劃把 OCI Superclusters 擴至 multi-gigawatt；另介紹 HGX Rubin NVL8。 同日 NVIDIA IR：與 Meta 擴大 Muse／代理模型合作， Meta 擬擴大 Vera Rubin／Vera CPU 部署；NVIDIA 擬於 Meta 股權發行投資 30 億美元（仍受交割條件約束）。 Yahoo／公開價周二約 217.94（周一 216.00）。 
+點解要理？
+「GA／正式供應」係產品可買／可部署嘅里程碑， 但仍要分開出貨節奏同收入確認；股權認購意向≠已完成交割。 
+接下來睇咩？
+OCI／Meta 部署進度；下一次季報 data center 披露。 唔構成買賣建議。 
+
+Microsoft（MSFT）：今日美股收市後發布 FY2027 Q1；公司 IR 電話會 PT 14:30；周二收約 531.33
+Research MSFT。 Microsoft News Center（2026-10-07）確認：FY2027 第一季業績於 2026-10-28 美股收市後發布， webcast 太平洋時間下午 2:30。 Investor Relations 活動頁列 Satya Nadella／Amy Hood。 截至本簡報撰寫時（HKT 早上）尚未見公司發布當季數字——一切以 IR 原文為準。 第三方預覽聚焦 Azure、新分部 Agents and Infra、以及 AI capex（非公司本周新指引）。 Yahoo／公開價周二約 531.33（周一 532.60）。 
+點解要理？
+業績日係校準雲＋AI 開支敘事嘅固定錨點；HKT 早上仍屬「等待盤後數字」。 
+接下來睇咩？
+盤後：Azure／Agents and Infra、capex、毛利率；電話會問答。 唔構成買賣建議。 
+
+GLD／SPYM／VEU：今日 FOMC 決策日（美東約 14:00 聲明）；金價周二回升敘事；周二收 GLD 372.28／SPYM 90.60／VEU 81.47
+Holdings GLD、SPYM、VEU。 Fed 日曆：FOMC 10/27–28 會議， 決策／聲明排 10/28。 CNBC／Reuters（2026-10-27）指現貨金約升， 油價回落緩和通脹憂慮， 市場普遍預期本週按兵不動、仍討論 12 月加息機率（第三方工具）。 HKMA Base Rate 跟 Fed。 Yahoo／公開價周二：GLD 372.28、SPYM 90.60、VEU 81.47。 無新 ETF 發行人特別公告。 
+點解要理？
+決策日≠結果已出——HKT 早上仍等待美東下午聲明；可用 GLD 觀察實際利率／美元預期， SPYM／VEU 觀察風險資產。 
+接下來睇咩？
+FOMC 聲明同記者會；其後 HKMA 跟隨；周四 PCE。 唔構成買賣建議。 
+
+小米（1810.HK）：董事會 11/24 審議三季報日程不變；周二港股收 25.66
+Holding 1810.HK。 HKEX（2026-10-23）董事會將於 2026-11-24 審議截至 2026-09-30 止三個月及九個月未經審核業績。 Yahoo 周二 10/27 收 25.66（周一 26.90）。 未審核數字以 11/24 後公告為準。 
+點解要理？
+Holding 要以交易所公告日曆為準， 唔好用舊第三方訂單傳聞代替季報。 
+接下來睇咩？
+11/24 董事會後業績公告；期間港股成交。 唔構成買賣建議。 
+
+工商銀行（1398.HK）：三季報仍排周五 10/30；周二港股收 7.60
+Research 1398.HK。 公司擬於 2026-10-30 披露三季報， 並於 17:30–18:30 舉行電話業績說明會。 無改期公告。 Yahoo 周二 10/27 收 7.60。 
+點解要理？
+銀行股新手可先盯淨息差、不良貸款同資本充足率口径， 等官方數字。 
+接下來睇咩？
+10/30 三季報同電話會材料。 唔構成買賣建議。 
+
+以上係今日簡報。非投資建議，僅供參考。
