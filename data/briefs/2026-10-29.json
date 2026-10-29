@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-29",
+  "audioUrl": "data/audio/2026-10-29.mp3",
+  "audioScriptChars": 2666,
+  "audioVoice": "gTTS-zh-TW",
+  "concepts": [
+    {
+      "id": "commercial-rpo",
+      "title": "商業剩餘履約義務（Commercial Remaining Performance Obligation／RPO）",
+      "titleEn": "Commercial Remaining Performance Obligation (RPO)",
+      "what": "商業剩餘履約義務（commercial RPO）係雲／訂閱型公司常用披露：客戶已簽約、公司仲未喺損益表確認完嘅履約義務餘額——可以理解成「已簽單、未入帳」嘅合約存量（通常會再拆未來 12 個月會確認幾多）。",
+      "whyItMatters": "新手見到「RPO 大增」容易當成即時收入；其實要分開：RPO（未來可能確認）、當季營收（已確認）、同現金流（客戶已付未付）。取消條款、用量承諾同外匯都會令 RPO 唔等於保證現金。",
+      "whereToday": "Microsoft FY2027 Q1：商業 RPO 按年增 73% 至約 6770 億美元（公司 IR）。",
+      "whatToWatch": "電話會點解釋 RPO 增速同 Azure／長期合約；之後 10-Q 對 RPO 期限結構。唔構成買賣建議。",
+      "relatedTickers": [
+        "MSFT"
+      ],
+      "notionUrl": "https://app.notion.com/p/40899f70bc5681d993e8f13fe6b6162b"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+        "date": "2026-10-26",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "DATE OF BOARD MEETING — Q3 2026 results board meeting 24 Nov 2026",
+        "date": "2026-10-23",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft Announces First Quarter Results (FY2027 Q1)",
+        "date": "2026-10-28",
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results (Nov 17, 2026)",
+        "date": "2026-10-28",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "ANNOUNCEMENT ON CONVENING 2026 THIRD QUARTERLY RESULTS RELEASE (30 Oct 2026)",
+        "date": "2026-10-23",
+        "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261023.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "msft-fy27q1-results",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：公司 IR——FY2027 Q1 營收約 923 億美元（+19%）、Azure +48%；商業 RPO +73% 至約 6770 億；周三常規收約 531.01",
+      "summary": "Research MSFT。Microsoft IR／Source（2026-10-28 美股收市後）：截至 2026-09-30 季度營收約 923 億美元（+19%）、營業利益約 459 億（+21%）；GAAP 稀釋 EPS 4.92（+32%），非 GAAP EPS 4.89（剔除 OpenAI 投資影響後 +18%）。Microsoft Cloud 約 639 億（+30%）；Azure 增 48%；商業剩餘履約義務（commercial RPO）增 73% 至約 6770 億美元。Devices and Consumer 營收約 155 億（-3%）。CNBC 等第三方指盤後股價上揚並聚焦 Azure／指引——盤後報價以各券商為準，本簡報 Yahoo 常規 RMP 約 531.01（周二日線收 531.33；周三日線 close 欄位暫未見，以 RMP／收市時間核對）。數字以公司 IR／SEC 原文為準。",
+      "whyItMatters": "業績日把「雲＋AI 需求」同「資本開支／利潤率」放上同一張表；RPO 係已簽約未確認收入嘅可見度，唔等於現金已入袋。",
+      "whatToWatch": "電話會對 Q2 營收／Azure 增速指引；capex 與供給瓶頸表述。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Investor Relations",
+          "date": "2026-10-28",
+          "title": "Microsoft Announces First Quarter Results (FY2027 Q1)",
+          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Source",
+          "date": "2026-10-28",
+          "title": "Microsoft announces first quarter results",
+          "url": "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-28",
+          "title": "Microsoft stock jumps in extended trading after cloud-driven beat",
+          "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-28",
+          "title": "MSFT regularMarketPrice ~531.01 (Wed session; daily bar lag)",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "fomc-hold-hkma-gld-etfs",
+      "ticker": "GLD",
+      "title": "GLD／SPYM／VEU：FOMC 維持 3.75%–4.00%（10–2，兩票傾向加息）；金管局基本利率維持 4.25%；周三收 GLD 373.51／SPYM 90.90／VEU 81.93",
+      "summary": "Holdings GLD、SPYM、VEU。Fed（2026-10-28）：FOMC 以 10–2 維持聯邦基金目標區間 3-3/4 至 4%；Lisa Cook、Beth Hammack 反對並傾向加 25bp。聲明指通脹仍偏高，需累積更多資訊。SCMP（2026-10-29）：金管局宣布基本利率維持 4.25%（聯繫匯率下通常跟 Fed）。Yahoo／公開價周三 RMP：GLD 373.51、SPYM 90.90、VEU 81.93（日線 close 欄位暫未見 10/28 bar，以 RMP／收市時間核對；周二日線 GLD 372.28／SPYM 90.60／VEU 81.47）。無新 ETF 發行人特別公告。",
+      "whyItMatters": "利率路徑影響實際利率同風險資產定價；港元聯繫匯率下 HKMA 基本利率跟息，係香港按揭／存款定價參考。",
+      "whatToWatch": "Warsh 記者會措辭；下一次 FOMC；金價同美債實質利率。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Federal Reserve",
+          "date": "2026-10-28",
+          "title": "Federal Reserve issues FOMC statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "SCMP",
+          "date": "2026-10-29",
+          "title": "Hong Kong holds base rate at 4.25% after US Federal Reserve decision",
+          "url": "https://www.scmp.com/business/banking-finance/article/3372495/hong-kong-holds-base-rate-425-after-us-federal-reserve-decision"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-28",
+          "title": "Fed holds rates steady; two dissenters preferred a hike",
+          "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-28",
+          "title": "GLD/SPYM/VEU regularMarketPrice",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-fitch-bbb-gpu-lease",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：第三方——Fitch 指約 400 億 GPU 融資租賃後 BBB+ 不變；周三常規收約 145.23",
+      "summary": "Holding SPCX。SpaceX IR（2026-10-26）已公布與 Apollo 管理實體約 400 億美元 master finance lease（NVIDIA Vera Rubin 等）具約束力承諾。Investing.com 轉述 Fitch（2026-10-28）：BBB+ 評級不變，視該租約為已納入評級假設嘅算力融資；Fitch 主槓桿唔把租約本金當債務，另追蹤 lease-adjusted leverage。第三方亦提路易斯安那太空港稅務協議訴訟不確定性（非公司 IR）。Yahoo／公開價周三 RMP 約 145.23（周二日線 148.58；周三日線 close 欄位暫未見）。數字以公司 IR／評級機構原文為準。",
+      "whyItMatters": "評級不變≠風險消失：要分清「租約名義金額」「交割時程」「客戶集中／可 90 日終止」同「評級機構點計槓桿」。",
+      "whatToWatch": "租約交割；後續 10-Q／IR；評級報告原文。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        },
+        {
+          "category": "news",
+          "publisher": "Investing.com (Fitch commentary)",
+          "date": "2026-10-28",
+          "title": "SpaceX’s $40 billion GPU lease won’t affect its credit rating - Fitch",
+          "url": "https://www.investing.com/news/stock-market-news/spacexs-40-billion-gpu-lease-wont-affect-its-credit-rating--fitch-4979523"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Fitch Ratings",
+          "date": "2026-10-28",
+          "title": "SpaceX’s BBB+ Rating Unchanged by GPU Lease Transaction",
+          "url": "https://www.fitchratings.com/research/corporate-finance/spacexs-bbb-rating-unchanged-by-gpu-lease-transaction-28-10-2026"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-28",
+          "title": "SPCX regularMarketPrice ~145.23",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-q3-call-nov17",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：公司新聞室——訂 11/17 公布 FY2027 Q3（截至 10/25）；周三常規收約 215.38",
+      "summary": "Research NVDA。NVIDIA Newsroom（2026-10-28）：將於 11 月 17 日太平洋時間下午 2 時舉行電話會，討論 FY2027 第三季（截至 2026-10-25）業績；CFO 書面評論擬於業績公布後上載。前一日（10/27）Vera Rubin NVL72／Vera CPU 於 OCI GA 仍係最近產品節奏。Yahoo／公開價周三 RMP 約 215.38（周二日線 217.94；周三日線 close 欄位暫未見）。",
+      "whyItMatters": "訂會議日係下一官方數字錨點；GA 新聞要同之後季報 data center 披露對照，先唔好把供應新聞當已確認收入。",
+      "whatToWatch": "11/17 業績／CFO commentary；OCI／大型客戶部署節奏。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-28",
+          "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-27",
+          "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-28",
+          "title": "NVDA regularMarketPrice ~215.38",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "1810-hk-nov24-tape",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：董事會 11/24 審議三季報日程不變；周三港股收 25.62",
+      "summary": "Holding 1810.HK。HKEX 公告（2026-10-23）：董事會將於 2026-11-24 審議截至 2026-09-30 之未經審核第三季業績——日程未見新修訂。周三港股日線收 25.62（周二 25.66）。近期無新公司業績數字。",
+      "whyItMatters": "持倉要跟住固定業績日；未出數字前，股價波動多數係預期同大市，唔係已刊財報。",
+      "whatToWatch": "11/24 業績內容（手機／汽車／IoT 分部）。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING (24 Nov 2026)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-28",
+          "title": "1810.HK close 25.62",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "1398-hk-results-oct30",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：三季報說明會排明日（10/30）傍晚；周三港股收 7.605",
+      "summary": "Research 1398.HK。工商銀行公告（約 2026-10-23）：2026 年第三季業績發布／說明會排 2026-10-30。截至本簡報（HKT 早上 10/29）尚未見已刊三季報數字——以公司公告原文為準。周三港股日線收 7.605（周二 7.60）。",
+      "whyItMatters": "大型國有銀行業績係中國息差、資產質素同資本嘅觀察窗；對新手屬「讀財報日曆」練習。",
+      "whatToWatch": "10/30 業績：淨息差、不良貸款、資本充足率。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC",
+          "date": "2026-10-23",
+          "title": "ANNOUNCEMENT ON CONVENING 2026 THIRD QUARTERLY RESULTS RELEASE",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261023.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-28",
+          "title": "1398.HK close 7.605",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ]
+}
