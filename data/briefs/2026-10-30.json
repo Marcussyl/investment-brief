@@ -1,0 +1,311 @@
+{
+  "date": "2026-10-30",
+  "audioUrl": "data/audio/2026-10-30.mp3",
+  "concepts": [
+    {
+      "id": "fomc-dissent",
+      "title": "FOMC 反對票（dissent）",
+      "titleEn": "FOMC dissent",
+      "what": "FOMC 投票時，多數委員支持一項決議（例如維持利率），少數委員可以投下反對票（dissent），並在聲明／會議紀錄裡說明自己較傾向加息或減息。反對票唔等於政策已改，但係新手讀利率新聞時，一個要分開「多數決定」同「少數異議」嘅訊號。",
+      "whyItMatters": "市場成日用「一致通過／有人反對」去估之後會議會唔會轉向。有反對票時，下一步更要睇聲明措辭、記者會同之後會議紀錄，而唔好只睇標題「維持不變」。",
+      "whereToday": "2026-10-28 FOMC 以多數維持聯邦基金目標區間 3.75%–4.00%；金管局 10/29 回應跟住基本利率維持 4.25%。第三方報道指有委員傾向加息——以 Fed／金管局原文為準。",
+      "whatToWatch": "Fed 聲明與記者會措辭；下一次 FOMC；金管局有冇再出新聞稿。唔構成買賣建議。",
+      "relatedTickers": [
+        "GLD",
+        "SPYM",
+        "VEU"
+      ],
+      "notionUrl": "https://app.notion.com/p/40999f70bc568137a208c38c45a0e119"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+        "date": "2026-10-26",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "DATE OF BOARD MEETING — Q3 2026 results board meeting 24 Nov 2026",
+        "date": "2026-10-23",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft Announces First Quarter Results (FY2027 Q1)",
+        "date": "2026-10-28",
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results (Nov 17, 2026)",
+        "date": "2026-10-28",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "ANNOUNCEMENT ON CONVENING 2026 THIRD QUARTERLY RESULTS RELEASE (30 Oct 2026)",
+        "date": "2026-10-23",
+        "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261023.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "1398-hk-results-day",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：公司公告——今日（10/30）披露三季報並於 17:30–18:30 電話說明會；港股收 7.905",
+      "summary": "Research 1398.HK。工商銀行公告（2026-10-23）：擬於 2026-10-30 披露 2026 年第三季業績，並於當日 17:30–18:30（北京／香港時間）以電話會議舉行業績說明會（中文密碼 601398／英文 001398）。截至本簡報撰寫時（約 HKT 14:00），公司 IR 公告列表仍以 10/23 說明會公告為近期可見項，官方三季報 PDF 數字尚未在本簡報核對完成——第三方轉述數字一律標「未核對／勿當已刊」。Yahoo 港股日線 10/30 收 7.905（10/29 收 7.67）。",
+      "whyItMatters": "今日係財報日曆上嘅「讀數字日」；未見公司原文前，唔好用二手轉述寫入持倉筆記。",
+      "whatToWatch": "今晚說明會與公司／HKEX 已刊三季報：淨息差、不良貸款、資本充足率。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC",
+          "date": "2026-10-23",
+          "title": "ANNOUNCEMENT ON CONVENING 2026 THIRD QUARTERLY RESULTS RELEASE",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261023.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "ICBC IR",
+          "date": "2026-10-23",
+          "title": "Investor Relations announcements list",
+          "url": "https://www.icbc.com.cn/ICBCLtd/Investor%20Relations/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "1398.HK close 7.905",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    },
+    {
+      "id": "hkma-fed-hold-gld-etfs",
+      "ticker": "GLD",
+      "title": "GLD／SPYM／VEU：金管局 10/29 回應 Fed 維持 3.75%–4.00%，基本利率維持 4.25%；周四收 GLD 368.57／SPYM 90.59／VEU 81.90",
+      "summary": "Holdings GLD、SPYM、VEU。Fed（2026-10-28）：FOMC 維持聯邦基金目標區間 3.75%–4.00%。金管局新聞稿（2026-10-29）：跟住回應，指香港貨幣金融市場運作有序，基本利率維持 4.25%；並提醒美息路徑仍有不確定、港元與美元息差可持續觸發套息活動。CNBC（2026-10-29）：現貨金約跌 1%，市場解讀通脹數據令十二月加息預期升溫——第三方解讀，以 Fed／金管局原文為準。Yahoo 美股日線 10/29：GLD 368.57、SPYM 90.59、VEU 81.90（10/28：373.51／90.90／81.93）。無新 ETF 發行人特別公告。",
+      "whyItMatters": "利率路徑影響實際利率同風險資產定價；聯繫匯率下 HKMA 基本利率係香港按揭／存款定價參考。",
+      "whatToWatch": "下次 FOMC；金價同美債實質利率；金管局有冇再出新聞稿。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-10-29",
+          "title": "HKMA’s Response to US Fed’s Interest Rate Decision",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261029-3/"
+        },
+        {
+          "category": "company",
+          "publisher": "Federal Reserve",
+          "date": "2026-10-28",
+          "title": "Federal Reserve issues FOMC statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-29",
+          "title": "Gold slides as higher U.S. inflation reinforces Fed tightening bets",
+          "url": "https://www.cnbc.com/2026/10/29/gold-slips-as-markets-assess-fed-signals-await-us-inflation-data.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-29",
+          "title": "GLD/SPYM/VEU closes",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "msft-post-earnings-session",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：業績後首個完整常規日收 530.14；IR 指 Azure +48%、商業 RPO 約 6770 億；第三方指 OpenAI 相關收入約 100 億",
+      "summary": "Research MSFT。公司 IR（2026-10-28）：FY2027 Q1 營收約 923 億美元（+19%）、Azure +48%、Microsoft Cloud 約 639 億（+30%）、商業 RPO +73% 至約 6770 億美元。iThome（2026-10-29）整理同季：Azure 約 331.7 億美元並指管理層展望下季 Azure 約 +49%–50%——轉述，以 IR／電話會原文為準。TechCrunch（2026-10-28）指監管文件披露當季來自 OpenAI 商業安排收入約 100 億美元（第三方·非公告標題）。Yahoo 美股日線 10/29 收 530.14（10/28 常規約 531.01）。",
+      "whyItMatters": "業績後第一個完整交易日把「已刊數字」同「市場消化」分開睇；OpenAI 相關收入係合作密度指標，唔等於保證未來增速。",
+      "whatToWatch": "10-Q／電話會對 Azure 指引同 capex；之後季報有冇再拆 OpenAI 相關披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Investor Relations",
+          "date": "2026-10-28",
+          "title": "Microsoft Announces First Quarter Results (FY2027 Q1)",
+          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+        },
+        {
+          "category": "news",
+          "publisher": "iThome",
+          "date": "2026-10-29",
+          "title": "微軟季度營收成長19%，Azure大增48%",
+          "url": "https://www.ithome.com.tw/news/180062"
+        },
+        {
+          "category": "news",
+          "publisher": "TechCrunch",
+          "date": "2026-10-28",
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-29",
+          "title": "MSFT close 530.14",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-rubin-spec-follow",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：11/17 FY2027 Q3 電話會不變；第三方指 Vera Rubin 規格表下修 HBM4／NVLink 頻寬至量產可持續數字；周四收 213.66",
+      "summary": "Research NVDA。NVIDIA Newsroom（2026-10-28）：11/17 太平洋時間下午 2 時討論 FY2027 Q3（截至 10/25）。WCCFTech（2026-10-29）引公司回應：規格表更新係反映量產可持續水平（例如 HBM4 頻寬由宣傳數字下修至約 19.2 TB/s、NVLink 6 至約 3 TB/s），並稱第三方基準已用量產規格量測——第三方·非公告。DigiTimes 等同日亦有「Rubin／HBM4 頻寬」供應鏈報道標題（頁面可能需訂閱）。Yahoo 美股日線 10/29 收 213.66（10/28 約 215.38）。",
+      "whyItMatters": "規格表改動容易被誤解成「性能突然變差」；要分開「宣傳峰值／量產可持續／已公開基準用邊套規格」。",
+      "whatToWatch": "11/17 業績與 CFO commentary；公司新聞室有冇再更新 Rubin 規格頁。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-28",
+          "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+        },
+        {
+          "category": "news",
+          "publisher": "WCCFTech",
+          "date": "2026-10-29",
+          "title": "NVIDIA Official Statement on Vera Rubin Spec Change",
+          "url": "https://wccftech.com/nvidia-official-statement-on-vera-rubin-spec-change/"
+        },
+        {
+          "category": "news",
+          "publisher": "DigiTimes",
+          "date": "2026-10-29",
+          "title": "Nvidia trims HBM4 bandwidth for Rubin platform, sources say",
+          "url": "https://www.digitimes.com/news/a20261029PD202/nvidia-hbm4-bandwidth-rubin-hbm.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-29",
+          "title": "NVDA close 213.66",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-gpu-lease-follow",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：約 400 億 GPU 融資租賃後續仍係焦點；周四常規收 143.89",
+      "summary": "Holding SPCX。公司 IR（2026-10-26）約 400 億美元 Apollo 管理實體 master finance lease（Vera Rubin 等）具約束力承諾，預期年底前交割、設備 2027 上半年交付。Yahoo Finance 文章（2026-10-29）繼續討論該融資與 AI 基建敘事——第三方評論。前一日 Fitch BBB+ 不變報道仍適用（第三方）。Yahoo 美股日線 10/29 收 143.89（10/28 約 145.23）。",
+      "whyItMatters": "持倉要分開「已簽承諾」「交割條件」「設備交付時程」同「評級機構點計租約」。",
+      "whatToWatch": "租約交割公告；後續 10-Q／IR；評級報告原文。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-29",
+          "title": "SpaceX (SPCX) Locks In $40 Billion For AI Buildout",
+          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-locks-40-billion-120754119.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-29",
+          "title": "SPCX close 143.89",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "1810-hk-nov24-tape",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：董事會 11/24 審議三季報日程不變；周五港股收 26.66",
+      "summary": "Holding 1810.HK。HKEX 公告（2026-10-23）：董事會將於 2026-11-24 審議截至 2026-09-30 之未經審核第三季業績——日程未見新修訂。Yahoo 港股日線 10/30 收 26.66（10/29 收 25.90）。近期無新公司業績數字；汽車交付／鎖單屬較早第三方報道，唔當今日新公告。",
+      "whyItMatters": "持倉跟住固定業績日；未出數字前，股價波動多數係預期同大市。",
+      "whatToWatch": "11/24 業績（手機／汽車／IoT 分部）。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING (24 Nov 2026)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "1810.HK close 26.66",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2713,
+  "audioVoice": "gTTS-zh-TW"
+}

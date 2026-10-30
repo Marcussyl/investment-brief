@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "disclaimer": "非投資建議。市場動態僅供學習；數字以公司／交易所原文為準。",
   "items": [
     {
-      "title": "NVIDIA Newsroom：訂 11/17 公布 FY2027 Q3 業績並舉行電話會（季度截至 10/25）",
-      "summary": "公司新聞室（2026-10-28）：NVIDIA 將於 11 月 17 日太平洋時間下午 2 時討論 FY2027 第三季（截至 2026-10-25）業績；CFO 書面評論擬於業績公布後上載 investor.nvidia.com。",
+      "title": "NVIDIA Newsroom：訂 11/17 公布 FY2027 Q3 並舉行電話會（季度截至 10/25）",
+      "summary": "公司新聞室（2026-10-28）：11 月 17 日太平洋時間下午 2 時討論 FY2027 第三季業績；CFO 書面評論擬於業績公布後上載。",
       "source": "NVIDIA Newsroom",
       "date": "2026-10-28",
       "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
@@ -16,7 +16,7 @@
     },
     {
       "title": "NVIDIA／Oracle：Vera Rubin NVL72 與 Vera CPU 於 OCI 正式供應，計劃擴至 multi-gigawatt",
-      "summary": "NVIDIA Newsroom（2026-10-27）：與 Oracle 宣布 Vera Rubin NVL72、Vera CPU 於 OCI 一般供應，並計劃擴 Superclusters；另介紹 HGX Rubin NVL8。",
+      "summary": "NVIDIA Newsroom（2026-10-27）：Vera Rubin NVL72、Vera CPU 於 OCI 一般供應，並計劃擴 Superclusters；另介紹 HGX Rubin NVL8。",
       "source": "NVIDIA Newsroom",
       "date": "2026-10-27",
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
@@ -27,8 +27,32 @@
       "newbieTake": "GA 係可買／可部署訊號，唔等於收入已全數入帳。"
     },
     {
-      "title": "Microsoft IR：FY2027 Q1 營收約 923 億美元（+19%）；Azure +48%；商業 RPO +73% 至約 6770 億美元",
-      "summary": "公司 IR／Source（2026-10-28）：季收 923 億美元、Azure 增 48%、Microsoft Cloud 639 億美元（+30%）；商業剩餘履約義務增 73% 至 6770 億美元。數字以 IR 原文為準。",
+      "title": "第三方·非公告：WCCFTech 引 NVIDIA 回應——Vera Rubin 規格表下修至量產可持續頻寬",
+      "summary": "WCCFTech（2026-10-29）：引公司稱規格更新反映量產可持續水平（HBM4／NVLink 等數字下修），並指已公開第三方基準用量產規格。",
+      "source": "WCCFTech",
+      "date": "2026-10-29",
+      "url": "https://wccftech.com/nvidia-official-statement-on-vera-rubin-spec-change/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／規格溝通：市場關注「宣傳峰值 vs 量產可持續」。",
+      "newbieTake": "第三方轉述要對照公司規格頁原文；唔好只睇標題百分比。"
+    },
+    {
+      "title": "DigiTimes：Nvidia trims HBM4 bandwidth for Rubin platform, sources say",
+      "summary": "DigiTimes（2026-10-29）：標題指 Rubin 平台 HBM4 頻寬調整（供應鏈消息）；全文可能需訂閱。",
+      "source": "DigiTimes",
+      "date": "2026-10-29",
+      "url": "https://www.digitimes.com/news/a20261029PD202/nvidia-hbm4-bandwidth-rubin-hbm.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／供應鏈敘事：與規格表更新同一主題。",
+      "newbieTake": "訂閱牆報道只當線索，最終以公司文件為準。"
+    },
+    {
+      "title": "Microsoft IR：FY2027 Q1 營收約 923 億美元（+19%）；Azure +48%；商業 RPO 約 6770 億",
+      "summary": "公司 IR（2026-10-28）：季收約 923 億、Azure +48%、Microsoft Cloud 約 639 億（+30%）；商業 RPO +73% 至約 6770 億美元。",
       "source": "Microsoft Investor Relations",
       "date": "2026-10-28",
       "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast",
@@ -36,171 +60,153 @@
         "MSFT"
       ],
       "impact": "已發生／業績：雲與 AI 需求敘事更新。",
-      "newbieTake": "先對照公司新聞稿，再睇電話會指引同市場解讀。"
+      "newbieTake": "先對照公司新聞稿，再睇電話會指引。"
     },
     {
-      "title": "iThome：微軟推出 AI 代理防護新機制，依風險動態調整權限",
-      "summary": "iThome（2026-10-28）：報道微軟為 AI 代理導入依風險動態調整權限的防護機制，屬產品／安全方向更新。",
+      "title": "iThome：微軟季度營收成長19%，Azure大增48%，Windows裝置下滑22%",
+      "summary": "iThome（2026-10-29）：整理微軟財報分類改為 Agents and Infra／Devices and Consumer，並轉述 Azure 約 331.7 億美元、下季 Azure 展望約 +49%–50%。",
       "source": "iThome",
-      "date": "2026-10-28",
-      "url": "https://www.ithome.com.tw/news/180048",
+      "date": "2026-10-29",
+      "url": "https://www.ithome.com.tw/news/180062",
       "tickers": [
         "MSFT"
       ],
-      "impact": "可能／產品：代理安全治理敘事。",
-      "newbieTake": "產品公告唔等於當季收入已變；可同業績日 Azure／Agents 敘事對照。"
+      "impact": "可能／解讀：幫助新手對照分部改名。",
+      "newbieTake": "中文整理方便入門，數字仍以 IR 英文原文核對。"
     },
     {
-      "title": "iThome：Google TPU 將進駐甲骨文 OCI，2027 年起與 GPU 並列 AI 運算選項",
-      "summary": "iThome（2026-10-28）：報道 Google TPU 計劃進入 Oracle OCI，2027 年起可與 GPU 並列為 AI 運算選項——屬第三方對雲端算力組合的跟進。",
+      "title": "TechCrunch：Microsoft 披露當季來自 OpenAI 商業安排收入約 100 億美元",
+      "summary": "TechCrunch（2026-10-28）：引監管文件指截至 2026-09-30 季度 OpenAI 相關商業安排收入約 100 億美元（第三方·非公告標題）。",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／合作密度：市場關注雲與分潤結構。",
+      "newbieTake": "第三方解讀要回到 filing 原文條款。"
+    },
+    {
+      "title": "TechNews：Fed 維持利率後費半上揚，台積電 ADR 大漲；AI 與記憶體成焦點",
+      "summary": "TechNews（2026-10-29）：報道 Fed 維持利率後費城半導體指數上揚、台積電 ADR 大漲，資金關注記憶體與 AI 供應鏈。",
+      "source": "TechNews",
+      "date": "2026-10-29",
+      "url": "https://finance.technews.tw/2026/10/29/fed-stance-boosts-sox-tsmc-leads-charge-46000-ai-memory-dual-core-catalysts/",
+      "tickers": [],
+      "impact": "可能／風險情緒：利率路徑影響半導體估值討論。",
+      "newbieTake": "台股／ADR 波動唔等於 Active 持倉已有公司公告。"
+    },
+    {
+      "title": "TechNews：AI 伺服器搶 PCB 產能，交期最長傳至約 30 個月",
+      "summary": "TechNews（2026-10-30）：引 Nikkei Asia，指 AI 相關 PCB 訂單擠占消費電子產能，部分交期顯著拉長。",
+      "source": "TechNews",
+      "date": "2026-10-30",
+      "url": "https://technews.tw/2026/10/30/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／供應鏈瓶頸：高階板材／載板產能敘事。",
+      "newbieTake": "交期係供應約束指標，唔係單一公司營收預測。"
+    },
+    {
+      "title": "TechNews：OpenAI 採購 Google TPU 據報進入實質階段（第三方）",
+      "summary": "TechNews（2026-10-28）：引 The Information，指 OpenAI 招聘 TPU 優化工程師，供應鏈多元化討論升溫。",
+      "source": "TechNews",
+      "date": "2026-10-28",
+      "url": "https://finance.technews.tw/2026/10/28/openais-procurement-of-google-tpus-enters-a-substantial-phase/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／客戶採購敘事：加速器多元供應討論。",
+      "newbieTake": "未證實交易金額前，只當供應鏈線索。"
+    },
+    {
+      "title": "T客邦：OpenAI 發表 GPT-6.1 Terra，強調性價比與電腦操作能力",
+      "summary": "T客邦（2026-10-30）：報道 OpenAI 發布中階模型 GPT-6.1 Terra，面向付費用戶與 API。",
+      "source": "T客邦",
+      "date": "2026-10-30",
+      "url": "https://www.techbang.com/posts/134474-openai-gpt-6-1-terra-computer-us",
+      "tickers": [],
+      "impact": "可能／模型產品：推理／代理應用成本結構討論。",
+      "newbieTake": "模型發布屬產品新聞；對晶片需求要用後續雲支出數據驗證。"
+    },
+    {
+      "title": "iThome：GitHub 發表 Copilot Fusion，可於單一任務跨模型協同",
+      "summary": "iThome（約 2026-10-29）：報道 GitHub Copilot Fusion 支援單一任務內跨模型調度。",
       "source": "iThome",
-      "date": "2026-10-28",
-      "url": "https://www.ithome.com.tw/news/180043",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能／競爭格局：雲端加速器選項增多。",
-      "newbieTake": "多供應商並存唔等於即取代；仍要睇實際部署量同客戶合約。"
-    },
-    {
-      "title": "DigiTimes：Microsoft 雲成長快過基建開支節奏／產能瓶頸敘事",
-      "summary": "DigiTimes（2026-10-29）：標題指 Microsoft 雲成長超前基礎設施開支與產能時程——屬供應鏈／產業觀點，數字以公司 IR 為準。",
-      "source": "DigiTimes 電子時報",
       "date": "2026-10-29",
-      "url": "https://www.digitimes.com/news/a20261029VL202/microsoft-growth-infrastructure-demand-capacity.html",
+      "url": "https://www.ithome.com.tw/news/180064",
       "tickers": [
         "MSFT"
       ],
-      "impact": "可能／產業解讀：需求 vs 產能。",
-      "newbieTake": "產業稿常誇大標題；對照 Microsoft 自己嘅 capex／指引。"
+      "impact": "可能／開發者工具：代理／多模型編排敘事。",
+      "newbieTake": "產品功能更新≠即時反映喺季度雲收入。"
     },
     {
-      "title": "DigiTimes：三星電機稱 AI 客戶鎖定 2027 年 MLCC／基板供應",
-      "summary": "DigiTimes（2026-10-29）：Samsung Electro-Mechanics 指 AI 客戶鎖定 2027 MLCC 與基板供應——被動元件／先進封裝上游訊號。",
-      "source": "DigiTimes 電子時報",
+      "title": "iThome：NVIDIA 釋出 Nemotron 3.5 語音模型（轉錄／翻譯／講者辨識）",
+      "summary": "iThome（約 2026-10-29）：報道 NVIDIA 開源權重語音模型 Nemotron 3.5 相關能力。",
+      "source": "iThome",
       "date": "2026-10-29",
-      "url": "https://www.digitimes.com/news/a20261029VL205/semco-mlcc-2027-substrate-revenue.html",
-      "tickers": [],
-      "impact": "可能／供應鏈：AI 硬體長約可見度。",
-      "newbieTake": "上游長約係需求領先指標之一，但唔等於終端晶片商已入帳。"
-    },
-    {
-      "title": "DigiTimes Research：景碩點出更大 AI 晶片封裝三大挑戰",
-      "summary": "DigiTimes（2026-10-28）：Research Insight 引 Kinsus 指出更大 AI 晶片封裝面臨的三項挑戰——先進封裝產能／良率主題。",
-      "source": "DigiTimes 電子時報",
-      "date": "2026-10-28",
-      "url": "https://www.digitimes.com/news/a20261028PD232/demand-data-packaging-substrate-2026.html",
-      "tickers": [],
-      "impact": "可能／技術瓶頸：封裝與基板。",
-      "newbieTake": "封裝瓶頸會影響 GPU／加速器出貨節奏，屬產業背景。"
-    },
-    {
-      "title": "TechNews：AMD 斥資約 10 億美元參與 Meta 股權發行，合作部署 GW 級算力",
-      "summary": "TechNews（2026-10-28）：報道 AMD 投資約 10 億美元參與 Meta 股權發行，並合作部署 gigawatt 級算力基礎設施——對照日前 NVIDIA／Meta 合作敘事。",
-      "source": "TechNews 科技新報",
-      "date": "2026-10-28",
-      "url": "https://technews.tw/2026/10/28/amd-invests-1-billion-in-meta-equity-offering/",
+      "url": "https://www.ithome.com.tw/news/180065",
       "tickers": [
         "NVDA"
       ],
-      "impact": "可能／競爭與客戶分散：大型雲／社群客戶多供應商。",
-      "newbieTake": "客戶同時引入 AMD／NVIDIA 常見；唔好單看標題解讀成「取代」。"
+      "impact": "可能／軟體棧：補齊語音模組。",
+      "newbieTake": "開源模型發布同資料中心 GPU 出貨係不同層次。"
     },
     {
-      "title": "TechNews：聯電 Q3 營收創新高、產能利用率約 92%，追加約 32 億美元資本支出",
-      "summary": "TechNews 財經（2026-10-28）：聯電第三季營收約 742.4 億元創新高，產能利用率約 92%，並追加資本支出敘事——成熟製程／特殊製程背景。",
-      "source": "TechNews 科技新報",
-      "date": "2026-10-28",
-      "url": "https://finance.technews.tw/2026/10/28/umcs-third-quarter-revenue-hit-a-record-high-of-nt74-24-billion/",
-      "tickers": [],
-      "impact": "已發生／同業業績：晶圓代工利用率。",
-      "newbieTake": "聯電非 Active 持倉；作半導體景氣對照即可。"
-    },
-    {
-      "title": "TechNews：聯電展望 2027 綜合 ASP 預期年增約 10%，AI 業務三年內營收衝約 25% 占比",
-      "summary": "TechNews（2026-10-28）：聯電管理層展望 2027 綜合 ASP、以及 AI 相關營收占比目標——屬公司前瞻表述。",
-      "source": "TechNews 科技新報",
-      "date": "2026-10-28",
-      "url": "https://finance.technews.tw/2026/10/28/umc-projects-a-10-year-on-year-increase-in-its-consolidated-asp-by-2027/",
-      "tickers": [],
-      "impact": "可能／指引：代工報價與 AI 營收占比。",
-      "newbieTake": "指引係管理層目標，實際達標要之後季報核對。"
-    },
-    {
-      "title": "TechNews：日本砸約 150 億美元重返 2 奈米，Rapidus 挑戰台積電敘事",
-      "summary": "TechNews（2026-10-28／29）：報道日本對 Rapidus 2 奈米投資約 150 億美元量級，討論能否挑戰台積電——先進製程地緣主題。",
-      "source": "TechNews 科技新報",
-      "date": "2026-10-28",
-      "url": "https://technews.tw/2026/10/29/can-rapidus-successfully-challenge-tsmc/",
-      "tickers": [],
-      "impact": "可能／地緣半導體：先進製程競爭。",
-      "newbieTake": "政策金額≠已量產良率；量產時程同客戶導入先決。"
-    },
-    {
-      "title": "TechNews：康寧 Q3 核心營收年增約 19%；AI 光通訊營收飆約 44%，簽長期協議",
-      "summary": "TechNews（2026-10-28）：Corning Q3 核心營收年增約 19%，AI 光通訊相關營收年增約 44%，並與四大客戶簽長期協議——光纖／光通訊供應鏈。",
-      "source": "TechNews 科技新報",
-      "date": "2026-10-28",
-      "url": "https://technews.tw/2026/10/28/corning-delivers-2026-third-quarter-results/",
-      "tickers": [],
-      "impact": "已發生／AI 基建上游：光通訊需求。",
-      "newbieTake": "光通訊係資料中心配套；可對照 NVDA／雲端 capex 敘事。"
-    },
-    {
-      "title": "TechNews：馬來西亞查獲約 1,200 萬美元走私 AI 晶片",
-      "summary": "TechNews（2026-10-28）：報道馬來西亞機場查獲約 1,200 萬美元涉嫌走私 AI 晶片案件——出口管制／合規主題。",
-      "source": "TechNews 科技新報",
-      "date": "2026-10-28",
-      "url": "https://technews.tw/2026/10/28/malaysian-airport-seizes-ai-chips-smuggling-bust/",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "可能／政策風險：出口管制執行。",
-      "newbieTake": "單個案唔等於公司財務已變；屬合規環境觀察。"
-    },
-    {
-      "title": "TechNews：穩懋 Q3 淨利約 19.3 億元、EPS 約 4.55；AI 光通訊助獲利",
-      "summary": "TechNews（2026-10-28）：Win Semiconductors Q3 淨利約 19.3 億元、EPS 約 4.55，報道指 AI 光通訊助獲利——化合物半導體／光通訊。",
-      "source": "TechNews 科技新報",
-      "date": "2026-10-28",
-      "url": "https://technews.tw/2026/10/28/win-semiconductors-2026-q3-financial-report/",
-      "tickers": [],
-      "impact": "已發生／同業：光通訊相關獲利。",
-      "newbieTake": "非 Active 標的；作 AI 基建供應鏈溫度計。"
-    },
-    {
-      "title": "T客邦：微軟 CEO 呼籲企業預設 AI 模型可能已遭入侵，建立緊急開關",
-      "summary": "T客邦（2026-10-28）：整理 Satya Nadella 對企業 AI 安全的公開呼籲——預設威脅模型、緊急開關等治理觀點。",
-      "source": "T客邦",
-      "date": "2026-10-28",
-      "url": "https://www.techbang.com/posts/134071-nadella-ai-internal-threat-emergency-brake",
-      "tickers": [
-        "MSFT"
-      ],
-      "impact": "可能／敘事：AI 治理與企業採用門檻。",
-      "newbieTake": "高層發言屬風險管理倡議，唔係當季財報項目。"
-    },
-    {
-      "title": "T客邦：OpenAI 與 Anthropic 被指閉門推演「AI 崩潰」基礎設施劇本",
-      "summary": "T客邦（2026-10-28）：報道指 OpenAI、Anthropic 就大規模基礎設施失效等極端情境做桌面推演——屬第三方／公關危機準備敘事。",
-      "source": "T客邦",
-      "date": "2026-10-28",
-      "url": "https://www.techbang.com/posts/134037-openai-anthropic-disaster-drills-infrastructure",
-      "tickers": [],
-      "impact": "可能／產業風險：基礎建設依賴。",
-      "newbieTake": "推演≠已發生事故；反映大模型對電力／水／雲的依賴。"
-    },
-    {
-      "title": "富途快訊：微軟財報電話會——Azure 增速與次季營收指引略超預期敘事（轉述）",
-      "summary": "富途快訊（2026-10-28／29）：轉述微軟電話會要點，包括 Azure 增速展望與次季營收指引略超預期、資本開支相關討論。數字仍以公司 IR／電話會原文為準。",
+      "title": "富途快訊：Microsoft Looks to Raise at Least $25 Billion From US Bond Sale",
+      "summary": "原文來源：Moomoo 24/7 快訊標題。指微軟擬於美國債市籌資至少約 250 億美元——第三方快訊，細節以後續公司／監管文件為準。",
       "source": "富途快訊",
-      "date": "2026-10-28",
-      "url": "https://news.futunn.com/flash/1002642763/microsoft-s-second-quarter-revenue-guidance-slightly-exceed",
+      "date": "2026-10-30",
+      "url": "https://www.moomoo.com/news/flash/1002829711/microsoft-looks-to-raise-at-least-25-billion-from-us",
       "tickers": [
         "MSFT"
       ],
-      "impact": "可能／盤後解讀：指引 vs 預期。",
-      "newbieTake": "快訊係轉述；重要數字回到 Microsoft IR 新聞稿／webcast。"
+      "impact": "可能／融資節奏：大型科技發債常見於鎖息／資金調度。",
+      "newbieTake": "快訊標題先勿當已完成定價；等 prospectus／公司確認。"
+    },
+    {
+      "title": "富途快訊：NVIDIA Options Spot-On — 10/29 期權成交活躍",
+      "summary": "原文來源：Moomoo News。報道 10/29 NVIDIA 期權成交約 160 萬張、未平倉約 1552 萬——衍生品活躍度，唔係公司基本面公告。",
+      "source": "富途快訊",
+      "date": "2026-10-29",
+      "url": "https://www.moomoo.com/news/post/1002882838/nvidia-options-spot-on-on-october-29th-1-6-million",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／交易情緒：期權量反映短期波動關注。",
+      "newbieTake": "期權成交唔等於公司有新 IR；新手先睇基本面日程。"
+    },
+    {
+      "title": "富途快訊：U.S. Economy Grows by 3.4% in Third Quarter as AI Spending Surges",
+      "summary": "原文來源：Barron's（經 moomoo）。指美國第三季 GDP 增長與 AI 支出敘事——宏觀第三方，非 Active 公司公告。",
+      "source": "富途快訊",
+      "date": "2026-10-30",
+      "url": "https://www.moomoo.com/news/post/1002833185/us-economy-grows-by-3-4-in-third-quarter-as",
+      "tickers": [],
+      "impact": "可能／宏觀背景：AI 資本開支進入 GDP 討論。",
+      "newbieTake": "宏觀增速同單一持股業績要分開睇。"
+    },
+    {
+      "title": "富途快訊：Sandisk Sets Stock Split as Profit Soars, With AI Demand Driving Up Prices",
+      "summary": "原文來源：WSJ（經 moomoo）。報道 Sandisk 業績／拆股與 AI 帶動記憶體價格討論。",
+      "source": "富途快訊",
+      "date": "2026-10-30",
+      "url": "https://www.moomoo.com/news/post/1002881474/sandisk-sets-stock-split-as-profit-soars-with-ai-demand",
+      "tickers": [],
+      "impact": "可能／記憶體週期：AI 需求外溢到儲存定價敘事。",
+      "newbieTake": "非 Active 名單；只作行業背景。"
+    },
+    {
+      "title": "富途快訊：Samsung Posts Fourth Straight Quarter of Record Earnings",
+      "summary": "原文來源：WSJ／Reuters（經 moomoo）。三星連續季度創紀錄業績，市場聯想記憶體／AI 需求。",
+      "source": "富途快訊",
+      "date": "2026-10-29",
+      "url": "https://www.moomoo.com/news/post/1002732201/samsung-posts-fourth-straight-quarter-of-record-earnings",
+      "tickers": [],
+      "impact": "可能／同行業績：記憶體與代工景氣參考。",
+      "newbieTake": "同行業績可作對照，唔自動外推到 Active 持倉。"
     }
   ]
 }
