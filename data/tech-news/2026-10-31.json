@@ -1,0 +1,207 @@
+{
+  "updated": "2026-10-31",
+  "disclaimer": "非投資建議。市場動態僅供學習；數字以公司／交易所原文為準。",
+  "items": [
+    {
+      "title": "聯發科：2026 年 ASIC 營收將達 25 億美元，確認第二家雲端 ASIC 客戶",
+      "summary": "科技新報（2026-10-30）：聯發科管理層指 ASIC 業務取得第二家雲端客戶，並給出 2026 年 ASIC 營收目標約 25 億美元。第三方·非公告數字以公司法說為準。",
+      "source": "TechNews",
+      "date": "2026-10-30",
+      "url": "https://finance.technews.tw/2026/10/30/mediateks-asic-revenue-will-reach-2-5-billion-in-2026/",
+      "tickers": [],
+      "impact": "可能／市場關注客製化加速器訂單如何在 ASIC 供應鏈分配。",
+      "newbieTake": "之後睇聯發科法說原文同雲端客戶節奏，唔好只睇標題金額。"
+    },
+    {
+      "title": "不沾鍋塗料「鐵氟龍」為何成為輝達機櫃新歡？PCB 供應鏈關注",
+      "summary": "科技新報（2026-10-31）：整理 PTFE／鐵氟龍材料在高頻高速／液冷機櫃場景嘅應用討論，並提到對兩岸 PCB 廠可能嘅影響。第三方·非 NVIDIA 公告。",
+      "source": "TechNews",
+      "date": "2026-10-31",
+      "url": "https://technews.tw/2026/10/31/nvidia-love-ptfe/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注 AI 機櫃材料同 PCB 供應鏈敘事。",
+      "newbieTake": "材料故事要等公司／供應鏈公開規格，唔好當已落實訂單。"
+    },
+    {
+      "title": "台積電外氣空調箱洗滌技術升級，再省電約 60%",
+      "summary": "科技新報（2026-10-30）：報道台積電廠務／空調相關節能技術升級，指外氣空調箱洗滌可再省電約 60%。第三方整理，以公司公開資訊為準。",
+      "source": "TechNews",
+      "date": "2026-10-30",
+      "url": "https://technews.tw/2026/10/30/tsmc-ahu-washing-tech-upgrade-60-percent-power-savings/",
+      "tickers": [],
+      "impact": "可能／市場關注先進製程廠電力同冷卻成本。",
+      "newbieTake": "廠務節能係長期成本故事，唔等於短期股價指引。"
+    },
+    {
+      "title": "Google 高層：台灣是客製化晶片重鎮，拼部署縮短至半年",
+      "summary": "科技新報（2026-10-30）：引述 Google 高層指台灣在客製化晶片生態嘅角色，並提到部署時程目標。第三方·非公告。",
+      "source": "TechNews",
+      "date": "2026-10-30",
+      "url": "https://technews.tw/2026/10/30/google-executive-says-taiwan-is-a-major-hub-for-custom-chips/",
+      "tickers": [],
+      "impact": "可能／強化客製化 ASIC／先進封裝在台供應鏈敘事。",
+      "newbieTake": "之後對照各雲端法說對自研晶片同委外比例。"
+    },
+    {
+      "title": "Sam Altman 低調訪台；鴻海劉揚偉會面相關報道",
+      "summary": "科技新報（2026-10-30）：報道 OpenAI CEO 訪台同鴻海董事長會面時程調整。第三方·非兩家公司正式 IR 公告。",
+      "source": "TechNews",
+      "date": "2026-10-30",
+      "url": "https://finance.technews.tw/2026/10/30/sam-altman-foxconn-liu/",
+      "tickers": [],
+      "impact": "可能／市場關注 AI 伺服器代工同算力需求能見度。",
+      "newbieTake": "會面報道≠已簽大單；等正式公告。"
+    },
+    {
+      "title": "微軟資料中心與辦公大樓預估壽命上調至約 25 年",
+      "summary": "科技新報（2026-10-30）：整理微軟業績相關披露，指資料中心／辦公大樓預估壽命上調至約 25 年（對比業界常見較短假設）。第三方整理，以 IR／電話會原文為準。",
+      "source": "TechNews",
+      "date": "2026-10-30",
+      "url": "https://finance.technews.tw/2026/10/30/microsoft-earnings-report-data-center-lifespan-extended/",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／影響市場點理解 capex 攤銷同長期回報假設。",
+      "newbieTake": "對照 Microsoft IR 原文同 10-Q 折舊假設。"
+    },
+    {
+      "title": "Oracle 明年秋季擬將 Arm AGI CPU 導入 OCI",
+      "summary": "科技新報（2026-10-30）：報道 Oracle 計劃把 Arm AGI CPU 導入 OCI 雲端基礎設施時程。第三方·非 Oracle 全文核對。",
+      "source": "TechNews",
+      "date": "2026-10-30",
+      "url": "https://technews.tw/2026/10/30/arm-oracle-arm-agi-cpu/",
+      "tickers": [],
+      "impact": "可能／市場關注雲端自研／Arm 伺服器 CPU 滲透。",
+      "newbieTake": "跟官方產品時程頁，唔好提前當已全面上線。"
+    },
+    {
+      "title": "記憶體漲勢延續至明年首季；vivo 台灣 X 系列銷量報道",
+      "summary": "科技新報（2026-10-30）：指記憶體價格漲勢或延續，並提到 vivo 台灣 X 系列銷量表現。第三方消費電子／記憶體週期整理。",
+      "source": "TechNews",
+      "date": "2026-10-30",
+      "url": "https://technews.tw/2026/10/30/vivo-x500-series-taiwan/",
+      "tickers": [],
+      "impact": "可能／記憶體週期影響手機 BOM 同半導體獲利敘事。",
+      "newbieTake": "手機銷量同 DRAM 報價要分開來源核對。"
+    },
+    {
+      "title": "特斯拉Optimus 機器人親手幫 Cybercab 充電，全新獨立電池模組告別「壞一顆換整組」的惡夢",
+      "summary": "T客邦（2026-10-30）：報道 Optimus 機器人演示為 Cybercab 充電，並提到獨立電池模組設計討論。第三方·非 Tesla IR 公告。",
+      "source": "T客邦",
+      "date": "2026-10-30",
+      "url": "https://www.techbang.com/posts/134471-tesla-optimus-cybercab-unboxed-4680-battery",
+      "tickers": [],
+      "impact": "可能／市場關注人形機器人同充電場景演示進度。",
+      "newbieTake": "演示影片≠量產時程；等公司正式發布。"
+    },
+    {
+      "title": "iPhone Duo 螢幕破裂元兇找到了？iFixit 拆解指控鉸鏈支撐桿硬頂面板，受災特徵高度一致",
+      "summary": "T客邦（2026-10-30）：引述 iFixit 拆解對摺疊機螢幕受損機制嘅指控。第三方維修拆解，非 Apple 公告。",
+      "source": "T客邦",
+      "date": "2026-10-30",
+      "url": "https://www.techbang.com/posts/134465-apple-foldable-screen-crack-ifixit-teardown-hinge-defect",
+      "tickers": [],
+      "impact": "可能／影響摺疊機耐用度同維修成本討論。",
+      "newbieTake": "等 Apple 官方回應或後續驗證再下結論。"
+    },
+    {
+      "title": "GMI Cloud 展示在臺 AI Factory；瓶頸指向電力",
+      "summary": "iThome（2026-10-30）：報道 GMI Cloud 在台 AI Factory 設計展示，指資料中心新瓶頸唔只係機櫃而係電力。",
+      "source": "iThome",
+      "date": "2026-10-30",
+      "url": "https://www.ithome.com.tw/news/180116",
+      "tickers": [],
+      "impact": "可能／強化 AI 算力同電力／能源基礎設施敘事。",
+      "newbieTake": "之後睇電力合約同併網時程，唔好只睇機櫃數量。"
+    },
+    {
+      "title": "Amazon AWS 營收成長約 39%，營業利益率創新高（轉述）",
+      "summary": "iThome（2026-10-30）：整理 Amazon 業績中 AWS 營收成長同營業利益率表現。第三方轉述，以 Amazon IR 原文為準。",
+      "source": "iThome",
+      "date": "2026-10-30",
+      "url": "https://www.ithome.com.tw/news/180100",
+      "tickers": [],
+      "impact": "可能／雲端巨頭資本開支同 AI 需求能見度仍係市場焦點。",
+      "newbieTake": "對照 Amazon IR／10-Q 原文百分比。"
+    },
+    {
+      "title": "NVIDIA Newsroom：訂 11/17 公布 FY2027 Q3 並舉行電話會",
+      "summary": "公司新聞室（2026-10-28）：11 月 17 日太平洋時間下午 2 時討論 FY2027 第三季業績；CFO 書面評論擬於業績公布後上載。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-28",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／日程：下一個官方數字錨點。",
+      "newbieTake": "訂會議日期≠已出數字；以當日 IR／新聞室原文為準。"
+    },
+    {
+      "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale（公司新聞室）",
+      "summary": "NVIDIA Newsroom 近期標題包括與 Oracle 擴展 Vera Rubin、以及 Vera CPU 相關合作敘事。以新聞室原文為準。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-29",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注雲端部署 Rubin 平台節奏。",
+      "newbieTake": "點進個別新聞室條目讀全文，唔好只睇彙總頁。"
+    },
+    {
+      "title": "Microsoft 擬發債約 250 億美元推進 AI 建設",
+      "summary": "CNBC（2026-10-29）：報道 Microsoft 計劃透過債務融資約 250 億美元支持 AI 建設。第三方·非招債書全文。",
+      "source": "CNBC Tech",
+      "date": "2026-10-29",
+      "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "可能／市場關注 hyperscaler 用債融資 capex 嘅利息同槓桿。",
+      "newbieTake": "等公司／SEC 文件核對金額同用途。"
+    },
+    {
+      "title": "Intel／Amazon 業績後科技股承壓；AI 開支回報受審視",
+      "summary": "CNBC（2026-10-30）：整理 Intel、Amazon 等業績後市場對 AI 開支同回報嘅疑慮。第三方市況。",
+      "source": "CNBC Tech",
+      "date": "2026-10-30",
+      "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "SPCX"
+      ],
+      "impact": "可能／風險資產風險偏好受 AI capex 回報敘事影響。",
+      "newbieTake": "分開公司已刊數字同指數／板塊標題。"
+    },
+    {
+      "title": "DigiTimes：Nvidia 下修 Rubin 平台 HBM4 頻寬（供應鏈消息）",
+      "summary": "DigiTimes（2026-10-29）：引述供應鏈指 Nvidia 下修 Rubin／HBM4 頻寬規格。第三方·非公告；頁面或需訂閱。",
+      "source": "DigiTimes",
+      "date": "2026-10-29",
+      "url": "https://www.digitimes.com/news/a20261029PD202/nvidia-hbm4-bandwidth-rubin-hbm.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能／市場關注量產可持續規格同 HBM 供應良率。",
+      "newbieTake": "對照公司規格頁／公開基準用邊套數字。"
+    },
+    {
+      "title": "美股收盤｜納指跌近 3%；芯片指數跌超 7%（市況快訊）",
+      "summary": "富途要聞（2026-10-30）：轉述周五美股三大指數收跌、芯片板塊走弱等市況。原文來源視頁內標註；快訊標籤統一為富途快訊。",
+      "source": "富途快訊",
+      "date": "2026-10-30",
+      "url": "https://news.futunn.com/post/1002978855/us-stocks-close-all-three-major-indices-closed-lower-with",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "SPYM",
+        "SPCX"
+      ],
+      "impact": "可能／週末前風險偏好下降，影響科技同半導體相關持倉情緒。",
+      "newbieTake": "周一先核對官方指數同個股已刊收市，唔好用快訊代替。"
+    }
+  ]
+}
