@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-01",
+  "audioUrl": "data/audio/2026-11-01.mp3",
+  "concepts": [
+    {
+      "id": "citizen-suit-clean-air-act",
+      "title": "公民訴訟（citizen suit）",
+      "titleEn": "Citizen suit (Clean Air Act)",
+      "what": "公民訴訟係美國部分環保法（例如《清淨空氣法》）容許符合資格嘅私人／團體，喺政府未充分執法時，自行向法院控告被指違規嘅排放者。佢唔係刑事檢控，而係民事途徑逼對方守法或停運未許可設施。",
+      "whyItMatters": "新手見到「官司被駁回申請失敗」時，要分開：法院只係話案件可以繼續審，唔等於已經判公司敗訴或要即刻關廠。",
+      "whereToday": "CNBC／法院意見：密西西比聯邦法院拒絕 SpaceX AI 部門駁回 NAACP 對 Southaven 燃氣渦輪發電嘅公民訴訟。",
+      "whatToWatch": "之後答辯、證據開示同有冇和解／許可進度。唔構成買賣建議。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/40b99f70bc56811e80ecf7c5ae7f4951"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+        "date": "2026-10-26",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return — share repurchase 1,951,400 shares (28 Oct 2026)",
+        "date": "2026-10-28",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1028/2026102801007.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft Announces First Quarter Results (FY2027 Q1)",
+        "date": "2026-10-28",
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA to Report Financial Results for Third Quarter Fiscal 2027 on Nov. 17",
+        "date": "2026-10-15",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-to-Report-Financial-Results-for-Third-Quarter-Fiscal-2027-on-November-17/default.aspx"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Third Quarterly Report of 2026 (IFRS)",
+        "date": "2026-10-30",
+        "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261030_2.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-naacp-caa-mtd",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：密西西比聯邦法院拒駁回 NAACP《清淨空氣法》訴訟；Yahoo 周五收 134.72",
+      "summary": "Holding SPCX。CNBC（2026-10-31）：美國密西西比北區聯邦法院意見拒絕 SpaceX AI 部門（報導稱 SpaceXAI／SpaceXSI，前身 xAI 相關）駁回 NAACP 公民訴訟的動議；案件指 Southaven 燃氣渦輪為 Memphis 一帶 AI 資料中心供電時未取得適當空氣許可，並否定「移動源豁免」等主張。Earthjustice 公開的 2026-10-30 意見書可對照。約 400 億美元 GPU 融資租賃主線不變。Yahoo 美股日線 10/30 收 134.72（10/29 收 143.89）。周日美股休市。",
+      "whyItMatters": "持倉要分開「駁回申請被拒」（案件繼續）同「已敗訴／要關廠」；法律風險同算力／電力扩张敘事會並存。",
+      "whatToWatch": "公司回應、審理日程、許可申請進度；GPU 融資租賃執行節奏。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-31",
+          "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+          "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Earthjustice (court PDF)",
+          "date": "2026-10-30",
+          "title": "Opinion and Order denying motion to dismiss (NAACP v. X.AI / MZX Tech)",
+          "url": "https://earthjustice.org/wp-content/uploads/2026/10/10313375508_6407.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "SPCX close 134.72",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "1810-ocr0-sunwoda-weekend",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：開源 Xiaomi-OCR-0（0.8B）；欣旺達動力入股敘事續；周日休市·周五收 26.48",
+      "summary": "Holding 1810.HK。周末港股休市。Hugging Face／GitHub（xiaomi-research）可見 Xiaomi-OCR-0 模型卡與程式庫：約 0.8B 參數文檔理解／OCR 開源權重（第三方媒體 10/31 廣泛轉述 OmniDocBench 等分數——基準數字以模型卡／論文為準，本簡報未逐項覆核）。欣旺達（對手方）10/29 公告路徑下，媒體續報小米經附屬增資約 17 億人民幣取得欣旺達動力約 5.34%——仍屬對手方／媒體口徑，未在本跑重核小米自身 HKEX 同等標題。董事會三季報日程仍為 2026-11-24。Yahoo 港股日線 10/30 收 26.48（10/29 收 25.68）。",
+      "whyItMatters": "開源模型係產品／生態訊號；電池股權要以小米或聯交所公告為準，對手方披露先標未核對。",
+      "whatToWatch": "11/24 三季報；HKEX 有冇電池投資相關披露；回購翌日披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Hugging Face / Xiaomi Research",
+          "date": "2026-10-31",
+          "title": "Xiaomi-OCR-0 model card",
+          "url": "https://huggingface.co/xiaomi-research/Xiaomi-OCR-0"
+        },
+        {
+          "category": "company",
+          "publisher": "GitHub / Xiaomi Research",
+          "date": "2026-10-31",
+          "title": "Xiaomi-OCR-0 repository",
+          "url": "https://github.com/xiaomi-research/Xiaomi-OCR-0"
+        },
+        {
+          "category": "news",
+          "publisher": "鳳凰網科技",
+          "date": "2026-10-31",
+          "title": "小米開源0.8B文檔理解模型Xiaomi-OCR-0",
+          "url": "https://original.ifeng.com/c/8xfTD83Vy2u"
+        },
+        {
+          "category": "third-party",
+          "publisher": "21世紀經濟報道",
+          "date": "2026-10-31",
+          "title": "小米17億入股欣旺達動力（引述欣旺達公告）",
+          "url": "https://www.21jingji.com/article/20261031/herald/8315699fc2c22b144229ab52e4971670.html"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING (24 Nov 2026)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "1810.HK close 26.48",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-naver-close-date",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：Naver 披露約 10 億美元入股付款日訂 11/6；11/17 Q3 電話會不變；周五收 204.64",
+      "summary": "Research NVDA。韓國媒體／Naver 相關披露路徑（2026-10-30）：NVIDIA 對 Naver 約 10 億美元策略入股付款日訂於 2026-11-06，完成後持股約 4.54% 成第三大股東（最終股數視匯率）；Naver 早前稱已與 Brookfield 簽約滿足至少約 90 億美元算力基礎設施前提——以 Naver 監管披露／新聞稿為準，本簡報未下載韓文訂正書原文逐字核對。NVIDIA FY2027 Q3 電話會仍為 2026-11-17。Yahoo 10/30 收 204.64（10/29 收 213.66）。周日休市。",
+      "whyItMatters": "策略入股同 GPU／AI factory 敘事相關，但付款日同持股比例要以發行人披露為準。",
+      "whatToWatch": "11/6 付款／之後持股確認；11/17 業績。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NAVER Corp.",
+          "date": "2026-10-27",
+          "title": "NAVER Signs Agreement with Brookfield… precondition for NVIDIA’s strategic equity investment",
+          "url": "https://www.navercorp.com/en/media/pressReleasesDetail?seq=10034796"
+        },
+        {
+          "category": "news",
+          "publisher": "The Korea Herald",
+          "date": "2026-10-30",
+          "title": "Nvidia to make $1 billion investment in Naver next week",
+          "url": "https://www.koreaherald.com/article/10920192"
+        },
+        {
+          "category": "news",
+          "publisher": "Asia Business Daily",
+          "date": "2026-10-30",
+          "title": "NVIDIA to Pay 1.3 Trillion Won Investment in Naver Early Next Month",
+          "url": "https://www.asiae.co.kr/en/article/2026103009465841492"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "NVDA close 204.64",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-weekend-capex-buyback",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：周末續讀 Capex／回購權衡；業績數字仍以 10/28 IR 為準；周五收 521.91",
+      "summary": "Research MSFT。富途等第三方（2026-10-31）轉述大型科技因 AI 開支減少回購的統計；業績與 Capex 表述仍以 Microsoft Investor Relations 2026-10-28 FY2027 Q1 原文為準（本跑不重複捏造收入／Azure 增速）。Yahoo 10/30 收 521.91（10/29 收 530.14）。周日休市。",
+      "whyItMatters": "新手要把「媒體對回購／Capex 的統計標題」同「公司已刊業績稿」分開。",
+      "whatToWatch": "後續債券／Capex 執行更新；下季指引。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Investor Relations",
+          "date": "2026-10-28",
+          "title": "Microsoft Announces First Quarter Results (FY2027 Q1)",
+          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+        },
+        {
+          "category": "news",
+          "publisher": "富途快訊",
+          "date": "2026-10-31",
+          "title": "微軟等五大科技巨頭為AI開支大砍回購（第三方統計）",
+          "url": "https://news.futunn.com/post/1002966896/microsoft-and-four-other-tech-giants-have-slashed-"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "MSFT close 521.91",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "etf-sunday-quiet-fri-closes",
+      "ticker": "GLD",
+      "title": "GLD／SPYM／VEU：周日安靜帶——Yahoo 已補齊周五收市；金管局基本利率 4.25% 仍適用",
+      "summary": "Holdings GLD、SPYM、VEU。周日美股／港股休市。Yahoo 日線 10/30 收市：GLD 355.78（10/29 368.57）、SPYM 88.95（10/29 90.59）、VEU 80.57（10/29 81.9）。金管局 2026-10-29 新聞稿：跟 Fed 維持目標區間後，基本利率維持 4.25%。無新 ETF 發行人特別公告。",
+      "whyItMatters": "週末只更新已核對收市同宏觀利率狀態；唔發明盤中價。",
+      "whatToWatch": "周一開盤；下次 FOMC；金管局後續稿。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-10-29",
+          "title": "HKMA’s Response to US Fed’s Interest Rate Decision",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261029-3/"
+        },
+        {
+          "category": "company",
+          "publisher": "Federal Reserve",
+          "date": "2026-10-28",
+          "title": "Federal Reserve issues FOMC statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "GLD 355.78 / SPYM 88.95 / VEU 80.57",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "news",
+          "publisher": "富途快訊",
+          "date": "2026-10-31",
+          "title": "美股收盤｜三大指數全線收跌（市況標題）",
+          "url": "https://news.futunn.com/post/1002978855/us-stocks-close-all-three-major-indices-closed-lower-with"
+        }
+      ]
+    },
+    {
+      "id": "1398-post-print-quiet",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：三季報已刊後周末安靜帶；周五收 7.895",
+      "summary": "Research 1398.HK。公司已於 2026-10-30 刊《THIRD QUARTERLY REPORT OF 2026》；周末無新港股交易。Yahoo 10/30 收 7.895（10/29 收 7.78）。數字仍以公司 IFRS 原文為準（Q3 歸母淨利約 1119.58 億人民幣等——見 10/31 簡報核對，本跑不重算）。",
+      "whyItMatters": "財報日後周末通常係消化期；下一個資訊點係管理層說明同下季報。",
+      "whatToWatch": "說明會紀要／管理層對淨息差表述；下季不良率。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC",
+          "date": "2026-10-30",
+          "title": "Third Quarterly Report of 2026 (IFRS)",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261030_2.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "ICBC IR",
+          "date": "2026-10-30",
+          "title": "Investor Relations announcements list",
+          "url": "https://www.icbc.com.cn/ICBCLtd/Investor%20Relations/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "1398.HK close 7.895",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2301,
+  "audioVoice": "gTTS-zh-TW"
+}
