@@ -1,0 +1,218 @@
+{
+  "updated": "2026-11-02T08:34:23+08:00",
+  "disclaimer": "非投資建議。市場動態僅供參考，唔構成買賣建議。第三方報導請對照原文／公司公告。",
+  "items": [
+    {
+      "title": "AI 回報疑慮衝擊，OpenAI 融資目標大縮水百億美元",
+      "summary": "科技新報（2026-11-02）：報導指市場對 AI 回報疑慮升溫，OpenAI 最新一輪融資目標大幅下調。第三方報導，細節以公司／投資方聲明為準。",
+      "source": "TechNews",
+      "date": "2026-11-02",
+      "url": "https://finance.technews.tw/2026/11/02/openai-slashes-funding-target-by-10bn-as-tech-anxieties-mount/",
+      "tickers": [],
+      "impact": "生成式 AI 融資情緒同估值預期可能受壓。",
+      "newbieTake": "融資目標下調係議價／情緒訊號，唔等於某隻股票即日一定跌；要對照公開聲明。"
+    },
+    {
+      "title": "NAND Flash：鎧俠純益估大增、2027 年產能「售罄」敘事",
+      "summary": "科技新報（2026-11-02）：整理鎧俠半年業績與產能售罄相關說法；富途快訊另指鎧俠日股大跌約 14%（第三方市況）。數字以公司財報為準。",
+      "source": "TechNews",
+      "date": "2026-11-02",
+      "url": "https://finance.technews.tw/2026/11/02/kioxia-consolidated-financial-results-for-the-six-months-ended-september-30-2026/",
+      "tickers": [],
+      "impact": "NAND／記憶體供應緊俏敘事續受關注。",
+      "newbieTake": "產能售罄係供應鏈口徑；股價波動可以同業績解讀分開睇。"
+    },
+    {
+      "title": "長鑫存儲回應美光質疑：第六代 4F² DRAM 工程樣品年底前送樣",
+      "summary": "科技新報（2026-11-02）：長鑫正面回應美光指控，指新一代 DRAM 工程樣品時程。第三方產業報導，非 Active 公司公告。",
+      "source": "TechNews",
+      "date": "2026-11-02",
+      "url": "https://technews.tw/2026/11/02/changxin-memory-responds-directly-to-microns-accusations/",
+      "tickers": [],
+      "impact": "中國 DRAM 競爭同出口管制議題續影響記憶體板塊情緒。",
+      "newbieTake": "訴訟／指控同送樣時程係兩件事；唔好當即時買賣訊號。"
+    },
+    {
+      "title": "一詮：從低股價到打入輝達供應鏈的 AI 散熱敘事",
+      "summary": "科技新報（2026-11-02）：專題描述一詮進入輝達相關散熱供應鏈的路徑。第三方報導，細節以公司法說為準。",
+      "source": "TechNews",
+      "date": "2026-11-02",
+      "url": "https://finance.technews.tw/2026/11/02/ichiun/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "AI 伺服器散熱／機構件供應鏈受關注。",
+      "newbieTake": "「打入供應鏈」唔等於營收占比已大；要睇訂單能見度。"
+    },
+    {
+      "title": "Google 太空資料中心原型晶片啟動，Gemma 4 在軌運作",
+      "summary": "科技新報（2026-11-01）：Google Project Suncatcher 原型衛星首次回應，Gemma 相關模型在軌測試。第三方報導。",
+      "source": "TechNews",
+      "date": "2026-11-01",
+      "url": "https://technews.tw/2026/11/01/google-receives-first-response-from-its-project-suncatcher-prototype-satellite/",
+      "tickers": [],
+      "impact": "軌道算力／資料中心實驗屬長線敘事。",
+      "newbieTake": "原型成功係技術里程碑，離商業化仲好遠。"
+    },
+    {
+      "title": "科林研發與 imec 擴大 High-NA EUV 乾式光阻合作",
+      "summary": "科技新報（2026-10-31）：Lam Research 與 imec 擴大 High-NA EUV 乾式光阻合作，指向先進製程量產節奏。第三方報導。",
+      "source": "TechNews",
+      "date": "2026-10-31",
+      "url": "https://technews.tw/2026/10/31/lam-imec-collaboration/",
+      "tickers": [],
+      "impact": "先進製程／EUV 材料與設備供應鏈節奏。",
+      "newbieTake": "High-NA EUV 係下一代曝光；乾式光阻係配套製程，唔等於即刻改到消費品價格。"
+    },
+    {
+      "title": "亞馬遜執行長：AI 推理成本要降十倍，自研晶片是關鍵",
+      "summary": "T客邦（2026-11-02）：整理 Amazon CEO 談 AI 普及關鍵在於大幅降低推理成本，並強調自研晶片角色。第三方整理。",
+      "source": "T客邦",
+      "date": "2026-11-02",
+      "url": "https://www.techbang.com/posts/134414-amazon-jassy-ai-inference-costs-must-drop-10x",
+      "tickers": [],
+      "impact": "雲端 hyperscaler 對推理成本同自研加速器論述升溫。",
+      "newbieTake": "「成本要降十倍」係方向性說法，唔係已發生嘅財報數字。"
+    },
+    {
+      "title": "黃仁勳談 AI 安全：傾向安全標準而非盲目踩煞車",
+      "summary": "T客邦（2026-11-01）：整理 NVIDIA CEO 對 AI 監管／安全標準的公開說法，並提及安全研究投入相關數字（以原文為準）。",
+      "source": "T客邦",
+      "date": "2026-11-01",
+      "url": "https://www.techbang.com/posts/134290-jensen-huang-nvidia-ai-safety-measures",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "AI 監管敘事影響科技股情緒同政策預期。",
+      "newbieTake": "高層公開表態係政策博弈一部分，唔等於監管草案已定稿。"
+    },
+    {
+      "title": "MediaTek 上調 ASIC 展望，第四季營收可能大增",
+      "summary": "DigiTimes（2026-10-30）：報導聯發科上調 ASIC 展望，指第四季營收可能顯著增長。產業媒體，數字以公司法說為準。",
+      "source": "DigiTimes",
+      "date": "2026-10-30",
+      "url": "https://www.digitimes.com/news/a20261030PD245/revenue-mediatek-asic-outlook-2026.html",
+      "tickers": [],
+      "impact": "客製化 ASIC／AI 加速器代工需求敘事。",
+      "newbieTake": "展望上調係管理層口徑；要等正式財報核對。"
+    },
+    {
+      "title": "Amazon 3Q26：TSMC 產能因素與 AWS 自研 AI 晶片銷售討論",
+      "summary": "DigiTimes（2026-10-30）：整理 Amazon 財報電話會中關於台積電產能與 AWS 開始銷售自研 AI 晶片的討論。第三方整理。",
+      "source": "DigiTimes",
+      "date": "2026-10-30",
+      "url": "https://www.digitimes.com/news/a20261030VL208/amazon-aws-chips-capacity-tsmc.html",
+      "tickers": [],
+      "impact": "雲端自研晶片同晶圓代工產能分配受關注。",
+      "newbieTake": "自研晶片開賣係策略訊號，短期唔等於取代所有 GPU 採購。"
+    },
+    {
+      "title": "Sandisk：AI agent 工作負載下每 CPU 可能需要 60–90GB NAND",
+      "summary": "DigiTimes（2026-10-30）：Sandisk 對 AI agent 場景下 NAND 用量的估算討論。產業媒體觀點。",
+      "source": "DigiTimes",
+      "date": "2026-10-30",
+      "url": "https://www.digitimes.com/news/a20261030VL217/nand-cpu-demand-qlc-nand-flash.html",
+      "tickers": [],
+      "impact": "AI 對 NAND／儲存需求假設被重新定價。",
+      "newbieTake": "供應商估算係需求故事，實際出貨要以財報為準。"
+    },
+    {
+      "title": "GMI Cloud 展示在臺 AI Factory：瓶頸轉向電力",
+      "summary": "iThome（2026-10-30）：GMI Cloud 展示台灣 AI Factory 設計，強調資料中心瓶頸由機櫃轉向電力。產業活動報導。",
+      "source": "iThome",
+      "date": "2026-10-30",
+      "url": "https://www.ithome.com.tw/news/180116",
+      "tickers": [],
+      "impact": "AI 資料中心電力／能源基礎設施討論升溫。",
+      "newbieTake": "有機櫃唔等於有電；電力係部署節奏常見限制。"
+    },
+    {
+      "title": "Infisical 募資 4,000 萬美元，擴展 AI 代理憑證保護",
+      "summary": "iThome（2026-11-02）：機密管理新創 Infisical 完成融資，強化 AI 代理場景嘅憑證／存取管理。第三方報導。",
+      "source": "iThome",
+      "date": "2026-11-02",
+      "url": "https://www.ithome.com.tw/news/180098",
+      "tickers": [],
+      "impact": "AI agent 資安／憑證管理工具鏈受關注。",
+      "newbieTake": "資安新創融資係主題熱度，唔直接映射到 Active 持倉股價。"
+    },
+    {
+      "title": "HPE：三大雲端網路管理平台整合與 AI 原生支援時程",
+      "summary": "iThome（2026-11-01）：HPE 揭示旗下雲端網路管理平台整合時程，強調 AI 原生支援。廠商活動報導。",
+      "source": "iThome",
+      "date": "2026-11-01",
+      "url": "https://www.ithome.com.tw/news/180118",
+      "tickers": [],
+      "impact": "企業網路／雲端管理軟件 AI 化節奏。",
+      "newbieTake": "產品整合時程係 roadmap，實際採用要睇客戶專案。"
+    },
+    {
+      "title": "Companies promised AI gains — how the payoff showed up in earnings",
+      "summary": "CNBC Tech（2026-11-01）：整理企業財報中 AI 投資回報如何呈現。第三方評論。",
+      "source": "CNBC Tech",
+      "date": "2026-11-01",
+      "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "市場關注 AI Capex 何時轉成可見盈利。",
+      "newbieTake": "媒體盤點財報故事，逐間公司數字仍要以 IR 為準。"
+    },
+    {
+      "title": "OpenAI pares fundraising goal, seeking up to $20 billion",
+      "summary": "CNBC（2026-10-31）：報導 OpenAI 下調融資目標至最多約 200 億美元量級。第三方報導，以交易方聲明為準。",
+      "source": "CNBC Tech",
+      "date": "2026-10-31",
+      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "tickers": [],
+      "impact": "AI 私募融資情緒同風險偏好。",
+      "newbieTake": "未上市融資新聞唔等於你可直接買到該公司股份。"
+    },
+    {
+      "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+      "summary": "NVIDIA Newsroom／IR：重申第三季財報電話會安排（對照 Investor 頁 11/17 日程）。公司新聞室。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-30",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "11/17 業績會係近期主日曆事件。",
+      "newbieTake": "電話會日期係既定日程；數字要等當日 IR。"
+    },
+    {
+      "title": "SpaceXSI：Grok 將由 11/7 起為 AI 生成文字嵌入隱形浮水印",
+      "summary": "富途快訊（2026-11-02）：轉述 SpaceXSI 為符合歐盟《人工智能法案》，Grok 將嵌入隱形浮水印。原文來源為快訊聚合，細節以公司聲明為準。",
+      "source": "富途快訊",
+      "date": "2026-11-02",
+      "url": "https://news.futunn.com/flash/1003044868/spacexsi-announced-that-to-comply-with-the-eu-ai-act",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "生成式 AI 合規標示成為產品功能。",
+      "newbieTake": "加水印係合規步驟，唔等於官司或業績已有結論。"
+    },
+    {
+      "title": "小米汽車：2026 年 10 月交付量超過 5 萬台",
+      "summary": "富途快訊（2026-11-01）及多家汽車媒體：小米汽車 10 月交付逾 5 萬輛。第三方／媒體口徑，精確數字以官方為準。",
+      "source": "富途快訊",
+      "date": "2026-11-01",
+      "url": "https://news.futunn.com/post/1003030736",
+      "tickers": [
+        "1810.HK"
+      ],
+      "impact": "造車新勢力月交付榜單情緒。",
+      "newbieTake": "交付量係經營指標之一，唔等於港股即日方向。"
+    },
+    {
+      "title": "韓國 10 月出口大增，芯片出口激增相關快訊",
+      "summary": "富途快訊（2026-11-01）：指韓國 10 月出口同比大增、芯片出口大幅上升。宏觀貿易快訊，細節以官方統計為準。",
+      "source": "富途快訊",
+      "date": "2026-11-01",
+      "url": "https://news.futunn.com/post/1003031312",
+      "tickers": [],
+      "impact": "亞洲半導體出口數據影響板塊風險偏好。",
+      "newbieTake": "出口快訊係宏觀背景，唔代替個別公司財報。"
+    }
+  ]
+}

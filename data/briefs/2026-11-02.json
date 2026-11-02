@@ -1,0 +1,351 @@
+{
+  "date": "2026-11-02",
+  "audioUrl": "data/audio/2026-11-02.mp3",
+  "concepts": [
+    {
+      "id": "eu-ai-act-invisible-watermark",
+      "title": "隱形浮水印（invisible watermark／EU AI Act）",
+      "titleEn": "Invisible watermark (EU AI Act)",
+      "what": "隱形浮水印係一種肉眼睇唔到、但可用工具偵測嘅標記，嵌喺 AI 生成內容（文字／圖像／音訊）入面，用嚟標示「呢段係 AI 產出」。歐盟《人工智能法案》（EU AI Act）對部分通用／生成式 AI 系統有透明度同標記要求，令合規成產品設計一部分。",
+      "whyItMatters": "新手見到「加水印／合規」新聞時，要分開：呢係合規同產品標示步驟，唔等於監管已經罰咗公司，亦唔直接等於業績數字變咗。",
+      "whereToday": "富途快訊轉述 SpaceXSI：為符合歐盟 AI 法案，Grok 將由 11/7 起喺 AI 生成文字嵌入隱形浮水印（第三方快訊，細節以公司聲明為準）。",
+      "whatToWatch": "官方聲明原文、適用範圍（邊啲產品／地區）、同其他大模型標示做法有冇差異。唔構成買賣建議。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/40c99f70bc56812abb52dbe99a0784b8"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+        "date": "2026-10-26",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return — share repurchase 1,951,400 shares (28 Oct 2026)",
+        "date": "2026-10-28",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1028/2026102801007.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft Announces First Quarter Results (FY2027 Q1)",
+        "date": "2026-10-28",
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA to Report Financial Results for Third Quarter Fiscal 2027 on Nov. 17",
+        "date": "2026-10-15",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-to-Report-Financial-Results-for-Third-Quarter-Fiscal-2027-on-November-17/default.aspx"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Third Quarterly Report of 2026 (IFRS)",
+        "date": "2026-10-30",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1030/2026103000694.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-grok-watermark-caa",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：SpaceXSI／Grok 擬 11/7 起加隱形浮水印；NAACP 空氣訴訟續；Yahoo 周五收 134.72",
+      "summary": "Holding SPCX。富途快訊（2026-11-02）：SpaceXSI 宣布為符合歐盟《人工智能法案》，Grok 將由 11/7 起喺 AI 生成文字嵌入隱形浮水印（第三方快訊，細節以公司聲明為準）。周末續讀：CNBC／Engadget（10/31–11/1）密西西比聯邦法院拒駁回 NAACP《清淨空氣法》公民訴訟，案件繼續；約 400 億美元 GPU 融資租賃主線不變。Yahoo 美股日線 10/30 收 134.72。周一亞早美股期貨報導輕升（富途快訊，未核實即時報價）。",
+      "whyItMatters": "持倉要分開「合規標示步驟」同「訴訟結果」：加水印係產品／監管透明度，唔等於官司已結；駁回申請被拒只係話案件繼續審。",
+      "whatToWatch": "公司原文、浮水印適用範圍；NAACP 案審理／許可進度；GPU 租賃執行節奏。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "third-party",
+          "publisher": "富途快訊",
+          "date": "2026-11-02",
+          "title": "SpaceXSI：Grok 11/7 起嵌入隱形浮水印（EU AI Act）",
+          "url": "https://news.futunn.com/flash/1003044868/spacexsi-announced-that-to-comply-with-the-eu-ai-act"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-31",
+          "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+          "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html"
+        },
+        {
+          "category": "news",
+          "publisher": "Engadget",
+          "date": "2026-11-01",
+          "title": "Judge Says xAI Must Face NAACP Lawsuit On Data Center Pollution",
+          "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "SPCX close 134.72",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        }
+      ]
+    },
+    {
+      "id": "1810-oct-deliveries-sunwoda",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：10 月汽車交付逾 5 萬輛；欣旺達動力入股敘事續；Yahoo 周五收 26.48",
+      "summary": "Holding 1810.HK。周末多家媒體（含 CNA／CNEVPost，2026-11-01）指小米汽車 10 月交付量超過 5 萬輛，為 2026 年單月高位；公司未公開精確拆分，數字以官方口徑為準。欣旺達（300207.SZ）公告：小米系瀚星創投約 17 億元入股欣旺達動力約 5.34%，欣旺達動力擬不再併表（尚待股東會）。開源 Xiaomi-OCR-0（0.8B）敘事仍在。Yahoo 港股日線 10/30 收 26.48；周一港股開市後先睇即日成交。",
+      "whyItMatters": "持倉要分開「交付量媒體口徑」同「上市公司精確公告」；電池入股係供應鏈綁定敘事，唔等於港股即日賺蝕。",
+      "whatToWatch": "小米官方／IR 有冇補精確交付數字；欣旺達股東會進度；手機／汽車／AI 開源後續披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNA",
+          "date": "2026-11-01",
+          "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
+          "url": "https://www.channelnewsasia.com/business/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-6510711"
+        },
+        {
+          "category": "news",
+          "publisher": "CNEVPost",
+          "date": "2026-11-01",
+          "title": "Xiaomi Auto delivers over 50,000 vehicles in October",
+          "url": "https://cnevpost.com/2026/11/01/xiaomi-auto-delivers-over-50000-oct-2026/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "富途快訊",
+          "date": "2026-11-01",
+          "title": "小米汽車：2026年10月交付量超過50000台",
+          "url": "https://news.futunn.com/post/1003030736"
+        },
+        {
+          "category": "company",
+          "publisher": "欣旺達公告（cninfo）",
+          "date": "2026-10-30",
+          "title": "關於控股子公司欣旺達動力不再納入合併報表範圍的公告",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-10-30/1225643829.PDF"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "1810.HK close 26.48",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-naver-nov6-countdown",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：Naver 約 10 億美元入股付款日 11/6；11/3 匯率定股數；周五收 204.64",
+      "summary": "Research NVDA。韓媒／Naver 更正披露（約 10/30）：NVIDIA 對 Naver 約 10 億美元第三方配售付款日訂 11/6，新股預計 11/27 上市；最終股數按 11/3 首爾外匯均價換算。先決條件（另行取得不少於約 90 億美元算力基建）據報已滿足。NVIDIA 官方 Q3 FY2027 電話會仍訂 11/17。Yahoo 美股日線 10/30 收 204.64。",
+      "whyItMatters": "入股付款日係「錢同股交割日程」，唔等於即日改到 NVDA 財報指引；11/17 業績會仍然係主日曆。",
+      "whatToWatch": "11/3 匯率定價公告、11/6 繳款完成披露、11/17 業績同中國數據中心假設。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yonhap Infomax",
+          "date": "2026-10-30",
+          "title": "Naver Sets November 6 as Payment Date for Nvidia's $1 Billion Investment",
+          "url": "https://en.infomaxai.com/news/articleView.html?idxno=146161"
+        },
+        {
+          "category": "news",
+          "publisher": "The Herald Business",
+          "date": "2026-10-30",
+          "title": "Nvidia to become Naver's third-largest shareholder as $1b investment closes Nov. 6",
+          "url": "https://biz.heraldcorp.com/article/10920038"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Investor",
+          "date": "2026-10-15",
+          "title": "NVIDIA to Report Financial Results for Third Quarter Fiscal 2027 on Nov. 17",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-to-Report-Financial-Results-for-Third-Quarter-Fiscal-2027-on-November-17/default.aspx"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "NVDA close 204.64",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "id": "msft-post-earnings-capex",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：周末續讀 Capex／回購權衡；數字仍以 10/28 IR 為準；周五收 521.91",
+      "summary": "Research MSFT。公司 10/28 IR：FY2027 Q1 收入約 923 億美元（+19%），Azure 收入同比約 +48%；季度向股東回報約 102 億美元（股息＋回購）。路透／CNBC 周末續討論大科技 AI 開支擠壓回購、以及日曆 2026 Capex 展望下調敘事（第三方詮釋，數字以 IR／電話會為準）。Yahoo 美股日線 10/30 收 521.91。",
+      "whyItMatters": "新手要分開「公司 IR 已刊數字」同「周末評論文章」；Capex 延遲唔等於雲端需求消失。",
+      "whatToWatch": "後續 IR／會議跟進、Azure 增長同現金流、同業 Capex 口徑。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft IR",
+          "date": "2026-10-28",
+          "title": "Microsoft Announces First Quarter Results (FY2027 Q1)",
+          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-10-29",
+          "title": "AI buildout hits snag as Google and Microsoft hold capex forecasts",
+          "url": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html"
+        },
+        {
+          "category": "news",
+          "publisher": "Reuters via Investing.com",
+          "date": "2026-10-30",
+          "title": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending",
+          "url": "https://www.investing.com/news/stock-market-news/big-tech-returns-smallest-share-of-cash-to-shareholders-in-15-years-given-ai-spending-4988277"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "MSFT close 521.91",
+          "url": "https://finance.yahoo.com/quote/MSFT/"
+        }
+      ]
+    },
+    {
+      "id": "etf-monday-open-fri-closes",
+      "ticker": "GLD",
+      "title": "GLD／SPYM／VEU：周一開市前——Yahoo 周五收市；美股期貨亞早輕升（快訊）",
+      "summary": "Holding ETF。Yahoo：10/30 GLD 收 355.78、SPYM 收 88.95、VEU 收 80.57（周五科技股／風險偏好回吐背景）。宏觀：Fed／FOMC vs 金管局／聯繫匯率仍係 profile 勾選主題；港元兌換保證區間 7.75–7.85 機制不變。富途快訊指周一美股三大指數期貨高開、納指期貨約 +0.3%（第三方即時快訊，開市後以交易所為準）。",
+      "whyItMatters": "ETF 持倉跟指數／金價，唔好用單一 headline 當作買賣訊號；期貨開市前報價可以改。",
+      "whatToWatch": "周一美股正式開市、金價同美元、下一次 FOMC 日程。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "GLD close 355.78",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "SPYM close 88.95",
+          "url": "https://finance.yahoo.com/quote/SPYM/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "VEU close 80.57",
+          "url": "https://finance.yahoo.com/quote/VEU/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "富途快訊",
+          "date": "2026-11-02",
+          "title": "美股三大股指期貨周一高開，納指期貨漲 0.3%",
+          "url": "https://news.futunn.com/flash/1003045289/us-stock-index-futures-for-the-three-major-benchmarks-opened"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-10-29",
+          "title": "HKMA daily monetary / Linked Exchange Rate context (Convertibility Undertakings 7.75–7.85)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        }
+      ]
+    },
+    {
+      "id": "1398-post-q3-monday",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：三季報已刊後周一安靜帶；Yahoo 周五收 7.895",
+      "summary": "Research 1398.HK。HKEX／公司刊發 2026 年第三季度報告（2026-10-30）：前三季歸母淨利潤約人民幣 2,856.40 億元（同比約 +5.83%）；第三季單季歸母淨利潤約 1,119.58 億元（同比約 +9.97%）；年化淨息差約 1.29%。周末無新公司公告主線；Yahoo 港股日線 10/30 收 7.895。周一港股開市後先對照成交同息差敘事。",
+      "whyItMatters": "銀行股新手應先對照「已刊季報數字」同「周末評論」；息差企穩係口徑，唔等於預測股價。",
+      "whatToWatch": "後續業績會／分析師問答、資產質量同 NIM 披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / ICBC",
+          "date": "2026-10-30",
+          "title": "Third Quarterly Report of 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1030/2026103000694.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "Yicai",
+          "date": "2026-10-30",
+          "title": "工商銀行：前三季度歸母淨利潤 2856.40 億元 同比增長 5.83%",
+          "url": "https://www.yicai.com/news/103418447.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-10-30",
+          "title": "1398.HK close 7.895",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2320,
+  "audioVoice": "gTTS-zh-TW"
+}
