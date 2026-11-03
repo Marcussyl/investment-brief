@@ -1,0 +1,214 @@
+{
+  "updated": "2026-11-03",
+  "disclaimer": "非投資建議。科技動態摘要僅供學習；數字與事實以原文為準。",
+  "items": [
+    {
+      "title": "AI 泡沫疑慮升溫，Neocloud 業者債台高築、股價重挫",
+      "summary": "科技新報（2026-11-03）：AI 回報疑慮下，部分 Neocloud／GPU 雲相關業者負債與股價承壓。",
+      "source": "TechNews",
+      "date": "2026-11-03",
+      "url": "https://finance.technews.tw/2026/11/03/these-firms-youve-never-heard-of-are-feeding-fears-the-ai-bubble-could-burst/",
+      "tickers": [],
+      "impact": "GPU 雲融資與估值情緒受壓。",
+      "newbieTake": "情緒標題要對照個別公司現金流同長約。"
+    },
+    {
+      "title": "CoWoS 供應瓶頸浮現，Intel EMIB-T 開闢另一條封裝路線",
+      "summary": "科技新報（2026-11-02）：CoWoS 產能緊俏，市場討論 EMIB-T 替代路徑。",
+      "source": "TechNews",
+      "date": "2026-11-02",
+      "url": "https://technews.tw/2026/11/02/cowos-supply-bottlenecks-intel-emib-t-alternative-packaging/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "先進封裝供應影響出貨節奏。",
+      "newbieTake": "替代方案唔等於即刻取代主流。"
+    },
+    {
+      "title": "真的成了！Marvell 宣布以股票交易方式收購光通訊龍頭 Lumentum",
+      "summary": "科技新報（2026-11-02）：Marvell 宣布股票交易收購 Lumentum。",
+      "source": "TechNews",
+      "date": "2026-11-02",
+      "url": "https://technews.tw/2026/11/02/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity/",
+      "tickers": [],
+      "impact": "AI 光互連整併。",
+      "newbieTake": "宣布≠已交割。"
+    },
+    {
+      "title": "晶豪科第三季 EPS 飆升達 36.79元，全系列傳統記憶體缺貨持續到 2027 年",
+      "summary": "科技新報（2026-11-02）：傳統記憶體缺貨氣氛延續。",
+      "source": "TechNews",
+      "date": "2026-11-02",
+      "url": "https://finance.technews.tw/2026/11/02/esmts-third-quarter-eps-surged-to-nt36-79/",
+      "tickers": [],
+      "impact": "記憶體週期敘事。",
+      "newbieTake": "單一季 EPS 波動大。"
+    },
+    {
+      "title": "蘋果 CEO 特納斯迎首場財報考驗，記憶體成本飆漲成焦點",
+      "summary": "科技新報（2026-11-02）：Apple 新 CEO 首份財報，聚焦記憶體成本。非 Active 標的，僅情緒。",
+      "source": "TechNews",
+      "date": "2026-11-02",
+      "url": "https://technews.tw/2026/11/02/apples-new-ceo-ternus-to-face-first-earnings-test-as-memory-costs-surge/",
+      "tickers": [],
+      "impact": "消費電子毛利敘事。",
+      "newbieTake": "業績勝預期同股價跌可同時發生。"
+    },
+    {
+      "title": "北美 AI 資料中心訂單增溫，士電 T4 新廠明年投產、變壓器產能增三成",
+      "summary": "科技新報（2026-11-02）：北美 AI 資料中心訂單帶動變壓器需求。",
+      "source": "TechNews",
+      "date": "2026-11-02",
+      "url": "https://technews.tw/2026/11/02/north-america-ai-data-center-orders-up-shihlin-electric-t4-plant-next-year-transformer-capacity-30-increase/",
+      "tickers": [
+        "NVDA",
+        "SPCX"
+      ],
+      "impact": "電力設備瓶頸敘事。",
+      "newbieTake": "AI 鏈包含電同基建。"
+    },
+    {
+      "title": "OpenAI 調整使用額度計算方式：ChatGPT 與 Codex 將採「共享機制」",
+      "summary": "T客邦（2026-11-02）：ChatGPT 與 Codex 額度擬共享。",
+      "source": "T客邦",
+      "date": "2026-11-02",
+      "url": "https://www.techbang.com/posts/134541-openai-chatgpt-codex-shared-usage-quota",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "開發者計價結構或變。",
+      "newbieTake": "產品計價≠雲廠業績。"
+    },
+    {
+      "title": "NVIDIA RTX Spark AI功能分析：為Windows筆電獻上代理式AI體驗、透過Pair串連全家AI PC",
+      "summary": "T客邦（2026-11-02）：NVIDIA RTX Spark 代理式 AI 筆電體驗。",
+      "source": "T客邦",
+      "date": "2026-11-02",
+      "url": "https://www.techbang.com/posts/134526-nvidia-rtx-spark-agentic-ai",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "消費級 GPU AI 功能。",
+      "newbieTake": "功能更新≠數據中心收入。"
+    },
+    {
+      "title": "Apple's iPhone growth meets a tougher test on costs",
+      "summary": "DigiTimes（2026-11-02）：iPhone 成長面對成本壓力。",
+      "source": "DigiTimes",
+      "date": "2026-11-02",
+      "url": "https://www.digitimes.com/news/a20261103VL200/apple-growth-iphone-revenue-demand.html",
+      "tickers": [],
+      "impact": "消費電子毛利焦點。",
+      "newbieTake": "出貨增亦可被成本侵蝕。"
+    },
+    {
+      "title": "SK Hynix ramps up SOCAMM2 as material shortages push up PCB prices",
+      "summary": "DigiTimes（2026-11-02）：SK Hynix 推進 SOCAMM2，材料短缺推高 PCB。",
+      "source": "DigiTimes",
+      "date": "2026-11-02",
+      "url": "https://www.digitimes.com/news/a20261102VL215/sk-hynix-pcb-production-materials-nvidia.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "伺服器記憶體供應鏈緊張。",
+      "newbieTake": "材料漲價可傳導雲成本。"
+    },
+    {
+      "title": "Sam Altman meets with Samsung, SK as memory crunch deepens",
+      "summary": "DigiTimes（2026-11-02）：Altman 會見三星、SK。",
+      "source": "DigiTimes",
+      "date": "2026-11-02",
+      "url": "https://www.digitimes.com/news/a20261102VL211/openai-sam-altman-samsung-sk-hynix-memory-chips-demand.html",
+      "tickers": [],
+      "impact": "記憶體供給談判。",
+      "newbieTake": "會晤係線索。"
+    },
+    {
+      "title": "MediaTek pins second ASIC project and customer to 2028",
+      "summary": "DigiTimes（2026-11-02）：MediaTek ASIC 相關進度報導。",
+      "source": "DigiTimes",
+      "date": "2026-11-02",
+      "url": "https://www.digitimes.com/news/a20261102PD217/mediatek-asic-2028-market-earnings.html",
+      "tickers": [],
+      "impact": "客製化加速器供應鏈。",
+      "newbieTake": "時程常有遞延。"
+    },
+    {
+      "title": "Google首度在太空衛星上運行AI模型，朝太空資料中心邁進",
+      "summary": "iThome（2026-11-02）：Google 衛星運行 AI 模型試驗。",
+      "source": "iThome",
+      "date": "2026-11-02",
+      "url": "https://www.ithome.com.tw/news/180120",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "軌道運算試驗敘事。",
+      "newbieTake": "試驗≠規模化收入。"
+    },
+    {
+      "title": "4大AI業者支援共通AI訓練偏好訊號，網站將可透過robots.txt統一設定",
+      "summary": "iThome（2026-11-02）：AI 業者支援訓練偏好訊號。",
+      "source": "iThome",
+      "date": "2026-11-02",
+      "url": "https://www.ithome.com.tw/news/180132",
+      "tickers": [],
+      "impact": "資料治理工具。",
+      "newbieTake": "唔等於解決全部版權爭議。"
+    },
+    {
+      "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+      "summary": "CNBC Tech（2026-11-02）：Anthropic 收入與採購承諾報導。",
+      "source": "CNBC Tech",
+      "date": "2026-11-02",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "大模型 capex／GPU 需求。",
+      "newbieTake": "承諾或為上限框架。"
+    },
+    {
+      "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+      "summary": "CNBC Tech（2026-11-02）：Lumentum／Marvell AI 連網交易。",
+      "source": "CNBC Tech",
+      "date": "2026-11-02",
+      "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+      "tickers": [],
+      "impact": "光通訊需求預期。",
+      "newbieTake": "對照監管交割。"
+    },
+    {
+      "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+      "summary": "CNBC Tech（2026-11-02）：Altman 突訪韓國、深化晶片夥伴。",
+      "source": "CNBC Tech",
+      "date": "2026-11-02",
+      "url": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+      "tickers": [],
+      "impact": "AI 晶片供應地緣布局。",
+      "newbieTake": "合作新聞要分開意向同已簽約量。"
+    },
+    {
+      "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+      "summary": "NVIDIA Newsroom（2026-10-28）：確認 11/17 FY27 Q3 電話會。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-10-28",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "Active 研究標的業績窗口。",
+      "newbieTake": "先讀 IR 日程。"
+    },
+    {
+      "title": "韓國KOSPI開跌，SK海力士與三星電子走弱",
+      "summary": "富途快訊（2026-11-03）：韓股開跌，記憶體權重股走弱。",
+      "source": "富途快訊",
+      "date": "2026-11-03",
+      "url": "https://news.futunn.com/flash/1003160632/south-korea-s-kospi-index-opened-2-46-lower-with",
+      "tickers": [],
+      "impact": "亞洲半導體短線情緒。",
+      "newbieTake": "開盤跌幅係情緒。"
+    }
+  ]
+}
