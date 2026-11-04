@@ -1,0 +1,248 @@
+{
+  "updated": "2026-11-04",
+  "disclaimer": "非投資建議。科技動態摘要僅供學習；數字與事實以原文為準。",
+  "items": [
+    {
+      "title": "AMD 第三季營收與獲利均高於市場預期，盤後股價應聲大漲",
+      "summary": "科技新報（2026-11-04）：AMD Q3 優於預期，資料中心與代理型 AI 需求拉動；盤後股價大漲。非 Active，作板塊情緒。",
+      "source": "TechNews",
+      "date": "2026-11-04",
+      "url": "https://technews.tw/2026/11/04/amds-third-quarter-revenue-and-profit-both-exceeded-market-expectations/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能短暫提振 AI／半導體風險偏好。",
+      "newbieTake": "同業業績≠ Active 標的已公布數字。"
+    },
+    {
+      "title": "外媒披露中國走私韓國 HBM 黑市鏈",
+      "summary": "科技新報（2026-11-04）引述外媒：指韓國 HBM 經封裝再拆焊流入中國算力客戶，牽涉出口管制繞道。",
+      "source": "TechNews",
+      "date": "2026-11-04",
+      "url": "https://technews.tw/2026/11/04/foreign-media-reports-reveal-chinas-covert-smuggling-of-hbm-from-south-korea/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "高階記憶體與出口管制敘事升溫。",
+      "newbieTake": "第三方調查；細節以原文為準。"
+    },
+    {
+      "title": "華邦電佈局矽電容與 CUBE，2027 年迎量產收割期",
+      "summary": "科技新報（2026-11-04）：華邦電指高規格矽電容與客製化超高頻寬記憶體（CUBE）預計 2027 下半年起量產貢獻。",
+      "source": "TechNews",
+      "date": "2026-11-04",
+      "url": "https://technews.tw/2026/11/04/winbond-positions-ai-computing-power-wave-silicon-capacitors-cube-dual-engines-mass-production-harvest-2027/",
+      "tickers": [],
+      "impact": "AI 周邊記憶體供應鏈展望。",
+      "newbieTake": "量產時程係展望。"
+    },
+    {
+      "title": "環球晶前三季 EPS 達 15 元，強調產能與美光結盟",
+      "summary": "科技新報（2026-11-04）：環球晶圓公布前三季業績，董事長指全球產能與美光結盟展現先發優勢。",
+      "source": "TechNews",
+      "date": "2026-11-04",
+      "url": "https://technews.tw/2026/11/04/globalwafers-eps-reached-nt15-in-the-first-three-quarters/",
+      "tickers": [],
+      "impact": "矽晶圓供給與認證產能敘事。",
+      "newbieTake": "上游材料業績≠下游 GPU 指引。"
+    },
+    {
+      "title": "NVIDIA 據報施壓雲端業者降低中國敞口",
+      "summary": "科技新報（2026-11-03）：轉述外媒指 NVIDIA 要求雲客戶未來合約對非中國客戶銷售達一定比例；公司有原則性回應。",
+      "source": "TechNews",
+      "date": "2026-11-03",
+      "url": "https://technews.tw/2026/11/03/nvidia-reportedly-presses-cloud-providers-to-reduce-china-exposure/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "地緣與客戶結構情緒；業績窗口前需對照官宣。",
+      "newbieTake": "報道≠已入賬數字。"
+    },
+    {
+      "title": "日本愛信開發 MRAM 新型 AI 晶片，鎖定車用邊緣運算",
+      "summary": "科技新報（2026-11-03）：愛信開發 MRAM 邊緣 AI SoC，報道強調功耗與延遲改善。",
+      "source": "TechNews",
+      "date": "2026-11-03",
+      "url": "https://technews.tw/2026/11/03/japan-aisin-new-type-of-ai-chip/",
+      "tickers": [],
+      "impact": "邊緣 AI／車用運算技術討論。",
+      "newbieTake": "發表數據≠量產市佔。"
+    },
+    {
+      "title": "Terafab 傳與台積電重談合作",
+      "summary": "科技新報（2026-11-03）：報道指馬斯克相關 Terafab 與台積電重談合作細節（未官宣）。",
+      "source": "TechNews",
+      "date": "2026-11-03",
+      "url": "https://technews.tw/2026/11/03/musk-stance-shift-terafab-tsmc-renegotiates-cooperation/",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "代工與自建產能敘事。",
+      "newbieTake": "「傳」字新聞；等官宣。"
+    },
+    {
+      "title": "全球伺服器市場動態：2026 Q4 至 2027 展望",
+      "summary": "科技新報（2026-11-03）：整理伺服器市場動能與 2027 展望，AI 伺服器為主要變量。",
+      "source": "TechNews",
+      "date": "2026-11-03",
+      "url": "https://technews.tw/2026/11/03/global-server-market-dynamics-q4-2026-2027-outlook/",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "資料中心資本開支節奏背景。",
+      "newbieTake": "產業展望會改，唔好當成交量。"
+    },
+    {
+      "title": "Marvell 收購 Lumentum：光電力整合挑戰博通領導地位",
+      "summary": "科技新報財經（2026-11-03）：討論 Marvell 收購 Lumentum 後於 AI 光通訊整合的挑戰。",
+      "source": "TechNews",
+      "date": "2026-11-03",
+      "url": "https://finance.technews.tw/2026/11/03/marvell-acquires-lumentum-optical-electrical-integration-challenge-broadcom-leadership/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "AI 光互連整併。",
+      "newbieTake": "宣布≠已交割。"
+    },
+    {
+      "title": "OpenAI 執行長密訪南韓三星與 SK，聚焦晶片",
+      "summary": "T客邦：報道阿特曼密會三星與 SK，圍繞 AI 晶片／記憶體供應。",
+      "source": "T客邦",
+      "date": "2026-11-03",
+      "url": "https://www.techbang.com/posts/134602-openai-altman-korea-samsung-sk-ai-chips",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "前緣供應鏈談判敘事。",
+      "newbieTake": "拜訪≠長約已簽。"
+    },
+    {
+      "title": "NVIDIA RTX Spark：Windows on Arm 獨顯級加速",
+      "summary": "T客邦：分析 RTX Spark 在 Windows on Arm 筆電上的 GPU 加速能力。",
+      "source": "T客邦",
+      "date": "2026-11-03",
+      "url": "https://www.techbang.com/posts/134576-nvidia-rtx-spark-windows-on-arm-gpu-acceleration",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "AI PC 產品節奏。",
+      "newbieTake": "產品文≠財報。"
+    },
+    {
+      "title": "聯發科、Marvell、博通 ASIC 延長賽拚 2028",
+      "summary": "電子時報：客製化 ASIC 競爭延長，供應鏈固樁成效被視為關鍵。",
+      "source": "DigiTimes",
+      "date": "2026-11-03",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000773240_7S71A5Q75069X4L7JGUIC",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "雲廠自研加速器長線競爭。",
+      "newbieTake": "長線賽，唔好用單日股價解讀。"
+    },
+    {
+      "title": "NVIDIA 鞏固南韓合作版圖，三星、SK 海力士 AI Day 案例",
+      "summary": "電子時報：NVIDIA 南韓活動展示與記憶體大廠開發案例。",
+      "source": "DigiTimes",
+      "date": "2026-11-03",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000773314_G994CF630BBBM4521UMFC",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "GPU／HBM 生態綁定。",
+      "newbieTake": "活動案例≠出貨承諾。"
+    },
+    {
+      "title": "美光看衰 4F² DRAM、長鑫回應力推",
+      "summary": "電子時報：DRAM 微縮路徑爭議，美光、長鑫與韓廠策略分歧。",
+      "source": "DigiTimes",
+      "date": "2026-11-03",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000773298_CVV3ZH018045SH9PPFYKI",
+      "tickers": [],
+      "impact": "記憶體技術路線與供給預期。",
+      "newbieTake": "宜對照原廠說法。"
+    },
+    {
+      "title": "Marvell 砸約 1,150 億美元收購 Lumentum",
+      "summary": "iThome：Marvell 以股票交易收購 Lumentum，整合 AI 晶片與光通訊。",
+      "source": "iThome",
+      "date": "2026-11-03",
+      "url": "https://www.ithome.com.tw/news/180171",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "AI 光互連整併。",
+      "newbieTake": "宣布後股價與交割可脫鈎。"
+    },
+    {
+      "title": "AMD 展望緩解 AI 開支疑慮，數據中心銷售強勁",
+      "summary": "Reuters via Investing.com（2026-11-04）：AMD 季報與展望優於預期，數據中心銷售加速。",
+      "source": "Reuters / CNBC Tech",
+      "date": "2026-11-04",
+      "url": "https://www.investing.com/news/stock-market-news/amd-forecasts-quarterly-revenue-above-estimates-as-datacenter-growth-accelerates-4996502",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "同業業績提振半導體情緒。",
+      "newbieTake": "非 Active；板塊背景。"
+    },
+    {
+      "title": "AI trade rebounds as midterms awaited",
+      "summary": "Reuters via Investing.com：AI 相關交易反彈，市場同時關注美國中期選舉結果。",
+      "source": "Reuters / CNBC Tech",
+      "date": "2026-11-04",
+      "url": "https://www.investing.com/news/economy-news/ai-trade-rebounds-midterms-awaited-4996694",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "SPYM"
+      ],
+      "impact": "隔夜風險偏好與宏觀事件重疊。",
+      "newbieTake": "盤勢標題，唔等於基本面更新。"
+    },
+    {
+      "title": "美股收盤：芯片指數漲、AMD 走高（富途轉述）",
+      "summary": "富途快訊轉華爾街見聞（2026-11-04）：選舉日標普納指止跌，芯片指數上漲。",
+      "source": "富途快訊",
+      "date": "2026-11-04",
+      "url": "https://news.futunn.com/post/1003307805/us-stocks-close-on-election-day-the-s-p-and",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "SPYM"
+      ],
+      "impact": "隔夜美股情緒。",
+      "newbieTake": "原文來源：華爾街見聞。"
+    },
+    {
+      "title": "SpaceX 計劃 11/12 執行 USSF-317 Falcon 9",
+      "summary": "富途快訊（2026-11-04）：指 SpaceX 計劃於范登堡以 Falcon 9 執行 USSF-317。",
+      "source": "富途快訊",
+      "date": "2026-11-04",
+      "url": "https://news.futunn.com/flash/1003310704/spacex-spcxo-plans-to-execute-the-ussf-317-mission-using",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "持倉發射日程線索。",
+      "newbieTake": "快訊可改期；等官方。"
+    },
+    {
+      "title": "AI 軍備競賽推高美科技企業融資溢價（富途轉述）",
+      "summary": "富途快訊（2026-11-03）轉述：美國科技企業為 AI 開支融資，信用溢價討論升溫。",
+      "source": "富途快訊",
+      "date": "2026-11-03",
+      "url": "https://news.futunn.com/post/1003288917/ai-arms-race-drives-up-financing-costs-premium-for-us",
+      "tickers": [
+        "MSFT",
+        "NVDA",
+        "SPCX"
+      ],
+      "impact": "與投資級發債／AI capex 融資成本相關。",
+      "newbieTake": "原文來源：華爾街見聞。"
+    }
+  ]
+}
