@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-05",
+  "audioUrl": "data/audio/2026-11-05.mp3",
+  "concepts": [
+    {
+      "id": "bond-settlement-closing",
+      "title": "債券交割（bond settlement／closing）",
+      "titleEn": "Bond settlement / closing",
+      "what": "債券交割係發債流程嘅結算日：發行人收到資金、投資者收到債券／票據、相關契約正式生效。定價（pricing）之後通常仲要等幾日至交割；交割完成先代表融資真正入袋，唔等於定價當日已經有現金。",
+      "whyItMatters": "見到「預計交割／expected to close」同「已交割／closed」係兩步。研究倉要分開：定價新聞係條件與息率；交割／8-K 補充契約係確認融資已完成。利息支出會喺之後財報先反映。",
+      "whereToday": "Microsoft Source（2026-10-29）預計 11/04 交割 250 億美元高級無擔保票據；公司 IR 站點可見 2026-11-04 Form 8-K／第十六補充契約相關文件，標示票據已按計劃發行。Yahoo 美股日線 11/04 收 555.80。",
+      "whatToWatch": "後續財報利息與 capex 披露、Ignite 雲敘事。唔構成買賣建議。",
+      "relatedTickers": [
+        "MSFT"
+      ],
+      "notionUrl": "https://app.notion.com/p/40f99f70bc5681adb85cfe5d9e48b651"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+        "date": "2026-10-26",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "DATE OF BOARD MEETING — unaudited Q3 / nine months to 30 Sep 2026 on 24 Nov 2026",
+        "date": "2026-10-23",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Form 8-K — $25B senior notes supplemental indenture dated Nov 4, 2026",
+        "date": "2026-11-04",
+        "url": "https://microsoft.gcs-web.com/static-files/7e01b7ef-d0bd-4d5c-9931-8aa38490b044"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA to Report Financial Results for Third Quarter Fiscal 2027 on Nov. 17",
+        "date": "2026-10-15",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-to-Report-Financial-Results-for-Third-Quarter-Fiscal-2027-on-November-17/default.aspx"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Third Quarterly Report of 2026 (IFRS)",
+        "date": "2026-10-30",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1030/2026103000694.pdf"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-qualcomm-midterms",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：高通 Starlink Mobile 5G 合作官宣；中期選舉情緒拖累；Yahoo 周三收 135.92",
+      "summary": "Holding SPCX。Qualcomm 新聞稿（2026-11-04）指 SpaceX 選用 Qualcomm Dragonwing 蜂窩基建技術，加速 Starlink Mobile 全美地面 5G 網絡；計劃約 2027 年起大規模部署、數以萬計基站量級，金額未披露。同日多家媒體（CNBC／Investopedia 等）指美股中期選舉民主黨大勝後，市場憂慮對 Musk 相關合約／數據中心監管升溫，SPCX 與 TSLA 顯著下跌（第三方市場敘事，非公司 IR）。續讀 $400 億 GPU 融資租賃主線。Yahoo 美股日線 11/04 收 135.92（前收 141.31）。",
+      "whyItMatters": "持倉要把「供應商合作官宣」同「選舉後情緒拋售」分開：前者係網絡建設里程碑；後者係政治／監管定價，唔等於已簽條款改變。",
+      "whatToWatch": "Starlink Mobile 後續牌照／部署時間表、SpaceX IR 對合作嘅補充、USSF-317 發射窗口、$400 億 GPU 租賃執行。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Qualcomm",
+          "date": "2026-11-04",
+          "title": "SpaceX Selects Qualcomm to Accelerate Starlink Mobile’s Nationwide 5G Network",
+          "url": "https://www.qualcomm.com/news/releases/2026/11/spacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-04",
+          "title": "SpaceX, Tesla stocks fall over 4% on Democrats big win",
+          "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html"
+        },
+        {
+          "category": "third-party",
+          "publisher": "富途快訊／moomoo",
+          "date": "2026-11-04",
+          "title": "SpaceX Selects Qualcomm to Accelerate Starlink Mobile's Nationwide 5G Network",
+          "url": "https://www.moomoo.com/news/flash/1003504698/spacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwide-5g"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        }
+      ]
+    },
+    {
+      "id": "msft-25b-notes-settled",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：250 億美元票據 11/04 交割／8-K；Yahoo 周三收 555.80",
+      "summary": "Research MSFT。Microsoft Source（2026-10-29）定價合共 250 億美元高級無擔保票據（浮息＋多期固定息，最長至 2066），預計 2026-11-04 交割。公司 IR 站點 Form 8-K（2026-11-04）載明與包銷商協議及第十六補充契約，票據已按計劃發行；所得款用於一般企業用途（可含營運資金、資本開支、回購、收購及償債）。Yahoo 美股日線 11/04 收 555.80。",
+      "whyItMatters": "研究倉要把「定價」同「交割完成」分開：交割後負債與利息路徑更清晰，但現金唔會即刻變成 Azure 收入。",
+      "whatToWatch": "Ignite（約 11/17–20）雲同 AI 敘事、後續財報利息支出與 capex。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft IR / 8-K",
+          "date": "2026-11-04",
+          "title": "Form 8-K — Notes issuance and Sixteenth Supplemental Indenture",
+          "url": "https://microsoft.gcs-web.com/static-files/7e01b7ef-d0bd-4d5c-9931-8aa38490b044"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Source",
+          "date": "2026-10-29",
+          "title": "Microsoft announces debt offerings",
+          "url": "https://news.microsoft.com/source/2026/10/29/microsoft-announces-debt-offerings-7/"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft IR",
+          "date": "2026-10-28",
+          "title": "Microsoft Announces First Quarter Results (FY2027 Q1)",
+          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+        }
+      ]
+    },
+    {
+      "id": "nvda-earnings-countdown-midterms",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：11/17 FY27 Q3 倒數；中期選舉後 AI／數據中心敘事分化；Yahoo 周三收 200.13",
+      "summary": "Research NVDA。NVIDIA Newsroom／IR 仍排 2026-11-17（美西 2pm／美東 5pm）公布 FY27 第三季（截至 2026-10-25）業績並開電話會；CFO 書面 commentary 約於結果公布後上載。第三方（CNBC 等，2026-11-04）討論中期選舉後數據中心監管／建設節奏對 AI 股情緒影響（非公司指引）。Yahoo 美股日線 11/04 收 200.13。",
+      "whyItMatters": "研究倉進入業績窗口：要把「選舉後板塊情緒」同「即將公布嘅公司數字／指引」分開；情緒唔等於已入賬。",
+      "whatToWatch": "11/17 新聞稿與 CFO commentary、數據中心收入／毛利率、中國相關假設有冇正式更新。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-28",
+          "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA IR",
+          "date": "2026-10-15",
+          "title": "NVIDIA to Report Financial Results for Third Quarter Fiscal 2027 on November 17",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-to-Report-Financial-Results-for-Third-Quarter-Fiscal-2027-on-November-17/default.aspx"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-04",
+          "title": "Democratic data center pushback could help AI stocks",
+          "url": "https://www.cnbc.com/2026/11/04/democratic-data-center-pushback-could-help-ai-stocks.html"
+        }
+      ]
+    },
+    {
+      "id": "1810-board-meeting-nov24",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：港交所已排 11/24 董事會審 Q3；Yahoo 周三收 28.76",
+      "summary": "Holding 1810.HK。港交所公告（2026-10-23）指董事會將於 2026-11-24（周二）召開，審議截至 2026-09-30 之未經審核第三季及首九個月綜合業績。續讀通訊社（Reuters／CNA，2026-11-01）引述 10 月 EV 交付逾 5 萬輛、1–10 月累計約 33.6 萬輛量級（第三方轉述，以公司原文為準）。今日未見更新翌日披露回購打印（以公開搜尋為準）。Yahoo 港股日線 11/04 收 28.76。",
+      "whyItMatters": "持倉要把「已排定業績會日期」同「交付題材」分開：11/24 先有正式季報打印可對照。",
+      "whatToWatch": "11/24 業績公告、手機／汽車分部、回購翌日披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "CNA",
+          "date": "2026-11-01",
+          "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
+          "url": "https://www.channelnewsasia.com/business/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-6510711"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-10-28",
+          "title": "Next Day Disclosure Return — share repurchase",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1028/2026102801007.pdf"
+        }
+      ]
+    },
+    {
+      "id": "macro-gld-etf-wed",
+      "ticker": "GLD",
+      "title": "宏觀／ETF：金價重上約 4,000 美元；GLD／SPYM／VEU 周三收市",
+      "summary": "Macro（已勾選 Fed/FOMC vs HKMA）。第三方（FXStreet／Reuters 彙整，2026-11-04）指現貨金反彈重上約 4,000 美元附近，伴隨美元走弱、美債息回落；市場仍定價 12 月 Fed 加息機率偏高（以 CME FedWatch 當日為準，機率會變）。周五非農（NFP）係下一觀察點；聯匯下港息仍受美息路徑牽動。Holding ETF Yahoo 11/04 收：GLD 372.49、SPYM 90.25、VEU 82.10。",
+      "whyItMatters": "黃金同利率／美元預期常聯動；ETF 日線係市場定價結果，唔等於下次 FOMC 已決定。",
+      "whatToWatch": "周五 NFP、FedWatch／下次 FOMC、金管局市場操作、USD-HKD。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "FXStreet",
+          "date": "2026-11-04",
+          "title": "Gold reclaims $4,000 as US midterm sweep sinks USD, Oil plunges",
+          "url": "https://www.fxstreet.com/news/gold-reclaims-4-000-as-us-midterm-sweep-sinks-usd-oil-plunges-202611041803"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-10-29",
+          "title": "HKMA’s Response to US Fed’s Interest Rate Decision",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261029-3/"
+        },
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-04",
+          "title": "SPDR Gold Shares (GLD) quote",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        }
+      ]
+    },
+    {
+      "id": "1398-quiet-post-q3",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：未見新公告；續讀 10/30 Q3；Yahoo 周三收 7.82",
+      "summary": "Research 1398.HK。今日未見更新港交所／公司季報打印（以公開搜尋為準）。續讀 ICBC 2026 年第三季度報告（2026-10-30）：前三季經營收入／淨利潤同比增長、NIM 同不良貸款比率以 PDF 原文為準。Yahoo 港股日線 11/04 收 7.82。",
+      "whyItMatters": "銀行股新手要習慣「無新打印＝續讀上次財報」；息差同資產質素係慢變量。",
+      "whatToWatch": "港交所／公司網站補充公告、NIM 與不良率趨勢。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC / HKEX",
+          "date": "2026-10-30",
+          "title": "Third Quarterly Report of 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1030/2026103000694.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "ICBC",
+          "date": "2026-10-30",
+          "title": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED THIRD QUARTERLY REPORT OF 2026",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announcement20261030_2.pdf"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2409,
+  "audioVoice": "gTTS-zh-TW"
+}
