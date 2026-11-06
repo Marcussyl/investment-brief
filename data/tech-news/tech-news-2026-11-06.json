@@ -1,0 +1,239 @@
+{
+  "updated": "2026-11-06",
+  "disclaimer": "非投資建議。科技動態摘要僅供學習；數字與事實以原文為準。",
+  "items": [
+    {
+      "title": "中國不批准輝達 AI 晶片大量進口，H200 晶片在香港堆積如山",
+      "summary": "路透線：約60萬顆H200滯留香港，北京尚未批准大規模進口；黑市伺服器報價傳顯著上升。",
+      "source": "TechNews",
+      "date": "2026-11-06",
+      "url": "https://technews.tw/2026/11/06/h200-chips-are-piling-up-in-hong-kong/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "可能影響 NVDA 中國出貨節奏敘事與「出口許可≠進口審批」區分。",
+      "newbieTake": "第三方知情人士報道；以公司指引／正式審批為準。"
+    },
+    {
+      "title": "AI 晶片趨向大面積化，英特爾強調 EMIB 封裝技術將迎接龐大商機挑戰台積電",
+      "summary": "AI晶片面積擴大，Intel強調EMIB先進封裝可挑戰台積電CoWoS／矽中介層路線。",
+      "source": "TechNews",
+      "date": "2026-11-06",
+      "url": "https://technews.tw/2026/11/06/intel-emphasizes-that-emib-packaging-technology-will-usher-in-huge-business-opportunities/",
+      "tickers": [],
+      "impact": "先進封裝產能競爭升溫，間接影響AI供應鏈討論。",
+      "newbieTake": "封裝技術路線新聞≠即時營收。"
+    },
+    {
+      "title": "DeepSeek 開源 DeepInfer 達成深度軟硬整合，以加速部署終端推理為目標",
+      "summary": "DeepSeek開源推論框架DeepInfer，目標加速終端／邊緣推理部署，並觸及與NVIDIA及華為昇騰生態。",
+      "source": "TechNews",
+      "date": "2026-11-06",
+      "url": "https://technews.tw/2026/11/06/deepseek-open-sources-deepinfer-deep-software-hardware-integration-accelerate-edge-inference-deployment/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "邊緣推理軟硬整合敘事升溫。",
+      "newbieTake": "開源框架發布≠出貨指引。"
+    },
+    {
+      "title": "三大電源廠搶 800V 關鍵元件，Vertiv 攜英飛凌簽三年協議",
+      "summary": "Vertiv與Infineon簽三年策略合作，搶攻800V AI資料中心電源關鍵元件。",
+      "source": "TechNews",
+      "date": "2026-11-05",
+      "url": "https://technews.tw/2026/11/05/major-power-suppliers-vie-800v-critical-materials-vertiv-infineon-three-year-deal/",
+      "tickers": [],
+      "impact": "AI資料中心電力／電源供應鏈持續受關注。",
+      "newbieTake": "供應商長約≠終端雲廠capex已定。"
+    },
+    {
+      "title": "8 吋晶圓掀漲價潮！TrendForce：明年全球晶圓代工產值有望再衝三成",
+      "summary": "TrendForce：8吋晶圓掀漲價潮，預期明年全球晶圓代工產值有望再衝三成量級。",
+      "source": "TechNews",
+      "date": "2026-11-05",
+      "url": "https://technews.tw/2026/11/05/trendforce-2027-annual-forecast-foundry-and-price/",
+      "tickers": [],
+      "impact": "成熟製程漲價可能傳導至消費電子與車用成本。",
+      "newbieTake": "研調預測會變；以各廠財報為準。"
+    },
+    {
+      "title": "AMD 預告 2027 營收飆增逾 80%！資料中心躍居主力，貢獻占比將破八成",
+      "summary": "AMD預告2027營收大增敘事，資料中心占比料進一步提升（第三方轉述）。",
+      "source": "TechNews",
+      "date": "2026-11-05",
+      "url": "https://technews.tw/2026/11/05/amd-forecasts-over-80-percent-revenue-growth-in-2027/",
+      "tickers": [],
+      "impact": "AI加速器競爭格局討論升溫（對照NVDA）。",
+      "newbieTake": "預告／目標≠已入賬。"
+    },
+    {
+      "title": "三星接受台積電代工 NVHBM 基礎晶粒，以退為進背後的雙軌產能隱憂",
+      "summary": "報道指三星接受台積電代工NVHBM基礎晶粒，市場解讀產能雙軌布局。",
+      "source": "TechNews",
+      "date": "2026-11-05",
+      "url": "https://technews.tw/2026/11/05/samsung-electronics-accepts-tsmc-nvhbm-base-die-production-strategic-retreat-dual-track-capacity-concerns/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "HBM／基礎晶粒供應鏈分配受關注（NVDA鏈）。",
+      "newbieTake": "供應鏈傳述；以官宣產能為準。"
+    },
+    {
+      "title": "微軟正式揭露 AI PC 硬體分級路線圖：從 8GB 入門到 128GB 工作站，Intel、AMD、高通全入列",
+      "summary": "微軟揭露AI PC硬體分級路線圖：由入門記憶體規格到工作站等級，Intel／AMD／高通入列。",
+      "source": "T客邦",
+      "date": "2026-11-05",
+      "url": "https://www.techbang.com/posts/134647-microsoft-ai-pc-hardware-roadmap-8gb-to-128gb",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "AI PC規格分層或影響PC換機與記憶體需求敘事（MSFT生態）。",
+      "newbieTake": "路線圖≠出貨保證。"
+    },
+    {
+      "title": "記憶體漲價衝擊手機市場！全球手機 SoC 出貨量年減 21%，全年恐衰退 20%",
+      "summary": "記憶體漲價衝擊手機：全球手機SoC出貨量年減幅度擴大（研調轉述）。",
+      "source": "T客邦",
+      "date": "2026-11-04",
+      "url": "https://www.techbang.com/posts/134543-smartphone-soc-shipments-drop-memory-price-hike",
+      "tickers": [],
+      "impact": "手機SoC與記憶體成本壓力，間接影響小米等手機鏈討論。",
+      "newbieTake": "研調出貨≠單一家公司指引。"
+    },
+    {
+      "title": "South Korea's Moreh claims AMD MI355X delivers over twice Nvidia B200's inference throughput",
+      "summary": "DigiTimes：韓企Moreh聲稱AMD MI355X推論吞吐可逾Nvidia B200兩倍（第三方測試敘事）。",
+      "source": "DigiTimes",
+      "date": "2026-11-05",
+      "url": "https://www.digitimes.com/news/a20261105VL217/moreh-amd-nvidia-software-government.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "加速器基準戰升溫，投資者宜分開行銷數字與客戶導入。",
+      "newbieTake": "第三方benchmark；以客戶實際部署為準。"
+    },
+    {
+      "title": "US pressure on overseas AI compute squeezes Chinese tenants and Southeast Asian data centers as Beijing pushes domestic chips",
+      "summary": "美方對海外AI算力施壓，壓縮中資租戶與東南亞主機代管空間。",
+      "source": "DigiTimes",
+      "date": "2026-11-05",
+      "url": "https://www.digitimes.com/news/a20261105VL209/ai-chip-data-center-usa-beijing-nvidia-tencent.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "跨境遠端租用先進GPU合規風險升溫（NVDA生態）。",
+      "newbieTake": "政策報道；非單一公司公告。"
+    },
+    {
+      "title": "Naver's Nvidia-backed AI factory faces crucial test after US$9 billion deal",
+      "summary": "Naver獲NVIDIA支持的AI工廠面對約90億美元級交易後的執行考驗。",
+      "source": "DigiTimes",
+      "date": "2026-11-06",
+      "url": "https://www.digitimes.com/news/a20261105VL226/naver-infrastructure-gpu-launch-business.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "主權AI／國家級算力投資執行風險受關注。",
+      "newbieTake": "交易規模報道≠已全部交付。"
+    },
+    {
+      "title": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
+      "summary": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺量級。",
+      "source": "iThome",
+      "date": "2026-11-05",
+      "url": "https://www.ithome.com.tw/news/180244",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "Starlink Mobile地面網建設里程碑（SPCX持倉相關）。",
+      "newbieTake": "以Qualcomm／SpaceX官宣為準；金額未全披露。"
+    },
+    {
+      "title": "美國掀起反AI資料中心浪潮，一面倒支持限制開發",
+      "summary": "美國地方反AI資料中心聲浪升溫，支持限制開發的民調／政治討論增多。",
+      "source": "iThome",
+      "date": "2026-11-05",
+      "url": "https://www.ithome.com.tw/news/180237",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "可能影響美西／德州等地建設節奏敘事（MSFT／NVDA／SPCX相關）。",
+      "newbieTake": "政治情緒≠已立法。"
+    },
+    {
+      "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
+      "summary": "CNBC：Nvidia與Qualcomm大跌超過9%，Nasdaq經歷顯著回調日。",
+      "source": "CNBC Tech",
+      "date": "2026-11-05",
+      "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "impact": "AI股估值與支出疑慮集中釋放。",
+      "newbieTake": "單日行情≠基本面已改。"
+    },
+    {
+      "title": "U.S. midterms could widen AI data center divide",
+      "summary": "中期選舉結果或擴大美國各地AI資料中心監管分歧。",
+      "source": "CNBC Tech",
+      "date": "2026-11-05",
+      "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "州級政策分化可能影響新建節奏預期。",
+      "newbieTake": "政策情景分析；非公司指引。"
+    },
+    {
+      "title": "NVIDIA Vera CPU Delivers the Highest-Throughput and Fastest Agents",
+      "summary": "NVIDIA部落格：Vera CPU強調高吞吐與agent工作負載。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-11-05",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "公司持續推廣Vera／Rubin世代平台敘事。",
+      "newbieTake": "產品blog≠財報數字。"
+    },
+    {
+      "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+      "summary": "CUDA 13.5帶來Vera Rubin GA支援相關更新。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-11-04",
+      "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "軟體棧就緒度影響新平台導入節奏討論。",
+      "newbieTake": "開發者更新；以正式發布說明為準。"
+    },
+    {
+      "title": "The 'Musk Selloff' Deepens as Tesla and SpaceX Combine for $450 Billion Two-day Wipeout",
+      "summary": "富途快訊：市場稱「Musk Selloff」加深，Tesla與SpaceX兩日市值波動受關注。",
+      "source": "富途快訊",
+      "date": "2026-11-06",
+      "url": "https://www.moomoo.com/news/post/1003700636/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "SPCX持倉需分開情緒拋售與業務里程碑。",
+      "newbieTake": "快訊標題黨風險高；核對IR。"
+    },
+    {
+      "title": "As Nvidia's Stock Heads for a Bear Market, Bargain Hunters See a Golden Buying Opportunity",
+      "summary": "富途快訊：Nvidia股價逼近熊市區間討論，市場出現逢低買盤敘事。",
+      "source": "富途快訊",
+      "date": "2026-11-06",
+      "url": "https://www.moomoo.com/news/post/1003698790/as-nvidia-s-stock-heads-for-a-bear-market-bargain",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "研究倉勿把快訊「抄底」說法當建議。",
+      "newbieTake": "非投資建議；以11/17業績為觀察點。"
+    }
+  ]
+}
