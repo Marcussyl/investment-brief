@@ -1,0 +1,316 @@
+{
+  "date": "2026-11-07",
+  "audioUrl": "data/audio/2026-11-07.mp3",
+  "concepts": [
+    {
+      "id": "flight-abort-toggle",
+      "title": "飛行中止切換（flight-abort toggle）",
+      "titleEn": "Flight-abort toggle",
+      "what": "飛行中止（flight abort）係商業火箭／再入載具喺偵測到異常時，用爆炸螺栓、推力終止等方式安全終結飛行，避免失控碎片傷及公眾。FAA 2026-11-05 提出嘅 Part 450 相關建議規則之一，係允許營運商喺飛行期間「切換／啟停」中止能力（toggle abort capability），並釐清何時必須中止、以及可用載具解體分析排除高後果隨機再入事件。呢啲係建議規則（NPRM），未等於已永久生效。",
+      "whyItMatters": "新手睇到「FAA 放寬太空規管」成日以為即刻等於發射節奏無上限。其實係建議規則＋意見徵詢＋2027 年更大執照框架大修嘅路線圖；安全門檻仍在。對 Holding SPCX，監管敘事會影響牌照周轉同市場情緒，但唔等於公司 IR 已改發射承諾。",
+      "whereToday": "FAA 新聞稿（2026-11-05）宣佈四項商業太空執照／規則行動，並計劃 2027 年全面檢討執照框架；第三方（Investing.com／MarketWatch／CNBC，2026-11-06）將之與 SPCX 周五反彈並讀。Yahoo 美股日線 11/06 SPCX 收 134.27。",
+      "whatToWatch": "NPRM 意見期、最終規則、2027 執照框架諮詢、SpaceX IR／發射牌照更新。唔構成買賣建議。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/41199f70bc568126be8af56b2063139d"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+        "date": "2026-10-26",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "DATE OF BOARD MEETING — unaudited Q3 / nine months to 30 Sep 2026 on 24 Nov 2026",
+        "date": "2026-10-23",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Form 8-K — $25B senior notes settlement / Sixteenth Supplemental Indenture",
+        "date": "2026-11-04",
+        "url": "https://www.microsoft.com/en-us/investor/sec-filings"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA to Announce Financial Results for Third Quarter Fiscal 2027 on Nov. 17, 2026",
+        "date": "2026-10-15",
+        "url": "https://nvidianews.nvidia.com/"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "2026 Third Quarterly Report",
+        "date": "2026-10-30",
+        "url": "https://www.icbc-ltd.com/icbc/en/newsupdates/ir/"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-faa-rebound-fri",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：周五反彈約 8.6%；FAA 提商業太空執照簡化；Yahoo 周五收 134.27",
+      "summary": "Holding SPCX。周六安靜帶：美股／港股休市。Yahoo 美股日線 11/06 收 134.27（前收 123.62，約 +8.6%）。FAA（2026-11-05）宣佈四項商業太空發射／再入執照相關行動，包括建議允許飛行期間切換飛行中止能力、釐清中止門檻，並計劃 2027 年全面檢討執照框架、擴編商業太空人力。第三方（Investing.com／CNBC／MarketWatch，2026-11-06）將 FAA 消息與選舉後超賣反彈並讀；CNBC 另引 Deutsche Bank 指「政治報復」風險或偏感知多於即時合約中斷（第三方分析，非公司 IR）。富途快訊另指董事 Donald Harrison 辭任、並非因分歧（第三方快訊）。續讀 SpaceX IR（2026-10-26）$400 億 GPU 融資租賃與 Qualcomm Starlink Mobile 5G。數字以 Yahoo／原文為準。",
+      "whyItMatters": "持倉要把「周五情緒反彈＋FAA 建議規則」同「已官宣租賃／5G 合作」分開：NPRM 未等於最終規則；股價回吐／反彈唔等於發射牌照或融資條款已改。",
+      "whatToWatch": "FAA NPRM 意見期與最終規則、2027 執照框架、SpaceX IR 補充、$400 億租賃執行、德州數據中心／國會監管討論。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "FAA",
+          "date": "2026-11-05",
+          "title": "Transportation Secretary Duffy supercharges American dominance in commercial space transportation",
+          "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-supercharges-american-dominance-commercial"
+        },
+        {
+          "category": "news",
+          "publisher": "Investing.com",
+          "date": "2026-11-06",
+          "title": "Why is Space Exploration Technologies stock rallying today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-rallying-today-93CH-5008756"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-06",
+          "title": "SpaceX is down big on fears of Dem 'retribution' against Musk. Deutsche Bank says buy the dip",
+          "url": "https://www.cnbc.com/2026/11/06/spacex-is-down-big-on-dem-retribution-fears-against-musk-deutsche-bank-says-buy-the-dip.html"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        },
+        {
+          "category": "third-party",
+          "publisher": "富途快訊",
+          "date": "2026-11-07",
+          "title": "美股收盤：三大股指漲跌不一 SpaceX漲超8%",
+          "url": "https://news.futunn.com/flash/1003762341"
+        }
+      ]
+    },
+    {
+      "id": "1810-quiet-tape-board-watch",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：周五回吐；續讀 11/24 董事會；Yahoo 周五收 30.38",
+      "summary": "Holding 1810.HK。周六港股休市。Yahoo 港股日線 11/06 收 30.38（前收 31.30）。港交所公告（2026-10-23）董事會將於 2026-11-24 審議截至 2026-09-30 未經審核第三季／首九個月業績，今日未見更新翌日披露打印（以公開搜尋為準）。續讀週初通訊社題材：10 月電動車交付逾 5 萬輛量級（Investing.com 等，第三方／公司交付數字以公司渠道為準）以及券商對 Q3 疲弱手機以外分部嘅預測（非正式季報）。",
+      "whyItMatters": "持倉要把「日線回吐／券商預測」同「11/24 正式季報」分開：周末安靜帶無新打印，唔代表基本面已變。",
+      "whatToWatch": "11/24 業績公告、汽車／手機／IoT 分部、回購翌日披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING — unaudited results for three/nine months ended 30 Sep 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "Investing.com",
+          "date": "2026-11-02",
+          "title": "Xiaomi shares climb as October EV deliveries top 50,000",
+          "url": "https://www.investing.com/news/stock-market-news/xiaomi-shares-climb-as-october-ev-deliveries-top-50000-4989880"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-06",
+          "title": "1810.HK daily close",
+          "url": "https://finance.yahoo.com/quote/1810.HK"
+        }
+      ]
+    },
+    {
+      "id": "macro-etf-quiet-gold-soft",
+      "ticker": "GLD",
+      "title": "宏觀／ETF：金價回軟（非農／息口預期）；SPYM／VEU 微升；Yahoo 周五收市",
+      "summary": "Macro（已勾選 Fed/FOMC vs HKMA／USD-HKD；China consumer）。周六安靜帶。第三方（CNBC／FXStreet，2026-11-06）指現貨金回軟，伴隨較強美國非農／息口預期升溫敘事；GLD Yahoo 11/06 收 372.52（前收 375.49）。Holding 股票型 ETF：SPYM 86.56（前收 86.30）、VEU 79.25（前收 79.10）。聯匯下港息仍受美息路徑牽動；金管局基本利率仍報 4.25%（公式跟隨聯邦基金目標區間下沿，以 HKMA 公開資料為準）；USD-HKD 仍喺 7.75–7.85 兌換保證區間內波動。US payrolls 非日常覆蓋（profile 未勾選），今日僅因金價／息口敘事並讀。",
+      "whyItMatters": "黃金常跟利率／美元預期聯動；股票型 ETF 日線係風險偏好結果，唔等於下次 FOMC 或金管局已改政策。",
+      "whatToWatch": "下次 FOMC／FedWatch、金管局市場操作、USD-HKD 兌換保證、中國消費數據。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-06",
+          "title": "Gold drops 1% as strong U.S payrolls boost dollar, yields",
+          "url": "https://www.cnbc.com/2026/11/06/gold-eases-on-inflation-worries-from-higher-oil-us-payrolls-data-in-focus.html"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-09-17",
+          "title": "Adjustment of Base Rate (framework reference; Base Rate 4.25%)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260917-3/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-06",
+          "title": "GLD / SPYM / VEU daily closes",
+          "url": "https://finance.yahoo.com/quote/GLD"
+        }
+      ]
+    },
+    {
+      "id": "nvda-h200-rebound-quiet",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：周五反彈；H200 香港滯留敘事續；Yahoo 周五收 186.64",
+      "summary": "Research NVDA。周六安靜帶。Yahoo 美股日線 11/06 收 186.64（前收 181.60，約 +2.8%）。路透／TechNews（2026-11-05/06）引述知情人士：約 60 萬顆 H200 滯留香港待大陸大規模進口審批；少數大廠近月各獲約 1 萬顆量級——屬第三方／未核實至公司公告。NVIDIA 開放模型／工具更新（TechNews 2026-11-06 轉述 11/05 消息）與 6G 開源工具博客屬產品敘事，唔改中國進口審批主線。續讀 2026-11-17 FY27 Q3 電話會。",
+      "whyItMatters": "研究倉要把「美國出口許可」同「中國進口審批」分開；周五反彈唔等於審批已過或指引已改。",
+      "whatToWatch": "11/17 業績與中國相關假設、正式進口審批／配額更新。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters via CNA",
+          "date": "2026-11-06",
+          "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+          "url": "https://www.channelnewsasia.com/east-asia/nvidia-chips-pile-up-hong-kong-china-withhold-import-approval-6527371"
+        },
+        {
+          "category": "news",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-11-06",
+          "title": "中國不批准輝達 AI 晶片大量進口，H200 晶片在香港堆積如山",
+          "url": "https://technews.tw/2026/11/06/h200-chips-are-piling-up-in-hong-kong/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom／blog",
+          "date": "2026-11-06",
+          "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+          "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-28",
+          "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+        }
+      ]
+    },
+    {
+      "id": "msft-neocloud-oracle-quiet",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：縮編 neocloud／結束 Oracle 算力租賃敘事；Yahoo 周五收 530.61",
+      "summary": "Research MSFT。周六安靜帶。路透轉述 Bloomberg（Investing.com，2026-11-06）指 Microsoft 正結束向 Oracle 租用 AI 雲算力安排，作為重新評估數十億美元雲合作之一；知情人士指 Oracle 設備用較舊代 NVIDIA 晶片、對 Microsoft 價值下降。CNBC（2026-11-06）另指公司評估縮減 neocloud 夥伴名單、優先自建產能（第三方／知情人士；發言人重申自建＋租賃＋第三方並行）。Microsoft Foundry 亦上架 fal 影片模型公開預覽、Foundry azd 擴充達 GA（公司社區／第三方）。續讀 11/04 已交割 $250 億高級票據。Yahoo 11/06 收 530.61（前收 535.93）。",
+      "whyItMatters": "研究倉要把「第三方產能重組傳聞」同「已刊 8-K／業績指引」分開：結束個別租賃唔等於 Azure 需求消失，亦唔等於所有 neocloud 合約即時終止。",
+      "whatToWatch": "公司 IR／8-K 有冇正式披露、下一次財報 Capex／GPU 合約時間表、Foundry 產品更新。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Reuters via Investing.com",
+          "date": "2026-11-06",
+          "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports",
+          "url": "https://www.investing.com/news/stock-market-news/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-bloomberg-news-reports-5008946"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-06",
+          "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+          "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Community Hub",
+          "date": "2026-11-05",
+          "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
+          "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Investor",
+          "date": "2026-11-04",
+          "title": "Form 8-K — senior notes settlement context",
+          "url": "https://www.microsoft.com/en-us/investor/sec-filings"
+        }
+      ]
+    },
+    {
+      "id": "1398-quiet-tape",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：周末安靜帶；續讀 10/30 三季報；Yahoo 周五收 7.95",
+      "summary": "Research 1398.HK。周六港股休市。今日未見新港交所／公司 IR 打印（以公開搜尋為準）。續讀公司 2026-10-30 第三季度報告主線；券商評級更新屬第三方。Yahoo 港股日線 11/06 收 7.95（前收 7.935）。",
+      "whyItMatters": "研究倉以正式季報／資本充足與淨息差披露為準；周末無新打印時唔需要用股價微動推斷基本面。",
+      "whatToWatch": "後續業績／資本工具公告、淨息差與資產質素披露、港息路徑。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC IR",
+          "date": "2026-10-30",
+          "title": "2026 Third Quarterly Report",
+          "url": "https://www.icbc-ltd.com/icbc/en/newsupdates/ir/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-06",
+          "title": "1398.HK daily close",
+          "url": "https://finance.yahoo.com/quote/1398.HK"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 2863,
+  "audioVoice": "gTTS-zh-TW"
+}
