@@ -1,233 +1,214 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "disclaimer": "非投資建議。市場動態僅供學習；連結為原文，數字以來源為準。",
   "items": [
     {
-      "title": "中國不批准輝達 AI 晶片大量進口，H200 晶片在香港堆積如山",
-      "summary": "路透線：約60萬顆H200滯留香港，北京尚未批准大規模進口；黑市伺服器報價傳顯著上升。",
+      "title": "輝達要求台積電進軍先進記憶體市場？傳組建 3D DRAM 產線解 AI 缺貨荒",
+      "summary": "第三方·非公告：知情人士指臺積電應 NVIDIA 要求評估 3D DRAM 產線或改建既有廠；臺積電回應不評論市場傳聞，強調核心仍是專業晶圓代工。",
       "source": "TechNews",
-      "date": "2026-11-06",
-      "url": "https://technews.tw/2026/11/06/h200-chips-are-piling-up-in-hong-kong/",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "延續「出口許可≠進口審批」敘事，影響 NVDA 中國出貨節奏解讀。",
-      "newbieTake": "第三方知情人士報道；以公司指引／正式審批為準。"
-    },
-    {
-      "title": "輝達釋出多款免費 AI 模型與工具，助攻企業與科學研究",
-      "summary": "NVIDIA 11/05 起釋出開放模型與 Agent Toolkit 更新，涵蓋視覺理解與企業資料推理場景。",
-      "source": "TechNews",
-      "date": "2026-11-06",
-      "url": "https://technews.tw/2026/11/06/nvidia-open-models-help-developers-accelerate-science-and-engineering/",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "強化開放模型生態敘事，與硬體出貨／中國審批係不同主線。",
-      "newbieTake": "產品／生態更新；唔等於業績指引已改。"
-    },
-    {
-      "title": "避開美國出口管制，中國 AI 新創月之暗面轉向歐洲租輝達晶片算力",
-      "summary": "報道指 Moonshot 等轉向歐洲租用 NVIDIA Blackwell 算力，以規避美中出口限制。",
-      "source": "TechNews",
-      "date": "2026-11-06",
-      "url": "https://technews.tw/2026/11/06/moonshot-turned-to-europe-for-nvidia-blackwell-access-amid-u-s-china-curbs/",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "顯示需求外溢至非中國地區雲算力，未必反映陸進口審批放寬。",
-      "newbieTake": "第三方商業安排報道；注意合規與可持續性。"
-    },
-    {
-      "title": "群聯第三季營收創歷史新高，潘健成宣佈強攻 AI 生態系與自研平台",
-      "summary": "Phison 法說：Q3 營收創新高，強調轉向企業級／AI 生態系，淡化低價庫存紅利依賴。",
-      "source": "TechNews",
-      "date": "2026-11-06",
-      "url": "https://finance.technews.tw/2026/11/06/phisons-third-quarter-revenue-hit-a-record-high/",
-      "tickers": [],
-      "impact": "AI 儲存／控制晶片需求敘事續熱，屬供應鏈觀察。",
-      "newbieTake": "非 Active 持倉；作半導體週期背景。"
-    },
-    {
-      "title": "長江存儲第四晶圓廠本土設備力拚占比逾七成，降低美國箝制",
-      "summary": "外媒指 YMTC 武漢第四廠目標本土設備採購最高約七成，加速設備國產化。",
-      "source": "TechNews",
-      "date": "2026-11-06",
-      "url": "https://finance.technews.tw/2026/11/06/yangtze-memory-technologies-fourth-wafer-fab-strives-to-achieve-a-domestic-equipment-ratio-of-over-70/",
-      "tickers": [],
-      "impact": "記憶體設備自主化影響長期供應格局。",
-      "newbieTake": "外媒轉述目標；以公司／官方確認為準。"
-    },
-    {
-      "title": "伺服器賣到缺貨、PC 卻沒人要買？英特爾財報曝兩極化現況",
-      "summary": "T客邦整理：伺服器需求強、消費 PC 疲弱，零組件漲價或再延後換機潮。",
-      "source": "T客邦",
       "date": "2026-11-07",
-      "url": "https://www.techbang.com/posts/134564-intel-server-cpu-shortage-shipments-revenue-growth",
-      "tickers": [],
-      "impact": "AI／伺服器 vs 消費電子分流，影響半導體週期解讀。",
-      "newbieTake": "產業觀察；唔等於個別 Active 名字指引。"
+      "url": "https://finance.technews.tw/2026/11/07/3d-dram/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "若屬實可能改寫 AI 記憶體供應格局，但目前仍是評估／傳聞階段。",
+      "newbieTake": "公司未證實；以臺積電／NVIDIA 正式說明為準。"
     },
     {
-      "title": "OpenAI 最新旗艦 GPT-6 怎麼用？Astra、Sol 差在哪？",
-      "summary": "T客邦教學整理 GPT-6／Astra／Sol 差異、電腦操作與收費開通方式。",
-      "source": "T客邦",
-      "date": "2026-11-06",
-      "url": "https://www.techbang.com/posts/134435-openai-gpt-6-astra-sol-guide-pricing-tutorial",
+      "title": "傳跨足先進記憶體生產？焦佑鈞：台積電與三大記憶體原廠均有合作不會加入競爭",
+      "summary": "華邦電董事長焦佑鈞回應市場傳聞：臺積電與三大記憶體原廠均有合作，不會加入競爭。",
+      "source": "TechNews",
+      "date": "2026-11-07",
+      "url": "https://finance.technews.tw/2026/11/07/tsmc-collaborates-with-all-three-major-memory-manufacturers-and-will-not-join-the-competition/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "供應鏈人士對「代工廠跨入記憶體」持保留態度，與 3D DRAM 傳聞並讀。",
+      "newbieTake": "第三方訪談；唔等於正式商業決定。"
+    },
+    {
+      "title": "一張圖看美國資料中心建置放緩對台灣 AI 供應鏈影響！法人稱訂單僅遞延",
+      "summary": "報道整理美國資料中心建設疑慮升溫後，對台灣 AI 供應鏈情緒的衝擊；部分法人稱訂單屬遞延而非取消。",
+      "source": "TechNews",
+      "date": "2026-11-07",
+      "url": "https://finance.technews.tw/2026/11/07/taiwans-ai-supply-chain/",
+      "tickers": [],
+      "impact": "市場關注 AI 基建時程會否拉長，影響供應鏈出貨節奏解讀。",
+      "newbieTake": "法人觀點；以各公司訂單／財報為準。"
+    },
+    {
+      "title": "焦佑鈞：記憶體漲價已到極限，不希望景氣下行時間太晚來",
+      "summary": "華邦電董事長指記憶體廠毛利率已處高位，認為漲價接近極限，並談論下一波循環時間表。",
+      "source": "TechNews",
+      "date": "2026-11-07",
+      "url": "https://finance.technews.tw/2026/11/07/memory-price-increases-have-reached-their-limit/",
+      "tickers": [],
+      "impact": "記憶體週期高點討論升溫，可能影響 AI 伺服器成本敘事。",
+      "newbieTake": "產業人士看法；唔等於官方價格指數。"
+    },
+    {
+      "title": "選舉結果不改擴張計劃！OpenAI 完成 110 億美元融資、估值 1.25 兆美元",
+      "summary": "第三方·非公告：知情人士指 OpenAI 新一輪融資首批約 110 億美元，估值報道約 1.25 兆美元量級。",
+      "source": "TechNews",
+      "date": "2026-11-07",
+      "url": "https://finance.technews.tw/2026/11/07/openai-gets-11-billion/",
       "tickers": [
         "MSFT"
       ],
-      "impact": "前端模型競爭影響雲／API 需求敘事；與 MSFT 生態相關但非財報。",
-      "newbieTake": "產品教學；融資／營收數字另見通訊社。"
+      "impact": "前線模型公司融資情緒，可能間接影響雲夥伴算力需求敘事。",
+      "newbieTake": "知情人士報道；條款以官方為準。"
     },
     {
-      "title": "OpenAI 推出 Images 2.6 模型：生成速度快 50%、支援動態 GIF",
-      "summary": "Images 2.6 強調速度與 GIF 支援，免費額度可用，屬多模態產品更新。",
-      "source": "T客邦",
-      "date": "2026-11-06",
-      "url": "https://www.techbang.com/posts/134708-openai-images-2-6-fast-free-gifs",
+      "title": "聯發科 AI ASIC 第四季營收上看 25 億美元，蔡力行：AI 投資回收仍有過渡期",
+      "summary": "TechNews 引述蔡力行：聯發科 AI ASIC 第四季營收上看 25 億美元，並指 AI 投資回收仍有過渡期。",
+      "source": "TechNews",
+      "date": "2026-11-07",
+      "url": "https://technews.tw/2026/11/07/mediatek-rick-tsai-reveals-the-truth-about-ai-investment/",
       "tickers": [],
-      "impact": "生成式 AI 應用層更新，間接影響雲端推論用量話題。",
-      "newbieTake": "產品新聞；非投資建議。"
+      "impact": "客製化 AI 晶片需求敘事續熱，屬供應鏈觀察。",
+      "newbieTake": "報道引述管理層；以公司正式財報為準。"
     },
     {
-      "title": "Nvidia DSX POD leads modular wave as Taiwanese firms race into AI data-center integration",
-      "summary": "DigiTimes：NVIDIA DSX POD 參考設計推動模組化機房，台灣廠商競逐 AI 資料中心整合。",
+      "title": "Intel 傳將停產 Arc B580 遊戲顯卡、產能全拿去餵 AI 專業卡",
+      "summary": "T客邦：傳 Intel 將停產 Arc B580 遊戲顯卡，把產能轉向 AI 專業繪圖卡。",
+      "source": "T客邦",
+      "date": "2026-11-07",
+      "url": "https://www.techbang.com/posts/134646-intel-discontinues-arc-b580-shifts-to-ai-workstation-gpus",
+      "tickers": [],
+      "impact": "顯示消費 GPU 與 AI／工作站產能爭奪，屬半導體週期背景。",
+      "newbieTake": "傳聞報道；以 Intel 正式產品生命週期公告為準。"
+    },
+    {
+      "title": "Google發表Gemini Omni 1.2 Flash！支援原生15秒影片生成與對話式修改，API價格調降三成",
+      "summary": "T客邦：Google 發表 Gemini Omni 1.2 Flash，強調原生短影片生成、對話式修改，並稱 API 價格調降約三成。",
+      "source": "T客邦",
+      "date": "2026-11-07",
+      "url": "https://www.techbang.com/posts/134713-google-gemini-omni-1-2-flash-video-api-price-cut",
+      "tickers": [],
+      "impact": "前端模型／API 價格競爭可能影響雲端推論用量話題。",
+      "newbieTake": "產品新聞；非 Active Alphabet，作產業背景。"
+    },
+    {
+      "title": "三星 Z Fold 9 傳回歸螢幕下鏡頭！視覺全無孔、3.9mm 極致纖薄機身細節曝光",
+      "summary": "T客邦：傳 Galaxy Z Fold 9 將回歸螢幕下鏡頭，並曝光更薄機身細節。",
+      "source": "T客邦",
+      "date": "2026-11-07",
+      "url": "https://www.techbang.com/posts/134608-samsung-galaxy-z-fold-9-udc-3-9mm",
+      "tickers": [],
+      "impact": "折疊手機規格競賽續，屬消費電子觀察。",
+      "newbieTake": "規格傳聞；以三星發表會為準。"
+    },
+    {
+      "title": "US-China trade truce gains breathing room as BIS extends 50% Affiliates Rule suspension into 2027",
+      "summary": "DigiTimes：美國商務部 BIS 將 50% Affiliates Rule 暫緩期延長至 2027-01-10（此前為 2026-11-09）。",
       "source": "DigiTimes",
-      "date": "2026-11-05",
-      "url": "https://www.digitimes.com/news/a20261104PD219/nvidia-infrastructure-epc-data-capacity.html",
+      "date": "2026-11-07",
+      "url": "https://www.digitimes.com/news/a20261106PD237/2027-beijing-2025-technology.html",
       "tickers": [
         "NVDA"
       ],
-      "impact": "縮短上架時間敘事，利好基礎設施供應鏈話題。",
-      "newbieTake": "產業報導；注意與公司指引時間差。"
+      "impact": "出口管制執行節奏放寬時間窗，可能影響供應鏈合規規劃。",
+      "newbieTake": "政策文件時程；以 BIS 原文為準。"
     },
     {
-      "title": "Google擴大AI基礎設施投資，首度進駐懷俄明州建資料中心",
-      "summary": "iThome：Google 擴大 AI 基建，首度於懷俄明州興建資料中心。",
-      "source": "iThome",
-      "date": "2026-11-06",
-      "url": "https://www.ithome.com.tw/news/180286",
+      "title": "Global AI memory crunch drives Taiwan to launch advanced memory initiative",
+      "summary": "DigiTimes：全球 AI 記憶體短缺與漲價，報導指台灣啟動先進記憶體相關倡議。",
+      "source": "DigiTimes",
+      "date": "2026-11-07",
+      "url": "https://www.digitimes.com/news/a20261106PD231/memory-chips-demand-taiwan-government-2027.html",
       "tickers": [],
-      "impact": "超大規模雲持續砸基建，支撐 AI 電力／土地議題。",
-      "newbieTake": "非 Active Alphabet；作雲基建背景。"
+      "impact": "政府／產業政策回應記憶體瓶頸，屬中長期供應格局觀察。",
+      "newbieTake": "產業政策報道；落地細節以官方為準。"
     },
     {
-      "title": "Amazon S3 Tables支援Hive轉Iceberg託管遷移",
-      "summary": "iThome：S3 Tables 支援 Hive 轉 Iceberg 託管遷移，減少企業自建轉換管線。",
-      "source": "iThome",
+      "title": "US lawmakers request briefing with Nvidia's Jensen Huang on dealings with Megaspeed executive",
+      "summary": "第三方·非公告：DigiTimes 指三名美國議員要求黃仁勳出席閉門會議，討論其與前 Megaspeed 高管 Alice Huang 的互動。",
+      "source": "DigiTimes",
       "date": "2026-11-06",
-      "url": "https://www.ithome.com.tw/news/180282",
-      "tickers": [],
-      "impact": "資料湖格式標準化，屬雲端資料平台演進。",
-      "newbieTake": "工程產品更新；非行情催化。"
-    },
-    {
-      "title": "OpenSSH發布緊急更新，修補可利用長密碼繞過身分驗證的資安漏洞SSHole",
-      "summary": "iThome：OpenSSH 緊急修補長密碼可繞過身分驗證漏洞，建議盡快更新。",
-      "source": "iThome",
-      "date": "2026-11-06",
-      "url": "https://www.ithome.com.tw/news/180281",
-      "tickers": [],
-      "impact": "基礎建設資安事件，影響企業修補節奏。",
-      "newbieTake": "資安維運提醒；與個股無直接對應。"
-    },
-    {
-      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "summary": "NVIDIA 博客：開源工具協助研究機構打造下一代 6G 網路實驗與加速。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-11-06",
-      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "url": "https://www.digitimes.com/news/a20261106VL220/nvidia-jensen-huang-ceo-chips-government.html",
       "tickers": [
         "NVDA"
       ],
-      "impact": "電信／6G 研發敘事，屬中長期生態。",
-      "newbieTake": "公司博客；唔等於短期營收指引。"
+      "impact": "中美晶片合規／遊說監督敘事升溫，與出貨指引係不同主線。",
+      "newbieTake": "第三方國會動態；公司正式回應前不宜當成已查實指控。"
     },
     {
-      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "summary": "NVIDIA 介紹 Vera CPU 於高吞吐與 agent 工作負載嘅定位與效能敘事。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-11-05",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "title": "Nvidia reportedly buys glass substrate samples from Korea's JNTC",
+      "summary": "第三方·非公告：DigiTimes 轉述 The Elec，指韓國 JNTC 進入 NVIDIA 採購供應商名單並提供 TGV 玻璃基板樣品。",
+      "source": "DigiTimes",
+      "date": "2026-11-06",
+      "url": "https://www.digitimes.com/news/a20261106VL216/jntc-nvidia-glass-substrate-supplier-manufacturing.html",
       "tickers": [
         "NVDA"
       ],
-      "impact": "補強 CPU＋GPU 全棧敘事，服務 agentic AI。",
-      "newbieTake": "產品博客；等待 11/17 財報驗證需求。"
+      "impact": "先進封裝材料供應鏈話題，屬中長期製程演進。",
+      "newbieTake": "外媒轉述樣品採購；唔等於量產訂單。"
     },
     {
-      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
-      "summary": "Microsoft Foundry 經 fal 上架 Kling／LTX／MiniMax 等影片模型公開預覽。",
-      "source": "Reuters Tech / CNBC Tech",
-      "date": "2026-11-05",
-      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+      "title": "Qualcomm validates HBC memory architecture, targets AI250 samples in 1H27",
+      "summary": "DigiTimes：Qualcomm 完成高頻寬運算（HBC）記憶體架構初步硬體驗證，目標 2027 上半年提供 AI250 樣品。",
+      "source": "DigiTimes",
+      "date": "2026-11-06",
+      "url": "https://www.digitimes.com/news/a20261106PD216/qualcomm-hardware-ai-inference-technology-hbm4.html",
+      "tickers": [],
+      "impact": "客製化 AI 推論晶片與記憶體架構競爭續，屬供應鏈背景。",
+      "newbieTake": "產品時程目標；以公司後續樣品／客戶進度為準。"
+    },
+    {
+      "title": "Linux核心IPv4 TCP連線漏洞影響廣泛，多家廠商陸續推出修補",
+      "summary": "iThome：Linux 核心網路子系統漏洞 CVE-2026-98432（報道評分 9.8）可能導致遠端程式碼執行；Anthropic 稱 Claude 曾寫出利用程式。",
+      "source": "iThome",
+      "date": "2026-11-07",
+      "url": "https://www.ithome.com.tw/news/180298",
+      "tickers": [],
+      "impact": "基礎建設資安事件，影響雲端與企業修補節奏。",
+      "newbieTake": "以發行版／廠商公告同 CVE 原文為準，勿自行驗證漏洞。"
+    },
+    {
+      "title": "OpenAI發表GPT-6 Cyber，找出Firefox 81個未知高風險漏洞",
+      "summary": "iThome：OpenAI 發表專為資安研究開發的 GPT-6 Cyber，報道指其在 Firefox 發現 81 個先前未知高風險漏洞。",
+      "source": "iThome",
+      "date": "2026-11-06",
+      "url": "https://www.ithome.com.tw/news/180285",
       "tickers": [
         "MSFT"
       ],
-      "impact": "Azure AI 產品組合擴充，利好多模態平台黏性敘事。",
-      "newbieTake": "公司社區公告；與 neocloud 產能傳聞分開睇。"
+      "impact": "AI 用於漏洞發掘的能力敘事升溫，資安與模型治理受關注。",
+      "newbieTake": "產品／研究發布；數字以 OpenAI／Mozilla 說明為準。"
     },
     {
-      "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-      "summary": "CNBC：Microsoft 評估縮減 neocloud 夥伴、優先自建；發言人重申彈性產能組合。",
-      "source": "CNBC Tech",
+      "title": "回應資料中心建設爭議，OpenAI提出用電、用水與資訊公開承諾",
+      "summary": "iThome：面對美國各地反對 AI 資料中心聲浪，OpenAI 宣布將擴大公開用電、用水、噪音及環境影響資訊。",
+      "source": "iThome",
       "date": "2026-11-06",
-      "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+      "url": "https://www.ithome.com.tw/news/180271",
       "tickers": [
         "MSFT"
       ],
-      "impact": "可能改寫第三方 GPU 雲訂單節奏預期。",
-      "newbieTake": "知情人士報道；以公司正式披露為準。"
+      "impact": "資料中心在地反對可能延長上架時程，屬 AI 基建風險觀察。",
+      "newbieTake": "公司承諾；實際審批仍看地方政府。"
     },
     {
-      "title": "美股收盤：三大股指漲跌不一 SpaceX漲超8%",
-      "summary": "富途快訊：周五納指漲約1%、芯片股反彈；SpaceX 漲超8%，英偉達漲約2.8%。",
-      "source": "富途快訊",
+      "title": "Returning Starship to the Launch Site",
+      "summary": "公司新聞室／IR：SpaceX 更新指 Flight 15 將嘗試 Starship 上面級首次返回發射場並由 Starbase 發射塔捕捉。",
+      "source": "SpaceX Updates",
       "date": "2026-11-07",
-      "url": "https://news.futunn.com/flash/1003762341",
-      "tickers": [
-        "SPCX",
-        "NVDA"
-      ],
-      "impact": "周末前風險偏好回暖，屬日線情緒。",
-      "newbieTake": "快訊撮要；收市價以 Yahoo 核對。"
-    },
-    {
-      "title": "OpenAI新一轮融资首批110亿美元到账",
-      "summary": "知情人士：OpenAI 新一輪融資首批約110億美元到賬，估值報道約1.25萬億美元量級。",
-      "source": "富途快訊",
-      "date": "2026-11-07",
-      "url": "https://news.futunn.com/flash/1003763100",
-      "tickers": [
-        "MSFT"
-      ],
-      "impact": "AI 前線融資情緒；間接影響雲夥伴敘事。",
-      "newbieTake": "第三方融資傳聞；條款以官方為準。"
-    },
-    {
-      "title": "纳指收涨1% 芯片股反弹",
-      "summary": "富途快訊：费城半导体指数涨约4%；AMD、英特尔、台积电等多数反弹。",
-      "source": "富途快訊",
-      "date": "2026-11-07",
-      "url": "https://news.futunn.com/flash/1003762190",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "半導體板塊日線修復，週末無新交易。",
-      "newbieTake": "市場快訊；唔構成個別買賣建議。"
-    },
-    {
-      "title": "马斯克：SpaceX年底年化营收有望突破1000亿美元",
-      "summary": "快訊轉述马斯克訪談預期：Q4 年化營收或超1000億、政府收入佔比降至10%以下（個人預期非承諾）。",
-      "source": "富途快訊",
-      "date": "2026-11-07",
-      "url": "https://news.futunn.com/flash/1003761449",
+      "url": "https://www.spacex.com/updates",
       "tickers": [
         "SPCX"
       ],
-      "impact": "管理層前瞻性言論，波動大；需對照正式 IR。",
-      "newbieTake": "非公司 IR 公告；當情緒參考即可。"
+      "impact": "完全重複使用試驗目標前進，屬發射節奏／成本結構的長期敘事，而非即時財報數字。",
+      "newbieTake": "公司網站更新；成功與否要等實際飛行同事後報告。"
+    },
+    {
+      "title": "CoreWeave致信得州候任州长，寻求合作推进数据中心项目",
+      "summary": "富途快訊：CoreWeave 致信德州候任州長，尋求合作推進資料中心項目。",
+      "source": "富途快訊",
+      "date": "2026-11-08",
+      "url": "https://news.futunn.com/flash/1003814194/coreweave-writes-to-texas-governor-elect-seeking-collaboration-to-advance",
+      "tickers": [],
+      "impact": "反映期中選舉後 AI 資料中心在德州的政治／審批不確定性，市場關注 neocloud 擴產能否落地。",
+      "newbieTake": "快訊撮要；以公司聲明或州政府回應為準。"
     }
   ]
 }
