@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-09",
+  "audioUrl": "data/audio/2026-11-09.mp3",
+  "concepts": [
+    {
+      "id": "independent-investigation",
+      "title": "獨立調查／獨立董事委員會（independent investigation／independent directors committee）",
+      "titleEn": "Independent investigation / independent directors committee",
+      "what": "獨立調查（independent investigation）係公司董事會對敏感事件開展的內部審查，通常由不擔任日常經營職位的獨立董事組成委員會，並委託外部獨立律師協助取證與審閱。呢個程序唔同於政府調查或國會聽證，亦唔等於已經判斷誰對誰錯。",
+      "whyItMatters": "新手聽到「董事會立案調查」，容易誤以為等於主管辭職、已經定罪、或已證明沒有洩密。調查才開始時的公開聲明只是董事會當下的態度與程序說明；最終發現要等調查完成後的更新。宣布調查本身唔等於改了財務指引。",
+      "whereToday": "NVIDIA 公司新聞室（2026-11-08）《Statement from NVIDIA Board of Directors》宣布因報道指創辦人兼執行長黃仁勳遭外國情報行動鎖定，啟動由獨立董事委員會、外部獨立律師協助監督的獨立調查；董事會寫明目前無理由認為國安或公司機密已洩露，但將審查所有可用資訊。黃仁勳公開支持並承諾配合。Yahoo 美股日線 11/06 NVDA 收 186.64。",
+      "whatToWatch": "董事會後續更新、2026-11-17 FY27 Q3 業績電話會、以及第三方報道的 11 月 18 日國會閉門簡報要求有否落實。唔構成買賣建議。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/41399f70bc5681adb690f9ea0c246f0b"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+        "date": "2026-10-26",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "DATE OF BOARD MEETING — unaudited Q3 / nine months to 30 Sep 2026 on 24 Nov 2026",
+        "date": "2026-10-23",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Form 8-K — $25B senior notes settlement / Sixteenth Supplemental Indenture",
+        "date": "2026-11-04",
+        "url": "https://www.microsoft.com/en-us/investor/sec-filings"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+        "date": "2026-10-28",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "2026 Third Quarterly Report",
+        "date": "2026-10-30",
+        "url": "https://www.icbc-ltd.com/icbc/en/newsupdates/ir/"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "spcx-flight15-nov13",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：官網列 Flight 15 最快 11/13、將首次嘗試兩級返回發射場捕捉；Yahoo 周五收 134.27",
+      "summary": "Holding SPCX。周一亞洲早盤，美股／港股尚未開出新一輪交易。Yahoo 美股日線 11/06 收 134.27（前收 123.62，約 +8.6%）。SpaceX 官網《Starship Flight 15》現列：飛行準備最快周五 2026-11-13 發射，尚待監管核准；75 分鐘窗口於中部時間下午 4:45 開啟。此行計劃首次把 Starship 上面級同 Super Heavy 助推器都返回發射場捕捉；若成功，公司寫成首次完整回收軌道發射系統。上面級目標包括部署 26 枚 Starlink V3 衛星，並寫明只有飛行控制確認再入／著陸／塔近接關鍵系統健康後，才會執行返回發射場。飛行剖面約 275 公里、約 14 圈、超過 22 小時；公司註明時間表會變。第三方 MarketWatch／富途快訊標題指馬斯克為大型收購打開空間——屬第三方／非公告，未見公司同步披露目標或條款。續讀 10/26 400 億美元 GPU 融資租賃，以及 IR 感謝 Harrison 辭任（生效 2026-11-04）。數字以 Yahoo／原文為準。",
+      "whyItMatters": "持倉要把「公司官網列出的試驗窗口與任務目標」同「財務指引／已官宣租賃」分開：返回發射場／塔上捕捉仍屬飛行試驗，成功與否要等實際飛行同事後報告；第三方收購標題唔等於已簽署交易。",
+      "whatToWatch": "Flight 15 實際檔期／執照、飛行後報告、FAA 返回／捕捉條件、$400 億租賃執行。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-11-09",
+          "title": "Starship Flight 15 (as soon as Friday, November 13; pending regulatory approval)",
+          "url": "https://www.spacex.com/launches/starship-flight-15"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX Updates",
+          "date": "2026-11-07",
+          "title": "Returning Starship to the Launch Site",
+          "url": "https://www.spacex.com/updates"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        },
+        {
+          "category": "third-party",
+          "publisher": "MarketWatch via 富途快訊",
+          "date": "2026-11-07",
+          "title": "Elon Musk Opens the Door for a Big SpaceX Acquisition",
+          "url": "https://www.moomoo.com/news/post/1003868536/elon-musk-opens-the-door-for-a-big-spacex-acquisition"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-06",
+          "title": "SPCX daily close",
+          "url": "https://finance.yahoo.com/quote/SPCX"
+        }
+      ]
+    },
+    {
+      "id": "1810-ev-intl-dept",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：周末未見新港交所公告；第三方稱汽車成立國際業務部；Yahoo 周五收 30.38",
+      "summary": "Holding 1810.HK。周一港股尚未開市。Yahoo 港股日線 11/06 收 30.38（前收 31.30）。今日公開搜尋未見 11/08–11/09 新港交所／公司公告；最近一次正式文件仍是 2026-11-05 截至 10 月末的股份變動月報表。港交所公告（2026-10-23）董事會將於 2026-11-24 審議截至 2026-09-30 未經審核第三季／首九個月業績。第三方（Longbridge 等轉載）稱小米汽車成立國際業務部，由汽車部副總裁于立國兼任總經理，向雷軍與盧偉冰雙線匯報——屬第三方／非新公告，組織細節以公司後續官方披露為準。",
+      "whyItMatters": "持倉要把「媒體報道的組織調整」同「11/24 正式季報」分開：出海籌備敘事唔等於已有歐洲銷量或新的業績指引。",
+      "whatToWatch": "11/24 業績公告、汽車／手機／IoT 分部、歐洲出海後續官方說明、回購翌日披露。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING — unaudited results for three/nine months ended 30 Sep 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-11-05",
+          "title": "Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1105/2026110500734.pdf"
+        },
+        {
+          "category": "news",
+          "publisher": "Longbridge (third-party)",
+          "date": "2026-11-06",
+          "title": "Xiaomi EV Establishes International Business Department; Yu Liguo Serves as General Manager",
+          "url": "https://longbridge.com/en/news/304616894"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-06",
+          "title": "1810.HK daily close",
+          "url": "https://finance.yahoo.com/quote/1810.HK"
+        }
+      ]
+    },
+    {
+      "id": "macro-etf-weekend-closes",
+      "ticker": "GLD",
+      "title": "宏觀／ETF：周末後沿用周五收市；聯匯與黃金儲備敘事續；Yahoo 周五 GLD 372.52、SPYM 86.56、VEU 79.25",
+      "summary": "Macro（已勾選 Fed/FOMC vs HKMA／USD-HKD；China consumer）。周一亞洲早盤，美股尚未開出新一輪交易。Yahoo 11/06：GLD 372.52（前收 375.49）、SPYM 86.56（前收 86.30）、VEU 79.25（前收 79.10）。人民網（2026-11-07）引述國家外匯管理局：截至 2026-10 月末，外匯儲備 34,052 億美元；黃金儲備 7,830 萬盎司，較 9 月末增加 83 萬盎司，連續 24 個月增加。聯匯下港息仍受美息路徑牽動；金管局基本利率仍報 4.25%（公式跟隨聯邦基金目標區間下沿，以 HKMA 2026-09-17 公開資料為準）；USD-HKD 仍在 7.75–7.85 兌換保證區間內波動。今日未將美國非農本身單獨成篇（檔案未勾選 payrolls）。",
+      "whyItMatters": "央行增持黃金係儲備多元化／避險敘事，唔等於 GLD 日線已反映全部資訊；股票型 ETF 日線係風險偏好結果，唔等於下次 FOMC 或金管局已改政策。",
+      "whatToWatch": "外匯局／央行後續儲備數據、中國消費與物價數據、下次 FOMC、金管局市場操作、USD-HKD 兌換保證。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "人民網／國家外匯管理局",
+          "date": "2026-11-07",
+          "title": "截至10月末外匯儲備規模超3.4萬億美元 黃金儲備連續24個月增加",
+          "url": "http://finance.people.com.cn/n1/2026/1107/c1004-40829675.html"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-09-17",
+          "title": "Adjustment of Base Rate (framework reference; Base Rate 4.25%)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260917-3/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-06",
+          "title": "GLD / SPYM / VEU daily closes",
+          "url": "https://finance.yahoo.com/quote/GLD"
+        }
+      ]
+    },
+    {
+      "id": "nvda-board-investigation",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：董事會宣布獨立調查；黃仁勳發員工信配合；Yahoo 周五收 186.64",
+      "summary": "Research NVDA。Yahoo 美股日線 11/06 收 186.64（前收 181.60，約 +2.8%）；周一美股尚未開出新一輪交易。NVIDIA 公司新聞室（2026-11-08）《Statement from NVIDIA Board of Directors》：董事會因最近報道指創辦人兼執行長黃仁勳遭外國情報行動鎖定，啟動獨立調查；由獨立董事委員會、並由外部獨立律師協助監督。董事會寫明目前無理由認為國安或公司機密已洩露，但調查將審查所有可用資訊；黃仁勳支持並承諾配合。董事會表示對黃仁勳及其領導團隊有信心，並稱適時再更新。同日新聞室另刊《A Message to Our Company》：黃仁勳向員工承認不忠、道歉，並重申支持調查。第三方 CNBC 引述公司稱黃仁勳將不中斷繼續擔任執行長；另報道眾議院三名共和黨委員會主席要求他於 11 月 18 日參加閉門簡報（緊接 11 月 17 日 FY27 Q3 業績）——屬要求／第三方，公司未在新聞室確認出席。續讀 3D DRAM 傳聞與中國進口審批線（第三方）。數字以 Yahoo／原文為準。",
+      "whyItMatters": "研究倉要把「公司新聞室的程序聲明」同「第三方國安細節／國會要求」分開：宣布獨立調查唔等於已有調查結論，亦唔等於業績指引已改。",
+      "whatToWatch": "董事會後續更新、11/17 業績與中國相關假設、11/18 閉門簡報要求有否落實。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-08",
+          "title": "Statement from NVIDIA Board of Directors",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-08",
+          "title": "A Message to Our Company",
+          "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-08",
+          "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+          "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-08",
+          "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+          "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-28",
+          "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-06",
+          "title": "NVDA daily close",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ]
+    },
+    {
+      "id": "msft-neocloud-monday",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：周末未見新 IR 數字；續讀精簡 neocloud 第三方敘事；Yahoo 周五收 530.61",
+      "summary": "Research MSFT。今日未見新公司 8-K／IR 數字（以公開搜尋為準；周末後最近正式交割語境仍是 11/04 $250 億高級票據）。CNBC（2026-11-06）引述知情人士指公司評估縮減 neocloud 夥伴名單、優先自建產能；與 CoreWeave、Nebius、IREN、Lambda、Nscale 及 Oracle 等關係進入檢視。富途快訊轉載 Benzinga（2026-11-08）稱在此背景下 CoreWeave 與 IREN 等股價承壓——屬第三方／非公告。Yahoo 11/06 收 530.61（前收 535.93）。",
+      "whyItMatters": "研究倉要把「第三方產能重組傳聞」同「已刊 8-K／業績指引」分開：結束或縮減個別租賃唔等於 Azure 需求消失，亦唔等於所有 neocloud 合約即時終止。",
+      "whatToWatch": "公司 IR／8-K 有冇正式披露、下一次財報 Capex／GPU 合約時間表。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-06",
+          "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+          "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Benzinga via 富途快訊",
+          "date": "2026-11-08",
+          "title": "CoreWeave and IREN Stocks Face Pressure as Microsoft Reassesses Its Computing Deals",
+          "url": "https://www.moomoo.com/news/post/1003915925/coreweave-and-iren-stocks-face-pressure-as-microsoft-reassesses-its"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Investor",
+          "date": "2026-11-04",
+          "title": "Form 8-K — senior notes settlement context",
+          "url": "https://www.microsoft.com/en-us/investor/sec-filings"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-06",
+          "title": "MSFT daily close",
+          "url": "https://finance.yahoo.com/quote/MSFT"
+        }
+      ]
+    },
+    {
+      "id": "1398-quiet-monday",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：周一未見新公告；續讀 10/30 三季報；Yahoo 周五收 7.95",
+      "summary": "Research 1398.HK。周一港股尚未開市。今日公開搜尋未見新港交所／公司 IR 打印。續讀公司 2026-10-30 第三季度報告主線。Yahoo 港股日線 11/06 收 7.95（前收 7.93）。",
+      "whyItMatters": "研究倉以正式季報／資本充足與淨息差披露為準；無新打印時唔需要用股價微動推斷基本面。",
+      "whatToWatch": "後續業績／資本工具公告、淨息差與資產質素披露、港息路徑。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC IR",
+          "date": "2026-10-30",
+          "title": "2026 Third Quarterly Report",
+          "url": "https://www.icbc-ltd.com/icbc/en/newsupdates/ir/"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-06",
+          "title": "1398.HK daily close",
+          "url": "https://finance.yahoo.com/quote/1398.HK"
+        }
+      ]
+    }
+  ],
+  "audioScriptChars": 3267,
+  "audioVoice": "gTTS-zh-TW"
+}
