@@ -1,0 +1,305 @@
+{
+  "asOf": "2026-11-10T07:54+08:00 Asia/Hong_Kong",
+  "coverageDateRange": "約過去 48 小時（約 11/8 至 11/10 香港早上）；少數 DigiTimes／iThome 稿涵蓋 11/6–11/7 事件但於 11/9 刊出並仍在敘事主軸，已標日期。",
+  "activeWatchlist": [
+    {
+      "name": "SpaceX",
+      "ticker": "SPCX",
+      "exchange": "NASDAQ"
+    },
+    {
+      "name": "SPDR Gold Shares",
+      "ticker": "GLD",
+      "exchange": "Other"
+    },
+    {
+      "name": "SPDR Portfolio S&P 500",
+      "ticker": "SPYM",
+      "exchange": "Other"
+    },
+    {
+      "name": "Vanguard FTSE All-World ex-US",
+      "ticker": "VEU",
+      "exchange": "Other"
+    },
+    {
+      "name": "Xiaomi",
+      "ticker": "1810",
+      "exchange": "HKEX"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ"
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ"
+    },
+    {
+      "name": "工商銀行",
+      "ticker": "01398",
+      "exchange": "HKEX"
+    }
+  ],
+  "tickersWithNews": [
+    "NVDA",
+    "MSFT",
+    "SPCX"
+  ],
+  "tickersWithoutNews": [
+    "GLD",
+    "SPYM",
+    "VEU",
+    "1810",
+    "01398"
+  ],
+  "itemCount": 19,
+  "notes": "週一至週二早上主軸仍是 NVDA 董事會獨立調查／黃仁勳致歉與股價反應，其次是 Google 第八代 TPU 新系統（含機密運算）、AI 記憶體／電源供應鏈、Microsoft AI Agent 安全與精簡 Oracle 租用算力、SpaceX 德州超算／太空算力與營收展望。資安有 SonicWall CVE-2026-19868（CISA KEV）與 BossAI 自動化攻擊（臺灣緊急應變服務）。Active 中 GLD、SPYM、VEU、1810、01398 本輪無對題專稿；未發現小米／工商銀行新稿。來源皆 Active Ready。未灌水、未虛構 CVE／數字。",
+  "activeNewsSourcesUsed": [
+    "科技新報 TechNews",
+    "T客邦",
+    "DigiTimes 電子時報",
+    "iThome",
+    "CNBC Tech",
+    "NVIDIA Newsroom + Active IR",
+    "富途快訊／moomoo"
+  ],
+  "items": [
+    {
+      "title": "Statement from NVIDIA Board of Directors",
+      "summary": "輝達董事會宣布就執行長黃仁勳遭外國情報行動鎖定的報導展開獨立調查，由獨立董事委員會並委託外部獨立律師監督；董事會表示目前無理由認為國安或公司機密已外洩，黃仁勳全力配合。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-11-08",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場可能高度關注公司治理與國安敘事如何影響輝達領導層穩定度，以及後續調查聲明節奏。相關討論亦可能牽動 AI 晶片出口與對中政策敘事敏感度。",
+      "newbieTake": "可接著看董事會後續更新、11 月 17 日財報，以及國會是否安排閉門簡報。",
+      "provenance": "公司新聞室"
+    },
+    {
+      "title": "A Message to Our Company",
+      "summary": "黃仁勳向全體員工發信，坦承對妻子不忠並致歉，表示將全力配合董事會獨立調查，並重申對輝達與美國國安的承諾；同時請外界給予家人隱私空間。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-11-08",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "公司新聞室親函可能被解讀為穩定內部士氣與對外切割個人私事的嘗試，市場關注點仍在調查範圍與執行長續任預期。",
+      "newbieTake": "可對照董事會聲明與後續是否有獨立委員會進度更新，而不是只看單一內部信。",
+      "provenance": "公司新聞室"
+    },
+    {
+      "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy",
+      "summary": "CNBC 報導輝達週一收跌約 4.27%，因董事會就黃仁勳與被指為中國間諜的女商人 Alice Huang 關係啟動獨立調查；黃仁勳員工信承認婚外情，中國外交部稱相關間諜敘事缺乏依據。",
+      "source": "CNBC Tech",
+      "date": "2026-11-09",
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "此事可能把輝達從純 AI 成長敘事推向領導層與國安交叉風險，短期情緒可能偏謹慎，但部分分析仍強調其 AI 晶片領先地位未必立即改變。",
+      "newbieTake": "可同時觀察同業晶片股分化、11/17 財報指引，以及出口管制／國會談話節奏。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "Chip stocks gain despite Nvidia investigating Jensen Huang's affair",
+      "summary": "亞洲與歐洲多家晶片／設備股週一反彈，台積電、鴻海、三星、SK 海力士與 ASML 等走高；韓國官員表示已簽約輝達 GPU 供貨預期不受黃仁勳爭議影響，輝達美股盤前則偏弱。",
+      "source": "CNBC Tech",
+      "date": "2026-11-09",
+      "url": "https://www.cnbc.com/2026/11/09/asia-chip-stocks-south-korea-taiwan-nvidia.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "市場可能暫把事件解讀為偏集中於輝達治理風險，而非立刻否定整體 AI 供應鏈需求；若領導層不確定性升高，敘事才可能外溢至同業。",
+      "newbieTake": "可比較輝達本身與台／韓供應鏈股的相對走勢，看風險是否擴散。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
+      "summary": "輝達與韓國 Rebellions、SK Telecom 宣布合作，計畫以 NVLink Fusion 連結 Rebellions 下一代 R200 NPU 與輝達機架級推論基礎建設，並由 SKT 部署於其 AI 資料中心；R200 系統預期 2028 年可部署。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026-11-08",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "即便治理爭議升溫，公司層面仍持續推進主權 AI／異質推論平台敘事，市場可能關注客製 ASIC 與 GPU 共存如何影響長期生態綁定。",
+      "newbieTake": "可留意後續是否公布實際機架規格、客戶導入時程與對 GPU／NPU 分工細節。",
+      "provenance": "公司新聞室"
+    },
+    {
+      "title": "Google 第八代 TPU 再添兩款，聯手 AMD 打造安全與機密推論 TPU",
+      "summary": "Google 擴充第八代 TPU，新增主打機密運算的 TPU 8tx（搭配客製 AMD x86 主機）與強化記憶體／機櫃密度的 TPU 8i Max；加上既有 8t／8i，今年共四款 TPU 系統。",
+      "source": "科技新報 TechNews",
+      "date": "2026-11-09",
+      "url": "https://technews.tw/2026/11/09/google-introduces-tpu-8tx-and-tpu-8i-max/",
+      "tickers": [],
+      "impact": "雲端自研加速器持續細分訓練／推論／機密運算場景，可能加深市場對 GPU 以外 AI 算力選項與異質架構競爭的關注。",
+      "newbieTake": "可對照企業機密運算需求與 AMD 在主機端角色，看後續客戶採用案例。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "搶攻企業AI規模化的需求，Google新推兩款TPU新系統，TPU首度支援機密運算",
+      "summary": "iThome 指出 Google 一年內首度推出四款 TPU 產品，新系統 TPU 8tx 在硬體層加入安全機制並搭配客製 AMD CPU 主機，強調資料傳輸與處理全程加密的機密運算能力。",
+      "source": "iThome",
+      "date": "2026-11-09",
+      "url": "https://www.ithome.com.tw/news/180336",
+      "tickers": [],
+      "impact": "受高度監管產業對「可用且可隔離」AI 推論需求升溫時，市場可能更關注硬體級機密運算能否成為雲端標案差異化條件。",
+      "newbieTake": "可再看原廠對適用產業（政府／金融）與延遲數據的說明是否有後續實測。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "AI 吸走七成 DRAM，記憶體荒恐延續到 2030 年代，GPU 價格難回落",
+      "summary": "科技新報整理產業追蹤指 AI 資料中心估消耗全球約七成 DRAM，HBM 排擠傳統記憶體產能；摩根大通估至 2026 年底 DRAM 價格較 2024 年大漲，消費級 GPU 與筆電等價格同步承壓。",
+      "source": "科技新報 TechNews",
+      "date": "2026-11-09",
+      "url": "https://technews.tw/2026/11/09/there-is-no-end-in-sight-for-the-gpu-supply-problem/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "記憶體供給結構偏向 AI／HBM，可能讓市場持續關注消費電子與顯卡通膨，以及資料中心資本支出對零組件定價的外溢。",
+      "newbieTake": "可追蹤美光／三星 2027 年 HBM 長約進度，以及消費級 GPU 建議售價與街貨價差。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "Diamond Foundry 200 毫米單晶鑽石晶圓問世，打造頂級散熱黑科技",
+      "summary": "Diamond Foundry 宣布培育出全球首片 200 毫米單晶鑽石晶圓，強調高導熱與電氣絕緣特性，被視為 AI 高功耗晶片散熱材料進展；目前仍屬樣品，距離量產導入尚需驗證。",
+      "source": "科技新報 TechNews",
+      "date": "2026-11-09",
+      "url": "https://technews.tw/2026/11/09/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer/",
+      "tickers": [],
+      "impact": "AI 加速器功耗上修背景下，市場可能把先進散熱材料視為長期供應鏈觀察點，但短期對量產成本與良率仍須保留不確定性。",
+      "newbieTake": "可留意後續缺陷密度、300 毫米路線圖，以及是否出現晶片廠驗證合作消息。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "台達電、光寶科 10 月營收齊揚，年增均逾 30%",
+      "summary": "受惠 AI 資料中心電源需求，台達電公布 10 月合併營收約 746.66 億元、年增約 30.1%；光寶科同期營收約 201 億元、年增約 32%，並提到 AI 伺服器電源、BBU 與高階光電半導體需求。",
+      "source": "科技新報 TechNews",
+      "date": "2026-11-09",
+      "url": "https://finance.technews.tw/2026/11/09/delta-liteon-oct-30-pct-yoy-growth/",
+      "tickers": [],
+      "impact": "AI 基建敘事可能由 GPU 本體延伸到電源與備援供應鏈，市場關注點包括出貨能見度與後續法說對 800VDC 等技術進度的更新。",
+      "newbieTake": "可把電源雙雄營收當作 AI 資本支出落地的旁證指標之一，並對照後續月營收。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "微軟警告企業AI智慧體不能盲目信任！安全機制必須獨立於模型，還推出Guardian Agents負責監督",
+      "summary": "微軟警示企業不應盲目信任可自主呼叫工具的 AI Agent，強調安全控制須獨立於模型；並擴展 Project Perception，推出動態權限、風險評估與監督用 Guardian Agents，計畫與 Agent 365 等管理產品整合。",
+      "source": "T客邦",
+      "date": "2026-11-09",
+      "url": "https://www.techbang.com/posts/134402-microsoft-guardian-agents-ai-safety",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "企業端可能更關注 Agent 治理與資安平台綁定，微軟有機會把身分／端點／雲端安全能力延伸成 AI 部署門檻敘事。",
+      "newbieTake": "可觀察 Guardian Agents 是否進入正式產品時程，以及支援的本機 Agent 清單擴充進度。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "Microsoft reportedly phasing out Oracle compute, reassessing cloud deals",
+      "summary": "DigiTimes 報導微軟決定不續約後，正逐步結束向 Oracle 租用算力的安排，並重新檢視雲端合作；文章將此置於 neocloud 商業模式受到更多審視的背景。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-11-09",
+      "url": "https://www.digitimes.com/news/a20261109VL220/microsoft-oracle-capacity-software-2023.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "市場可能關注大型雲端業者如何調整外部算力租用與自建／夥伴組合，以及這對 neocloud 供給敘事的影響。",
+      "newbieTake": "可等待微軟或 Oracle 是否有官方說明，並對照後續資本支出與雲端指引。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "Musk targets 3Q27 launch for Nvidia-powered space data centers, massive scale by 2029",
+      "summary": "DigiTimes 引述馬斯克於 Baron 投資會議談話，指其將太空算力視為戰略資產，並談到以輝達為核心的太空資料中心目標時程：約 2027 年第三季啟動、2029 年邁向更大規模。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-11-09",
+      "url": "https://www.digitimes.com/news/a20261109PD260/elon-musk-data-launch-spacex-testing.html",
+      "tickers": [
+        "SPCX",
+        "NVDA"
+      ],
+      "impact": "太空算力仍屬長線願景敘事，但可能強化市場把 SpaceX 與 AI 基建／輝達供應鏈連結討論的頻率。",
+      "newbieTake": "可把時程當展望而非已落地產能，並留意後續是否有發射驗證或客戶合約細節。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "Musk says SpaceX annual recurring revenue likely to top US$500 billion by December 2027",
+      "summary": "DigiTimes 報導馬斯克稱 SpaceX 年度經常性收入（ARR）有望在 2027 年 12 月超過 5,000 億美元，並稱 1 兆美元年化跑速「並非不可能」，但機率僅約 2%。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-11-09",
+      "url": "https://www.digitimes.com/news/a20261109VL210/spacex-revenue-2027-ceo-elon-musk.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "高目標數字可能推升對 SpaceX 成長敘事的市場關注，同時也可能引來對可實現性與收入結構（星鏈／發射／算力）的更多追問。",
+      "newbieTake": "可對照公司後續是否拆分業務收入來源，避免只看單一遠期目標數字。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "数据中心反对声浪中，马斯克再下重注：SpaceX拟在德州投建240亿美元算力中心与燃气电厂",
+      "summary": "富途轉述智通財經：Starbase 市公開聽證會通知顯示，SpaceX 計畫在德州自有市鎮建設並營運燃氣電廠與超算設施，首期投資預估 240 億美元，並申請房產稅減免，市專員預計 12 月 9 日審議。原文來源：智通財經APP。",
+      "source": "富途快訊",
+      "date": "2026-11-10",
+      "url": "https://news.futunn.com/post/1003939154/amid-mounting-opposition-to-the-data-center-musk-places-another",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "在美國地方反數據中心情緒升溫背景下，自建電力＋算力的垂直整合可能成為市場觀察 SpaceX AI 基建落地能力的新焦點，也伴隨政策／社區阻力不確定性。",
+      "newbieTake": "可跟 12/9 聽證會結果、減免條件，以及是否公布裝置容量與算力規模。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "US-approved Nvidia H200 handlers in China include firms with empty offices and blacklist ties",
+      "summary": "DigiTimes 引述調查報導指，美方核可處理輝達 H200 對中銷售的部分中介／處理商，出現登記辦公室空置、或與美國貿易黑名單相關企業有連結等情況，加深外界對個案國安審查能否有效隔離受限實體的疑慮。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-11-09",
+      "url": "https://www.digitimes.com/news/a20261109VL218/nvidia-china-chips-investigation-blacklist.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "在黃仁勳調查與出口管制並存的時刻，市場可能更敏感於 H200 核准通路可信度，以及後續是否收緊對中出貨審查。",
+      "newbieTake": "可追蹤美國商務部／國會是否對核准名單與轉運機制提出新要求。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "Anthropic buys US$3.4B in generators for AI data centers",
+      "summary": "DigiTimes 報導 Anthropic 承諾約 34 億美元採購約 1.7GW 重型燃氣發電機及相關工程安裝服務，稱此為 AI 公司單筆電力設備採購規模最大之一，凸顯算力擴張對電力前置投資的依賴。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-11-09",
+      "url": "https://www.digitimes.com/news/a20261109PD250/anthropic-data-electricity-revenue-demand.html",
+      "tickers": [],
+      "impact": "AI 資本支出敘事可能進一步延伸到發電與併網前置，市場關注電力瓶頸是否成為下一階段擴張節奏的關鍵約束。",
+      "newbieTake": "可留意後續機組交付時程、選址，以及是否與特定雲端／主權算力園區綁定。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "美國CISA警告SonicWall資安漏洞遭積極利用",
+      "summary": "美國 CISA 將 SonicWall SonicOS SSL-VPN 身分驗證相關漏洞 CVE-2026-19868 列入已知遭利用漏洞（KEV），要求聯邦機構 14 天內完成修補；原廠修補版本包括 SonicOS 7.3.4-7013 與 8.2.3-8015，主要影響啟用 SAML 的 SSL-VPN 環境。",
+      "source": "iThome",
+      "date": "2026-11-09",
+      "url": "https://www.ithome.com.tw/news/180346",
+      "tickers": [],
+      "impact": "遠端存取設備若曝露且未及時更新，可能提高企業遭入侵與橫向移動風險，資安與網路設備維運節奏可能再受關注。",
+      "newbieTake": "若環境有 SonicWall SSL-VPN／SAML，可優先核對是否已套用原廠修補並關閉不必要對外曝露。",
+      "provenance": "第三方·非公告"
+    },
+    {
+      "title": "AI自動化攻擊系統BossAI鎖定臺灣緊急應變服務",
+      "summary": "Acronis 揭露名為 BossAI 的 AI 自動化攻擊系統，由約 12 個 AI 代理分工掃描、滲透與漏洞利用，12 天內鎖定 11 國組織；臺灣為攻擊最密集地區之一，緊急應變服務是主要目標。",
+      "source": "iThome",
+      "date": "2026-11-09",
+      "url": "https://www.ithome.com.tw/news/180304",
+      "tickers": [],
+      "impact": "AI 降低攻擊門檻的實戰案例，可能推升對關鍵基礎設施與委外供應鏈防護、以及 AI 代理濫用監控的市場與政策關注。",
+      "newbieTake": "可再讀 Acronis／iThome 細節，重點看受影響行業與建議防護，而非追駭客身份八卦。",
+      "provenance": "第三方·非公告"
+    }
+  ]
+}
