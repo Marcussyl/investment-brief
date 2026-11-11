@@ -1,0 +1,357 @@
+{
+  "date": "2026-11-11",
+  "stories": [
+    {
+      "id": "macro-cpi-gld-etf",
+      "ticker": "GLD",
+      "title": "宏觀／ETF：美國 10 月 CPI 按月升 0.4%；Yahoo 周二 GLD 收 369.36（約 -2.68%），SPYM 88.28、VEU 80.92；美股周三開市、債市建議休市",
+      "summary": "Holding GLD／SPYM／VEU。Yahoo 美股日線 11/10：GLD 369.36（前收 11/09 的 379.53，約 -2.68%）、SPYM 88.28（前收 88.59，約 -0.35%）、VEU 80.92（前收 81.47，約 -0.68%）。美國勞工統計局（BLS，2026-11-10 美東 8:30）公布：10 月季調後 CPI-U（所有城鎮消費者）按月升 0.4%（9 月為 +0.6%）；食品指數 +0.5%、能源指數 +0.7%、住房（shelter）+0.3%（BLS 指住房佔當月總升幅逾三成）；未計食品及能源的指數（核心）按月升 0.3%，與 8 月、9 月相同。因 2025 年 10 月撥款空窗未能蒐集調查數據，BLS 無法為多數數列公布 2026 年 10 月的 12 個月按年變動。CNBC 引述道瓊斯訪查預期總指數按月 +0.3%、核心 +0.2%；同日另一篇報道引述現貨金跌 2.8% 報每盎司 4,021.36 美元，十二月黃金期貨跌 1.9% 報 4,036.00 美元，並引述 CME FedWatch 當時 12 月加息 25 基點已完全計入、加息 50 基點概率由數據前約 0% 升至約 10.5%（CNBC 通脹專稿則寫 13.6%）——屬第三方工具即時快照，會隨時間變動。聯儲理事 Waller 在倫敦演講（CPI 公布前）表示：即使 10 月通脹改善，他仍傾向在 12 月會議支持加息 25 基點；若核心 CPI 約 0.3% 或更高，則認為應考慮加息 50 基點。官方議息日程為 2026-12-08 至 12-09（附帶經濟預測摘要 SEP）。金管局每日貨幣統計（更新至 2026-11-10 18:30）顯示：基本利率仍為 4.25%，美元兌港元兌換保證賣出／買入價仍為 7.85／7.75，預測外匯交易為 +0。紐交所 2026 年假期表並無 11/11 休市；SIFMA（2026-10-28）建議美元定息市場於退伍軍人節 11/11 全日休市（建議性質）。本窗口未見中國國家統計局新的 10 月社零官方稿。今日未將非農本身單獨成篇。數字以 BLS／金管局／Yahoo／原文為準。",
+      "whyItMatters": "持倉要把官方按月通脹打印，同黃金／美債息預期的即時反應，以及聯匯下港息仍受美息路徑牽動，分開來看：CPI 熱於部分訪查預期，唔等於 12 月 FOMC 或金管局已經改政策；FedWatch 概率更會盤中變動。",
+      "whatToWatch": "12/8–12/9 FOMC（含 SEP）、後續官方通脹數據（下一次 CPI 預定 12/10）、金管局兌換保證與基本利率、以及周三美股開市但美元債市建議休市下的流動性。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "date": "2026-11-10",
+          "title": "CONSUMER PRICE INDEX — OCTOBER 2026 (USDL-26-1685)",
+          "url": "https://www.bls.gov/news.release/cpi.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "U.S. Bureau of Labor Statistics (archive)",
+          "date": "2026-11-10",
+          "title": "Consumer Price Index News Release — archives/cpi_11102026.htm",
+          "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "Federal Reserve Board",
+          "date": "2026-11-10",
+          "title": "The Economic Outlook and Some Thoughts on Labor Market Dynamism — Governor Christopher J. Waller",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "Federal Reserve Board",
+          "date": "2026-11-11",
+          "title": "Meeting calendars and information — 2026 FOMC Meetings (December 8-9*)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-11-10",
+          "title": "Daily Monetary Statistics (updated 18:30, 10/11/2026; Base Rate 4.25%, CU 7.85/7.75)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-09-17",
+          "title": "Adjustment of Base Rate (framework reference; Base Rate 4.25%)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260917-3/"
+        },
+        {
+          "category": "exchange",
+          "publisher": "NYSE",
+          "date": "2026-11-11",
+          "title": "Holidays & Trading Hours — 2026 calendar (Veterans Day not listed as a stock-market holiday)",
+          "url": "https://www.nyse.com/trade/hours-calendars/"
+        },
+        {
+          "category": "exchange",
+          "publisher": "SIFMA",
+          "date": "2026-10-28",
+          "title": "SIFMA Fixed Income Market Close Recommendation for the U.S. Veterans Day Holiday (Wednesday, November 11, 2026)",
+          "url": "https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-10",
+          "title": "Gold falls as CPI tops forecasts, lifting dollar and yields",
+          "url": "https://www.cnbc.com/2026/11/10/gold-edges-lower-as-focus-shifts-to-us-inflation-data.html"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-10",
+          "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+          "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-10",
+          "title": "GLD / SPYM / VEU daily closes",
+          "url": "https://finance.yahoo.com/quote/GLD"
+        }
+      ]
+    },
+    {
+      "id": "spcx-flight15-booster22",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：Flight 15 仍最快 11/13、尚待核准；第三方稱 Super Heavy 已運至發射台做擠壓測試；Yahoo 周二收 143.09",
+      "summary": "Holding SPCX。Yahoo 美股日線 11/10 收 143.09（前收 11/09 的 142.07，約 +0.72%）。SpaceX 官網《Starship Flight 15》現仍列：飛行準備最快周五 2026-11-13 發射，尚待監管核准；75 分鐘窗口於中部時間下午 4:45 開啟；此行計劃首次把 Starship 上面級同 Super Heavy 助推器都返回發射場捕捉，上面級目標包括部署 26 枚 Starlink V3 衛星。新進展屬第三方：Space.com（2026-11-10）引述 SpaceX 當日於 X 的帖文及照片，稱 Super Heavy Booster 22 已運至 Starbase 發射台，並在捕捉高度進行懸掛擠壓測試（suspended squeeze test）；屬第三方／非公司 IR 同步披露，官網飛行頁並未改寫發射窗口。續讀 10/26 400 億美元 GPU 融資租賃，以及先前回報的德州電廠／超算聽證會（預計 12/09 審議，仍屬第三方）。數字以 Yahoo／原文為準。",
+      "whyItMatters": "持倉要把公司官網仍然寫明「最快 11/13、尚待核准」的試驗窗口，同第三方報道的運台／擠壓測試分開：測試或運台唔等於執照已批或發射已鎖定。",
+      "whatToWatch": "Flight 15 實際檔期／執照、官方webcast與飛行後報告、12/09 Starbase 聽證會。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-11-11",
+          "title": "Starship Flight 15 (as soon as Friday, November 13; pending regulatory approval)",
+          "url": "https://www.spacex.com/launches/starship-flight-15"
+        },
+        {
+          "category": "news",
+          "publisher": "Space.com",
+          "date": "2026-11-10",
+          "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos"
+        },
+        {
+          "category": "news",
+          "publisher": "Space.com",
+          "date": "2026-11-10",
+          "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
+          "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-10",
+          "title": "SPCX daily close",
+          "url": "https://finance.yahoo.com/quote/SPCX"
+        }
+      ]
+    },
+    {
+      "id": "1810-tuesday-close",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：Yahoo 周二收 30.60（約 +1.66%）；截至今早仍未見 11/10 新翌日披露，最近公告仍是 11/09 回購",
+      "summary": "Holding 1810.HK。Yahoo 港股日線 11/10 收 30.60（前收 11/09 的 30.10，約 +1.66%）。港股周三早市尚未開市（09:30 開始），故此為最近一個常規收市。今日早段按港交所已公開文件檢索，未發現提交日為 2026-11-10 或 2026-11-11、關於 11/10 買賣的新翌日披露報表；最近一份仍是 2026-11-09 提交的報表：公司於 11/09 在聯交所回購 1,655,000 股 B 類普通股作註銷，最高價 30.24 港元、最低價 30.08 港元，合計支付 49,892,788.5 港元。董事會仍定於 2026-11-24 審議截至 2026-09-30 未經審核第三季／首九個月業績。若公司於 11/10 再有場內回購，正常會在下一交易日開市前披露，可於今日稍後再核對。數字以港交所原文／Yahoo 為準。",
+      "whyItMatters": "持倉要把周二收市價變動，同「已提交的翌日披露」分開：未見到新報表，唔等於當天沒有或一定有回購，只能以港交所文件為準。",
+      "whatToWatch": "今日稍後有否 11/10 回購的翌日披露、後續註銷進度、11/24 業績公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-11-09",
+          "title": "Next Day Disclosure Return — share repurchase and share-scheme issues (submitted 9 November 2026)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900805.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING — unaudited results for three/nine months ended 30 Sep 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-10",
+          "title": "1810.HK daily close",
+          "url": "https://finance.yahoo.com/quote/1810.HK"
+        }
+      ]
+    },
+    {
+      "id": "nvda-wachtell-probe",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：獨立董事聲明已外聘 Wachtell／前聯邦檢察官主導調查；Yahoo 周二收 168.89，約 -5.47%",
+      "summary": "Research NVDA。Yahoo 美股日線 11/10 收 168.89（前收 11/09 的 178.67，約 -5.47%），與 CNBC 所寫周二收跌 5.47% 相符。新公司事實：NVIDIA 新聞室（2026-11-10）《Statement From the Independent Members of the NVIDIA Board》全文為——獨立董事已外聘前紐約南區聯邦檢察官署署理檢察長 Joon H. Kim 及其律所 Wachtell, Lipton, Rosen & Katz，就周日已宣布的事項進行全面獨立調查。續讀 11/08 董事會聲明：當時寫明因報道指創辦人兼執行長黃仁勳遭外國情報行動鎖定而啟動獨立調查，並表示當時無理由認為國安或公司機密已洩露。CNBC 等第三方另報道總統稱 FBI 正在調查、以及有股東在聖荷西聯邦法院提起集體訴訟（Rosen Law Firm）——上述細節並非公司新聞室同步文件，屬第三方・非公告。續讀 11/17 FY27 Q3 業績電話會。數字以 Yahoo／公司新聞室／原文為準。",
+      "whyItMatters": "研究倉要把公司新聞室「已點名外聘律師／主導調查人員」的程序更新，同股價單日跌幅、以及未經公司確認的訴訟／執法細節分開：外聘律師唔等於調查已有結論，亦唔等於業績指引已改。",
+      "whatToWatch": "董事會或新聞室後續更新、11/17 業績電話會、任何向監管機構提交的正式文件。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-10",
+          "title": "Statement From the Independent Members of the NVIDIA Board",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-08",
+          "title": "Statement from NVIDIA Board of Directors",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-10-28",
+          "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-10",
+          "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-10",
+          "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-10",
+          "title": "NVDA daily close",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ]
+    },
+    {
+      "id": "msft-imagine-enterprise",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：公司新聞室公布與 IBM 推出 Imagine Enterprise 代理平台；Yahoo 周二收 533.16（約 -2.20%）",
+      "summary": "Research MSFT。Yahoo 美股日線 11/10 收 533.16（前收 11/09 的 545.18，約 -2.20%）。公司新聞室（2026-11-10）宣布 IBM 與 Microsoft 推出 Imagine Enterprise：一個旨在協助企業建立、運行並治理行業特定 AI 代理的平台；稿件稱 IBM Consulting 提供超過 6,000 個預建 AI 代理及資產，Microsoft 提供 AI、雲端與安全技術，並有雙方前線部署工程支援。行業框架起初包括金融服務、保險及零售。今日公開搜尋未見新的公司 8-K／IR 數字稿（最近正式交割語境仍是 11/04 高級票據）。部分第三方報道把當日股價下跌與 Anthropic 推出可競爭辦公室軟件的工具聯繫起來——屬第三方／非公告，公司新聞室並未作此表述；同日整體風險偏好亦受美國 CPI 打印影響。數字以 Yahoo／公司新聞室原文為準。",
+      "whyItMatters": "研究倉要把公司新聞室的產品／合作宣布，同第三方對股價原因的解讀、以及宏觀利率預期分開：宣布新平台唔等於已披露新的收入或資本開支數字。",
+      "whatToWatch": "公司 IR／8-K 有否後續披露、下一次財報對 Azure／ Copilot 與合作進度的表述。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Source",
+          "date": "2026-11-10",
+          "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
+          "url": "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Investor",
+          "date": "2026-11-04",
+          "title": "Form 8-K — senior notes settlement context",
+          "url": "https://www.microsoft.com/en-us/investor/sec-filings"
+        },
+        {
+          "category": "third-party",
+          "publisher": "Yahoo Finance (closes)",
+          "date": "2026-11-10",
+          "title": "MSFT daily close",
+          "url": "https://finance.yahoo.com/quote/MSFT"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "yoy-cpi-data-gap",
+      "title": "通脹按年變動數據缺口（missing 12-month CPI / YoY data gap）",
+      "titleEn": "missing 12-month CPI / YoY data gap",
+      "what": "通脹按年變動（year-over-year／12-month percent change）係把今月嘅物價指數，同去年同月比較得出嘅升跌幅度，新聞往往會先報呢個「按年」數字。數據缺口（data gap）係指統計機構今期有按月數字，但因為缺少用來對照嘅去年同月調查，官方無法按慣例公布大多數數列嘅 12 個月按年變動。",
+      "whyItMatters": "新手睇通脹，多數先搵「按年升咗幾多」。如果官方今期寫明無法公布大多數數列嘅按年變動，唔等於今月完全冇量度過通脹，更唔等於通脹係零；只代表熟悉嘅按年標題數字今期缺席，要改睇官方有公布嘅按月（季調）數字，亦要明白跨年比較暫時唔完整。",
+      "whereToday": "美國勞工統計局（BLS，2026-11-10）公布：10 月季調後 CPI-U 按月升 0.4%（9 月為 +0.6%）；食品 +0.5%、能源 +0.7%、住房 +0.3%；核心（未計食品及能源）按月升 0.3%，與 8 月、9 月相同。BLS 寫明因 2025 年 10 月撥款空窗未能蒐集調查數據，無法為多數數列公布 2026 年 10 月嘅 12 個月按年變動。Yahoo 美股日線 11/10：GLD 369.36（約 -2.68%）、SPYM 88.28、VEU 80.92。",
+      "whatToWatch": "下一次 CPI 預定 2026-12-10，以及 12/8–12/9 FOMC（含經濟預測摘要 SEP）。唔構成買賣建議。",
+      "relatedTickers": [
+        "GLD",
+        "SPYM",
+        "VEU"
+      ],
+      "notionUrl": "https://app.notion.com/p/41599f70bc5681f2a82bff065faa9fe3"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+        "date": "2026-10-26",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return — 1,655,000 Class B shares repurchased for cancellation on 9 November 2026",
+        "date": "2026-11-09",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900805.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Form 8-K — $25B senior notes settlement / Sixteenth Supplemental Indenture",
+        "date": "2026-11-04",
+        "url": "https://www.microsoft.com/en-us/investor/sec-filings"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "Statement From the Independent Members of the NVIDIA Board",
+        "date": "2026-11-10",
+        "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Circular — Notice of the Third Extraordinary Shareholders’ Meeting of 2026",
+        "date": "2026-11-09",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900646.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-11.mp3",
+  "audioScriptChars": 3484,
+  "audioVoice": "gTTS-zh-TW"
+}
