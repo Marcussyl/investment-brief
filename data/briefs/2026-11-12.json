@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-12",
+  "stories": [
+    {
+      "id": "1810-nddr-nov11",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：11/11 翌日披露顯示當日在聯交所回購 166 萬股 B 類股份，合計 49,878,850 港元；Yahoo 周三收 30.10（約 -1.63%）",
+      "summary": "Holding 1810.HK。Yahoo 港股日線 11/11：30.10（前收 11/10 的 30.60，約 -1.63%）。小米 11/11 向聯交所提交翌日披露報表：交易日 2026-11-11，在聯交所回購 1,660,000 股 B 類普通股，最高每股 30.12 港元、最低 29.96 港元，合計付出 49,878,850 港元，全部用作註銷。同一報表亦列 11/10 及 11/11 因股份獎勵／期權向非董事參與者發行新股 251,800 股（每股 2.43 港元）及 44,200 股（每股 2.58 港元）。回購授權於 2026-06-02 通過，授權上限 2,583,952,309 股；截至該報表，已按授權在聯交所或其他交易所回購 149,319,000 股，約佔授權當日已發行股份（不含庫存股）0.58%；回購後禁售期至 2026-12-11。標題檢索未見 11/10 當日回購的翌日披露（最近兩份為 11/09 的 1,655,000 股及本份 11/11 報表）。董事會仍預定 2026-11-24 考慮截至 2026-09-30 的三個月／九個月未經審核業績。數字以聯交所 PDF 及 Yahoo 為準。",
+      "whyItMatters": "翌日披露係官方回購紀錄，唔等於股價一定點行：周三收市 30.10，剛好落在當日回購價 29.96 至 30.12 區間附近。回購授權仲有餘額，但每一次都要等翌日报表先有官數。",
+      "whatToWatch": "今日（11/12）會否再有翌日披露、24/11 業績董事會，以及註銷／禁售期（至 12/11）後續公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-11-11",
+          "title": "Next Day Disclosure Return — 1,660,000 Class B shares repurchased for cancellation on 11 November 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1111/2026111100861.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-11-09",
+          "title": "Next Day Disclosure Return — 1,655,000 Class B shares repurchased for cancellation on 9 November 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900805.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING — unaudited results for the three/nine months ended 30 September 2026, to be considered on 24 November 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        }
+      ]
+    },
+    {
+      "id": "spcx-flight15-tminus1",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：Flight 15 官方仍寫最快周五 11/13、尚待核准，75 分鐘窗口下午 4:45 CT 開；Yahoo 周三收 139.75（約 -2.33%）",
+      "summary": "Holding SPCX。Yahoo 美股日線 11/11：139.75（前收 11/10 的 143.09，約 -2.33%）。SpaceX 官方任務頁（今早再讀）仍寫：Flight 15 準備最快於周五 2026-11-13 發射，尚待監管核准（pending regulatory approval）；75 分鐘發射窗口於中部時間下午 4:45 開啟（頁面標題亦標 17:45–19:00 ET）。直播約於升空前 30 分鐘開始。此行計劃首次把 Starship 同 Super Heavy 都返回發射場捕捉；上級火箭目標包括部署 26 顆 Starlink V3 衛星。官方強調行程會變，須再查該頁同 X 帳號。本窗口未見新的 SpaceX IR 數字公告取代 10/26 的 400 億美元 GPU 融資租賃稿。第三方分析師對在軌資料中心／GPU 機架的規模估算，並非公司公告，不在本則當作官數。",
+      "whyItMatters": "離官方「最快周五」窗口只剩約一日，但「尚待核准」同「行程可能改」仍然係官方針。周三跌咗約 2.33%，係市場價格，唔等於發射已獲批或已取消。",
+      "whatToWatch": "官方窗口、網播時間有冇改，以及核准／執照用語；若如期發射，就睇官方任務後續說明。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-11-13",
+          "title": "Starship Flight 15 — as soon as Friday, November 13, pending regulatory approval; 75-minute window opens 4:45 p.m. CT",
+          "url": "https://www.spacex.com/launches/starship-flight-15"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX Investor Relations",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+        }
+      ]
+    },
+    {
+      "id": "macro-etf-wednesday-tape",
+      "ticker": "GLD",
+      "title": "宏觀／ETF：Yahoo 周三 GLD 續跌收 365.17（約 -1.13%），SPYM 89.42（約 +1.29%）、VEU 81.67（約 +0.93%）；金管局基本利率仍 4.25%、兌換保證 7.85／7.75",
+      "summary": "Holding GLD／SPYM／VEU。Yahoo 美股日線 11/11（退伍軍人節；美股常規開市，SIFMA 建議美元定息市場全日休市，屬建議性質）：GLD 365.17（前收 11/10 的 369.36，約 -1.13%）、SPYM 89.42（前收 88.28，約 +1.29%）、VEU 81.67（前收 80.92，約 +0.93%）。周二官方打印仍然係今早最主要嘅已公布通脹數據：美國勞工統計局（BLS，2026-11-10）10 月季調後 CPI-U 按月升 0.4%，核心按月升 0.3%；因 2025 年 10 月撥款空窗，BLS 無法為多數數列公布 2026 年 10 月的 12 個月按年變動；下次 CPI 預定 2026-12-10。金管局每日貨幣統計（更新至 2026-11-11 18:30）顯示：基本利率仍為 4.25%，美元兌港元兌換保證賣出／買入價仍為 7.85／7.75，預測外匯交易（T+1）為 +0；隔夜 HIBOR 為 3.03%（11/10 為 2.07%），一個月期定價 2.59452%。本窗口仍未見中國國家統計局新的 10 月社零官方稿（可見最新官方稿仍為 1–9 月／9 月）。12/8–12/9 FOMC（含 SEP）日程不變。數字以 BLS／金管局／Yahoo／原文為準。",
+      "whyItMatters": "同一晚通脹打印之後，黃金 ETF 再跌、股票類 ETF 卻反彈，說明「通脹數據」唔會自動變成同一方向嘅買賣結論。聯匯下港息路徑仍受美息預期牽動，但金管局官方兌換保證同基本利率今早並無改。",
+      "whatToWatch": "12/8–12/9 FOMC（含 SEP）、12/10 下一次官方 CPI、金管局兌換保證與基本利率，以及中國國家統計局若公布 10 月社零。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-11-11",
+          "title": "Daily Monetary Statistics (updated 18:30, 11/11/2026) — Base Rate 4.25%; CU 7.85 / 7.75",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "company",
+          "publisher": "Hong Kong Monetary Authority (API)",
+          "date": "2026-11-11",
+          "title": "Daily figures of interbank liquidity — end_of_date 2026-11-11",
+          "url": "https://api.hkma.gov.hk/public/market-data-and-statistics/daily-monetary-statistics/daily-figures-interbank-liquidity"
+        },
+        {
+          "category": "company",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "date": "2026-11-10",
+          "title": "CONSUMER PRICE INDEX — OCTOBER 2026 (USDL-26-1685)",
+          "url": "https://www.bls.gov/news.release/cpi.htm"
+        },
+        {
+          "category": "exchange",
+          "publisher": "SIFMA",
+          "date": "2026-10-28",
+          "title": "SIFMA recommended a full close for USD fixed-income trading on Veterans Day, 11 Nov 2026 (recommendation only)",
+          "url": "https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026"
+        }
+      ]
+    },
+    {
+      "id": "nvda-wsj-oust-report",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：第三方稱董事會擬撤換執行長（路透未能即時核實）；Yahoo 周三常規收 173.73（約 +2.87%），路透轉載指盤後約跌 8%；公司新聞室截至今早未見確認撤換的新聲明",
+      "summary": "Research NVDA。Yahoo 美股日線 11/11：173.73（前收 11/10 的 168.89，約 +2.87%）。CNA 及 Euronext 轉載路透 11/11 稿：華爾街日報引述知情人士稱，輝達董事會正準備撤換執行長黃仁勳，並準備最快於周三開會決定其去留。CNA 稿寫明「輝達未即時回應置評；路透未能即時核實有關報道」，並稱股份在盤後交易下跌約 8%。此 8% 係通訊社對盤後交易的描述，並非 Yahoo 常規收市價，亦不是公司公告。公司新聞室截至本早仍未見確認撤換或董事會已作出人事決定的新聲明；最近官方稿仍是 11/10 獨立董事聲明（已外聘前聯邦檢察官 Joon H. Kim 及 Wachtell, Lipton, Rosen & Katz 主導周日宣布的調查），以及 11/08 董事會聲明同黃仁勳致員工信。CNBC（2026-11-11，美東 16:59）另報道，跨黨派議員公開要求黃仁勳請辭；眾議院外交、對中及情報委員會主席曾去信要求 11/18 出席，並對記者表示若未獲回應會考慮傳票。以上國會內容屬第三方採訪，並非公司或國會正式決議公告。",
+      "whyItMatters": "「通訊社轉述董事會擬撤換」同「公司已公布獨立調查、但未確認撤換」係兩件事。常規收市升、盤後被報下跌，亦要分開睇，避免把未核實傳聞當成已發生的人事決定。",
+      "whatToWatch": "公司新聞室或證交所披露有冇正式人事聲明、獨立調查後續官方更新，以及 11/18 國會出席要求有冇公開下文。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNA (Reuters report)",
+          "date": "2026-11-11",
+          "title": "Nvidia is preparing to oust CEO Jensen Huang: Report — Reuters could not immediately verify; after-hours about 8%",
+          "url": "https://www.channelnewsasia.com/world/nvidia-jensen-huang-oust-ceo-6544031"
+        },
+        {
+          "category": "news",
+          "publisher": "Euronext Live (Reuters)",
+          "date": "2026-11-11",
+          "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+          "url": "https://live.euronext.com/en/financial-news/nvidia-preparing-oust-ceo-jensen-huang-wsj-reports"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-11",
+          "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+          "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-10",
+          "title": "Statement From the Independent Members of the NVIDIA Board",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-08",
+          "title": "Statement From NVIDIA Board of Directors",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        }
+      ]
+    },
+    {
+      "id": "1398-sse-ashare-approval",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：公司公告上交所已審核通過向特定對象發行 A 股申請，仍待中國證監會註冊同意、存在不確定性；Yahoo 周三收 7.885（約 -1.31%）",
+      "summary": "Research 1398.HK（Yahoo／本站代號；Notion 代碼為 01398）。Yahoo 港股日線 11/11：7.885（前收 11/10 的 7.99，約 -1.31%）。工商銀行 2026-11-11 港交所公告：當日收到上海證券交易所《關於中國工商銀行股份有限公司向特定對象發行股票的審核意見》，指該項向特定對象發行股份的申請符合發行條件、上市條件及信息披露要求。公告寫明，有關事項仍須取得中國證券監督管理委員會的註冊同意，最終能否及何時取得註冊同意仍存在不確定性；銀行將按進展履行信息披露，並提醒投資者注意風險。公告提述 2026-09-06、09-10、09-29 的相關公告及 09-10 通函。2026 年第三次臨時股東會仍預定 2026-11-27 下午 2:50 於北京舉行（11/09 通函）。數字以公告及 Yahoo 為準。",
+      "whyItMatters": "上交所審核通過，只係發行流程其中一步，並唔等於已經完成發行或已經註冊。公告自己都寫住仲要證監會註冊同意，而且成敗同時間都未定。",
+      "whatToWatch": "證監會註冊進度的後續公告，以及 11/27 臨時股東會。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Industrial and Commercial Bank of China Limited",
+          "date": "2026-11-11",
+          "title": "Announcement on the Application for Issuance of A Shares to Specific Targets Reviewed and Approved by the Shanghai Stock Exchange",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1111/2026111100476.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "ICBC Investor Relations",
+          "date": "2026-11-11",
+          "title": "Announcement on the Application for Issuance of A Shares to Specific Targets Reviewed and Approved by the Shanghai Stock Exchange",
+          "url": "https://www.icbc-ltd.com/icbcltd/Investor%20Relations/"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Industrial and Commercial Bank of China Limited",
+          "date": "2026-11-09",
+          "title": "Circular — Notice of the Third Extraordinary Shareholders’ Meeting of 2026 (27 November 2026, 2:50 p.m.)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900646.pdf"
+        }
+      ]
+    },
+    {
+      "id": "msft-currency-cloud-pricing",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：公司新聞室公布 2027-01-01 起調整部分貨幣商業雲定價；Yahoo 周三收 521.12（約 -2.26%）",
+      "summary": "Research MSFT。Yahoo 美股日線 11/11：521.12（前收 11/10 的 533.16，約 -2.26%；連跌第二個交易日）。Microsoft Source（2026-11-10）公布：由 2027-01-01 起，作為每年一次的當地貨幣定價檢討，將更新部分貨幣的商業雲定價，適用於澳元（AUD）、人民幣（CNY）、印度盧比（INR）、挪威克朗（NOK）及新西蘭元（NZD）。官方表列雲端調整為：AUD -4%、CNY 最高達 -8.5%、INR +15.7%、NOK -5.9%、NZD +10%；本地部署（on-prem）僅 INR 最高達 +20%、NZD +10%，其餘上列貨幣為無調整。註 1：個別 SKU 百分比或因計算及四捨五入而略有不同。註 2：人民幣調整適用於 Microsoft 全球雲服務及由 21Vianet 營運的 Microsoft Cloud（不包括由 21Vianet 營運的 Microsoft Azure）。巴西雷亞爾（BRL）將於稅改落地後再檢討並提前公布；日圓（JPY）維持每年 4 月調整，2027 年 4 月詳情預定 2027 年 2 月公布。此係公司定價說明，並非把周三跌幅歸因於此稿的官方因果聲明。",
+      "whyItMatters": "呢份係官方對 2027 年 1 月當地貨幣雲定價的預告，影響嘅係部分地區客戶帳單貨幣，而唔係一份新業績。股價單日變動可以有好多原因，唔好把定價表直接當成升跌解釋。",
+      "whatToWatch": "2027-01-01 生效前後的官方補充、2 月將公布的日圓 2027 年 4 月調整，以及後續 SEC／業績稿有否再量化地區收入影響。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Source",
+          "date": "2026-11-10",
+          "title": "Annual currency adjustments to Microsoft Commercial Cloud pricing",
+          "url": "https://news.microsoft.com/source/2026/11/10/annual-currency-adjustments-to-microsoft-commercial-cloud-pricing/"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "a-share-issue-to-specific-targets",
+      "title": "向特定對象發行 A 股（issuance of A shares to specific targets）",
+      "titleEn": "issuance of A shares to specific targets",
+      "what": "向特定對象發行 A 股，係指上市公司唔係向所有公眾投資者公開發售，而係向已鎖定的特定認購對象發行在上海或深圳上市的人民幣普通股（A 股）。呢類發行通常要先過交易所審核，再取得中國證監會的註冊同意，先有機會完成。",
+      "whyItMatters": "新手見到「審核通過」，容易以為股份已經發行完、資金已經到手。其實公告若寫明「仍須證監會註冊同意，且能否及何時取得仍存在不確定性」，就代表流程未完，最終數量、時間同會否落地都仲未定；一旦完成，亦可能改變 A 股股本，從而影響攤薄同資本充足相關討論。",
+      "whereToday": "工商銀行 2026-11-11 港交所公告：當日收到上交所審核意見，指其向特定對象發行股份的申請符合發行條件、上市條件及信息披露要求；但事項仍須中國證監會註冊同意，最終能否及何時取得仍存在不確定性。Yahoo 11/11 收 7.885（約 -1.31%）。",
+      "whatToWatch": "證監會註冊進度的後續公告，以及 11/27 臨時股東會。唔構成買賣建議。",
+      "relatedTickers": [
+        "1398.HK"
+      ],
+      "notionUrl": "https://app.notion.com/p/41699f70bc5681b58136d98e96d4f797"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER (Apollo master finance lease)",
+        "date": "2026-10-26",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return — 1,660,000 Class B shares repurchased for cancellation on 11 November 2026",
+        "date": "2026-11-11",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1111/2026111100861.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Form 8-K — $25B senior notes settlement / Sixteenth Supplemental Indenture",
+        "date": "2026-11-04",
+        "url": "https://www.microsoft.com/en-us/investor/sec-filings"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "Statement From the Independent Members of the NVIDIA Board",
+        "date": "2026-11-10",
+        "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on the Application for Issuance of A Shares to Specific Targets Reviewed and Approved by the Shanghai Stock Exchange",
+        "date": "2026-11-11",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1111/2026111100476.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-12.mp3",
+  "audioScriptChars": 3492,
+  "audioVoice": "gTTS-zh-TW"
+}

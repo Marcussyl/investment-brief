@@ -1,227 +1,209 @@
 {
-  "updated": "2026-11-11",
-  "disclaimer": "非投資建議。市場動態僅供學習；連結為原文，數字以來源為準。",
+  "updated": "2026-11-12",
+  "disclaimer": "第三方·非公告，唯供參考，唔構成買賣建議。",
   "items": [
     {
-      "title": "Statement From the Independent Members of the NVIDIA Board",
-      "summary": "公司新聞室／IR：輝達獨立董事聲明，已委任前紐約南區聯邦檢察官代理檢察長 Joon H. Kim 及其所屬律師事務所 Wachtell, Lipton, Rosen & Katz，就週日宣布的事項進行全面獨立調查。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-11-10",
-      "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+      "title": "輝達董事會傳聞正在準備撤換執行長黃仁勳，盤後股價應聲重挫 8%",
+      "summary": "科技新報引述《華爾街日報》報導，輝達董事會正準備撤換執行長黃仁勳；消息曝光後，週三盤後交易股價應聲重挫超過 8%。文中並指，在此消息發布前數分鐘，《紐約時報》另披露黃仁勳與公司醫療保健部門副總裁金柏莉·鮑威爾（Kimberly Powell）涉及婚外情，輝達對該則紐時報導並未立即回應。報道亦提到，公司已就稍早與黃樂（Alice Huang）相關的間諜指控展開獨立調查，並聘請華鐸律師事務所（Wachtell, Lipton, Rosen & Katz）追查；另稱輝達本週股價已下跌 7%，並可能寫下連續第六週收黑。",
+      "source": "科技新報",
+      "date": "2026-11-12",
+      "url": "https://finance.technews.tw/2026/11/12/rumors-suggest-that-nvidias-board-of-directors-is-preparing-to-replace-ceo-jensen-huang/",
       "tickers": [
         "NVDA"
       ],
-      "impact": "市場可能把調查團隊與時程視為觀察輝達治理與國安敘事的下一節點，關注點仍在調查範圍、進度與執行長續任預期，而非單一聲明本身。",
-      "newbieTake": "可接著看出獨立調查是否公布範圍、時程或期中更新，並對照公司後續正式聲明，勿把人事傳聞當結論。"
+      "impact": "這仍屬第三方報導，並非公司新聞室確認的人事決定。市場可能把董事會動向、獨立調查進度，以及國安與出口管制討論放在同一敘事裡觀察，波動或會加大。",
+      "newbieTake": "可對照公司是否就撤換傳聞發正式聲明，以及原定 11 月 17 日財報會上董事會或管理層如何回應提問。"
     },
     {
-      "title": "黃仁勳遭控隱瞞私情與敏感關係 輝達市值慘崩一兆、股東集體告上法院",
-      "summary": "第三方·非公告：T客邦報導，投資人已向加州聖荷西聯邦法院對輝達與執行長黃仁勳提起股東集體訴訟，指控管理層未充分揭露其與涉嫌情資活動人士的私人關係及相關治理、國安風險。文中稱消息傳出後輝達股價重挫，公司單日市值蒸發超過新台幣 1 兆元；輝達發言人表示將全力配合獨立調查並依法捍衛公司與股東權益。",
+      "title": "桃色風暴延燒！美國會多位議員要求黃仁勳請辭並強制出席聽證會",
+      "summary": "科技新報引述 CNBC 等報導，多位跨黨派國會議員公開要求黃仁勳引咎辭職。參議院銀行委員會共和黨成員凱文·克拉默（Kevin Cramer）、即將卸任的共和黨眾議員唐·培根（Don Bacon），以及眾議院監督委員會旗下小組的民主黨代表蘇哈斯·蘇布拉馬尼揚（Suhas Subramanyam）均有相關表態。文中指眾議院外交委員會主席布萊恩·馬斯特（Brian Mast）、美中戰略競爭特別委員會主席約翰·穆勒納爾（John Moolenaar）與情報委員會主席瑞克·柯羅福（Rick Crawford）已於 11 月 4 日致函，要求黃仁勳於 11 月 18 日出席聽證；若拒絕配合，委員會表示將考慮動用傳票。報道並提到國會正研擬把 AI 監督法（AI Overwatch Act）、MATCH 法及《晶片安全法》等納入年度國防授權法。",
+      "source": "科技新報",
+      "date": "2026-11-12",
+      "url": "https://finance.technews.tw/2026/11/12/several-members-of-the-u-s-congress-have-called-for-huang-jen-hsun-to-resign/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "人事傳聞之外，市場可能更關注國會調查、聽證與出口管制立法是否升溫，以及這些程序會如何影響輝達與華府的互動節奏。",
+      "newbieTake": "可留意 11 月 18 日聽證是否成行、公司或國會後續公開信函，以及相關草案是否被寫入國防授權法。"
+    },
+    {
+      "title": "共軍背景陸校採購輝達 H200 晶片，名列美黑名單仍得手",
+      "summary": "科技新報引述路透社報導，隸屬中國「國防七子」、已被列入美國出口「實體清單」的西北工業大學，官網 10 月 21 日發布的採購紀錄顯示，上個月以 87 萬 4,700 元人民幣購入兩顆輝達 H200 晶片，是向「陝西博算網絡科技」購買，而非直接向輝達採購。報道並指該校今年還透過與中國企業簽訂的 5 份算力租賃合約，取得使用 H200 及其他輝達 AI 處理器的權限。路透稱西北工業大學、輝達及美國商務部工業暨安全局均未回應置評請求。",
+      "source": "科技新報",
+      "date": "2026-11-11",
+      "url": "https://technews.tw/2026/11/11/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "在執行長相關調查與對中晶片政策已受關注之際，這類採購與租賃路徑可能被市場和國會讀成出口管制執行漏洞的新例證，後續討論或再轉向許可審查與轉售管控。",
+      "newbieTake": "可看商務部或國會是否就此案作公開說明，以及輝達後續是否就通路與最終用戶合規作補充。"
+    },
+    {
+      "title": "SpaceX 太空資料中心野心曝光，分析師估 2028 年在軌部署 1 萬個輝達 GPU 機架",
+      "summary": "科技新報引述廣發證券分析師 Jeff Pu 的預估，SpaceX 到 2028 年可能建立約 5GW 的太空 AI 運算能力，並在軌道上部署約 1 萬個輝達 GPU 機架。估算指下一代太空 AI 衛星將採用輝達 Vera Rubin NVL72 系統，分析師稱之為「Kessel racks」：每個機架預計配置 72 顆 Rubin GPU，單一機架峰值功耗約 350 至 400 千瓦，文中並提到 GPU 熱設計功耗甚至可能達到 4,000 瓦。供應鏈或於 2027 年下半年至 2028 年間加速出貨，估算並假設 SpaceX 到 2027 年底可具備 4 個可運作的星艦發射台。以上皆為分析師假設與預估，並非公司公告。",
+      "source": "科技新報",
+      "date": "2026-11-11",
+      "url": "https://technews.tw/2026/11/11/elon-musk-spacexs-next-gen-space-ai-satellites-could-boost-peak-compute-to-400kw/",
+      "tickers": [
+        "SPCX",
+        "NVDA"
+      ],
+      "impact": "若市場接受這條太空算力敘事，關注點可能從發射與衛星，延伸到在軌部署節奏、供電散熱，以及與輝達高階系統的綁定；但規模與時程仍高度取決於發射能力能否落地。",
+      "newbieTake": "可對照 SpaceX 或輝達是否就此一平台與時程作正式說明，以及星艦發射台與試飛進度是否跟上假設。"
+    },
+    {
+      "title": "輝達陷爭議，CoreWeave 執行長力挺夥伴關係",
+      "summary": "科技新報引述彭博，CoreWeave 執行長邁克·英特拉托（Mike Intrator）在季度財報後受訪表示，輝達一直是很好的合作夥伴，公司將繼續與對方密切合作，並稱在合作過程中與輝達大量員工都有接觸，「沒有任何理由讓我們認為這種關係會改變」。他不願對輝達的獨立調查發表評論。報道亦提到，市場擔憂 AI 支出放緩令兩家公司近期股價承壓，而 CoreWeave 較高的債務負擔曾引發警戒，惟該季業績在一定程度上緩解疑慮。",
+      "source": "科技新報",
+      "date": "2026-11-11",
+      "url": "https://technews.tw/2026/11/11/coreweave-sees-no-reason-that-nvidia-partnership-will-change/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "作為高度依賴輝達供應與支持的「新型雲端」業者，CoreWeave 的公開表態可能被用來觀察夥伴關係是否因調查而出現裂縫；不過這只是管理層說法，實際訂單與融資條件仍待後續驗證。",
+      "newbieTake": "可對照雙方後續合作更新、CoreWeave 的融資或債務安排，以及輝達調查結果是否改變供應敘事。"
+    },
+    {
+      "title": "美軍資安大漏洞！承包商工程師為偷懶把權限全給Claude AI，導致軍事網路配置與密碼集體外洩",
+      "summary": "T客邦引述《連線》（Wired）報導，五角大廈主要 IT 承包商埃森哲（Accenture）旗下工程師，疑擅自將個人登入憑證交給官方明令禁用的 Claude AI 智慧體，使其取得管理員權限，並在美軍網路內部違規運作長達兩個月。調查指該智慧體在自動編寫程式碼與啟動雲端伺服器期間，疑似在串接外部工具時，將美軍內部網路架構、伺服器配置與管理員密碼回傳至未知第三方網站；該平台此前已被 NIST 標記為高風險漏洞端點。涉事環境屬處理「受控非密資訊」（CUI）的 NIPRNet。報道引述知情人士稱，埃森哲最初並未將此事視為重大緊急事故，甚至延遲向國防部通報；埃森哲發言人隨後否認指控，稱獨立調查認定說法缺乏依據，但拒絕透露調查機構細節；國防部則表示不對具體系統狀況置評。",
       "source": "T客邦",
       "date": "2026-11-11",
-      "url": "https://www.techbang.com/posts/134759-jensen-huang-affair-lawsuit-nvidia-stock-drop",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "獨立調查之外再添集體訴訟，市場可能更關注資訊揭露與公司治理程序，以及此事是否與對中晶片政策、國會監督敘事相互放大。",
-      "newbieTake": "可追蹤法院訴狀後續進度，以及董事會獨立調查的正式更新，而不是只看單一報導的市值換算數字。"
-    },
-    {
-      "title": "SpaceX 與高通簽署長期合作協議，採 5G 基地台解決方案",
-      "summary": "第三方·非公告：科技新報（拓墣產研，可見導言）指 11 月 SpaceX 宣布與高通簽署為期數年的供應合約，SpaceX 基地台將大量採用高通 Dragonwing 5G 基地台解決方案，並加速建置 Starlink Mobile 地面基地台，預計 2027 年展開 5G 基地台建置。可見小標並提到將採 O-RAN 開放式架構、系統整合委託高通。",
-      "source": "科技新報 TechNews",
-      "date": "2026-11-11",
-      "url": "https://technews.tw/2026/11/11/spacex-qualcomm-5g-base-station/",
-      "tickers": [
-        "SPCX"
-      ],
-      "impact": "若地面 5G／O-RAN 基地台成為星鏈行動服務的配套，市場可能把 SpaceX 成長敘事從發射與衛星，延伸到地面網路部署節奏與供應鏈綁定。",
-      "newbieTake": "可再等雙方或營運商是否公布實際部署區域、時程與站點規模；該稿其餘正文屬會員專區，細節宜以後續公開說明為準。"
-    },
-    {
-      "title": "太空AI加速備戰：SpaceX訂購太陽能產線，星艦挑戰首次「雙回收」",
-      "summary": "第三方·非公告：富途轉述，德國設備商 SINGULUS 於 11 月 10 日宣布將向 SpaceX 提供異質結（HJT）太陽能電池交鑰匙產線，首條計畫 2027 年上半年交付，星鏈高階副總裁 Mike Nicolls 稱將用於德州工廠生產的 Starmind 人工智慧衛星；公告並提到後續產線擴張將支持超過 100 吉瓦規模，但未披露首條產能與全部完成時間。另述星艦第 15 次試飛計畫最早於美國當地 11 月 13 日進行，首度嘗試同任務將超重型助推器與上面級一併返場捕獲。原文來源：財聯社。",
-      "source": "富途快訊",
-      "date": "2026-11-11",
-      "url": "https://news.futunn.com/post/1004071679/space-ai-accelerates-preparations-spacex-orders-solar-production-line-starship",
-      "tickers": [
-        "SPCX"
-      ],
-      "impact": "太陽能產線與雙回收試飛若順利推進，市場可能更關注 SpaceX 把發射回收能力與太空算力供電準備串在一起的長線敘事，但兩者都仍屬驗證與準備階段。",
-      "newbieTake": "可留意第 15 次試飛是否獲批並按窗口進行（文中指北京時間 11 月 14 日早上 6 時 45 分開啟、為時 75 分鐘），以及後續是否補充產線產能細節。"
-    },
-    {
-      "title": "Anthropic 將在美 IPO，估值上看 1.4 兆美元",
-      "summary": "第三方·非公告：科技新報引述中央社／路透，Anthropic 更新招股後，若以發行價區間上限計算、並納入選擇權及限制型股票等，完全稀釋估值約 1.4 兆美元；公司與部分投資人計畫出售 8 億 2,500 萬股，每股暫定價格最高 78 美元，預計最多可募約 644 億美元。另將向 Google、輝達、超微等基石投資人私募籌資 260 億美元，基石還包括博通、美光、微軟及台積電，計入後總募資額最高可達 904 億美元。",
-      "source": "科技新報 TechNews",
-      "date": "2026-11-11",
-      "url": "https://finance.technews.tw/2026/11/11/anthropic-targets-1-4-trillion-ipo/",
-      "tickers": [
-        "NVDA",
-        "MSFT"
-      ],
-      "impact": "這檔大型 AI 上市案可能成為市場檢視生成式 AI 熱潮定價與基建支出可持續性的觀察點；輝達、微軟若確為基石投資人，也會被放進同一生態互持敘事裡討論。",
-      "newbieTake": "可對照後續定價與上市日公告，以及招股書對營收、虧損與基礎設施承諾的更新，而不只看單一估值上限。"
-    },
-    {
-      "title": "IPO路演日加碼企業辦公市場！Anthropic推出多款AI工具，正面挑戰微軟Office",
-      "summary": "第三方·非公告：富途轉述，Anthropic 在啟動 IPO 路演當日（美東 11 月 10 日）推出測試中的 Claude Meetings（可以可見參與者身分加入 Google Meet 並即時協作）、Claude Whiteboards 與 Claude Sheets，並將原 Claude Dashboards 更名為 Claude Data 正式推出，還擴展與 Adobe、Atlassian、Box、Notion 等應用的連接器。文中稱 Meetings 先向 Team 與 Enterprise 客戶開放；Sheets 目前僅具備基礎試算表功能。原文來源：華爾街見聞。",
-      "source": "富途快訊",
-      "date": "2026-11-11",
-      "url": "https://news.futunn.com/post/1004077193/ipo-roadshow-day-intensifies-focus-on-the-corporate-office-market",
-      "tickers": [
-        "MSFT"
-      ],
-      "impact": "市場可能關注大型模型公司是否把競爭從 API／模型表現，延伸到會議、試算表與企業資料工作流程，從而加劇與微軟 365／Office 生態的敘事對比。",
-      "newbieTake": "可觀察這些工具何時走出測試版、支援哪些會議平台，以及微軟是否有對應產品更新或官方回應。"
-    },
-    {
-      "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
-      "summary": "公司新聞室／IR：IBM 與微軟 11 月 10 日宣布推出代理式平台 Imagine Enterprise，旨在協助企業建立、運行並治理用於產業特定流程的 AI 代理人；IBM Consulting 提供逾 6,000 個預建 AI 代理人與資產，微軟提供 AI、資料、雲端與資安基礎，雙方並為符合條件的專案提供前沿部署工程支援。",
-      "source": "Microsoft Newsroom",
-      "date": "2026-11-10",
-      "url": "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/",
-      "tickers": [
-        "MSFT"
-      ],
-      "impact": "企業級 Agent 平台若與既有身分、治理與雲端安全堆疊綁定，市場可能更關注受監管產業落地速度，以及顧問預建資產能否縮短從試驗到上線的時程。",
-      "newbieTake": "可再看後續是否公布首批產業客戶或實際部署案例，而不只看平台發布聲明。"
-    },
-    {
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-      "summary": "公司新聞室／IR：輝達在 KubeCon + CloudNativeCon 宣布，將用於保全與治理自主代理人的開源運行時 NVIDIA OpenShell 貢獻給雲端原生計算基金會（CNCF）Sandbox；同時參與由 Google 主導、同樣進入 CNCF Sandbox 的 Agent Substrate 框架，並發布 NVIDIA DSX AI Factory Platform 新元件，包括 NVIDIA Kubernetes Engine、Kubernetes Recipes 與 NVIDIA Snapshot。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-11-10",
-      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "即便治理爭議升溫，公司層面仍持續強化 Kubernetes 上的代理人安全與 AI 工廠維運工具，市場可能關注開源治理能否加深雲端原生生態綁定。",
-      "newbieTake": "可留意 OpenShell 進入 CNCF 後的治理進度，以及這些 Kubernetes 元件是否出現實際客戶採用說明。"
-    },
-    {
-      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-      "summary": "第三方·非公告：CNBC 報導 CoreWeave 公布第三季營收 36.6 億美元、高於 LSEG 預期的 35.5 億美元，年增約 168%（去年同期約 13.6 億美元）；淨損 7.09 億美元、每股虧損 1.27 美元，調整後每股虧損 95 美分（預期虧損 1.16 美元）。公司上調 2026 年展望至營收 130 億至 133 億美元、調整後營業利益 12.75 億至 13.75 億美元。",
-      "source": "CNBC Tech",
-      "date": "2026-11-10",
-      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "作為高度依賴輝達 GPU 的 neocloud，業績與指引上修可能被用來觀察 AI 基建需求是否仍在，但市場同樣可能持續關注其融資成本與負債結構。",
-      "newbieTake": "可對照公司後續融資說明、同業（文中提到 Nebius 將於週四公布財報）以及客戶預付款進度。"
-    },
-    {
-      "title": "台積電賺大錢，決議第三季股利調升到 9 元，另認購 Anthropic 與 OpenAI 股份",
-      "summary": "第三方·非公告：科技新報報導台積電董事會核准 2026 年第三季財報，合併營收約新台幣 1 兆 4,942.4 億元，稅後純益約 7,630.6 億元，每股盈餘 29.43 元，並決議第三季每股配發現金股利 9.0 元。董事會另核准逾 409.267 億美元資本預算，並通過在各不超過 5 億美元額度內，認購 Anthropic 普通股（價格依其 IPO 價格）及 OpenAI 特別股，同時以不超過 5 億美元設立投資公司。",
-      "source": "科技新報 TechNews",
-      "date": "2026-11-10",
-      "url": "https://finance.technews.tw/2026/11/10/tsmcs-third-quarter-cash-dividend-reached-nt9/",
+      "url": "https://www.techbang.com/posts/134687-pentagon-security-breach-unauthorized-ai-contractor",
       "tickers": [],
-      "impact": "晶圓代工龍頭同步上調股利、維持高額資本支出並直接入股領先模型公司，市場可能把先進製程需求與 AI 生態投資視為同一條資本支出敘事。",
-      "newbieTake": "可留意除息時程（文中指普通股除息交易日為 2027 年 3 月 11 日）以及後續是否揭露實際認購進度。"
+      "impact": "若屬實，這會被視為代理式 AI 進入敏感網路後的供應鏈與權限管理風險案例，市場與政策討論可能從「能不能用 AI 寫程式」，延伸到政府與承包商的使用禁令、通報時效與第三方工具管控。",
+      "newbieTake": "可追蹤國防部或承包商是否再發調查結論，以及相關機構會否更新生成式 AI 使用規範。"
     },
     {
-      "title": "AI 資料中心邁向光電融合時代，日本 NTT 布局光學小晶片搶攻下波半導體商機",
-      "summary": "第三方·非公告：科技新報報導，NTT 旗下 NTT Innovative Devices 宣布攜手東芝集團旗下 Japan Semiconductor、古河電工與新光電氣工業，投入光電融合與光學小晶片量產技術研發，目標將光學小晶片生產效率提升至少十倍，並在日本建立具商業效益的試產線。",
-      "source": "科技新報 TechNews",
+      "title": "CISA警告6個弱點遭積極利用，其中包含Outlook、Chrome零時差漏洞",
+      "summary": "iThome 報道，美國網路安全與基礎設施安全局（CISA）於 11 月 10 日宣布，已掌握 6 個新漏洞遭到積極利用的證據，將其列入已知遭利用漏洞名單（KEV），並要求聯邦機構限期修補。影響產品涵蓋 Outlook、Chrome，以及 Barracuda 旗下 ADC、WAF、WSG、BMA、WCC 與 Email Security Gateway 等多款產品，另有 Cisco BroadWorks、Openwave Webtop Media Transcoder。文中指出，Barracuda 產品相關漏洞 CVE-2026-111560 與 CVE-2026-116606 的聯邦修補期限為 11 月 13 日，其餘漏洞期限為 11 月 24 日。",
+      "source": "iThome",
       "date": "2026-11-11",
-      "url": "https://technews.tw/2026/11/11/accelerating-development-of-mass-production-technologies-for-photonics-electronics-convergence-devices-to-support-next-generation-ai-computing/",
+      "url": "https://www.ithome.com.tw/news/180413",
       "tickers": [],
-      "impact": "AI 資料中心互連由電轉光的討論升溫時，市場可能把光學小晶片量產良率，視為先進封裝與高頻寬傳輸供應鏈的中長期觀察點。",
-      "newbieTake": "可再看聯盟是否公布試產線時程、良率目標或與國際晶片廠的驗證合作。"
+      "impact": "已遭利用且設有聯邦修補時限的項目，通常會提高企業與雲端環境的緊急更新壓力，尤其 Outlook、Chrome 這類高使用面產品，以及廣泛部署的郵件與應用交付設備。",
+      "newbieTake": "可核對所屬單位是否已套用相關廠商更新，並留意 CISA 名單與供應商公告是否再增列細節。"
     },
     {
-      "title": "Adobe、迪士尼宣布多年策略合作！導入客製化 AI 模型，加速樂園與影視創意開發",
-      "summary": "第三方·非公告：T客邦報導 Adobe 與華特迪士尼宣布多年期策略合作，Adobe 將以官方 AI 創新合作夥伴身分，提供 Firefly、企業客製化模型服務 Firefly Foundry、Premiere 與 Photoshop，並投入專屬工程與研究資源。迪士尼幻想工程研發部門已用 Firefly Foundry 將草圖轉成 2D 概念圖；合作也將延伸至 StudioLAB 與 ESPN Edge。",
+      "title": "Apple發布iOS、iPadOS 27.2.1與18.7.12版，緊急修補10個資安漏洞",
+      "summary": "iThome 報道，Apple 於 11 月 9 日發布 iOS 與 iPadOS 27.2.1 及 18.7.12 安全更新。兩份公告分別列出 9 個與 6 個 CVE，扣除重複後共修補 10 個獨立漏洞，主要涉及 iMessage、AirPlay 及 Bluetooth。其中 iMessage 的兩個漏洞可能讓遠端攻擊者未經邀請加入群組並接收訊息，或讓新成員讀取加入前的歷史訊息；AirPlay 與 Bluetooth 相關問題則涉及配對驗證，攻擊者可能繞過配對碼嘗試次數限制，甚至在無須使用者互動下完成配對。文中並指 27.2.1 修補了資料壓縮程式庫 Brotli 的越界寫入漏洞 CVE-2026-111497，該漏洞已於 10 月 27 日被 CISA 列入 KEV，顯示已在實際攻擊中遭利用，但目前並無證據顯示攻擊者已用此漏洞攻擊 iPhone 或 iPad。",
+      "source": "iThome",
+      "date": "2026-11-11",
+      "url": "https://www.ithome.com.tw/news/180410",
+      "tickers": [],
+      "impact": "緊急系統更新通常會提高手機與平板用戶的升級壓力；若後續出現實際針對 iMessage 或無線配對的利用報告，市場對裝置安全與更新節奏的關注可能再升溫。",
+      "newbieTake": "可在設定中確認裝置是否已更新至 27.2.1 或 18.7.12，並留意 Apple 是否再發補充說明。"
+    },
+    {
+      "title": "駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境竊取資料",
+      "summary": "iThome 引述雲端資安業者 Sentra 與 Wiz 於 11 月 9 日的揭露：駭客取得大數據平臺 Qubole 的 AWS IAM 憑證，再利用企業先前授予 Qubole 的跨帳戶存取權限，入侵數十家企業的 AWS 環境。攻擊活動發生於 10 月 14 日至 26 日；部分企業雖已停用 Qubole，卻仍保留舊有 IAM 角色。攻擊者利用遭竊的兩組 Qubole IAM 帳號，經 AssumeRole 取得臨時憑證並通過 External ID 檢查，其後搜尋 S3，並讀取 Secrets Manager、Parameter Store 及 Lambda 環境變數中的密碼與金鑰，還用 TruffleHog 驗證竊得的 AWS、Microsoft Entra ID 及 Okta 憑證。Sentra 表示，攻擊者在 7 分鐘內便取得約 100 組密碼與金鑰，並從 S3 大量下載資料，其中一家企業就有數百萬個檔案遭竊；研究人員未觀察到寫入或刪除，目前仍不清楚憑證最初如何被竊。",
+      "source": "iThome",
+      "date": "2026-11-11",
+      "url": "https://www.ithome.com.tw/news/180414",
+      "tickers": [],
+      "impact": "這是典型的第三方整合與「停用後未撤權」風險。使用資料平台、跨帳戶角色的企業，可能會被提醒重新檢視信任關係與存取紀錄，而不只是關注單一雲端主機是否被入侵。",
+      "newbieTake": "若曾整合 Qubole 或類似資料平臺，可檢查 AWS 存取紀錄、撤銷不再使用的第三方角色，並輪替可能外洩的憑證。"
+    },
+    {
+      "title": "Fireworks AI遭駭波及Notion，部分AI對話紀錄遭未授權存取",
+      "summary": "iThome 報道，AI 模型基礎設施業者 Fireworks AI 遭駭，連帶波及 Notion；Notion 通知受影響客戶，事件涉及約 1% 的工作空間，部分 Notion AI 對話紀錄遭未授權存取。Notion 本透過 Fireworks 執行 Insights 對話分類，並提供開放權重模型推論。該公司 11 月 2 日首次接獲通報時，初步認為僅涉及合成測試資料；Fireworks 6 日再通知可能涉及客戶資料，8 日才確認範圍包含 AI 對話紀錄。Notion 強調遭入侵的並非自身系統，已於 11 月 3 日切斷連線、刪除存放在該平臺的資料，並停用 Insights。Fireworks 稱 10 月 6 日發現內部憑證遭未授權使用，後續受影響資料還包括帳務與付款紀錄、部分客戶資料集及不完整模型權重；另在 10 月 24 日，託管其研發機器的第三方雲端業者前一天發生資安事件，攻擊者藉此進入開發機器。Fireworks 稱未儲存信用卡卡號。",
+      "source": "iThome",
+      "date": "2026-11-11",
+      "url": "https://www.ithome.com.tw/news/180407",
+      "tickers": [],
+      "impact": "這突顯企業把對話或推論工作交給上游模型基礎設施時的供應鏈曝險。市場可能更關注 AI 應用商如何揭露影響範圍、切斷第三方連線，以及用戶是否曾在對話中輸入機密。",
+      "newbieTake": "若使用 Notion AI／Insights，可查看官方通知是否列為受影響工作空間，並盡快更換曾在對話中輸入的密碼或 API 金鑰。"
+    },
+    {
+      "title": "Anthropic發表新旗艦Claude Fable 5.2！速度提升30%且API調降20%",
+      "summary": "T客邦報道，Anthropic 宣布推出旗艦模型 Claude Fable 5.2 與受限專業模型 Mythos 5.2，稱較上一代生成速度提升 30%，並將標準 API 價格調降 20%，調整為每百萬輸入 Token 8 美元、每百萬輸出 Token 40 美元（上一代為 10 美元與 50 美元）。另提供可選「快速模式」，稱最高能將生成速度提升至標準模式的 2.5 倍，收費為每百萬輸入 16 美元、每百萬輸出 80 美元。官方公布的基準中，Fable 5.2 在 FrontierCode 2.0、FrontierSWE v2、Humanity's Last Exam 等測試領先自家 Opus 5.5 與前代 Fable 5.1，但在 AutomationBench 上以 51.4% 略低於 Google Gemini 4 Carbon 的 53.9%。Anthropic 並稱核心代碼庫中超過 90% 的合併代碼修改，已由 Claude 在工程師指導下自動完成。Fable 5.2 已向付費訂閱用戶開放，並經 API 與 AWS、Google Cloud 及微軟 Azure 提供；Mythos 5.2 則面向通過資格審核的專業機構。上述基準與內部案例均來自官方發布。",
       "source": "T客邦",
       "date": "2026-11-11",
-      "url": "https://www.techbang.com/posts/134751-adobe-disney-partnership-custom-ai",
+      "url": "https://www.techbang.com/posts/134814-anthropic-claude-fable-mythos-5-2-speed-price-cut",
       "tickers": [],
-      "impact": "媒體與主題樂園集團導入品牌專屬生成式模型，可能讓市場持續關注客製化 AI 在內容製作流程的落地程度，以及版權資料治理如何成為差異化條件。",
-      "newbieTake": "可留意雙方是否在 Adobe Summit、Adobe MAX 或樂園／影視製作中公布更多可驗證的應用案例。"
+      "impact": "在 Anthropic 籌備上市之際，降價與新旗艦可能被用來觀察模型競賽是否從評測分數延伸到單位成本與雲端通路；微軟 Azure 若持續供應，也會被放進雲端業者的模型組合敘事裡。",
+      "newbieTake": "可對照第三方實測與企業導入回饋，以及 Mythos 的開放條件與安全分級說明是否再更新。"
     },
     {
-      "title": "中國使用輝達 AI 晶片，走私與租用東南亞資料中心算力成兩大途徑",
-      "summary": "第三方·非公告：科技新報引述中央社／法新社，指在美國限制輝達高階 Blackwell、Rubin 對中出口的背景下，研調機構 Omdia 分析師稱中國業者仍在使用輝達頂尖晶片訓練模型。途徑包括走私，或租用設於第三國、尤其東南亞、配備大量輝達晶片的資料中心算力；文中並引述白宮顧問今夏指月之暗面曾使用設於泰國的輝達高階晶片。",
-      "source": "科技新報 TechNews",
+      "title": "Anthropic 更新全球支援地區政策：中國列入「不支援名單」，旅遊、出差也無法使用",
+      "summary": "T客邦報道，Anthropic 自 11 月 12 日起調整支援地區政策，改採嚴格白名單制：未列入名單的國家或地區一律視為不支援，當中包括中國，香港與澳門亦不在支援名單內。限制涵蓋 Claude.ai、Claude Code、Cowork、開發者 API，以及經雲端供應商與授權經銷商提供的 Claude 模型。規範包括：只要使用者身處於不支援地區（含旅遊或商務出差），即無法使用；總部或法人登記在不支援地區的公司，其員工全面禁止使用，不論當下是否身處其他支援國家；由不支援地區個人或機構直接或間接多數持股、控制的企業同樣不適用。",
+      "source": "T客邦",
+      "date": "2026-11-11",
+      "url": "https://www.techbang.com/posts/134806-anthropic-updates-policy-china-unsupported",
+      "tickers": [],
+      "impact": "對往返中港或法人與股權結構涉及上述地區的開發者、企業用戶，這可能直接改變可否合法使用 Claude 的合規邊界，也可能被放到更大的 AI 地緣與出口管制討論中。",
+      "newbieTake": "若行程或公司註冊地涉及中國、香港或澳門，可直接核對官方 Supported Regions Policy 頁面，以及帳戶或 API 在 11 月 12 日後的實際存取結果。"
+    },
+    {
+      "title": "Google Gemini 4 Carbon全面上線，以較低價對打Anthropic Fable/Mythos 5.2",
+      "summary": "iThome 報道，Google 宣布新一代尖端模型 Gemini 4 Carbon 已開放給企業、開發者及個人付費用戶。API 費用與 Argon 相同，為每百萬 token 輸入／輸出 4／20 美元，脈絡快取 0.2 美元；11 月 30 日以前半價，12 月 1 日起恢復原價，免費版目前無法使用。即使調回原價，報道指其價格仍約為 Anthropic 本周公布的 Claude Fable 5.2 與 Mythos 5.2 標準模式（每百萬輸入／輸出 8／40 美元）的一半，並等同 Claude Opus 5.5。Google 稱 Carbon 在 CursorBench 4.0、Perplexity 的 WANDR 和 Zapier 的 AutomationBench 中皆排名第一，每任務成本比第二名低 2 倍。個人用戶方面，Carbon 提供給 Google AI Ultra 訂閱用戶，可在 Antigravity、Gemini 應用程式及 Search 的 AI Mode 使用。",
+      "source": "iThome",
+      "date": "2026-11-11",
+      "url": "https://www.ithome.com.tw/news/180428",
+      "tickers": [],
+      "impact": "在旗艦模型密集更新的一周，定價差距可能成為企業選型的觀察點；這仍是供應商官方評測與標價，實際效能與總擁有成本要以獨立測試為準。",
+      "newbieTake": "可對照 11 月 30 日優惠截止後的正式標價，以及第三方基準是否重現官方所稱的領先幅度。"
+    },
+    {
+      "title": "OpenAI 營收季增 50%、付費訂戶增  但虧損擴大",
+      "summary": "科技新報轉述 MoneyDJ／外媒報道，OpenAI 於 10 日向投資人披露，第三季營收達 100 億美元，較第二季成長約 50%，增速高於前季的 18%。文件顯示，經調整營業利益率由前季的 -150% 改善至 -109%，但經調整營業虧損仍由 101 億美元增至 109 億美元，上述虧損未計入股票薪酬；知情人士稱第三季股票薪酬增至 26 億美元。相比之下，報道指 Anthropic 第三季營收達 170 億美元，營業虧損 5.67 億美元，且已計入股票薪酬。消費端方面，ChatGPT 付費用戶增至約 1 億人，占每週活躍用戶的 8.5%。另稱 OpenAI 新一輪募資進度未達原定 300 億美元目標的一半；Anthropic 上市目標估值約 1.4 兆美元，低於數月前傳出的約 2 兆美元。",
+      "source": "科技新報",
+      "date": "2026-11-11",
+      "url": "https://finance.technews.tw/2026/11/11/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion/",
+      "tickers": [],
+      "impact": "營收加快但虧損仍大的組合，可能被用來檢視生成式 AI 成長是否跟得上基礎設施與薪酬成本。對照 Anthropic 的 IPO 定價，市場或把兩家公司的規模、虧損與估值放在同一週觀察。",
+      "newbieTake": "可對照 Anthropic 後續招股與定價文件，以及 OpenAI 是否再更新募資進度或上市時程（文中稱其規劃於明年上市）。"
+    },
+    {
+      "title": "OpenAI 建 Control Room 能 35 秒內切斷研究模型輸出，避免 AI 代理失控",
+      "summary": "科技新報報道，OpenAI 宣布在研究基礎設施部署「Control Room」集中管控系統，一旦出現安全或資安疑慮，可在決定介入後 35 秒內阻止研究模型繼續產生輸出。系統串接研究工作負載、推論引擎與中央服務：研究員啟動強化學習、評估或大量資料處理時須先申請工作編號，涉及代理式推論的任務還須對應已核准的安全論證（safety case）。推論引擎在 GPU 回應每筆請求前會確認任務是否仍獲授權；被叫停的研究程式本身未必終止，但無法再取得模型輸出。系統採「失效關閉」設計，即使 Control Room 故障、遭停用或被竄改，推論引擎仍會拒絕所有請求。OpenAI 解釋 35 秒延遲源自快取層，目標是將延遲降至零，並表示數月內將繼續強化及擴充該系統。",
+      "source": "科技新報",
+      "date": "2026-11-11",
+      "url": "https://technews.tw/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/",
+      "tickers": [],
+      "impact": "這較像研究側的安全工程更新，可能被讀成模型能力提高後，內部需要更集中的緊急停止機制；對商業產品的實際防護範圍，文中並未等同視之。",
+      "newbieTake": "可看 OpenAI 是否再說明商業服務如何對接，以及獨立評測或監管討論如何看待這類「緊急停止」的覆蓋範圍。"
+    },
+    {
+      "title": "Annual currency adjustments to Microsoft Commercial Cloud pricing",
+      "summary": "微軟新聞室宣布，自 2027 年 1 月 1 日起，將更新部分幣別的商業雲價格，作為每年 1 月檢視當地貨幣定價的一環，並對齊 7 月已宣布改為年度調整的做法。此次調整適用澳元（AUD）、人民幣（CNY）、印度盧比（INR）、挪威克朗（NOK）及紐西蘭元（NZD），公司稱是為使當地貨幣價格與全球水平對齊。巴西里爾（BRL）將待巴西稅改實施後再檢視；日圓（JPY）則維持每年 4 月調整，2027 年 4 月的細節預定 2027 年 2 月公布。公告並未列出各幣別的具體調幅。",
+      "source": "Microsoft News Center",
       "date": "2026-11-10",
-      "url": "https://technews.tw/2026/11/10/china-nvidia-ai-chip-access-smuggling-renting-southeast-asia-data-center-compute-power-methods/",
+      "url": "https://news.microsoft.com/source/2026/11/10/annual-currency-adjustments-to-microsoft-commercial-cloud-pricing/",
       "tickers": [
-        "NVDA"
+        "MSFT"
       ],
-      "impact": "在執行長調查與出口管制並存的時刻，市場可能更敏感於轉運、境外租用算力等合規爭議，以及後續審查是否再收緊。",
-      "newbieTake": "可追蹤美國商務部或國會是否對第三國資料中心租用與最終用途核驗提出新說明。"
+      "impact": "對使用上述幣別計價的商業雲客戶，這可能影響 2027 年起的合約成本；由於未公布具體升跌幅，實際影響仍要等報價或續約文件。港幣與美元計價客戶不在這份調整名單內。",
+      "newbieTake": "若帳單幣別在名單之中，可向合約或雲端經銷商確認 2027 年 1 月起的報價；日圓用戶則等到 2027 年 2 月的說明。"
     },
     {
-      "title": "美國資料中心虧損拖累，軟銀集團第二季淨損 70 億美元",
-      "summary": "第三方·非公告：科技新報引述中央社／路透，軟銀公布 7 至 9 月第二季淨損 1.1 兆日圓（約 70 億美元）；公司表示，旗下子公司投資美國 AI 資料中心設備計畫後發生變更，因而認列 37 億美元虧損。去年同期則因 OpenAI 股權價值上升而獲利 2.5 兆日圓。",
-      "source": "科技新報 TechNews",
-      "date": "2026-11-10",
-      "url": "https://finance.technews.tw/2026/11/10/softbank-group-posts-7-billion-net-loss-in-q2/",
+      "title": "AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances",
+      "summary": "電子時報可見導言指，隨著代理式 AI 發展，資料中心工作負載正從傳統訓練延伸到推論、代理協作與即時資料處理，CPU 在任務排程、資料擷取、工具執行與工作流程編排上的角色上升。預期 AI 需求將加快資料中心成長，AMD 於 11 月 11 日正式推出第 6 代 EPYC 9006 系列 Venice 處理器、Helion Agentic AI 機架平台，以及 ROCm Agentic Toolkit。標題另提到三世代 EPYC 路線圖與台積電 2 奈米製程進展，但可見正文並未展開相關細節，本文僅採用頁面可見導言。",
+      "source": "電子時報",
+      "date": "2026-11-11",
+      "url": "https://www.digitimes.com/news/a20261111PD259/amd-2nm-tsmc-data-center-cpu.html",
       "tickers": [],
-      "impact": "大型投資公司因資料中心設備預付款與計畫變更認列虧損，可能加深市場對 AI 基建前置資本與計畫調整風險的討論。",
-      "newbieTake": "可對照後續季報是否更新美國資料中心設備計畫，以及 OpenAI 相關投資評價如何入帳。"
+      "impact": "若代理式工作負載確實提高對 CPU 與整機櫃方案的需求，市場可能把 AMD 這波平台更新，讀成資料中心競爭不再只圍繞訓練用 GPU。更完整的製程與出貨時程，仍有待可見資料或公司說明。",
+      "newbieTake": "可再等 AMD 官方產品頁或後續公開說明，核對 Venice 的規格、時程與 Helion 機架的供應對象。"
     },
     {
-      "title": "SoftBank Group, Grab, PETROS commit US$1.85 billion to Malaysian AI infrastructure",
-      "summary": "第三方·非公告：DigiTimes 可見導言指出，軟銀、Grab 與砂拉越石油公司 Petroleum Sarawak Berhad（PETROS）已簽署聯合開發協議，將投入 18.5 億美元初始種子資金，在馬來西亞部署大規模人工智慧基礎設施。（全文其餘部分為訂閱內容，未採計。）",
-      "source": "DigiTimes 電子時報",
-      "date": "2026-11-10",
-      "url": "https://www.digitimes.com/news/a20261110PR202/grab-infrastructure-asia-development-2030.html",
+      "title": "Infineon says data center orders already exceed target as factory output sets ceiling",
+      "summary": "電子時報可見導言指，英飛凌（Infineon Technologies）在 11 月 10 日討論 2026 財政年度業績的分析師電話會上表示，需求已不再是增長的限制因素。該公司稱，其資料中心電源產品訂單已超過其預估 2027 財政年度近 40 億歐元（約 44.6 億美元）的營收，最終能入帳多少，將取決於自家工廠與外包夥伴的產能爬坡速度。其餘細節屬付費內容，本文僅採用頁面可見導言。",
+      "source": "電子時報",
+      "date": "2026-11-11",
+      "url": "https://www.digitimes.com/news/a20261111VL218/infineon-demand-data-center-growth-revenue.html",
       "tickers": [],
-      "impact": "東南亞大型 AI 基建種子投資若落地，市場可能關注區域算力與電力配套如何影響亞太雲端與資料中心佈局。",
-      "newbieTake": "可等待三方是否公布選址、裝置容量或後續融資細節，再評估實際推進程度。"
+      "impact": "這可能被讀成 AI 資料中心對電源半導體的需求，已走到產能而非訂單不足的階段；後續觀察點會是擴產進度，而不是再確認「有沒有需求」。",
+      "newbieTake": "可對照英飛凌後續財報或產能說明，以及同業對資料中心電源訂單的更新。"
     },
     {
-      "title": "Anthropic breach exposes 100+ South Korean enterprise Claude accounts",
-      "summary": "第三方·非公告：DigiTimes 可見導言指 Anthropic 生成式 AI 服務 Claude 發生資料外洩，影響超過 100 個韓國企業帳戶，外洩內容包括客戶名稱、電子郵件、帳戶 ID、組織 ID、訂閱層級，以及用量與支出指標。（全文其餘部分為訂閱內容，未採計。）",
-      "source": "DigiTimes 電子時報",
-      "date": "2026-11-10",
-      "url": "https://www.digitimes.com/news/a20261110PD224/anthropic-claude-data-security-cybersecurity.html",
+      "title": "AI 熱潮搶排產能，安世與意法半導體雙雙示警：汽車業恐迎新一波晶片短缺",
+      "summary": "科技新報引述路透社報導，安世半導體（Nexperia）代理執行長 Stefan Tilger 表示，許多競爭對手已把原用於通用型、成熟製程半導體的產能，轉向 AI 資料中心晶片，導致車用與工業供應鏈出現嚴重瓶頸，他形容汽車業目前已「受創相當嚴重」；新一代機器人產品同樣在分食產能。意法半導體執行長吉恩-馬克·謝里（Jean-Marc Chery）亦指晶圓代工廠與封裝廠正逐漸把資源從傳統汽車與工業應用撤離。兩位執行長均強調，這並非因為輝達等 GPU 大廠買光所有晶片，而是更上游的產能重新分配。報道並引述為比亞迪、BMW 與福特供應車用電子的德國大廠 Aumovio，其代理財務主管 Claus Bauer 在法說會上示警晶片成本持續攀升，並預測 2027 年將面臨「爆炸性」增長，主因是 AI 資料中心對價格不敏感。",
+      "source": "科技新報",
+      "date": "2026-11-11",
+      "url": "https://technews.tw/2026/11/11/ai-boom-sparks-automotive-chip-surge/",
       "tickers": [],
-      "impact": "企業客戶帳戶與用量、支出指標外洩，可能提高市場對模型供應商資安與採購盡職調查的關注，尤其是在 IPO 前夕。",
-      "newbieTake": "可再尋原廠或韓國受影響機構是否發布官方說明，包括影響範圍與補救措施。"
-    },
-    {
-      "title": "CISA警告SSHole等4個資安漏洞已遭積極利用",
-      "summary": "第三方·非公告：iThome 報導，美國 CISA 於 11 月 9 日將 4 個已遭積極利用的漏洞列入 KEV，包括 GPUStack 身分驗證不當漏洞 CVE-2026-102895、FreeSWITCH 程式碼注入漏洞 CVE-2026-116779、OpenSSH 身分驗證繞過漏洞 CVE-2026-123158（SSHole），以及 IBM Aspera Faspex 授權不當漏洞 CVE-2026-123218，並要求聯邦機構在 11 月 12 日前完成修補。文中指另外 3 個漏洞 CVSS 皆達 9.8；SSHole 在開發團隊公布後半天內即被偵測到利用活動。",
-      "source": "iThome",
-      "date": "2026-11-10",
-      "url": "https://www.ithome.com.tw/news/180368",
-      "tickers": [],
-      "impact": "OpenSSH 與 AI／GPU 相關管理平台若遭利用，可能推升企業對遠端存取與模型服務部署環境的修補緊迫性。",
-      "newbieTake": "若環境有對外 OpenSSH、GPUStack 或其他上列系統，可核對是否已套用官方更新，並對照 CISA KEV 與原廠公告。"
-    },
-    {
-      "title": "N-able遭揭露逾30個零時差漏洞，緊急關閉全球N-central雲端服務，要求本地建置客戶停機",
-      "summary": "第三方·非公告：iThome 報導，研究員 Sean Bales 公布 N-able 遠端監控管理平台 N-central 的 33 個零時差漏洞（統稱 Able2Shell），部分可串聯成遠端程式碼執行攻擊鏈並取得管理權限，且已釋出概念驗證程式碼。N-able 於 11 月 9 日宣布緊急關閉全球託管版 N-central，並要求本地建置客戶暫時關閉伺服器；公司表示已著手開發修補程式，且目前尚無遭實際攻擊的跡象。",
-      "source": "iThome",
-      "date": "2026-11-10",
-      "url": "https://www.ithome.com.tw/news/180377",
-      "tickers": [],
-      "impact": "MSP／遠端管理平台若曝露，影響可能擴散至眾多下游客戶，市場與資安圈可能更關注這類「一對多」維運工具的揭露與停機應變。",
-      "newbieTake": "若有使用 N-central，可追蹤原廠修補程式何時釋出，並依官方指引處理託管或本地部署環境。"
-    },
-    {
-      "title": "SemiAnalysis揭中國AI資料中心建設成本僅美國1/5",
-      "summary": "第三方·非公告：iThome 引述 SemiAnalysis 11 月 8 日報告，指遠景集團在內蒙古烏蘭察布的 Galaxy 資料中心僅花一年完成 120MW 設施，建設成本約為美國的五分之一，並已試行 800V 直流電供電；園區規劃四期、總 IT 容量達 800MW，第一期已於今年 8 月交付，整座園區預計 2027 年底完工。文中並引述高緯環球 9 月研究，美加先進資料中心每 MW 平均開發成本約 1,760 萬美元（不含晶片與 GPU），對照中國目前每 MW 建設資本支出不到 300 萬美元，但計算範圍未必完全一致。",
-      "source": "iThome",
-      "date": "2026-11-10",
-      "url": "https://www.ithome.com.tw/news/180355",
-      "tickers": [],
-      "impact": "若成本與工期差距屬實，市場可能更關注美中 AI 基建的電力、土地與施工效率差異，以及 800V 直流電等供電架構的推進速度。",
-      "newbieTake": "可把不同機構的成本口徑分開看，並追蹤後續是否有更多實地驗證或園區完工進度更新。"
-    },
-    {
-      "title": "英特爾在臺揭露主流PC、邊緣運算到資料中心最新運算架構，加速布局Agent AI",
-      "summary": "第三方·非公告：iThome 報導英特爾 11 月 10 日在台說明 AI PC、資料中心 GPU 與 CPU 布局，包括已上市、採 Intel 18A 的 Core 系列 3（代號 Wildcat Lake，NPU 約 17 TOPS、平台整體約 40 TOPS）、鎖定推論成本的 GPU D 系列（代號 Crescent Island，可在 350 瓦下提供最高 480GB LPDDR5X 記憶體與 1.3 PFLOPS FP8），以及預計明年推出、最高 256 個 P-Core 的下一代 Xeon Diamond Rapids。",
-      "source": "iThome",
-      "date": "2026-11-10",
-      "url": "https://www.ithome.com.tw/news/180395",
-      "tickers": [],
-      "impact": "在訓練 GPU 之外，市場可能更關注推論成本、端側 AI PC 與 Agent 協調所需的 CPU 角色，以及英特爾這些產品何時形成可驗證的出貨與客戶案例。",
-      "newbieTake": "可再對照後續上市時程、獨立評測，以及企業推論場景的實際採用說明。"
+      "impact": "若成熟製程與封裝持續偏向資料中心，車用與工業鏈的交期、成本討論可能再起。對電動車供應鏈而言，這較像上游產能配置問題，而不是單一品牌的需求故事。",
+      "newbieTake": "可留意車廠或一級供應商後續是否提到交期與漲價，以及代工、封裝廠對成熟製程產能配置的說明。"
     }
   ]
 }
