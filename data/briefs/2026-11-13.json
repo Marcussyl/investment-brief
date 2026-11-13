@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-13",
+  "stories": [
+    {
+      "id": "nvda-ceo-transition-8k",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：公司新聞室及 8-K 確認黃仁勳即時辭任總裁、執行長及董事，Kress 任臨時執行長；Yahoo 周四收 166.19（約 -4.34%）",
+      "summary": "Research NVDA。NVIDIA 新聞室 11/12 稿及同日向 SEC 提交的 Form 8-K（最早事件日 11/11）寫明：董事會已接受 Jen-Hsun Huang（黃仁勳）辭去總裁、執行長及董事職務，即時生效；現任執行副總裁兼財務長 Colette M. Kress（59 歲，2013 年加入）出任臨時執行長，並繼續兼任財務長，董事會同時展開常任執行長遴選，會考慮內部及外部人選。8-K 亦寫董事會於 11/11 任命自 1993 年任董事的 Harvey C. Jones（73 歲）為董事會主席（公司新聞室稱為首任 Chair of the Board）。新聞室引述 Jones：預期營運、客戶承諾及產品路線圖不受中斷；Kress 表示會建基於黃仁勳過去 33 年的基礎，繼續推進加速運算與 AI。新聞室並重申，將於周二 11/17 約太平洋時間下午 1:20 公布 2027 財政年度第三季業績，業績會於下午 2:00 舉行。Yahoo 美股日線 11/12：166.19（前收 11/11 的 173.73，約 -4.34%）。數字以 8-K、公司新聞室及 Yahoo 為準。有關辭任背景的第三方指控／報道並非公司公告，本則不以該等內容作為已核實事實。",
+      "whyItMatters": "呢次係公司同 SEC 檔已經寫明的高層交接，唔再只係市場傳聞。臨時執行長同常任人選係兩件事：Kress 而家身兼臨時執行長同財務長，常任人選仍待董事會完成搜尋。周四收市約跌 4.34%，係已完成的美股常規交易結果，唔等於已反映所有後續消息。",
+      "whatToWatch": "原定 11/17 的第三季業績及業績會，以及公司其後會否再就常任執行長搜尋或治理安排發公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-12",
+          "title": "NVIDIA Announces CEO Transition",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA / U.S. SEC Form 8-K",
+          "date": "2026-11-12",
+          "title": "Form 8-K — Item 5.02 departure of Jen-Hsun Huang; appointment of Colette M. Kress as interim CEO and Harvey C. Jones as Chair (earliest event date 11 November 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+        }
+      ]
+    },
+    {
+      "id": "spcx-supercompute-flight15",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：官方 Updates 宣布德州及亞利桑那超級運算園區計劃投資逾 740 億美元；Flight 15 官方仍寫最快今日、尚待核准；Yahoo 周四收 139.94（約 +0.14%）",
+      "summary": "Holding SPCX。SpaceX 官網 Updates（2026-11-12）寫明，公司正推進兩項超級運算項目：德州 Rio Grande Valley／Starbase 一座主要新設施，以及亞利桑那州 Cochise County 第二座園區，合計「超過 740 億美元」的計劃投資。德州項目計劃投資超過 240 億美元的新超級運算基礎設施，並寫已在 Starbase 的 Starship 及相關基礎設施投資超過 150 億美元；該項目已產生超過 3,000 個建築工作，預期營運後支援超過 500 個常設職位，設施將自行發電、不從公共電網取電；公司並承諾 2.20 億美元擴建 Brownsville 供水及污水設施，以協助增加每日 2,000 萬加侖供水能力。亞利桑那園區為約 500 億美元的 supercompute campus，預期創造約 5,500 個建築工作及 1,000 個常設職位；文中稱正與當地電力合作社合作，可能令社員電費最多降低 20%，並採用乾式冷卻、無計劃工業取用地下水。同日官方 Flight 15 頁仍寫「最快周五 11/13、尚待監管核准」，75 分鐘窗口於中部時間下午 4:45 開（頁面亦列 17:45–19:00 ET），計劃首次嘗試將 Starship 及 Super Heavy 一同回收至發射場捕捉，並部署 26 枚 Starlink V3；直播約於升空前 30 分鐘開始。Yahoo 美股日線 11/12：139.94（前收 11/11 的 139.75，約 +0.14%）。數字以官網及 Yahoo 為準。計劃投資、就業及電費等表述屬公司自行說明，並非已完成的資本開支或已批准的全部許可。",
+      "whyItMatters": "Holding 名稱自己喺官網把超級運算園區寫成逾 740 億美元的計劃投資，規模大，但「計劃／尋求」同已經落地、已經批出全部許可並唔相同。Flight 15 若按官方時段進行，會落在周五下午美中部時間（香港已是周六早上），而且官方仍加「尚待核准」、時間表可能改。",
+      "whatToWatch": "Flight 15 官方頁同 X 帳是否仍維持今日窗口，以及德州／亞利桑那項目後續的地方審批或公司更新。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX Updates",
+          "date": "2026-11-12",
+          "title": "Updates — Texas and Arizona supercompute campuses, more than $74 billion in planned investment",
+          "url": "https://www.spacex.com/updates/"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-11-13",
+          "title": "Starship Flight 15 — as soon as Friday, November 13, pending regulatory approval; 75-minute window opens 4:45 p.m. CT",
+          "url": "https://www.spacex.com/launches/starship-flight-15"
+        }
+      ]
+    },
+    {
+      "id": "1810-nddr-nov12",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：11/12 翌日披露顯示當日在聯交所回購 167 萬股 B 類股份，合計 49,908,952 港元；Yahoo 周四收 29.98（約 -0.40%）",
+      "summary": "Holding 1810.HK。Yahoo 港股日線 11/12：29.98（前收 11/11 的 30.10，約 -0.40%）。港股周五早盤尚未開市，此為周四收市。小米 11/12 向聯交所提交翌日披露報表：交易日 2026-11-12，在聯交所回購 1,670,000 股 B 類普通股，最高每股 29.96 港元、最低 29.84 港元，合計付出 49,908,952 港元，全部用作註銷。同一報表亦列 11/12 因股份獎勵／期權向非董事參與者發行新股 143,600 股（每股 1.01 港元），當日已發行 B 類股份（不含庫存股）收市結餘 21,369,722,329 股。回購授權於 2026-06-02 通過，授權上限 2,583,952,309 股；截至該報表，已按授權在聯交所或其他交易所回購 150,989,000 股，約佔授權當日已發行股份（不含庫存股）0.58%；回購後禁售期至 2026-12-12。董事會仍預定 2026-11-24 考慮截至 2026-09-30 的三個月／九個月未經審核業績。數字以聯交所 PDF 及 Yahoo 為準。",
+      "whyItMatters": "翌日披露係官方回購紀錄，唔等於股價一定點行：周四收市 29.98，略高於當日回購價 29.84 至 29.96 區間。回購授權仲有餘額，但每一次都要等翌日报表先有官數。",
+      "whatToWatch": "今日（11/13）開市後會否再有翌日披露、24/11 業績董事會，以及註銷／禁售期（至 12/12）後續公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-11-12",
+          "title": "Next Day Disclosure Return — 1,670,000 Class B shares repurchased for cancellation on 12 November 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111201033.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-11-11",
+          "title": "Next Day Disclosure Return — 1,660,000 Class B shares repurchased for cancellation on 11 November 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1111/2026111100861.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING — unaudited results for the three/nine months ended 30 September 2026, to be considered on 24 November 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        }
+      ]
+    },
+    {
+      "id": "macro-etf-thursday-tape",
+      "ticker": "GLD",
+      "title": "宏觀／ETF：Yahoo 周四 GLD 收 354.89（約 -2.82%），SPYM 89.13（約 -0.32%）、VEU 80.96（約 -0.87%）；金管局 11/12 19:30 基本利率仍 4.25%、兌換保證 7.85／7.75",
+      "summary": "Holding GLD、SPYM、VEU。Yahoo 美股日線 11/12：GLD 354.89（前收 11/11 的 365.17，約 -2.82%），SPYM 89.13（前收 89.42，約 -0.32%），VEU 80.96（前收 81.67，約 -0.87%）。金管局每日貨幣統計（標示日期及時間 19:30, 12/11/2026；最後修訂 12 November 2026）仍列兌換保證賣出價 7.85、買入價 7.75，貼現窗基本利率 4.25%；同頁並列今日隔夜港元拆息 2.31%、香港銀行公會一個月期拆息定價 2.63863%。CNBC（標題及內文覆蓋周四金價，並引述現貨金於美東時間下午 1:36 跌 2.7% 至每盎司 3,881.70 美元，稍早觸及 2025 年 10 月以來低位；十二月期金跌 2.8% 至 3,888.70 美元）把跌勢歸因於中東和談期望降溫推高油價、通脹及利率憂慮，以及美元走強；文中並稱市場見到 12 月加息 25 基點的機會約 85%，投資者等待周五美國 PPI。上述機率及現貨／期金報價屬第三方報道，並非金管局或 ETF 發行人公告，亦唔等於聯儲局已經決定加息。GLD 收市以 Yahoo 為準。",
+      "whyItMatters": "GLD 周四收市約跌 2.82%，係三隻持股 ETF 當中最明顯的一日波幅；SPYM、VEU 只係輕微偏低。金管局基本利率同兌換保證區間未見新調整，港元聯繫匯率的官方框架跟昨日簡報一致。聯儲局 12 月會議的市場定價只係第三方引述，會隨數據改，唔好當成已經公布的政策。",
+      "whatToWatch": "金管局每日貨幣統計會否改寫基本利率或兌換保證，以及 CNBC 提到的周五美國 PPI 之後，官方或主要通訊社如何改寫 12 月 FOMC 定價。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-11-12",
+          "title": "Daily Monetary Statistics — Convertibility Undertakings 7.85 / 7.75; Base Rate 4.25% (as of 19:30, 12/11/2026)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-12",
+          "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
+          "url": "https://www.cnbc.com/2026/11/12/gold-falls-to-over-one-week-low-on-firm-dollar-fed-rate-hike-bets.html"
+        }
+      ]
+    },
+    {
+      "id": "1398-tier2-series7",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：公司公告已完成發行 2026 年二級資本債券（第七期）（債券通）人民幣 600 億元；Yahoo 周四收 7.835（約 -0.63%）",
+      "summary": "Research 1398.HK。港股周五早盤尚未開市。工商銀行 11/12 港交所公告：經相關監管機構批准，2026 年二級資本債券（第七期）（債券通）已於全國銀行間債券市場發行完畢。發行規模人民幣 600 億元，分兩檔：品種一為 10 年期固定利率、第 5 年末附有條件的發行人贖回權，規模人民幣 400 億元，票面利率 1.77%；品種二為 15 年期固定利率、第 10 年末附有條件的發行人贖回權，規模人民幣 200 億元，票面利率 1.96%。募集資金扣除發行費用後，將依據適用法律及主管部門批准，補充本行二級資本。Yahoo 港股日線 11/12：7.835（前收 11/11 的 7.885，約 -0.63%）。同日另有海外監管公告，轉載上交所關於境內優先股「工行優 1」股息派發的實施安排，對象並非 01398 港股普通股持有人。11/11 已披露的向特定對象發行 A 股申請獲上交所審核通過、仍待中國證監會註冊同意一事，本則未見新的註冊結果公告。數字以港交所 PDF 及 Yahoo 為準。",
+      "whyItMatters": "二級資本債券係用來補充銀行二級資本的債務工具，完成發行代表呢一期融資已經落地，但唔等於普通股已經增發，亦唔改變昨日所講、向特定對象發行 A 股仍待證監會註冊的不確定性。票面利率同年期係公告寫明的發行條款，唔係對 01398 股價的指引。",
+      "whatToWatch": "證監會對 A 股定向發行的註冊進度，以及 11/27 臨時股東會相關公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Industrial and Commercial Bank of China Limited",
+          "date": "2026-11-12",
+          "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Industrial and Commercial Bank of China Limited",
+          "date": "2026-11-11",
+          "title": "Announcement on the Application for Issuance of A Shares to Specific Targets Reviewed and Approved by the Shanghai Stock Exchange",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1111/2026111100476.pdf"
+        }
+      ]
+    },
+    {
+      "id": "msft-365-outage",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：周四周日 365／Outlook／Teams 出現大範圍連線問題，公司其後稱部分伺服器已恢復並仍在修復；Yahoo 周四收 523.00（約 +0.36%）",
+      "summary": "Research MSFT。CNBC 11/12 報道（第三方·非公告）：微軟周四出現影響 Outlook、Teams 及 Microsoft 365 的大範圍中斷，Downdetector 顯示 Outlook 問題報告高峰約 13 萬宗；微軟發言人向 CNBC 表示，正調查用戶使用 Microsoft 365 服務（主要是 Exchange Online）遇到的問題，並感謝客戶等候恢復。報道其後引述微軟更新：起初指多個地區基礎設施負載偏高，後來判定係部分伺服器意外不可用、令餘下基礎設施受壓，並且有伺服器未能通過自動健康檢查；約下午 4 時微軟稱已驗證替代健康檢查方法，令部分受影響伺服器重新上線，並正更廣泛套用有關改動、準備自動偵測並重啟無回應伺服器。Yahoo 美股日線 11/12：523.00（前收 11/11 的 521.13，約 +0.36%）。公司官方服務狀態頁屬動態頁面，本則以 CNBC 引述的微軟聲明為準，並非新的 SEC 業績檔。數字以 Yahoo 及該篇報道可見內容為準。",
+      "whyItMatters": "365 中斷影響嘅係日常電郵同協作能否連上，屬於營運事件，唔等於已經有新的業績或指引。周四收市微升約 0.36%，只能說明當日常規交易結果，唔能用來推斷中斷已經完全結束或對雲業務的財務影響。",
+      "whatToWatch": "微軟官方服務狀態或其後是否就事故範圍、成因及恢復進度發更完整說明。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-12",
+          "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+          "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "tier-2-capital-notes",
+      "title": "二級資本債券（Tier 2 capital notes）",
+      "titleEn": "Tier 2 capital notes",
+      "what": "二級資本債券（Tier 2 capital notes）係銀行發行、用來補充「二級資本」的債務工具。它唔係普通股：投資者通常按約定收取票息、到期收回本金，但在監管資本架構裡，這類債券的損失吸收順位低於一般高級債、高於普通股。條款經常附有發行人在指定年份行使的有條件贖回權。",
+      "whyItMatters": "新手見到「完成發行債券」，容易以為公司在賣股票或已經完成增資擴股。其實二級資本債券補的是監管資本裡的債務層，唔會即時改變普通股股數；票面利率同年期係發行條款，亦唔等於對股價的承諾。要同「向特定對象發行 A 股」分開睇：後者先涉及股本，而且可能仍待監管註冊。",
+      "whereToday": "工商銀行 2026-11-12 港交所公告：2026 年二級資本債券（第七期）（債券通）已在全國銀行間債券市場發行完畢，規模人民幣 600 億元；其中 10 年期、第 5 年末可有條件贖回的一檔為人民幣 400 億元、利率 1.77%，15 年期、第 10 年末可有條件贖回的一檔為人民幣 200 億元、利率 1.96%。所得款項扣除費用後將補充二級資本。Yahoo 11/12 收 7.835（約 -0.63%）。",
+      "whatToWatch": "後續資本充足相關披露，以及向特定對象發行 A 股的證監會註冊進度。唔構成買賣建議。",
+      "relatedTickers": [
+        "1398.HK"
+      ],
+      "notionUrl": "https://app.notion.com/p/41799f70bc56811db943f65c704d1d3d"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "Updates — Texas and Arizona supercompute campuses, more than $74 billion in planned investment",
+        "date": "2026-11-12",
+        "url": "https://www.spacex.com/updates/"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全世界（除美）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return — 1,670,000 Class B shares repurchased for cancellation on 12 November 2026",
+        "date": "2026-11-12",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111201033.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Form 8-K — $25B senior notes settlement / Sixteenth Supplemental Indenture",
+        "date": "2026-11-04",
+        "url": "https://www.microsoft.com/en-us/investor/sec-filings"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "Form 8-K / NVIDIA Announces CEO Transition — Huang resigns; Kress interim CEO; Jones appointed Chair",
+        "date": "2026-11-12",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+        "date": "2026-11-12",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-13.mp3",
+  "audioScriptChars": 3471,
+  "audioVoice": "gTTS-zh-TW"
+}
