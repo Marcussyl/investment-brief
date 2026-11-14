@@ -1,218 +1,176 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "disclaimer": "第三方·非公告，唯供參考，唔構成買賣建議。",
   "items": [
     {
-      "title": "輝達正式宣布黃仁勳去職，財務長 Kress 出任臨時執行長",
-      "summary": "輝達新聞室 11/12 公告，董事會宣布黃仁勳即時辭去總裁、執行長及董事職務；現任執行副總裁兼財務長 Colette Kress 同意出任臨時執行長並繼續兼任財務長，董事會將展開常任執行長搜尋、考慮內部及外部人選，同時任命 Harvey C. Jones 為首任董事會主席。稿件並重申將於 11/17 約太平洋時間下午 1:20 公布 2027 財政年度第三季業績，隨後下午 2:00 舉行業績會。",
-      "source": "NVIDIA Newsroom",
-      "date": "2026-11-12",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "這是公司新聞室的正式人事公告，市場可能把臨時交接、常任人選搜尋，以及原定 11/17 業績會放在同一條時間軸上觀察。營運會否如董事會所說不受中斷，仍要之後的業績同客戶進展來核對。",
-      "newbieTake": "可對照同日提交的 Form 8-K，並留意 11/17 業績會上臨時管理層如何說明交接安排，唔好把第三方傳聞當成公司已確認的原因。"
-    },
-    {
-      "title": "CNBC：輝達周四收跌逾 4%，盤中曾明顯擴大跌幅",
-      "summary": "CNBC 報道，黃仁勳宣布即時辭任後，輝達周四收跌 4.34%；文中並指當日稍早跌幅一度擴大至約 14%，收市時市值仍維持在 4 萬億美元之上。有關辭任背景的其他指控屬第三方報道，並非公司新聞室內容。",
+      "title": "Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout",
+      "summary": "CNBC 報道，輝達周五再跌 2.01%，收市市值自 2025 年 7 月以來首次跌破 4 萬億美元。報道指，該股本周累跌 12.75%，並錄得第 6 個連續下跌周，是 2012 年以來最長連跌週期。文章亦回述，周四在黃仁勳辭任消息後股價一度急挫，其後收市跌幅收窄至約 4%。",
       "source": "CNBC",
-      "date": "2026-11-12",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+      "date": "2026-11-14",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
       "tickers": [
         "NVDA"
       ],
-      "impact": "第三方行情報道顯示，市場對突然的執行長交接反應可以先急後收斂，但一日收市幅度唔等於後續波動已經結束。",
-      "newbieTake": "收市數字可再對照 Yahoo 等公開行情，並把焦點放回公司 11/17 業績，而不是盤中極端價位。"
+      "impact": "這是交接消息後第二個完整美股交易日的收市結果，市場可能繼續關注治理過渡、後續交易表現，以及公司原定的第三季業績會如何說明營運與接班安排。收市跌破長期市值關口，也可能成為短期討論焦點，但不代表後續走勢已確定。",
+      "newbieTake": "可對照下一交易時段的收市表現，以及輝達原定的第三季業績會官方說明。"
     },
     {
-      "title": "掌舵 33 年傳奇劃下句點！黃仁勳即刻辭去執行長，CFO 克雷斯接任臨時 CEO",
-      "summary": "T客邦引述輝達 11/12 董事會公告，指創辦人黃仁勳即刻辭去總裁、執行長及董事職務；自 2013 年 9 月起擔任執行副總裁兼財務長的 Colette Kress 出任臨時執行長並繼續兼任財務長，Harvey C. Jones 獲任首任董事長，董事會並啟動內外部常任執行長遴選。",
-      "source": "T客邦",
-      "date": "2026-11-12",
-      "url": "https://www.techbang.com/posts/134847-jensen-huang-steps-down-nvidia-ceo-kress-interim",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "華文科技媒體把交接寫成權力移交的開端，市場關注點可能轉到臨時管理層能否維持產品路線圖，以及常任人選何時公布。",
-      "newbieTake": "宜回到公司新聞室原文核對職務與時間點，再等 11/17 業績會，而不是只看媒體標題的情緒用詞。"
-    },
-    {
-      "title": "臨時執行長與董事長向員工發內部信，並預告 11/18 員工大會",
-      "summary": "CNBC 引述其見到的內部電郵稱，臨時執行長 Colette Kress 與董事會主席 Harvey Jones 向員工致信；Kress 的信寫明公司將於 11 月 18 日太平洋時間上午 9 時舉行員工大會。此為第三方報道的內部通訊，並非公司新聞室稿。",
+      "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+      "summary": "輝達董事會周五向 CNBC 發表聲明稱：「我們正為輝達執行長職位物色獵才公司。我們尚未正式接觸任何潛在人選。」針對《金融時報》同日報道董事會已接觸 Arm 執行長 Rene Haas 作為繼任人選，董事會表示，「任何有關個別人選（無論內部或外部）的揣測都為時過早。」報道並引述知情人士稱，臨時執行長 Colette Kress 周四下午已在加州聖克拉拉總部與高層舉行就任後首次會議。",
       "source": "CNBC",
-      "date": "2026-11-12",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+      "date": "2026-11-14",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
       "tickers": [
         "NVDA"
       ],
-      "impact": "若內部大會時程屬實，市場可能把它視為交接後首次較完整的對內說明窗口，但仍要等公司是否另發公開說明。",
-      "newbieTake": "可把 11/18 員工大會同 11/17 業績會分開記：前者屬第三方引述的內部安排，後者已寫在公司新聞室稿。"
+      "impact": "這是董事會就常任執行長遴選進度向媒體作出的新說明，可能令市場暫時把焦點放在程序時程，而非特定人選傳聞。董事會強調尚未正式接觸人選，與部分媒體報道並存，後續仍以官方說明為準。",
+      "newbieTake": "可留意董事會是否宣布已選定獵才公司，或再就常任執行長遴選發表更新。"
     },
     {
-      "title": "SpaceX 宣布德州及亞利桑那超級運算園區計劃投資逾 740 億美元",
-      "summary": "SpaceX 官網 Updates（11/12）寫明，公司正推進 Starbase／南德州及亞利桑那州 Cochise County 兩座超級運算園區，合計計劃投資超過 740 億美元；德州項目計劃投資超過 240 億美元並自行發電，亞利桑那園區約 500 億美元，文中並列出建築及常設職位、水利與電費等公司自行說明。",
-      "source": "SpaceX",
-      "date": "2026-11-12",
-      "url": "https://www.spacex.com/updates/",
+      "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
+      "summary": "CNBC 報道，美國參議院銀行委員會主席 Tim Scott 周四晚分別致函黃仁勳與商務部長 Howard Lutnick，要求兩人分開出席聽證會，日期分別為 12 月 3 日及 12 月 10 日，焦點包括輝達先進 AI 晶片是否流向中國企業，以及商務部角色所引發的國安疑慮。盧特尼克發言人 Kristen Eichamer 向 NBC News 表示，部長已主動同意自願出席。致黃仁勳的信函稱，相關報道「引發重大國家安全疑慮」。報道並未寫明黃仁勳已答應出席 12 月 3 日場次。",
+      "source": "CNBC",
+      "date": "2026-11-13",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "繼昨日有關眾議院閉門作證的報道後，參議院銀行委員會再提出公開聽證時間表，可能令輝達（NVDA）出口管制與商務部政策的國會監督維持高能見度。黃仁勳會否出席 12 月 3 日場次，仍須看其後續回應或委員會程序。",
+      "newbieTake": "可追蹤參議院銀行委員會是否公布正式聽證安排，以及黃仁勳或商務部有沒有進一步書面或公開回應。"
+    },
+    {
+      "title": "SpaceX launches Starship in key test flight of massive rocket",
+      "summary": "CNBC 報道，SpaceX 周五在得州 Starbase 進行第 15 次星艦試飛，當地時間下午 4 時 47 分（美東時間下午 5 時 47 分）升空；這是公司首次嘗試在發射場同時捕捉超重型助推器及上段太空船。公司已於當日稍早取得美國聯邦航空管理局（FAA）授權。報道指，SpaceX 其後取消助推器捕捉計劃，改為讓其濺落海洋。此行任務計劃再釋放一批 Starlink v3 衛星；上一趟試飛已釋放 26 顆，公司表示本趟再計劃釋放 26 顆。報道發布時尚未完整交代上段太空船捕捉或衛星釋放的最終結果。",
+      "source": "CNBC",
+      "date": "2026-11-14",
+      "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
       "tickers": [
         "SPCX"
       ],
-      "impact": "這是公司官網對超級運算基礎設施的正式說明，市場可能關注計劃投資何時轉成已批准許可與實際開支，而不是把計劃金額當成已投入現金。",
-      "newbieTake": "可繼續看官方 Updates 及當地審批消息，並留意今日 Flight 15 官方頁是否維持發射窗口。"
+      "impact": "這是 SpaceX（SPCX）朝完全重複使用運載系統前進的關鍵測試，助推器捕捉未能按原計劃進行，可能令市場關注後續飛行窗口與 Starlink 部署節奏。上段回收與衛星釋放結果仍待官方完整說明。",
+      "newbieTake": "可留意 SpaceX 官網 Updates 或官方帳號是否公布第 15 次試飛的完整結果，以及下次試飛安排。"
     },
     {
-      "title": "微軟 365／Outlook／Teams 周四大範圍中斷，公司稱部分伺服器已恢復",
-      "summary": "CNBC 報道，微軟周四出現影響 Outlook、Teams 及 Microsoft 365 的大範圍中斷，Downdetector 顯示 Outlook 問題報告高峰約 13 萬宗。微軟發言人向 CNBC 表示主要涉及 Exchange Online，其後公司更新稱部分伺服器意外不可用並未能通過自動健康檢查，已驗證替代檢查方法令部分伺服器重新上線，修復仍在進行。",
+      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+      "summary": "繼周四大範圍中斷後，CNBC 報道微軟周五就 Outlook 及其他 Microsoft 365 服務受影響向客戶致歉。發言人表示，公司對此次事故造成的干擾深感抱歉，並稱「我們看到服務正廣泛恢復並趨於穩定」。公司表示，連線中斷源於「較早前網絡容量升級期間的問題」，相關根源已處理，但仍在為部分客戶恢復服務。報道指中斷由周四美東時間下午約 1 時前開始，延續近 24 小時，周五上午美東地區的 Outlook、SharePoint 及 Copilot 等仍受影響；微軟約上午 10 時 30 分稱恢復進度令人鼓舞。公司表示未發現惡意活動，並將在評估完成後公布完整報告。",
       "source": "CNBC",
-      "date": "2026-11-12",
+      "date": "2026-11-14",
       "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
       "tickers": [
         "MSFT"
       ],
-      "impact": "雲端生產力服務中斷可能引發市場對平台穩定性的短期關注，但這仍是營運事故報道，尚未見到公司就財務影響發表正式說明。",
-      "newbieTake": "可留意微軟官方服務狀態或其後事故說明，唔好把一日股價波動直接理解成中斷的財務後果。"
+      "impact": "事故由周四延至周五，可能持續引發市場對微軟（MSFT）商業雲可靠性的關注。公司改以「網絡容量升級」補充說明原因，與最初提到的伺服器負荷及健康檢查問題並列，完整根因仍待事後報告。",
+      "newbieTake": "可繼續查看 Microsoft 365 狀態頁是否宣布全面恢復，以及公司其後會否發布事故檢討報告。"
     },
     {
-      "title": "微軟稱正把剩餘受影響伺服器帶回服務，用戶或會逐步恢復連線",
-      "summary": "富途快訊轉述微軟就 365 中斷的最新說明：公司表示已簡化把剩餘受影響伺服器帶回服務的流程，正把流量轉到替代路徑並觀察到有限恢復；部分受影響伺服器已返回服務且暫時保持穩定，隨著產能恢復，用戶可能在客戶端重新連線時經歷逐步恢復。",
-      "source": "富途快訊",
+      "title": "AI 晶片需求旺  應材 Q4 營收飆 53%、本季再戰新高",
+      "summary": "科技新報轉載 MoneyDJ 報道，應用材料（Applied Materials）公布 2026 會計年度第四季（截至 10 月 25 日）營收 104.1 億美元，年增 53%，高於市場預估的 103 億美元；淨利 27.2 億美元，高於去年同期 19 億美元；調整後每股盈餘 4.16 美元，亦優於預期的 4.05 美元。半導體系統部門營收近 80 億美元，年增 64%。公司預估 2027 會計年度第一季營收 111 億美元正負 5 億美元，高於分析師預估的 108.9 億美元；調整後每股盈餘估 4.35 美元正負 0.2 美元。執行長 Gary Dickerson 表示，客戶積極要求提前交付設備，預期 2027 年全球晶圓製造設備需求將成長逾 30%。",
+      "source": "科技新報 TechNews",
       "date": "2026-11-13",
-      "url": "https://www.moomoo.com/news/flash/1004495039/microsoft-on-outage-we-ve-streamlined-the-process-of-returning",
-      "tickers": [
-        "MSFT"
-      ],
-      "impact": "若官方恢復進度屬實，市場關注點可能由「是否大範圍中斷」轉到完全恢復需要多久，以及會否再出現反覆不穩。",
-      "newbieTake": "快訊係即時轉述，宜再對照微軟官方狀態或完整新聞稿，確認中斷是否已經結束。"
-    },
-    {
-      "title": "思科季績勝預期，稱本財年 AI 基礎設施營收將倍增",
-      "summary": "CNBC 報道，思科公布的季度業績勝過預期，並表示本財政年度 AI 基礎設施營收將倍增。報道指公司正尋求在 AI 基礎設施領域擴大角色。數字及展望以該篇報道轉述為準，並非本簡報獨立核算。",
-      "source": "CNBC",
-      "date": "2026-11-12",
-      "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+      "url": "https://finance.technews.tw/2026/11/13/applied-materials-q4-revenue-surges-53/",
       "tickers": [],
-      "impact": "網絡設備同業若確認 AI 基礎設施需求，可能被市場解讀為資料中心資本開支敘事的旁證，但思科並非本名單 Active 成分，只能作行業背景。",
-      "newbieTake": "可把思科自己的業績會原文，同輝達 11/17 即將公布的季績分開核對，唔好把同業展望直接套到 NVDA。"
+      "impact": "應材成績反映 AI 與高階記憶體投資正轉化為晶圓設備需求，可能成為觀察先進製程、HBM 及相關資本開支節奏的參考。實際出貨仍取決於供應鏈與廠房產能。",
+      "newbieTake": "可對照公司後續說明，或 SEMI 等產業數據，看 2027 年設備需求展望有沒有更新。"
     },
     {
-      "title": "Cerebras 季績勝預期並宣布與微軟合作，CNBC 指股價一度急升",
-      "summary": "CNBC 報道，Cerebras 公布季度營收勝過預期，並宣布與微軟達成新合作；標題指消息後股價一度急升約 17%。文中指該公司此前已與亞馬遜及甲骨文等雲端業者合作。此為第三方報道，並非微軟新聞室稿。",
-      "source": "CNBC",
-      "date": "2026-11-12",
-      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-      "tickers": [
-        "MSFT"
-      ],
-      "impact": "若合作屬實，市場可能把它視為微軟在自研及外部加速器之外的又一路徑，但報道未在此提供合約規模或時程，不宜外推。",
-      "newbieTake": "可等待微軟或 Cerebras 是否另發官方說明，確認合作範圍，而不是只看盤後股價標題。"
-    },
-    {
-      "title": "劉揚偉：鴻海 AI 雲端業績占比拚逾六成，並觀察記憶體零組件供應",
-      "summary": "科技新報引述鴻海法說相關內容，指董事長劉揚偉談到 AI 雲端業務占比目標，以及記憶體等零組件供應觀察。報道並提及今年前三季資本支出及營運現金流等公司已公布數字。此為第三方採訪／法說整理，並非本名單公司公告。",
-      "source": "科技新報",
-      "date": "2026-11-12",
-      "url": "https://finance.technews.tw/2026/11/12/honhai-fr-26q3/",
-      "tickers": [],
-      "impact": "組裝及雲端基礎設施供應鏈的目標占比，可能被用來觀察 AI 伺服器需求是否仍在擴大，但目標並不等於已實現的收入結構。",
-      "newbieTake": "宜回到鴻海法說或公告核對原文數字與年份口徑，再決定要不要把它當成行業背景。"
-    },
-    {
-      "title": "和碩：伺服器業務起步，輝達 Vera Rubin 出貨瞄準 2027 上半年",
-      "summary": "電子時報報道，和碩在 11/12 法說會上表示，2026 年將是其伺服器出貨的第一年，該業務預期約佔合併營收 10%，並可望在 2027 年數倍成長；產品組合涵蓋輝達平台，Vera Rubin 出貨時程瞄準 2027 上半年。",
-      "source": "電子時報",
-      "date": "2026-11-12",
-      "url": "https://www.digitimes.com/news/a20261112PD244/pegatron-rubin-nvidia-2026-shipments.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "供應鏈若按此時間表推進，市場可能把它視為下一代輝達平台出貨節奏的旁證，但法說展望仍可能隨客戶及產能調整。",
-      "newbieTake": "可把和碩所講的 1H27 時程，對照輝達後續產品或財報說明是否互相吻合。"
-    },
-    {
-      "title": "三星將 HBM 封裝廠啟用計劃提前至 2028 年 6 月",
-      "summary": "電子時報報道，三星電子 11/12 表示，已將韓國新的高頻寬記憶體（HBM）封裝廠計劃啟用時間提前一年至 2028 年 6 月，以因應 AI 伺服器記憶體需求上升。",
-      "source": "電子時報",
-      "date": "2026-11-12",
-      "url": "https://www.digitimes.com/news/a20261112VL209/samsung-hbm-packaging-2028-plant.html",
-      "tickers": [],
-      "impact": "HBM 封裝產能時程若提前，可能被市場解讀為供應鏈仍在為 AI 伺服器記憶體作準備，但啟用日期仍屬未來計劃，並非即時供貨。",
-      "newbieTake": "可繼續看三星後續是否就產能或客戶認證給出更具體的公開說明。"
-    },
-    {
-      "title": "傳三星提早至 2029 年退出 8 吋代工，部分產能轉給聯電",
-      "summary": "電子時報報道稱，三星電子正以 2029 年底退出 8 吋代工為目標，較先前傳聞再提早一年，並已將部分生產外包給台灣的聯電。標題及內文均屬「據報／reportedly」，並非三星官方公告。",
-      "source": "電子時報",
+      "title": "日月光首度進駐科學園區，路竹廠千億布局擴大先進封裝量能",
+      "summary": "科技新報報道，日月光 13 日於南部科學園區高雄園區舉行「南科分公司路竹廠一期啟用暨二期動土典禮」，為其首度進駐科學園區興建大型先進封裝廠房。公司表示，路竹廠一期與二期滿載後，整體投資規模預估達新台幣千億元，年營收約 800 億元，預計創造約 5,000 個就業機會，總樓地板面積約 6.61 萬坪。為加速布局，日月光先前投入 65 億元取得南科高雄園區既有廠房及附屬設施並建置產線；此次一期啟用標誌由投資建置進入實質營運，二期亦同步動土。",
+      "source": "科技新報 TechNews",
       "date": "2026-11-13",
-      "url": "https://www.digitimes.com/news/a20261112VL214/samsung-production-umc-manufacturing-outsourcing.html",
+      "url": "https://finance.technews.tw/2026/11/13/ase-technology-group-makes-its-first-foray-into-the-science-park/",
       "tickers": [],
-      "impact": "若屬實，8 吋成熟製程的產能遷移可能影響相關代工格局，但目前仍是第三方傳聞，時程與範圍都尚未見官方確認。",
-      "newbieTake": "宜等待三星或聯電是否就 8 吋產能安排發正式說明，再把傳聞當成既定計劃。"
+      "impact": "先進封裝是 AI／HPC 晶片量產的關鍵環節，路竹新據點可能令市場關注台灣後段封裝產能擴張，以及南台灣晶圓製造與封測聚落的協同。實際產能爬坡時程仍視後續營運進度。",
+      "newbieTake": "可留意日月光後續法說或官方說明，路竹一期產出與二期完工時間表是否有更新。"
     },
     {
-      "title": "美傳擴大管制，擬封堵海外資料中心使用輝達晶片",
-      "summary": "科技新報引述外電稱，美國或考慮進一步限制透過海外資料中心使用輝達晶片的路徑，並提及可能涉及多個國家的封堵討論。此為第三方傳述，並非美國政府或輝達的已生效新規公告。",
-      "source": "科技新報",
-      "date": "2026-11-12",
-      "url": "https://technews.tw/2026/11/12/us-reportedly-plans-block-7-countries-amid-concerns-china-nvidia-chips-overseas-data-centers/",
-      "tickers": [
-        "NVDA"
-      ],
-      "impact": "出口管制若再收緊，市場可能重新評估資料中心需求的地區結構；但在正式規則出台前，這仍屬政策傳聞，波動可能來自預期而非已落地條文。",
-      "newbieTake": "可對照美國官方是否發布新的出口管制文件，以及輝達 11/17 業績會如何討論地區需求假設。"
-    },
-    {
-      "title": "領務局網站遭駭，逾 7.2 萬張護照照片等資料被取走",
-      "summary": "iThome 報道，外交部領務局網站遭駭，三類資料遭未經授權取得：護照大頭照 72,702 個檔案、駐紐約辦事處驗證授權書掃描檔 26,072 個，以及 ABTC 申請資料 774 件。",
-      "source": "iThome",
-      "date": "2026-11-12",
-      "url": "https://www.ithome.com.tw/news/180446",
+      "title": "傳獲三星青睞  AI 散熱廠 Modine 盤後暴漲近 27%",
+      "summary": "科技新報轉載 MoneyDJ 報道，引述彭博 12 日消息稱，知情人士透露三星電子正與美國資料中心散熱設備製造商 Modine Manufacturing 討論收購，最快可能在未來數週內達成協議；但雙方尚未作最後決定，談判仍可能破局，亦不排除其他買家加入競購。報道引述 Yahoo Finance 報價，消息曝光後 Modine 12 日盤後上漲 26.96%，報 134.70 美元。路透社則稱，三星與 Modine 均未回應媒體詢問，目前暫無法證實。",
+      "source": "科技新報 TechNews",
+      "date": "2026-11-13",
+      "url": "https://finance.technews.tw/2026/11/13/samsung-reportedly-in-talks-to-acquire-modine/",
       "tickers": [],
-      "impact": "政府網站個資外洩屬重大資安事件，市場一般會關注同類網站的防護與通報節奏，但本件並不直接對應本名單公司的產品或財報。",
-      "newbieTake": "可跟官方後續說明及影響範圍更新，無需把它解讀成某隻科技股的買賣訊號。"
+      "impact": "若屬實，可能反映資料中心冷卻設備在 AI 基建中的戰略重要性。目前仍是未經公司確認的傳聞，成案與否與交易條件都未定，不宜把盤後波動視為交易已敲定。",
+      "newbieTake": "可等候三星或 Modine 的官方聲明，或監管與交易所後續披露。"
     },
     {
-      "title": "傳 4.6 萬筆台積電員工資訊遭售，公司稱系統未遭入侵",
-      "summary": "iThome 報道，有人在地下論壇聲稱取得約 4.6 萬筆台積電員工紀錄並開價出售；台積電回應指，無證據顯示公司系統遭入侵。此為第三方事件報道加上公司回應，並非已證實的系統攻破。",
-      "source": "iThome",
-      "date": "2026-11-12",
-      "url": "https://www.ithome.com.tw/news/180450",
+      "title": "Samsung reportedly wins more AI chip orders from US cloud firms",
+      "summary": "電子時報標題及可見摘要稱，三星電子據說連續第二季取得美國大型雲端服務供應商的新 AI 晶片代工訂單，商業出貨預計於 2028 年開始，並指台積電產能緊俏為三星晶圓代工帶來機會。本稿有付費牆，以上僅採用頁面可見標題與摘要，未引用牆後內容。",
+      "source": "DIGITimes 電子時報",
+      "date": "2026-11-13",
+      "url": "https://www.digitimes.com/news/a20261113VL229/samsung-ai-chip-manufacturing-2028-2nm.html",
       "tickers": [],
-      "impact": "供應鏈龍頭的員工資料傳聞可能引發資安關注，但在公司否認系統遭入侵、且尚未見到獨立鑑識結論前，事件性質仍未定案。",
-      "newbieTake": "宜等待公司或執法單位後續說明，避免把論壇聲稱直接當成已確認的入侵事故。"
+      "impact": "若後續獲公司或客戶證實，可能被解讀為先進邏輯代工訂單出現有限分流。目前仍屬「據報」層次，可見摘要並未說明製程節點、客戶名稱或訂單規模。",
+      "newbieTake": "可再看三星或相關雲端業者是否在法說、新聞稿中證實 2028 年出貨時程。"
     },
     {
-      "title": "研究人員公布 FortiClient 重大漏洞 Fortinet2Shell（CVE-2026-121529）",
-      "summary": "iThome 報道，Fortinet 於 11/10 例行更新中公布並修補 FortiClient 重大漏洞 CVE-2026-121529（研究人員稱為 Fortinet2Shell），CVSS 評分為 9.1；在啟用 FortiPAM 的情況下，攻擊者或可誘騙使用者造訪惡意網站，在未通過身分驗證時於受害電腦執行任意程式碼。報道指影響 FortiClient Mac、Windows 及 Windows PAM 等多個版本，Windows 免費版不受影響。",
-      "source": "iThome",
-      "date": "2026-11-12",
-      "url": "https://www.ithome.com.tw/news/180464",
+      "title": "DEEPX tapes out AI chip on Samsung's 2nm process",
+      "summary": "電子時報報道，韓國 AI 晶片開發商 DEEPX 已以其下一代 DX-M2 處理器，完成三星電子第二代 2 奈米製程的 tape-out（設計定案／交付製造），目標是把生成式 AI 帶進機械人與工業設備，並降低對雲端運算的依賴。本稿有付費牆，以上僅採用頁面可見標題與摘要，未引用牆後內容。",
+      "source": "DIGITimes 電子時報",
+      "date": "2026-11-13",
+      "url": "https://www.digitimes.com/news/a20261113VL232/ai-chip-samsung-2nm-production-processor.html",
       "tickers": [],
-      "impact": "企業端點與特權存取管理若受影響，市場可能關注修補進度與實際利用情況；目前報道重點是已公布並已有例行修補，而非本名單公司自己的產品公告。",
-      "newbieTake": "若有使用相關產品，應以廠商公告及更新檔為準，而不是只看漏洞別名。"
+      "impact": "這則消息可能被視為三星 2 奈米產能，以及邊緣／機械人 AI 晶片生態的早期驗證案例。從 tape-out 到量產仍有良率與時程變數。",
+      "newbieTake": "可留意 DEEPX 或三星後續是否公布流片結果、樣品時程或量產計劃。"
     },
     {
-      "title": "N-able 為 N-central 發布緊急更新，修補部分 Able2Shell 零時差漏洞",
-      "summary": "iThome 報道，N-able 於 11/10 發布 N-central 2026.4 Hotfix 2，修補部分遭研究人員公開的零時差漏洞（稱為 Able2Shell），並登記為 7 個 CVE；該更新尚未一次修補所有已公開弱點，HF2 優先處理無需身分驗證即可利用的問題，廠商呼籲自行建置的用戶儘速套用。",
-      "source": "iThome",
-      "date": "2026-11-12",
-      "url": "https://www.ithome.com.tw/news/180452",
+      "title": "SK Hynix's HBM4 yield tops 70% as Samsung expands chip packaging capacity",
+      "summary": "電子時報標題及可見摘要稱，引述韓媒 Chosun Biz 11 月 12 日報道及半導體業消息，SK 海力士第六代高頻寬記憶體（HBM4）生產良率據說已超過 70%；同時提到競爭對手三星電子正推進大規模晶片封裝擴產。本稿有付費牆，以上僅採用頁面可見標題與摘要，未引用牆後內容。",
+      "source": "DIGITimes 電子時報",
+      "date": "2026-11-13",
+      "url": "https://www.digitimes.com/news/a20261113VL217/sk-hynix-hbm4-production-packaging-samsung.html",
       "tickers": [],
-      "impact": "遠端監控管理平台出現零時差，可能令企業資安團隊優先處理修補與暴露面；事件本身並不直接對應本名單股票的財務數字。",
-      "newbieTake": "可跟廠商後續是否補齊其餘已公開弱點，以及是否出現實際利用報告。"
+      "impact": "HBM4 良率若確實提升，可能影響高階 AI 記憶體供給預期；但目前屬業內消息層次，並非公司公告。市場可能繼續比較 SK 海力士與三星的 HBM 進度。",
+      "newbieTake": "可等候 SK 海力士或三星在法說、技術日中是否量化更新 HBM4 良率或封裝產能。"
     },
     {
-      "title": "微軟：攻擊者利用代理型 AI 搜尋 GitHub 外洩憑證，5 分鐘內從 Azure Key Vault 外傳資料",
-      "summary": "iThome 引述微軟研究指出，攻擊者利用代理型 AI 搜尋 GitHub 中的機密資料，再以遭竊或外洩的應用程式憑證登入 Entra ID；其中一起案例從搜尋到把資料由 Azure Key Vault 外傳，前後僅相隔 5 分鐘。微軟並提醒，已從 GitHub 刪除程式碼並不代表憑證失效，仍須撤銷或輪替。",
+      "title": "Apache修補網頁伺服器HTTP/2模組的重大漏洞，64%雲端環境恐曝險",
+      "summary": "iThome 報道，Apache 軟體基金會於 11 月 11 日發布 Apache HTTP Server 2.4.71，修補 3 個資安漏洞，當中最受關注的是 HTTP/2 模組 mod_http2 的重大漏洞 CVE-2026-119618。該弱點源自多執行緒處理 HTTP/2 請求時的競爭條件，可能導致記憶體損毀，讓未經驗證的遠端攻擊者執行任意程式碼；影響 2.4.55 至 2.4.70 版，以及 2.0.8 至 2.0.42 版 mod_h2。iThome 引述 Red Hat 將其 CVSS 評為 9.8 分，資安公司 Wiz 估計全球有 64% 雲端環境可能曝露於相關風險。Red Hat 指出須啟用 HTTP/2 才受影響；若未能即時升級，Wiz 建議暫時移除組態中的 h2／h2c 參照，改以 HTTP/1.1 應變。此 CVE 編號已於 Apache 官方資安頁核對。",
       "source": "iThome",
-      "date": "2026-11-12",
-      "url": "https://www.ithome.com.tw/news/180400",
-      "tickers": [
-        "MSFT"
-      ],
-      "impact": "這是微軟公布的攻擊手法觀察，可能加強市場對雲端身分、金鑰及 AI 代理權限管理的討論，但並非新的產品中斷或業績公告。",
-      "newbieTake": "可把這則研究，同周四 365 服務中斷分開看待：前者是攻擊手法警示，後者是服務可用性事件。"
+      "date": "2026-11-13",
+      "url": "https://www.ithome.com.tw/news/180490",
+      "tickers": [],
+      "impact": "這是已由官方發布修補的重大遠端程式碼執行風險，且估計影響面甚廣，可能促使雲端與網站營運者加快升級或暫時關閉 HTTP/2。目前報道未指稱已被大規模在野利用。",
+      "newbieTake": "可查自己或所屬服務是否使用 Apache 2.4.55 至 2.4.70 並已啟用 HTTP/2，以及是否已升級至 2.4.71。"
+    },
+    {
+      "title": "駭客集團UNC6783聲稱入侵資安院竊得102 GB資料，資安院：去年7月已進行資安通報",
+      "summary": "iThome 引述資安情資業者 ThreatMon 指出，地下論壇有威脅行為者聲稱駭客組織 UNC6783 已入侵台灣國家資通安全研究院（NICS），並外洩共 102 GB、涵蓋 2024 至 2025 年的內部文件，樣本包括「資安聯防監控月報」。iThome 向資安院求證，院方表示去年 7 月已進行資安通報，目前仍持續監控觀察。報道亦提醒，該月報屬 TLP:GREEN，會定期發給已登記的公務機關、關鍵基礎設施業者及簽約資安廠商，即使文件外流，也難以單憑樣本斷定源頭就是資安院。",
+      "source": "iThome",
+      "date": "2026-11-14",
+      "url": "https://www.ithome.com.tw/news/180499",
+      "tickers": [],
+      "impact": "若監控月報等聯防情資確遭外流，攻擊者可能藉此掌握政府機關防禦重點與漏洞警報。目前「入侵資安院系統並取得 102 GB」仍屬駭客聲稱，院方尚未在報道中直接確認這一批資料的來源與完整性。",
+      "newbieTake": "可追蹤數位發展部或資安院後續說明，以及是否有更完整的事故調查公開。"
+    },
+    {
+      "title": "泰航與芬蘭航空各因Amadeus資安事件外洩逾6萬筆與11萬筆旅客資訊",
+      "summary": "iThome 報道，泰國航空與芬蘭航空於 11 月 9 日公告，訂位系統供應商 Amadeus 遭非法存取。泰航指，2023 年 8 月 10 日至 2026 年 9 月 23 日存放於 Amadeus 的訂票資料受影響，共 60,529 筆，主要包括姓名、訂票代號、飛行日期、航段及艙等；另有 376 名乘客還涉及電話、電郵、護照號碼等，不包括信用卡資料。芬航指約 11.6 萬筆客戶紀錄受影響，當中近 750 筆曾被開啟查看，亦不包含信用卡號或密碼。Amadeus 向航空公司確認，遭存取的帳號憑證已全部註銷並重設密碼。報道指，這是繼韓航、日航、國泰、新航等之後，再有航空公司公布受同一事件影響；Amadeus 約有 110 多家航空公司客戶，目前尚未公布完整調查結果。",
+      "source": "iThome",
+      "date": "2026-11-13",
+      "url": "https://www.ithome.com.tw/news/180477",
+      "tickers": [],
+      "impact": "航空全球分銷系統（GDS）的供應鏈資安事件持續擴大，可能令市場關注旅遊與航空業對核心訂位平台的依賴，以及旅客個資通知與憑證輪替的後續處理。兩家航空均稱事件不影響自身系統或營運。",
+      "newbieTake": "可查看泰航、芬航是否已個別通知受影響旅客，以及 Amadeus 其後有沒有公布調查結論。"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+      "summary": "OpenAI 周五宣布推出 ChatGPT Wallet，讓其「dots」AI 代理可代表用戶購物。功能與 American Express、Mastercard 及 Visa 合作，持卡人可保留原有信用卡獎賞與保障；合資格用戶輸入一次卡資料，由代理尋找商品，並在每筆交易以安全驗證批准。公司稱代理不會直接取得卡資料，而是由支付網絡提供僅限該筆交易的付款代用號（payment token）。產品初期向美國 18 歲以上的 ChatGPT Pro 訂閱用戶開放，OpenAI 表示起步階段不會抽成。報道並指，聯合航空與亞馬遜等已限制或阻止代理訂票或購物。",
+      "source": "CNBC",
+      "date": "2026-11-13",
+      "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "tickers": [],
+      "impact": "這是代理型 AI 進入支付環節的具體產品落地，可能引發對代理商務、商家封鎖政策及支付安全機制的關注。目前屬小範圍試點，商業模式與普及速度仍未明朗。",
+      "newbieTake": "可看 OpenAI 或卡組織後續是否擴大可用地區與方案，以及大型商家是否調整對 AI 代理購物的政策。"
+    },
+    {
+      "title": "Gemini 4 Hydrogen 登場：主打日常編程與高效智慧代理，Gemini App、Google 搜尋同步升級",
+      "summary": "T客邦報道，Google DeepMind 發表 Gemini 4 Hydrogen 模型，聚焦日常編程與代理式工作流程的速度與效率，並同步在 Gemini App 與 Google 搜尋升級。報道稱，在預設高思考級別下，該模型於 Artificial Analysis Intelligence Index 的表現甚至超越 Gemini 4 Argon，並可與旗艦模型 Carbon 透過 Antigravity 的 Orchestrator 功能協同。Hydrogen 上下文窗口為 100 萬 Token，定價為每百萬輸入 Token 1.50 美元、輸出 7.50 美元。開發者可經 AI Studio 與 Gemini API 使用，企業可在 Gemini for business 部署，一般用戶則可在 Gemini App 模型選單與 Google Search 使用。",
+      "source": "T客邦",
+      "date": "2026-11-13",
+      "url": "https://www.techbang.com/posts/134880-gemini-4-hydrogen-launch-coding-agents-search-upgrade",
+      "tickers": [],
+      "impact": "新模型若如報道所述更著重速度、成本與代理任務，可能影響開發者在程式編碼與自動化工作流上的模型選擇。實際可用性與評測數字仍以 Google 官方說明及獨立評測為準。",
+      "newbieTake": "可到 Gemini App 或 AI Studio 查看 Hydrogen 是否已在所在地區上線，並對照 Google 官方公告的功能與定價。"
     }
   ]
 }
