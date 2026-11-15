@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-15",
+  "stories": [
+    {
+      "id": "spcx-flight15-catch-sat",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：官方確認 Flight 15 周六首次以發射塔機械臂捕捉上段；助推器改道後飛行終止系統被觸發；Yahoo 周五收 139.11 並不反映這則周末結果",
+      "summary": "Holding SPCX。SpaceX 官方 Flight 15 頁確認：周五（11 月 13 日）星艦從德州 Starbase 升空；周六（11 月 14 日）上段太空船在離開發射場約 22.5 小時後，返回同一發射場，首次被發射塔機械臂（官方寫 Mechzilla）成功捕捉。官方寫明，上段入軌後釋放了 26 顆 Starlink V3 衛星，並與每顆衛星取得聯絡；飛行控制團隊在軌道上監察系統超過 20 小時後，以單台 Raptor 做離軌燃燒。同一任務並未完成雙捕捉：超重型助推器助推回燒因燃料質量偏低而提早結束（根因仍在調查），導航系統自動中止原定塔捕捉並改道近海，著陸燃燒關車後飛行終止系統被觸發。CNBC 等第三方報道形容助推器在入水前爆炸，本則以官方表述為準。Yahoo 11/13 收 139.11（前收 139.94，約 -0.59%）。美股常規交易周五下午 4:00 美東已收市，早於周五晚間發射，更早於周六捕捉，故該收市價並不反映試飛或捕捉結果。",
+      "whyItMatters": "呢次係 Holding SPCX 的關鍵重複使用測試：上段首次被接住，但助推器仍未完成塔捕捉。周五收市價係發射前已完成的常規交易結果，唔等於已計入周末官方結果。",
+      "whatToWatch": "周一美股開市後的官方日線，以及官方會否再補充助推器調查或下次試飛安排。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-11-14",
+          "title": "Starship Flight 15 (official results / first upper-stage catch)",
+          "url": "https://www.spacex.com/launches/starship-flight-15/"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-14",
+          "title": "SpaceX catches upper stage of Starship rocket in historic first（第三方·非公告）",
+          "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
+        },
+        {
+          "category": "news",
+          "publisher": "Al Jazeera (AP and Reuters)",
+          "date": "2026-11-15",
+          "title": "SpaceX's Starship captured by launchpad arms in dramatic first（第三方·非公告）",
+          "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first"
+        }
+      ]
+    },
+    {
+      "id": "1810-weekend-quiet-nddr",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：周末無新港交所公告；周五翌日披露回購 172.5 萬股 B 類（擬註銷）仍為最新官方數字；Yahoo 周五收 28.86（約 -3.74%）",
+      "summary": "Holding 1810.HK。周末沒有新的港交所公告。周五已呈交的翌日披露報表（昨天簡報已寫過）仍是最新官方數字：公司於 11/13 在聯交所以每股最高 29.02 港元、最低 28.82 港元，回購 1,725,000 股 B 類普通股，付出總額 49,832,835 港元，購回股份擬註銷；同日亦就股份計劃向非董事參與人發行 1,200 股新 B 類股。Yahoo 11/13 收 28.86（前收 29.98，約 -3.74%）；對上一個周五 11/6 收 30.38，約 -5.00%。已公布的董事會會議仍是 11 月 24 日（周二），將審議截至 2026 年 9 月 30 日的第三季及首九個月未經審核業績。",
+      "whyItMatters": "回購是公司按已通過授權在市場買回並擬註銷自己的股份，本身不是盈利數字。周末沒有新成交或新公告，新手唔好把周五收市當成已反映周末以後的消息。",
+      "whatToWatch": "周一港股開市、後續翌日披露會否再錄得回購，以及 11/24 董事會會議後的業績公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Xiaomi / HKEX",
+          "date": "2026-11-13",
+          "title": "Next Day Disclosure Return — 1,725,000 Class B shares repurchased for cancellation on 13 November 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1113/2026111300953.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "Xiaomi / HKEX",
+          "date": "2026-10-23",
+          "title": "Date of Board Meeting — unaudited Q3 / nine-month 2026 results on 24 November 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        }
+      ]
+    },
+    {
+      "id": "macro-etf-weekend-tape",
+      "ticker": "GLD",
+      "title": "宏觀／ETF：周末休市、無基金新公告；Yahoo 周五 GLD 收 355.45（當日約 +0.16%、全周約 -4.58%），SPYM 88.77（約 -0.40%）、VEU 80.91（約 -0.06%）",
+      "summary": "Holdings GLD、SPYM、VEU。周末休市，三隻持倉 ETF 均未見基金本身的新公告。Yahoo 11/13：GLD 收 355.45（前收 354.89，約 +0.16%；對上一個周五 11/6 收 372.52，全周約 -4.58%）；SPYM 收 88.77（前收 89.13，約 -0.40%；對上周五 86.56，全周約 +2.55%）；VEU 收 80.91（前收 80.96，約 -0.06%；對上周五 79.25，全周約 +2.09%）。金管局周五官方銀行同業流動性數字：兌換保證仍是弱方 7.85／強方 7.75，貼現窗基本利率 4.25%，隔夜香港銀行同業拆息 2.29%，收市總結餘 540.55 億港元。聯儲或金管局周末未見新的議息決定。金管局每日美元兌港元中間價序列在本輪擷取時仍只到 2026-10-31，故不另行發明 11/13 匯價。",
+      "whyItMatters": "對新手來說，ETF 收市價是一籃子資產在常規時段結束時的結果，不是單一公司新聞。GLD 周五微升但全周仍明顯下跌，要同單日變動分開看；SPYM、VEU 周末亦沒有基金公告。",
+      "whatToWatch": "下一個交易時段的收市，以及之後的聯儲或金管局官方公布。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-13",
+          "title": "GLD / SPYM / VEU daily history (last regular session 13 November 2026)",
+          "url": "https://finance.yahoo.com/quote/GLD/history"
+        },
+        {
+          "category": "company",
+          "publisher": "HKMA",
+          "date": "2026-11-13",
+          "title": "Daily monetary statistics / interbank liquidity (CU 7.75–7.85, base rate 4.25%, closing aggregate balance HK$54.055bn)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        }
+      ]
+    },
+    {
+      "id": "nvda-investor-letter-earnings-watch",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：周末無新 IR／8-K；CNBC 報道兩名股東聯名信籲放慢遴選並衡量黃仁勳回任可能（第三方·非公告）；11/17 業績前，Yahoo 周五收 162.85（約 -2.01%）",
+      "summary": "Research NVDA。周末未見新的公司新聞室或 Form 8-K。已核實事實仍是：董事會在 11/11 接受黃仁勳辭任，11/12 新聞室及 8-K 確認財務長 Colette M. Kress 出任臨時執行長並繼續兼任財務長，Harvey C. Jones 出任董事會首位主席；公司將於 11/17（周二）太平洋時間下午約 1:20 公布 2027 財政年度第三季業績（季度截至 2026-10-25），下午 2:00 舉行業績會。CNBC 周五引述董事會聲明：尚未選定獵才公司，亦尚未正式接觸任何潛在人選，並稱有關個別人選的揣測都為時過早。CNBC 周六另報道（第三方·非公告）：Altimeter Capital 執行長 Brad Gerstner 周五公開一封致董事會的信件，Atreides Management 的 Gavin Baker 亦有簽署，促請以緩慢、審慎程序處理未來領導層，並把黃仁勳可能回任列為須衡量的選項之一；報道指該信並未要求立即復職。信件不是公司公告，也不等於董事會已改變接班安排。Yahoo 11/13 收 162.85（前收 166.19，約 -2.01%）；對上一個周五 11/6 收 186.64，約 -12.75%。周一是業績前最後一個美股常規交易日。",
+      "whyItMatters": "對新手來說，股東公開信同公司公告唔係同一件事；已核實嘅接班安排仍以 8-K 同新聞室為準。周末傳聞或人選揣測，唔應當成已經發生的人事決定。",
+      "whatToWatch": "周一開市，以及 11/17 業績、書面財務長說明及業績會；公司其後會否就獵才公司或常任執行長搜尋再發公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-12",
+          "title": "NVIDIA Announces CEO Transition — Huang resigns; Kress interim CEO; Jones appointed Chair",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA / U.S. SEC Form 8-K",
+          "date": "2026-11-12",
+          "title": "Form 8-K — Board accepted Huang resignation; Kress interim CEO, remains CFO",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-13",
+          "title": "Board statement: no search firm selected yet; no formal approach to candidates（第三方·非公告）",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-14",
+          "title": "Nvidia board urged to consider potential return of Jensen Huang by two major investors（第三方·非公告）",
+          "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA IR",
+          "date": "2026-10-28",
+          "title": "NVIDIA Sets Conference Call for Third Quarter Financial Results — 17 November 2026, 2:00 p.m. PT",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx"
+        }
+      ]
+    },
+    {
+      "id": "msft-365-restore-thirdparty",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：The Verge 稱公司周六在 X 表示已完成恢復 Microsoft 365／Outlook（第三方，原文未獨立核對）；Yahoo 周五收 523.88（約 +0.17%）",
+      "summary": "Research MSFT。周末未見新的交易所業績或監管公告。昨天簡報仍是微軟就 Outlook／Microsoft 365 服務中斷致歉、服務廣泛恢復但尚未宣告全部完成。The Verge 周六報道（第三方·非公告）稱，公司約在周六美東時間凌晨 1 時於 X 發文，表示已完成向所有客戶恢復服務。本輪未能直接打開該則 X 原文或官方狀態頁，只可作為第三方轉述；完整根因仍待公司其後會否發表事故檢討。微軟官方 Azure HPC 部落格周五另刊出 ND MI455X v7／AMD Helios 技術說明（每架液冷機櫃 72 顆 MI455X GPU、18 顆 EPYC “Venice” CPU、31 TB HBM4），屬產品／工程說明，不是財報或指引。Yahoo 11/13 收 523.88（前收 523.00，約 +0.17%）；對上一個周五 11/6 收 530.61，約 -1.27%。周五收市早於周六恢復服務的轉述。",
+      "whyItMatters": "對新手來說，第三方轉述「已完成恢復」同公司正式事後報告唔係同一層；服務中斷的根因同後續補償／檢討，仍要以官方說明為準。",
+      "whatToWatch": "周一開市，以及公司會否補發正式事後報告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "The Verge",
+          "date": "2026-11-14",
+          "title": "Microsoft has finished restoring service after its massive Outlook outage（第三方·非公告；X 原文未獨立核對）",
+          "url": "https://www.theverge.com/tech/1033864/microsoft-has-finished-restoring-service-after-its-massive-outlook-outage"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Tech Community",
+          "date": "2026-11-13",
+          "title": "From Silicon to Service — bringing AMD Helios to Azure (ND MI455X v7)",
+          "url": "https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/from-silicon-to-service-bringing-amd-helios%E2%84%A2-to-azure/4573029"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-13",
+          "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services（第三方·非公告）",
+          "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+        }
+      ]
+    },
+    {
+      "id": "1398-weekend-quiet-egm-watch",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：周末無新港交所公告；續看 11/12 二級資本債券第七期發行完畢，以及 11/27 臨時股東會；Yahoo 周五收 7.92（約 +1.08%）",
+      "summary": "Research 1398.HK。周末沒有新的港交所公司公告。最新仍為 11/12 二級資本債券第七期（債券通）發行完畢，規模人民幣 600 億元（10 年期 400 億元、票息 1.77%；15 年期 200 億元、票息 1.96%），所得款項將用於補充二級資本；以及 11/11 向特定對象發行 A 股申請獲上交所審核通過，仍須待中國證監會同意註冊，銀行已提示存在不確定性。11/9 通函已訂 11/27（周五）下午 2:50 於北京舉行 2026 年第三次臨時股東會。Yahoo 11/13 收 7.92（前收 7.835，約 +1.08%）；對上一個周五 11/6 收 7.95，約 -0.38%。",
+      "whyItMatters": "清淡周末並唔等於事項已完結：二級資本債券已經發行完畢，但向特定對象發行 A 股仍待證監會註冊，臨時股東會亦尚未舉行。",
+      "whatToWatch": "11/27 臨時股東會表決結果，以及向特定對象發行 A 股的證監會註冊進度。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC / HKEX",
+          "date": "2026-11-12",
+          "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "ICBC / HKEX",
+          "date": "2026-11-11",
+          "title": "SSE reviewed and approved the application to issue A shares to specific targets (CSRC registration still outstanding)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1111/2026111100476.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "ICBC / HKEX",
+          "date": "2026-11-09",
+          "title": "Notice of the Third Extraordinary Shareholders’ Meeting of 2026 — 27 November 2026",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900647_c.pdf"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "weekend-gap",
+      "title": "盤後交易與周末缺口（after-hours trading and weekend gap）",
+      "titleEn": "after-hours trading and weekend gap",
+      "what": "盤後交易（after-hours trading）係指美股常規交易時段（一般為美東時間周一至周五上午 9:30 至下午 4:00）結束後，由部分電子平台繼續撮合的買賣。成交量和參與者通常少過常規時段，價格也不等於下一個常規交易日的官方收市價。周末缺口（weekend gap）則係周五常規收市價，與下一個交易日（通常是周一）開市價之間可能出現的跳空：中間這段時間沒有新的常規收市價，但公司公告或實際事件仍可能發生。",
+      "whyItMatters": "新手容易把「最新收市價」當成已經反映所有最新消息。其實收市價只記錄到常規交易結束那一刻。發射、捕捉、聲明若發生在收市後或周末，要等到下一個常規開市，才會出現新的官方日線收市價。盤後報價或周末傳聞，也不能直接當成已經「反映完」的完整成交。",
+      "whereToday": "SpaceX 官方 Flight 15 頁確認：周五（11 月 13 日）星艦從德州 Starbase 升空；周六（11 月 14 日）上段太空船在離開發射場約 22.5 小時後，首次被發射塔機械臂捕捉。Yahoo 顯示 SPCX 周五收 139.11 美元（前收 139.94 美元，約 -0.59%）。美股常規交易周五下午 4:00 美東已收市，早於周五晚間發射，更早於周六捕捉，因此 139.11 並不反映這則周末結果。今日（周日）港股及美股均休市，下一個常規交易時段是周一。",
+      "whatToWatch": "周一美股開市後的官方日線，以及公司會否再補充助推器調查或下次試飛安排。不要把開市跳空預先說成一定向上或向下。唔構成買賣建議。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/41999f70bc5681bebaf8f41a17171bba"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "Starship Flight 15 — first upper-stage tower catch on 14 November 2026; booster abort and FTS on 13 November",
+        "date": "2026-11-14",
+        "url": "https://www.spacex.com/launches/starship-flight-15/"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金信託",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普 500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 富時全球（美國除外）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return — 1,725,000 Class B shares repurchased for cancellation on 13 November 2026",
+        "date": "2026-11-13",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1113/2026111300953.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Form 8-K — $25B senior notes settlement / Sixteenth Supplemental Indenture",
+        "date": "2026-11-04",
+        "url": "https://www.microsoft.com/en-us/investor/sec-filings"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "Form 8-K / NVIDIA Announces CEO Transition — Huang resigns; Kress interim CEO; Jones appointed Chair",
+        "date": "2026-11-12",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+        "date": "2026-11-12",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-15.mp3",
+  "audioScriptChars": 3504,
+  "audioVoice": "gTTS-zh-TW"
+}

@@ -1,0 +1,232 @@
+{
+  "updated": "2026-11-15",
+  "disclaimer": "第三方·非公告，唯供參考，唔構成買賣建議。",
+  "items": [
+    {
+      "title": "SpaceX catches upper stage of Starship rocket in historic first",
+      "summary": "第三方·非公告：CNBC報道，SpaceX在得州Starbase以發射塔「筷子」機械臂，於11月14日成功接住第15次試飛的星艦上段；11月13日推進器未能回收、改為墨西哥灣海上濺落，並在入水前爆炸。此次試飛同時部署26顆最新Starlink v3衛星，上段繞地球14圈後返回發射塔。",
+      "source": "CNBC Tech",
+      "date": "2026-11-15",
+      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "這是SpaceX首次同時嘗試回收推進器與上段，上段回收成功、推進器失敗，顯示完全重複使用仍待驗證。市場可能關注星艦量產節奏能否支撐Starlink擴容，以及其作為可重複使用運載與未來資料中心／衛星部署載具的敘事。",
+      "newbieTake": "可接著看SpaceX或官方飛行報告如何說明推進器中止捕捉的原因，以及後續試飛是否再次挑戰雙回收。"
+    },
+    {
+      "title": "SpaceX 砸 740 億美元，德州亞利桑那州建 AI 超級電腦園區",
+      "summary": "第三方·非公司新聞室：科技新報引述中央社／路透，SpaceX表示計劃斥資逾740億美元，在德州星際基地及亞利桑那州科奇斯郡興建兩座超級電腦園區，擴大AI運算布局。報道稱該公司今年6月上市，第三季AI部門貢獻超過一半營收；並指園區將採乾式冷卻、不使用工業地下水，且正與當地供電合作社合作、稱可望讓社員電費最多降低20%。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-13",
+      "url": "https://technews.tw/2026/11/13/spacex-74-billion-ai-supercomputer-campuses-texas-arizona/",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "若計畫按報道推進，SpaceX將更深切入AI算力與資料中心，而不只是火箭與Starlink。市場可能關注用電、土地、冷卻與供水承諾能否落地，以及這對GPU與伺服器供應鏈需求可能意味著什麼。",
+      "newbieTake": "可留意後續是否有公司或監管層面的園區許可、供電協議或資本支出細項，而不只看標題金額。"
+    },
+    {
+      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+      "summary": "第三方·非公司新聞室：CNBC報道，Microsoft 365於美東時間11月12日約下午1時起出現大規模連線故障，影響Outlook、SharePoint、Copilot等服務，並延續至13日；微軟發言人致歉，並稱未懷疑惡意攻擊，原因是稍早網路容量升級過程中的問題。稿件11月14日更新指出，微軟在週六表示已處理根本問題，並向其餘受影響客戶與地區恢復服務。",
+      "source": "CNBC Tech",
+      "date": "2026-11-14",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "這次是雲端生產力套件的全域可用性事件，可能讓企業客戶重新檢視對單一雲端辦公平台的依賴與備援安排。市場關注點在於事後檢討與是否影響對Microsoft 365／Azure可靠度的觀感，而非短線股價方向。",
+      "newbieTake": "可追蹤微軟服務健康狀態頁或後續正式事後報告，確認根本原因與復原時程是否與目前對外說明一致。"
+    },
+    {
+      "title": "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal",
+      "summary": "第三方·非公告：CNBC報道，Cerebras公布優於預期的季度業績與展望，並宣布與微軟達成新合作；該公司核心營收較1.357億美元增長70%（對比上一季年增103%）。報道稱其股價週五約漲7%，並引述公司指出GPU交期長、成本高，為其硬體銷售創造機會。",
+      "source": "CNBC Tech",
+      "date": "2026-11-13",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "impact": "微軟再添非GPU的AI訓練／推論供應來源，市場可能解讀為雲端巨頭分散加速器供應、緩解GPU交期瓶頸的延續。對輝達生態是競爭敘事，但不代表既有GPU訂單會立即被取代。",
+      "newbieTake": "可看微軟或Cerebras後續是否公布合作規模、部署時程，並對照輝達11月17日財報對需求與交期的說明。"
+    },
+    {
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+      "summary": "第三方·非公告：CNBC報道，思科財政第一季營收185億美元、高於預期的181億，年增24%；調整後每股盈餘1.40美元、高於預期的1.33美元。公司將本財年來自雲端巨頭的AI基礎設施營收展望上修至90億美元，稱較2026財年增長逾一倍，並給出第二季營收180億至182億美元的展望。",
+      "source": "CNBC Tech",
+      "date": "2026-11-13",
+      "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+      "tickers": [],
+      "impact": "思科把業績成長與雲端巨頭的AI網路／基礎設施訂單連結，可能強化「AI資本支出不只落在GPU、也落在交換與連網」的產業敘事。市場或會把它視為觀察hyperscaler建置進度的輔助指標。",
+      "newbieTake": "可把思科這份AI基礎設施展望，和後續雲端巨頭與輝達的資本支出或財報說明交叉比對，看需求是否同向。"
+    },
+    {
+      "title": "黃仁勳辭去Nvidia執行長立刻生效，財務長Colette Kress接任臨時執行長、董事會任命首任董事長",
+      "summary": "第三方·非公司新聞室：iThome報道，Nvidia董事會11月12日宣布，創辦人黃仁勳辭去總裁、執行長暨董事職位，立即生效；由現任執行副總裁暨財務長Colette Kress擔任臨時執行長，並任命Harvey C. Jones為公司史上首任董事長。",
+      "source": "iThome",
+      "date": "2026-11-13",
+      "url": "https://www.ithome.com.tw/news/180472",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "輝達進入創辦人離任後的過渡治理，臨時執行長與新設董事長如何維持產品路線與客戶承諾，是供應鏈與雲端客戶近期最可能關注的變數。權力交接本身不一定立刻改變晶片出貨，但可能升高對長期策略連貫性的討論。",
+      "newbieTake": "可關注公司是否在11月17日財報電話會由臨時執行長說明交接安排，以及常任執行長遴選的後續公告。"
+    },
+    {
+      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+      "summary": "第三方·非公告：CNBC報道，Altimeter Capital的Brad Gerstner與Atreides Management的Gavin Baker去信，要求輝達董事會以較緩慢、審慎的程序尋找執行長，並保留黃仁勳「可能回歸」的選項；信中並未要求立即復職。兩家機構截至6月30日合計披露約21.3億美元輝達持股（Altimeter約940萬股、近19億美元；Atreides約120萬股、近2.5億美元）。",
+      "source": "CNBC Tech",
+      "date": "2026-11-15",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "股東公開要求放慢永久執行長人事，顯示市場對過渡期治理與調查結果仍高度關注。這可能讓接班時程與董事會溝通成為未來數週的焦點，但不等於人事已經逆轉。",
+      "newbieTake": "可觀察董事會是否回應這封信，以及獨立調查或國會行程是否改變遴選時程。"
+    },
+    {
+      "title": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?",
+      "summary": "第三方·非公告：CNBC報道，分析認為輝達亞洲晶片合作關係短期料可維持，三星與台積電等主要供應商不太可能立即受到營運干擾；但韓國Daol證券指出，中長期產品藍圖與新領導層如何協調生態系仍有不確定性。華碩共同執行長亦向CNBC表示，正關注新領導層下的潛在供應鏈影響。",
+      "source": "CNBC Tech",
+      "date": "2026-11-13",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-without-jensen-huang-what-lies-ahead-for-asian-chipmakers-.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "亞洲晶圓代工、記憶體與品牌組裝鏈最可能先觀察既有認證與產能安排是否延續。市場關注點在於輝達能否維持創新節奏與夥伴關係，而非短線是否出現立即斷供。",
+      "newbieTake": "可把供應商與品牌後續法說、以及輝達本身對產品時程的說明，當作檢驗「短期影響有限」判斷的觀察點。"
+    },
+    {
+      "title": "Nvidia's 14-point GPU checks tighten AI server supply; full prepayment and 2027 price hikes loom",
+      "summary": "第三方·非公告：電子時報11月13日刊出由Monica Chen發自新竹的報道，標題指輝達的14項GPU查核正收緊AI伺服器供應，並點出全額預付款及2027年漲價可能迫近。公開可見導言並提到黃仁勳已去職、以及美國正準備再收緊先進AI晶片出口管制；內文其餘細節需訂閱，本則僅依據已核對的標題與導言。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-11-13",
+      "url": "https://www.digitimes.com/news/a20261113PD223/nvidia-ai-server-gpu-price-2027.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "若查核與付款、售價條件確實收緊，可能影響AI伺服器交期與客戶備貨節奏，也與出口管制敘事疊加。在無法核對全文細節前，市場宜把它視為供應與商務條件的觀察線索，而非已證實的完整政策清單。",
+      "newbieTake": "可待電子時報全文或其他供應鏈採訪交叉驗證這14項查核與2027年售價的具體內容，再對照輝達財報對供應與定价的說明。"
+    },
+    {
+      "title": "AMD, Broadcom, custom chips eye an opening as Nvidia loses its founder CEO",
+      "summary": "第三方·非公告：電子時報引述分析指出，黃仁勳離任使超微、博通及大型雲端業者的自研晶片計畫，出現近年最明確的切入空間；惟預期既有訂單仍會維持，有意義的市占變化更可能自2027年起才出現。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-11-13",
+      "url": "https://www.digitimes.com/news/a20261113VL207/nvidia-amd-broadcom-jensen-huang-ceo.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "這則把競爭焦點放在中期（2027年起）而非即時搶單，與「近程訂單仍在、長期生態可能鬆動」的供應鏈說法較接近。市場可能同時觀察雲端巨頭自研加速器與AMD／博通的設計案進度。",
+      "newbieTake": "可留意雲端業者後續的自研晶片或多元供應聲明，以及2027年產品世代的實際導入時程，而不是把人事事件直接等同市占轉換。"
+    },
+    {
+      "title": "黃仁勳去職，供應鏈：輝達技術路徑不變、ASIC 發展加速",
+      "summary": "第三方·非公告：科技新報引述中央社訪問半導體供應鏈上游四位高層指出，輝達已公布的GPU技術路徑，包括Blackwell、Rubin、Feynman等架構，不會因黃仁勳辭職而改變，產品迭代速度也不會放緩，供應鏈到2027年的訂單不會產生變化；同時認為ASIC發展可能加速。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-13",
+      "url": "https://technews.tw/2026/11/13/jensen-huang-departs-supply-chain-nvidia-tech-roadmap-unchanged-asic-dev-accelerates/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "供應鏈第一線對近兩年訂單與既定架構的判斷偏平穩，但同時點出ASIC可能加速，顯示客戶分散方案的討論並未停。市場可能把「路徑不變」與「自研／ASIC加速」視為可以並存的中期情境。",
+      "newbieTake": "可對照輝達下週財報是否重申Blackwell／Rubin等時程，以及雲端客戶是否在公開場合提到自研或ASIC進度。"
+    },
+    {
+      "title": "黃仁勳去職，日本政府關注 AI 產業及半導體供應鏈衝擊",
+      "summary": "第三方·非公告：科技新報引述中央社，日本內閣官房副長官尾崎正直表示，輝達在全球AI及半導體供應鏈中扮演重要角色，日本政府將密切關注高層異動對國內AI產業及半導體穩定供應可能造成的影響。他在記者會上稱，對個別企業人事不便評論，現階段也難以預先判斷後續發展，但會持續關注，並強調AI與半導體對日本經濟成長及經濟安全保障至關重要。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-13",
+      "url": "https://technews.tw/2026/11/13/jensen-huang-steps-down-japanese-government-monitors-ai-industry-semiconductor-supply-chain-impact/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "日本官方把輝達人事放到AI產業與半導體供應穩定、乃至經濟安全保障的層次，可能讓供應鏈與出口管制討論更政治化。這不一定改變近程出貨，但可能提高政策溝通與盟友產能安排的關注度。",
+      "newbieTake": "可觀察日本後續是否有經濟產業或供應鏈穩定相關說明，以及美日在半導體與AI出口政策上的公開表態。"
+    },
+    {
+      "title": "BBC：美國會議員要求黃仁勳 12/3 赴參議院作證",
+      "summary": "第三方·非公告：科技新報引述報道，南卡羅來納州聯邦參議員史考特去信黃仁勳與商務部長盧特尼克，要求兩人出席參議院銀行委員會作證，並稱近日報道引發對國家安全與敏感技術保護的嚴重關切；他要求黃仁勳於12月3日自願出席，同時警告委員會可能發出傳票。報道並指美國眾議院情報、外交與美中戰略競爭特別委員會都致函，傳喚黃仁勳12月1日進行閉門訪談。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-13",
+      "url": "https://technews.tw/2026/11/13/bbc-us-lawmakers-request-jensen-huang-testify-senate-december-3rd/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "人事風波已延伸到國會行程與對中出口、敏感技術監督，市場可能持續把輝達放在地緣政治與法規風險的框架裡檢視。作證安排本身是流程消息，結果仍待聽證會或訪談後才能判斷。",
+      "newbieTake": "可在12月1日眾議院閉門訪談與12月3日參院銀行委員會行程前後，留意是否出現公開聲明、傳票或議程更新。"
+    },
+    {
+      "title": "Intel forms 23-company Korean AI alliance as it pitches HBM-free inference GPU",
+      "summary": "第三方·非公告：電子時報報道，英特爾在11月12日於首爾COEX舉行的2026 Intel AI Summit上，從兩條戰線爭取韓國AI生態：打造涵蓋23家公司、以韓國製造伺服器為核心的聯盟，並推廣以低功耗DRAM取代高成本HBM的推論GPU；同時向當地NPU新創與兩大記憶體廠，提供客製化晶片設計與晶圓代工服務。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026-11-13",
+      "url": "https://www.digitimes.com/news/a20261113VL226/intel-gpu-alliance-president-design.html",
+      "tickers": [],
+      "impact": "英特爾試圖用較低成本的非HBM推論方案與在地伺服器聯盟切入韓國AI基礎設施，可能為「HBM緊缺下的替代架構」提供一個可觀察的試驗場。這對高頻寬記憶體供需敘事是補充，而非已證實的市占轉移。",
+      "newbieTake": "可追蹤該聯盟是否公布成員名單、伺服器驗證或實際採購，以及這款非HBM推論GPU的送樣與量產時程。"
+    },
+    {
+      "title": "輝達助攻矽品登峰！從 CoWoS 代工邁向 CPO 新藍海，研發老將揭密十年技術布局",
+      "summary": "第三方·非公告：科技新報引述《今周刊》，指輝達為紓解CoWoS產能瓶頸，將後段基板封裝（oS）交由矽品與Amkor執行；並稱黃仁勳在今年10月德國GTC宣布與矽品合作，規畫讓矽品CPO產能在2027年年中達到目前的15倍以上。矽品副總江東昇提醒，CPO基期很小，不宜被「15倍」數字誤導。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-14",
+      "url": "https://technews.tw/2026/11/14/ase-tech-holding-growth-accelerates-nvidia-spil-cowos-cpo-strategic-planning-new-segments/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "先進封裝與共同封裝光學仍是AI加速器擴產的關鍵瓶頸之一，輝達把矽品拉進CoWoS後段與CPO，可能被視為產能分流與下一代互連的布局。市場或關注2027年中CPO產能目標能否轉成實際出貨，而非只看倍數。",
+      "newbieTake": "可留意日月光／矽品後續法說是否量化CPO與CoWoS相關營收，以及輝達對CPO交換或機櫃互連的產品時程。"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+      "summary": "第三方·非公告：CNBC報道，OpenAI於週五宣布ChatGPT Wallet，讓其「dots」AI代理可代用戶購物；初期僅對美國18歲以上的ChatGPT Pro訂戶開放，並與American Express、Mastercard、Visa合作，以支付代幣完成交易、代理不會直接取得完整卡號。公司稱一開始不抽成交易費用。",
+      "source": "CNBC Tech",
+      "date": "2026-11-13",
+      "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "tickers": [],
+      "impact": "這把生成式AI從對話工具推向可下單的代理式商務，可能引發支付網絡、商家接口與代理權限治理的討論。初期不抽成、且限Pro用戶，顯示功能仍偏試點，對雲端算力需求的直接影響仍不明。",
+      "newbieTake": "可觀察OpenAI後續是否擴大適用地區與用戶層，以及支付夥伴或監管機構是否就代理代付提出額外說明。"
+    },
+    {
+      "title": "OpenAI 祭出最強防線！全新「控制室」系統曝光：35 秒內火速停機失控 AI",
+      "summary": "第三方·非公告：T客邦報道，OpenAI技術團隊展示新的「控制室」安全機制，可在判定異常或自動化預警後撤銷任務ID、強制拒絕後續推論請求；團隊並稱，從管理端下達停止指令到推論引擎完全終止輸出，目前最長延遲為35秒，主因是大型分散式伺服器叢集為維持吞吐量所產生的時間差。",
+      "source": "T客邦",
+      "date": "2026-11-14",
+      "url": "https://www.techbang.com/posts/134801-openai-new-control-room-stops-rogue-ai",
+      "tickers": [],
+      "impact": "在代理式AI與自動執行權限擴大之際，模型「可被關閉、可被中斷」成為治理焦點。35秒的最長中斷延遲也提醒市場，安全熔斷仍受基礎設施架構限制，並非即時零延遲。",
+      "newbieTake": "可看OpenAI是否把這套控制室寫進官方安全或系統卡說明，以及同業是否公布可驗證的緊急停機指標。"
+    },
+    {
+      "title": "Apache修補網頁伺服器HTTP/2模組的重大漏洞，64%雲端環境恐曝險",
+      "summary": "iThome報道，Apache軟體基金會於11月11日發布Apache HTTP Server 2.4.71，修補存在於HTTP/2模組mod_http2的重大漏洞CVE-2026-119618：該弱點源於多執行緒處理請求時的競爭條件，可能導致未經驗證的遠端攻擊者執行任意程式碼。報道稱影響2.4.55至2.4.70版及mod_h2 2.0.8至2.0.42，Red Hat給出CVSS 9.8，Wiz估計全球有64%雲端環境可能曝險。Apache官方漏洞頁亦將CVE-2026-119618列為critical，並標示2.4.71於2026年11月釋出。",
+      "source": "iThome",
+      "date": "2026-11-13",
+      "url": "https://www.ithome.com.tw/news/180490",
+      "tickers": [],
+      "impact": "HTTP/2是雲端與對外網站的常見元件，高分且免認證的遠端程式碼執行漏洞，可能促使企業與雲端業者緊急排程升級。市場關注點在於修補覆蓋速度，以及是否出現大規模利用，而非個別軟體品牌的股價表現。",
+      "newbieTake": "可核對所屬網站或雲端負載平衡是否仍使用受影響的Apache 2.4.55–2.4.70，並追蹤官方2.4.71升級與廠商資安公告。"
+    },
+    {
+      "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+      "summary": "SecurityWeek報道，N-able N-central新的零時差利用鏈「4EverAble2Shell」在概念驗證公開數小時後即遭利用，可讓未認證攻擊者在已安裝本週最新修補（2026.4 HF2，建置號2026.4.1.26）且啟用Legacy API的伺服器上取得root遠端程式碼執行。報道指該利用鏈結合Apache Axis漏洞CVE-2026-90436（CVSS 9.8）與N-central上未另具名的缺陷；N-able已限制Legacy API與Intune整合，並在11月13日表示發現更多入侵指標、正與特定客戶處理風險。",
+      "source": "SecurityWeek",
+      "date": "2026-11-13",
+      "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+      "tickers": [],
+      "impact": "MSP遠端管理平台一旦被攻破，可能成為進入大量客戶端點的跳板，因此這類「修補後仍可打、PoC數小時內被利用」的事件容易引發企業與託管商的緊急應變。市場可能關注後續是否有大規模入侵通報，以及Legacy API關閉對營運的影響。",
+      "newbieTake": "使用N-central的單位可直接核對N-able最新安全說明、是否已停用Legacy API，以及廠商是否再發緊急修補或入侵指標。"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "summary": "美國資安暨基礎設施安全局（CISA）11月13日公告，因有活躍利用證據，將兩項漏洞列入已知被利用漏洞（KEV）目錄：CVE-2026-114713為UnrealIRCd不當分隔符處理弱點；CVE-2026-123039為Check Point多項產品的關鍵資源權限指派不正確弱點。公告並重申聯邦機構須依BOD 26-04，優先修補KEV中、且位於公開暴露資產、利用後可完全控制該資產的高風險漏洞。",
+      "source": "CISA",
+      "date": "2026-11-14",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "tickers": [],
+      "impact": "列入KEV代表CISA認為這些漏洞已遭實戰利用，可能促使聯邦機構與廣泛企業加快Check Point與UnrealIRCd相關產品的修補與事後排查。這是典型的緊急修補與資產盤點事件，對科技產業的影響主要透過資安營運而非單一消費品牌。",
+      "newbieTake": "可到CISA KEV目錄與Check Point、UnrealIRCd廠商公告核對受影響產品與修補版本，並檢查對外暴露系統是否已更新。"
+    }
+  ]
+}
