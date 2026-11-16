@@ -1,0 +1,183 @@
+{
+  "updated": "2026-11-16",
+  "disclaimer": "第三方·非公告，唯供參考，唔構成買賣建議。",
+  "items": [
+    {
+      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+      "summary": "第三方·非公告：CNBC 報道，美國財政部長 Scott Bessent 周日在福斯新聞表示，輝達在黃仁勳辭任後需要「徹底整頓」（dramatic shakeup），並認為董事會應從公司外部尋找下一任執行長。他質疑公司是否為了拉高營收與盈利，推動看似違規的先進人工智能晶片銷售。官員言論不是公司決定。",
+      "source": "CNBC Tech",
+      "date": "2026-11-15",
+      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "這是美國財長就輝達接班與出口管制合規提出的公開主張，可能令市場在本週業績會之外，再關注董事會會否偏向外聘人選。言論屬官員意見，並非公司公告。",
+      "newbieTake": "可對照輝達其後會否宣布獵才公司或常任執行長遴選原則，以及周二由臨時執行長主持的業績會如何表述。"
+    },
+    {
+      "title": "黃仁勳正在商討重返輝達的可能性，但美國商務部持相反態度",
+      "summary": "第三方·非公告：科技新報引述英國《金融時報》與彭博報道，黃仁勳在離任數日後，正與盟友討論重返並再任執行長的可能性；文中亦提到股東公開信曾把「潛在回歸」列為須衡量選項。報道同時指，美國財政部長 Bessent 主張從外部尋聘新執行長。相關說法來自媒體轉述，仍須以董事會或本人後續說明為準。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-16",
+      "url": "https://finance.technews.tw/2026/11/16/jensen-huang-is-discussing-the-possibility-of-returning-to-nvidia/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "此則把「討論回任」與華府要求外聘的立場並列，可能令治理過渡的不確定性維持高能見度。這不是公司已改變接班安排的公告。",
+      "newbieTake": "可留意輝達董事會或 11/17 業績材料會否就接班安排再作說明，而不要把轉述當成已經復職。"
+    },
+    {
+      "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe",
+      "summary": "第三方·非公告：CNBC 報道，新加坡雲端運算公司 Megaspeed 周日向該台表示，Alice Huang（黃樂）已於 2025 年 8 月 30 日正式離職，目前與公司再無職務關係。該公司稱近期有關其業務及供應鏈的報道缺乏可核實證據，已聘請外部律師進行內部調查，並指營運架構旨在遵守包括美國出口管制在內的適用法規。這是 Megaspeed 的聲明，並非輝達公告。",
+      "source": "CNBC Tech",
+      "date": "2026-11-15",
+      "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "這份聲明可能成為外界討論輝達相關調查時的一份公司立場，但本身並未結束對晶片流向的質疑，後續仍看調查結果與官方行動。",
+      "newbieTake": "可把呢則視為合作夥伴嘅公開回應，再對照輝達或監理機構其後會否有正式文件。"
+    },
+    {
+      "title": "黃仁勳去職後首場輝達財報說明會，法人看 AI 展望牽動台股",
+      "summary": "科技新報報道，法人把美國時間 11 月 17 日輝達業績，以及前執行長黃仁勳離任後由臨時執行長 Colette Kress 主持的首場業績說明會，視為本週市場焦點，並關注其對人工智能展望的表述。公司官方 IR 已核實的時間表，是太平洋時間下午約 1:20 公布 2027 財政年度第三季業績（季度截至 2026-10-25），下午 2:00 舉行業績會。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-15",
+      "url": "https://finance.technews.tw/2026/11/15/nvidia-earnings-call-post-jensen-huang-departure-ai-outlook-impacts-taiwan-stocks/",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "去職後首場業績會可能同時被用來觀察展望同治理過渡，但業績材料同問答都不等於已經宣布常任執行長人選。",
+      "newbieTake": "可先讀官方業績文本同書面財務長說明，再聽業績會，避免只靠會前評論推斷。"
+    },
+    {
+      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "summary": "第三方·非公告：CNBC 報道，Anthropic 預計周四在納斯達克上市，並稱包括 Microsoft、NVIDIA 在內的多家科技公司，按目前預期的每股 70 至 78 美元發行價合計投資 260 億美元。報道並引述最新招股書，指 Anthropic 尚有超過 9,000 億美元的支出承諾。數字來自第三方報道，並非 Microsoft 或 NVIDIA 今日的新公告。",
+      "source": "CNBC Tech",
+      "date": "2026-11-15",
+      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "impact": "若上市進程按報道推進，市場可能把這次 IPO 視為觀察人工智能相關支出與估值的一個參考點；實際發行價、規模與掛牌結果仍待正式文件。",
+      "newbieTake": "可留意官方招股文件及上市當日的確認資訊，而唔好把報道中的預期區間當成已經定案。"
+    },
+    {
+      "title": "Samsung to Make SpaceX Satellite Chips in Texas",
+      "summary": "第三方·非公告：首爾經濟日報報道，三星或在德州奧斯汀廠為 SpaceX 星鏈生產 STM32V8 微控制器，並稱正投資約 19 億美元擴建該廠、相關產能目標約 2030 年投入運作；報道引述芯片行業消息人士及美國商務部 15 日消息，同時寫明三星表示不能正式確認與個別客戶的合約。這不是 SpaceX 公司公告。",
+      "source": "Seoul Economic Daily",
+      "date": "2026-11-15",
+      "url": "https://en.sedaily.com/business/2026/11/15/samsung-to-make-spacex-satellite-chips-in-texas",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "若屬實，這會是星鏈衛星芯片在美國本土生產的一則供應鏈消息；但三星未確認個別客戶合約，目前仍不宜當成已簽訂的官方訂單。",
+      "newbieTake": "可等待 SpaceX 或三星其後會否在官方渠道確認合作，而唔好把報章消息直接當成公司已經公布。"
+    },
+    {
+      "title": "馬斯克：星艦 42 號飛船狀態極佳，數週翻修後即可復飛",
+      "summary": "第三方·非公告：富途快訊轉述，馬斯克周日在社交平台表示，他檢查了整艘星艦的隔熱罩，認為隔熱罩及發動機整體狀態很好，估計 42 號飛船或只需數週翻修即可再飛；但他亦指，要達到像飛機那樣「即飛即用」（除計劃內維護外無需額外翻修），仍須許多小修復。原文來源為社交平台轉述，未見於 SpaceX 官方 Flight 15 頁。",
+      "source": "富途快訊",
+      "date": "2026-11-16",
+      "url": "https://news.futunn.com/flash/1004555633/musk-starship-ship-42-in-excellent-condition-ready-to-relaunch",
+      "tickers": [
+        "SPCX"
+      ],
+      "impact": "若後續被官方飛行頁或公司說明證實，市場可能據此觀察下次試飛間距；目前仍只是社交平台轉述，復飛時間並未成為公司公告。",
+      "newbieTake": "可對照 SpaceX 官方頁會否補充 42 號飛船或下次試飛安排，而不要把「數週後可再飛」當成已排期。"
+    },
+    {
+      "title": "Tesla 壽命最短車款，Cybertruck 明年停產",
+      "summary": "第三方·非公告：T客邦報道，Elon Musk 表示 Cybertruck 將於明年中逐步停產，並在年底前完成停產；報道稱德州超級工廠騰出的產線會用於生產 Cybercab，並指停產前會增加生產班次以完成已累積訂單。文中並列出該車款近年銷量（2024 年 3.8 萬輛、2025 年 2 萬輛、今年 1 至 9 月 1.1 萬輛）。這不是 Active 觀察名單公司的公告。",
+      "source": "T客邦",
+      "date": "2026-11-16",
+      "url": "https://www.techbang.com/posts/134754-tesla-cybertruck-production-ends-next-year",
+      "tickers": [],
+      "impact": "這則屬電動車產品週期與產線調配的消息，可能被用來觀察 Tesla 如何把產能轉向 Cybercab；停產節奏與訂單消化仍待公司正式說明。",
+      "newbieTake": "可等待 Tesla 官方會否確認停產時程與產線用途，數字先以公司聲明為準。"
+    },
+    {
+      "title": "RTX 5080 24GB 大容量版傳出急踩煞車，關鍵零組件漲 3 倍讓計畫遭擱置",
+      "summary": "第三方·傳聞：T客邦引述供應鏈及中國硬體論壇 Board Channels 消息，稱輝達已通知板卡合作夥伴，原定 2027 年 1 月推出的 GeForce RTX 5080 24GB 版本已遭擱置，原因是新型 3GB GDDR7 顆粒採購成本據報高達現有 2GB 顆粒約三倍。文中亦寫明，輝達官方從未正式公告過任何 24GB 版本的發售資訊。",
+      "source": "T客邦",
+      "date": "2026-11-15",
+      "url": "https://www.techbang.com/posts/134852-nvidia-rtx-5080-24gb-canceled-16gb-limit",
+      "tickers": [
+        "NVDA"
+      ],
+      "impact": "若供應鏈說法屬實，高容量消費級顯示卡的換代或會受記憶體成本限制；但這不是公司產品公告，現有 16GB 規格仍是官方可見的基準。",
+      "newbieTake": "在輝達正式說明之前，不宜把 24GB 版本的傳聞當成已經上市或已經取消的官方決定。"
+    },
+    {
+      "title": "蘋果傳大砍內部 AI 預算，工程師每日額度據報縮水三成",
+      "summary": "第三方·非公告：T客邦引述彭博知情人士報道，蘋果為控制人工智能調用成本，已把部分軟件工程師的每日 AI 支出上限由 300 美元調降至 200 美元，減幅約 33%，並研議把部分團隊再降至 100 美元、非工程團隊由 100 美元壓縮至 25 美元。報道稱這些預算用於支付 Anthropic Claude、OpenAI ChatGPT 及 Google Gemini 等外部模型的 token 費用。",
+      "source": "T客邦",
+      "date": "2026-11-15",
+      "url": "https://www.techbang.com/posts/134846-apple-cuts-internal-ai-budget-token-spending",
+      "tickers": [],
+      "impact": "這則把焦點放在大型科技公司內部使用生成式人工智能的成本控制，可能被用來觀察企业对外部模型開支是否進入更嚴格核算。目前仍是第三方轉述，並非蘋果官方公告。",
+      "newbieTake": "可留意蘋果或其他公司其後會否公開說明內部工具政策，數字先視為未經公司確認的報道。"
+    },
+    {
+      "title": "AI 加劇記憶體供需失衡！擷發科：短缺是長期結構性問題，AI 只是觸發點",
+      "summary": "科技新報引述擷發科董事長楊健盟指，近期人工智能帶動記憶體需求快速上升，但記憶體短缺並非人工智能出現後才突然發生，而是過去多年累積的結構性問題，人工智能只是觸發點。報道亦稱，短期內價格仍未見明顯緩解訊號。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-15",
+      "url": "https://technews.tw/2026/11/15/microip-talk-about-memory/",
+      "tickers": [],
+      "impact": "這則提供一種產業觀點：把當前記憶體緊張理解為長期供需結構，而不只是短期炒作。它是公司負責人受訪，不是某一家記憶體廠的價格公告。",
+      "newbieTake": "可把說法當作理解「記憶體週期」的背景，再對照原廠或研究機構後續的合約價資料。"
+    },
+    {
+      "title": "光電整合進入「打群架」時代，聯發科侯上勇：CPO 路線未定，良率才是關鍵",
+      "summary": "科技新報引述《財訊》報道，聯發科副總經理侯上勇在成功大學產業論壇上表示，隨著人工智能芯片對運算及傳輸速度要求提高，先進封裝與光電整合更形重要；但他指共同封裝光學（CPO）未來是否成為主導路線，產業仍有不同想法，良率才是關鍵。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-15",
+      "url": "https://technews.tw/2026/11/15/cpo-mediatek-hou-shang-yong-optoelectronic-integration-battleground-tech-choices-not-just-cost/",
+      "tickers": [],
+      "impact": "CPO 常被視為緩解人工智能集群互連功耗與頻寬瓶頸的技術之一，但這則提醒路線尚未定案，量產良率可能比單一技術名詞更關鍵。",
+      "newbieTake": "聽到 CPO 時，可再問一句：係概念驗證、小量試產，定已經有穩定良率嘅出貨說明。"
+    },
+    {
+      "title": "當「壞 AI」對決「好 AI」：解析 AI 資安戰三大趨勢，無差別攻擊時代企業該如何自保",
+      "summary": "科技新報報道，根據台灣上市櫃重大消息統計，今年迄今資安事件已達 118 件，較去年全年增長近六成，報道把人工智能視為關鍵原因，並討論攻擊手法及企業應對。文中亦提及近期個別公司個案，屬新聞整理而非單一漏洞編號公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-16",
+      "url": "https://infosecu.technews.tw/2026/11/16/ai-driven-cyberattacks-surge-nearly-60percent/",
+      "tickers": [],
+      "impact": "這則把人工智能同時看成攻擊工具與防護工具，可能令市場更關注企業資安揭露與防禦開支；統計口徑來自報道引用的當地重訊，並非全球統一數據。",
+      "newbieTake": "見到「資安事件大增」時，可先分清係報道統計、監理處分，定公司自己發出的事故說明。"
+    },
+    {
+      "title": "存儲正在分化，美銀：DRAM 依然堅挺，NAND 已悄然走弱",
+      "summary": "第三方·非公告：富途快訊轉述美國銀行觀點（原文來源：美銀；文中並引述 TrendForce），指記憶體市場出現分化：DRAM 合約價仍強，美銀維持 2026 年第四季環比上漲約 8%、2027 年第一季上漲約 5% 的假設；但認為 NAND 可能在新一輪談價中轉弱，並與市場預期的繼續上漲存在分歧。這不是記憶體廠官方公告。",
+      "source": "富途快訊",
+      "date": "2026-11-15",
+      "url": "https://news.futunn.com/post/1004547414/the-memory-market-is-becoming-fragmented-bank-of-america-says",
+      "tickers": [],
+      "impact": "若市場接納「DRAM 與 NAND 分道」的看法，觀察重點可能從「記憶體一律短缺」轉向不同產品線的價格與需求差異。目前仍是投行觀點。",
+      "newbieTake": "同一塊「記憶體」標籤下面，DRAM 同 NAND 可以走勢唔同；數字先以原廠或之後的合約價為準。"
+    },
+    {
+      "title": "台灣首顆 GPGPU 獲飛行履歷，捷揚太空代工轉攻研發拓商機",
+      "summary": "科技新報報道，國家太空中心（TASA）與捷揚航電合作開發的通用圖形處理器（GPGPU）完成在軌驗證，成為台灣首顆取得飛行履歷的 GPGPU；捷揚由承接海外太空代工，逐步走向自主研發。這則講的是本土模組驗證，並不是 NVIDIA 的新產品公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-15",
+      "url": "https://technews.tw/2026/11/15/taiwan-first-gpgpu-flight-heritage-jasc-aerospace-shifts-oem-rd-business-expansion/",
+      "tickers": [],
+      "impact": "飛行履歷對太空電子零件進入後續任務很重要，但單一次在軌驗證不等於已有穩定的商業訂單。",
+      "newbieTake": "可留意後續會否公布客戶導入或下一代規格，而不要把「首顆」理解成已經量產暢銷。"
+    },
+    {
+      "title": "AI 伺服器帶動 PCB 規格推升，泰國布局重塑與材料升級",
+      "summary": "科技新報與拓墣產業研究院合作刊出的報告精華指出，人工智能伺服器提高板件尺寸、層數、傳輸速度與功率密度後，高階印刷電路板已由單項製程升級，轉向高多層、HDI、高速訊號與低翹曲等能力整合；隨規格成熟，部分需求放大的產品逐步導入泰國，競爭亦延伸到海外基地能否完成認證、穩定良率並複製量產。完整報告屬付費內容，本則只採用頁面可見精華。",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-16",
+      "url": "https://technews.tw/2026/11/16/ai-servers-drive-pcb-specification-upgrades-reshaping-thailands-layout-and-upgrading-materials/",
+      "tickers": [],
+      "impact": "這把人工智能伺服器供應鏈的焦點，從「能不能做出更高階板件」延伸到「海外廠能不能通過認證並穩定量產」。目前是研究機構摘要，並非單一公司訂單公告。",
+      "newbieTake": "可留意相關廠商法說是否提到泰國認證、良率與高階料件產能，而唔好把產業摘要當成已簽約數字。"
+    }
+  ]
+}
