@@ -162,7 +162,8 @@
       "whyItMatters": "新手容易把「請咗外部機構」理解成已經過關。其實要睇對方得到幾深嘅權限、報酬安排會唔會影響結論，以及之後會唔會公開評估範圍或摘要。有評估協議，同已經交出可核對嘅結果，係兩件事。",
       "whereToday": "CNBC 11/16 引述 OpenAI 宣布（第三方·非公告），已與 Apollo Research、METR、Transluce 及 Goodfire 四家獨立機構簽約，先進行模型行為與防護措施的試點評估，並將提供包括原始碼、模型檢查點與訓練資料在內的內部資源。OpenAI 表示其中兩家接受報酬但並不取決於評估結論，另外兩家不收評估費，但可能接受運算或 API 額度。",
       "whatToWatch": "各機構其後會否公開評估範圍或摘要，以及呢輪試點會否擴大成固定嘅嵌入式合作。唔構成買賣建議。",
-      "relatedTickers": []
+      "relatedTickers": [],
+      "notionUrl": "https://app.notion.com/p/41a99f70bc5681d5927de16d32e210df"
     }
   ],
   "tickers": [
