@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-18",
+  "stories": [
+    {
+      "id": "nvda-q3-fy27-official-results",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：官方公布 2027 財政年度第三季營收 1,158 億美元，第四季指引 1,300 億美元（上下 3%，不假設中國資料中心運算營收）；主席於業績會稱董事會無意讓黃仁勳回任（第三方報道）；Yahoo 11/17 收 155.46（前收 11/16 156.14，約 -0.44%，業績公布前的常規交易）",
+      "summary": "Research NVDA。NVIDIA 新聞室業績稿註明日期為 2026-11-17，RSS 發布時間為當日 21:20 GMT（香港時間 11/18 周三 05:20），公布截至 2026-10-25 的 2027 財政年度第三季數字：營收 1,158 億美元，季增 20%、年增 103%；資料中心營收 1,076 億美元，季增 21%、年增 110%；GAAP 與非 GAAP 毛利率分別為 74.8% 與 74.9%；GAAP 與非 GAAP 稀釋每股盈利分別為 2.70 美元與 2.68 美元；GAAP 淨利 653 億美元。臨時執行長兼財務長 Colette Kress 在稿內表示：「Our momentum is real… Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater。」公司稱已開始出貨 Vera Rubin NVL72，為史上最快產品爬坡，機櫃已在 CoreWeave、Google Cloud、Microsoft Azure、Oracle Cloud Infrastructure 及 Nebius 運行，並寫道 SpaceXSI 即將上線。官方展望：第四季（該季含額外一週）營收預期 1,300 億美元，上下 3%，並寫明「NVIDIA is not assuming any Data Center compute revenue from China in its outlook」；GAAP 與非 GAAP 毛利率預期介乎 71.0% 至 72.0%。財務長書面說明（IR 官方 PDF）補充：本季運往中國的資料中心 Hopper 產品出貨為 24 億美元；並按市場平台列出資料中心之下，Hyperscale 601 億美元、AI Clouds, Industrial, & Enterprise 475 億美元，邊緣運算 82 億美元。書面說明亦稱 10-Q 將於未來數週提交，今早 IR 文件庫未見第三季 10-Q 或官方業績會逐字稿。同日稍早，公司另發公告，董事會新設國家安全與出口管制監督委員會，由董事 Suzanne Nora Johnson 擔任主席。美聯社、CNBC 與 The Verge（第三方·非公告，非公司新聞稿）報道，董事會主席 Harvey Jones 在太平洋時間下午 2:00（香港時間 06:00）業績會上表示，董事會已一致接受黃仁勳辭任，「does not intend to reinstate Jensen as CEO」；The Verge 並引述其稱已聘請 Heidrick & Struggles 主導常任執行長遴選，以及當日不回答辭任原委與進行中調查的提問。Yahoo 11/17 收 155.46，較 11/16 收市 156.14 約 -0.44%，屬業績文本發布前的常規交易收市；本次未核對盤後報價。",
+      "whyItMatters": "對研究 NVDA 嘅新手來說，呢份係黃仁勳辭任後第一份官方季度數字同指引。第四季「不假設中國資料中心運算營收」，同第三季書面說明所載「運往中國的資料中心 Hopper 出貨 24 億美元」，係兩件唔同嘅事，唔好當成同一句。周二常規收市價尚未計入呢份業績。",
+      "whatToWatch": "稍後 10-Q 與官方業績會逐字稿會否補充地區、產品線或中國相關細節；今晚（香港時間周四清晨）美股常規交易如何消化指引、毛利率展望與接班安排。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-17",
+          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Investor Relations",
+          "date": "2026-11-17",
+          "title": "CFO Commentary on Third Quarter Fiscal 2027 Results",
+          "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q327/Q3FY27-CFO-Commentary.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-17",
+          "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Investor Relations",
+          "date": "2026-11-17",
+          "title": "NVIDIA 3rd Quarter FY27 Financial Results (event page, 5:00 p.m. ET webcast)",
+          "url": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/event-details/2026/NVIDIA-3rd-Quarter-FY27-Financial-Results/default.aspx"
+        },
+        {
+          "category": "news",
+          "publisher": "AP News",
+          "date": "2026-11-17",
+          "title": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley（第三方·非公告）",
+          "url": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a"
+        },
+        {
+          "category": "news",
+          "publisher": "CNBC",
+          "date": "2026-11-17",
+          "title": "Nvidia Chair Harvey Jones: Board does not intend to reinstate Jensen Huang as CEO（第三方·非公告）",
+          "url": "https://www.cnbc.com/video/2026/11/17/nvidia-chair-harvey-jones-board-does-not-intend-to-reinstate-jensen-huang-as-ceo.html"
+        },
+        {
+          "category": "news",
+          "publisher": "The Verge",
+          "date": "2026-11-17",
+          "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang（第三方·非公告，引述業績會發言）",
+          "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-nddr-share-cancellation-1117",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：港交所 11/17 翌日披露報表顯示，已註銷 7 月 21 日至 10 月 22 日回購的 5,847.3 萬股 B 類；第三季業績仍訂 11/24 公布；Yahoo 11/17 收 29.7（前收 11/16 29.08，約 +2.13%）",
+      "summary": "Holding 1810.HK。小米 11/17 向港交所提交翌日披露報表（由財務總監 Alain Lam 呈交）：B 類於 11/13 的期初結餘為 21,369,723,529 股；11/17 註銷先前回購的 58,473,000 股 B 類（加權平均每股 26.35 港元），備註寫明該等股份於 2026-07-21 至 2026-10-22 期間在聯交所買入，並於 11/17 註銷，故此項是註銷已回購股份，不是 11/17 當日的新一筆場內回購。為維持不同投票權比例，加權投票權受益人同日按一換一將 10,038,762 股 A 類轉換為 B 類。另外分別於 11/16、11/17 就股份計劃發行 42,200 股及 71,800 股新 B 類。B 類 11/17 期末結餘為 21,321,403,291 股，A 類為 4,419,197,866 股。報表 B 部仍列出已回購但尚未註銷的 B 類，日期由 10/27 至 11/13（包括 11/13 的 1,725,000 股），未見 11/14 至 11/17 的新回購紀錄；第二部「回購報告」為不適用。公司 10/23 公告訂於 11/24 公布未經審核第三季／首九個月業績，今早未見更改該日期的新公告。Yahoo 11/17 收 29.7，較 11/16 收市 29.08 約 +2.13%；港股今日 09:30 尚未開市（以取價時計算）。",
+      "whyItMatters": "對持倉 1810 嘅新手來說，要分清楚「註銷先前已回購嘅股份」同「當日再喺市場買入」唔係同一件事。股本同投票權比例有變，但第三季數字要等到 11/24 嘅官方業績。",
+      "whatToWatch": "11/24 未經審核第三季／首九個月業績，以及其後會否再有翌日披露報表反映新的回購或註銷。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Xiaomi / HKEX",
+          "date": "2026-11-17",
+          "title": "Next Day Disclosure Return — cancellation of 58,473,000 Class B shares repurchased 21 July–22 October 2026, plus share awards and Class A-to-B conversion",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1117/2026111701115.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "Xiaomi / HKEX",
+          "date": "2026-10-23",
+          "title": "Date of Board Meeting - unaudited Q3 / nine-month 2026 results on 24 November 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        }
+      ]
+    },
+    {
+      "id": "spcx-official-nvda-spacexsi-no-new-ir",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：NVIDIA 官方業績稿寫 SpaceXSI 即將上線 Vera Rubin；SpaceX IR 新聞稿最新仍是 11/6 董事會變動，今早未能打開 spacex.com；Yahoo 11/17 收 141.7（前收 11/16 137.36，約 +3.16%，同樣是輝達業績前收市）",
+      "summary": "Holding SPCX。NVIDIA 11/17 官方業績稿在資料中心重點中寫道，Vera Rubin NVL72 機櫃已在多家雲端夥伴運行，「and coming online soon at SpaceXSI」，並提到 SpaceXSI 基礎設施的持續建設，以及 SpaceXSI 與其他業者一併採用 Vera CPU。以上是 NVIDIA 公告對 SpaceXSI 的表述，不是 SpaceX 公司自己的新公告。SpaceX 投資者關係新聞稿 RSS（本次讀取，頻道 lastBuildDate 為 2026-11-17 16:14 ET）最新一則仍是 11/6「SpaceX Thanks Don Harrison for His Service on the Board」，指 Don Harrison 已於 11/4 卸任董事；未見 Flight 15 之後的新 IR 新聞稿。今早以瀏覽器 User-Agent 讀取 spacex.com 首頁、更新頁及 Flight 15 頁均返回 HTTP 403，故未能在官方試飛頁上再次核對 11/14 的 Flight 15 說明。Yahoo 11/17 收 141.7，較 11/16 收市 137.36 約 +3.16%；該收市同樣早於 NVIDIA 業績文本發布，不宜把升幅直接看成對 SpaceXSI 表述的即時反應。",
+      "whyItMatters": "持倉 SPCX 嘅新手，而家多咗一句嚟自 NVIDIA 官方業績稿、關於 SpaceXSI 即將上線 Vera Rubin 嘅表述；但上線時間、規模同財務影響，仍要以 SpaceX 自己的 IR 或 SEC 文件為準。",
+      "whatToWatch": "SpaceX IR 或 SEC 文件會否自行說明 SpaceXSI 與 Vera Rubin 的上線進度；以及今晚美股常規交易在輝達業績公布後的價格。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-17",
+          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 (SpaceXSI mention)",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX Investor Relations",
+          "date": "2026-11-06",
+          "title": "SpaceX Thanks Don Harrison for His Service on the Board",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX Investor Relations",
+          "date": "2026-11-17",
+          "title": "SpaceX Press Releases RSS (latest item still 6 November 2026)",
+          "url": "https://ir.spacex.com/rss/pressrelease.aspx"
+        }
+      ]
+    },
+    {
+      "id": "macro-etf-tue-close-fed-hkma-china",
+      "ticker": "SPYM",
+      "title": "宏觀／ETF：未見基金新公告；周二美股及海外股票 ETF 回撤、黃金幾乎持平；聯儲 10/27–28 維持聯邦基金利率目標區間 3.75%–4%，下次會議 12/8–9；Yahoo 11/17 SPYM 收 86.22（前收 11/16 87.1，約 -1.01%）；GLD 收 352.48（約 -0.13%）；VEU 收 78.39（約 -1.21%）",
+      "summary": "Holding SPYM、GLD、VEU。未見三隻 ETF 的新基金公告。Yahoo 11/17（美股最近一個完整常規交易日）SPYM 收 86.22，較 11/16 的 87.1 約 -1.01%；VEU 收 78.39，較 79.35 約 -1.21%；GLD 收 352.48，較 352.93 約 -0.13%。NVIDIA 官方業績在當日美股收市後才公布，故上述收市尚未計入該份業績。聯儲官方日程顯示，最近一次 FOMC 為 10 月 27–28 日，10/28 聲明以 10 票贊成、2 票反對，決定維持聯邦基金利率目標區間於 3-3/4% 至 4%；下一次會議為 12 月 8–9 日（附經濟預測摘要）。金管局官方日終流動性數據（2026-11-17）顯示，美元兌港元兌換保證上下限仍為 7.85 及 7.75，當日外匯交易欄為 +0，結餘開收均為 540.55 億港元；本次未另行取得即市中間價，故不引用現貨匯價。中國國家統計局 11/16 發布 10 月國民經濟稿：10 月社會消費品零售總額 46,463 億元人民幣，按年升 0.4%；首十個月社會消費品零售總額 416,464 億元，按年升 1.0%。以上僅作消費背景，不涉及名單外的奢侈品股票。",
+      "whyItMatters": "持倉呢幾隻 ETF 嘅新手，可以同時睇美股、海外股票同黃金嘅收市方向，以及聯儲下次會議、港元聯繫匯率同中國消費數據，作為宏觀背景；唔好把周二收市，直接當成已經消化咗輝達盤後業績。",
+      "whatToWatch": "12 月 8–9 日 FOMC（含經濟預測摘要），以及今晚美股常規交易在輝達業績後的風險胃納。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "news",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-17",
+          "title": "Yahoo Finance daily closes for SPYM, GLD and VEU (17 November 2026 regular session)",
+          "url": "https://finance.yahoo.com/quote/SPYM/history"
+        },
+        {
+          "category": "company",
+          "publisher": "Board of Governors of the Federal Reserve System",
+          "date": "2026-10-28",
+          "title": "Federal Reserve issues FOMC statement (maintained federal funds target range at 3-3/4 to 4 percent)",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "Board of Governors of the Federal Reserve System",
+          "date": "2026-11-12",
+          "title": "FOMC meeting calendars and information (2026: next meeting December 8-9)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-11-17",
+          "title": "Daily figures of interbank liquidity (convertibility undertakings 7.75 / 7.85; 17 November 2026)",
+          "url": "https://api.hkma.gov.hk/public/market-data-and-statistics/daily-monetary-statistics/daily-figures-interbank-liquidity?pagesize=3&sortby=end_of_date&sortorder=desc"
+        },
+        {
+          "category": "company",
+          "publisher": "National Bureau of Statistics of China",
+          "date": "2026-11-16",
+          "title": "National Economy was Generally Stable with Innovation-Led and High-Quality Development in October",
+          "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html"
+        }
+      ]
+    },
+    {
+      "id": "msft-ignite-official-azure-rubin",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：官方 Ignite 發布 Copilot、Foundry 與 Cobalt 200 等更新，並推出 AI 透明度倡議；NVIDIA 官方業績稿寫 Microsoft Azure 已運行 Vera Rubin；Yahoo 11/17 收 506.24（前收 11/16 517.99，約 -2.27%，輝達業績前收市）",
+      "summary": "Research MSFT。微軟新聞室 11/17 發布 Ignite 2026 報道：Satya Nadella 在主題演講以「human ambition, intelligence and trust」作主軸，並介紹新的 Copilot Workspaces、名為 Autopilot 的長時運行代理、Copilot Code，以及 Microsoft IQ、Foundry 持續改進工具；稿內稱 Cobalt 200 虛擬機即日起一般供應，較上一代效能最多提升 50%，並稱 Cobalt 將於年底前覆蓋 23 個區域。同日另發公告，與逾 40 家機構（稿內舉例包括 Accenture、Adobe、KPMG、Mastercard 與 Volvo Cars）啟動 AI 透明度倡議。以上均為公司新聞室文本，不是業績數字。NVIDIA 官方第三季業績稿則把 Microsoft Azure 列為已運行 Vera Rubin NVL72 機櫃的雲端夥伴之一，並寫 Microsoft 參與 Vera Rubin 開放架構推進。Yahoo 11/17 收 506.24，較 11/16 收市 517.99 約 -2.27%，同樣尚未計入其後公布的輝達業績。",
+      "whyItMatters": "對研究 MSFT 嘅新手來說，Ignite 係產品同雲端更新，唔等於一份新嘅季度業績；同時間，輝達官方稿把 Azure 列為已運行 Vera Rubin 的夥伴，係可以對照嘅供應鏈／雲端背景。",
+      "whatToWatch": "後續公司文件會否補充 Cobalt 200 或 Azure 與 Vera Rubin 相關的部署規模；今晚美股常規交易的價格。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Source",
+          "date": "2026-11-17",
+          "title": "Microsoft Ignite 2026: Empowering human ambition, intelligence and trust",
+          "url": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Source",
+          "date": "2026-11-17",
+          "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
+          "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-17",
+          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 (Microsoft Azure mention)",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+        }
+      ]
+    },
+    {
+      "id": "icbc-no-new-ir-after-1112",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：今早公司投資者關係頁未見新於 11/12 之後的公告；最新仍是二級資本債券第七期發行完畢，以及 11/27 臨時股東會；Yahoo 11/17 收 8.01（前收 11/16 8.09，約 -0.99%）",
+      "summary": "Research 1398.HK。工行官方投資者關係頁本次讀取時，公告列表最新一則仍是 2026-11-12「Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)」；其後可見 11/11 上海證券交易所對向特定對象發行 A 股申請的審核通過公告，以及 11/9 的 2026 年第三次臨時股東會通告與通函。該臨時股東會仍訂於 2026-11-27（星期五）下午 2:50 在北京舉行。今早未能成功使用港交所標題搜尋介面作完整清單核對，故以上以公司 IR 頁為準；未見 11/16 至 11/18 的新公司公告連結。Yahoo 11/17 收 8.01，較 11/16 收市 8.09 約 -0.99%；港股今日 09:30 尚未開市（以取價時計算）。",
+      "whyItMatters": "研究 01398 嘅新手，近期官方事項仍然係資本工具同 11/27 臨時股東會，而唔係一份新嘅業績。沒有新公告，本身都係要記錄嘅狀態。",
+      "whatToWatch": "11/27 臨時股東會的表決結果，以及其後會否有新的港交所或公司 IR 公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC Investor Relations",
+          "date": "2026-11-12",
+          "title": "ICBC official investor-relations announcements list (latest dated 12 November 2026 at time of fetch)",
+          "url": "https://www.icbc.com.cn/ICBCLtd/Investor%20Relations/"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-11-12",
+          "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX",
+          "date": "2026-11-09",
+          "title": "Circular / Notice of the Third Extraordinary Shareholders’ Meeting of 2026 (27 November 2026)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900646.pdf"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "additional-week-14-week-quarter",
+      "title": "額外一週季度（additional week／14-week quarter）",
+      "titleEn": "additional week / 14-week quarter",
+      "what": "有啲財政季度唔係慣常嘅 13 週，而係有額外一週（14-week quarter／additional week）。公司出下季營收指引時，如果寫明該季 includes an additional week／含額外一週，呢個美元數字覆蓋嘅日數就長過剛公布嘅上一季，唔可以當成同等長度嘅季度直接比。",
+      "whyItMatters": "新手好容易用「下季指引 ÷ 上季實際」去計季增。如果指引已經講明含額外一週，呢個簡單除法會把較長時期嘅銷售，當成同長度季度嘅增速。要比較走勢，先要睇公司有冇把額外一週寫進指引句，而唔係只睇標題上嘅億美元數字。",
+      "whereToday": "NVIDIA 官方新聞室業績稿日期為 2026-11-17（香港時間 11/18 約 05:20 發布），公布截至 2026-10-25 的 2027 財政年度第三季：營收 1,158 億美元。同一份官方展望寫明，第四季（該季含額外一週）營收指引為 1,300 億美元，上下 3%，並寫明不假設來自中國的資料中心運算營收。",
+      "whatToWatch": "之後公布嘅第四季實際數字，以及公司所講「未來數週」將提交嘅 10-Q。比較時一併睇 Extra week／季度長度披露，而唔好只對住第三季 1,158 億美元做未經調整嘅對比。唔構成買賣建議。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/41c99f70bc568147869de0250105cb83"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Thanks Don Harrison for His Service on the Board",
+        "date": "2026-11-06",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金信託",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普 500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 富時全球（美國除外）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return — cancellation of 58,473,000 Class B shares repurchased 21 July–22 October 2026, plus share awards and Class A-to-B conversion",
+        "date": "2026-11-17",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1117/2026111701115.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "Microsoft",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft Ignite 2026: Empowering human ambition, intelligence and trust",
+        "date": "2026-11-17",
+        "url": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "英偉達",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+        "date": "2026-11-17",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+        "date": "2026-11-12",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-18.mp3",
+  "audioScriptChars": 3408,
+  "audioVoice": "gTTS-zh-TW"
+}
