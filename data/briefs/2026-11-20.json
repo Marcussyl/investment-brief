@@ -1,0 +1,323 @@
+{
+  "date": "2026-11-20",
+  "stories": [
+    {
+      "id": "xiaomi-nddr-share-buyback-1119",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：港交所 11/19 翌日披露報表顯示，交易日 11/19 在聯交所回購 175.2 萬股 B 類，最高 28.64 港元、最低 28.46 港元，總額 49,981,581.6 港元，擬註銷；同日就股份計劃向非董事參與人發行 18,000 股新 B 類；第三季業績仍訂於 11/24 公布；Yahoo 11/19 收 28.52（前收 11/18 29.66，約 -3.84%）",
+      "summary": "持倉 1810.HK。港交所 11/19 翌日披露報表（首席財務官 Alain Lam 呈交，提交日期 2026-11-19）顯示：B 類於 11/18 期初結餘 21,321,423,891 股；交易日 11/19 在聯交所回購 1,752,000 股 B 類，最高每股 28.64 港元、最低 28.46 港元，付出總額 49,981,581.6 港元，擬註銷（B 部列加權平均每股 28.53 港元）。同日就股份計劃向非董事參與人發行 18,000 股新 B 類（每股 2.7 港元）。期末 B 類 21,321,441,891 股。備註寫明 11/18 已發行股份（不包括庫存股份）為 25,740,621,757 股（A 類 4,419,197,866 股、B 類 21,321,423,891 股）。B 部仍列出 10/27 至 11/18 已回購但尚未註銷的股份，並新增 11/19 該 1,752,000 股。購回授權於 2026-06-02 通過；截至該報表，根據授權已回購 156,146,000 股，佔授權通過當日已發行股份（不包括庫存股份）0.6%；暫止期截至 2026-12-19。第三季／首九個月未經審核業績仍按 10/23 公告訂於 11/24 公布；今早港交所標題搜尋未見更改該日期的新公告。Yahoo 11/19 收 28.52，較 11/18 收市 29.66 約 -3.84%。取價時間為 2026-11-20 08:30 Asia/Hong_Kong，港股周五早市尚未開市，故不引用尚未開市的 11/20 即市價。",
+      "whyItMatters": "對持倉 1810 嘅新手來說，呢份係場內回購嘅法定翌日披露，同 11/18 那份回購報表係另一個交易日嘅新回購，唔係註銷舊股份。175.2 萬股會先出現在「已回購但尚未註銷」清單，要等之後註銷，已發行股數先會再減。同期發行 18,000 股新 B 類，係股份計劃下向非董事參與人發行，規模遠細過當日回購。11/24 先係第三季未經審核業績日。",
+      "whatToWatch": "11/24 董事會會議及第三季／首九個月未經審核業績；其後會否再提交翌日披露報表（新回購或註銷）。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-11-19",
+          "title": "翌日披露報表（股份發行人 ── 已發行股份或庫存股份變動、股份購回及/或在場内出售庫存股份）",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900880_c.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-11-19",
+          "title": "Next Day Disclosure Return (Equity issuer - changes in issued shares or treasury shares, share buybacks and/or on-market sales of treasury shares)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900879.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-19",
+          "title": "1810.HK daily regular-session close",
+          "url": "https://finance.yahoo.com/quote/1810.HK"
+        }
+      ]
+    },
+    {
+      "id": "macro-etf-us-hk-session-gld-spym-veu",
+      "ticker": "GLD",
+      "title": "宏觀／ETF：美股周四三大指數各跌逾 2%，Yahoo 顯示道指收 49,097.06（約 -2.19%）、標普 500 收 7,175.83（約 -2.02%）、納指收 23,879.20（約 -2.25%）；持倉 ETF 同日 GLD 收 335.18（約 -1.76%）、SPYM 收 84.26（約 -1.99%）、VEU 收 76.30（約 -1.62%）；新華社指恒指周四收 22,841.62（跌 1.95%）；金管局 11/19 日終數據：兌換保證仍為 7.75–7.85，基本利率 4.25%，隔夜 HIBOR 2.29%",
+      "summary": "持倉 GLD、SPYM、VEU。今早未取得 State Street（GLD、SPYM）或 Vanguard（VEU）的新基金官方公告。市場背景以已完成的 11/19 常規交易收市及官方機構數據為準。Yahoo Finance 圖表（2026-11-20 08:30 Asia/Hong_Kong 擷取，interval=1d、不包括盤前盤後）：美股 11/19 道瓊斯工業平均指數收 49,097.06，較 11/18 收市 50,198.17 下跌 1,101.11 點，約 -2.19%；標普 500 收 7,175.83，較 7,323.63 約 -2.02%；納斯達克綜合指數收 23,879.20，較 24,429.88 約 -2.25%；Cboe 波動率指數（VIX）收 28.44，較 24.56 約 +15.80%。同一來源：GLD 收 335.18（前收 341.19，約 -1.76%），SPYM 收 84.26（前收 85.97，約 -1.99%），VEU 收 76.30（前收 77.56，約 -1.62%）。CNBC 周四市場報道寫，道指跌 1,101.11 點或 2.19% 收 49,097.06，並稱道指上次收市低於 50,000 是在 6 月（第三方·非公告，本簡報未獨立核對 6 月全部交易日）。CNBC 另一篇黃金報道寫，黃金價格周四跌破 3,700 美元（第三方·非公告）；本簡報以 GLD 的 Yahoo 常規收市為持倉黃金 ETF 的數字，不引用仍可能變動的期金即市價。新華社 11/19 16:33 稿：恒指周四跌 1.95% 收 22,841.62 點；國企指數跌 1.86% 收 7,690.34 點；恒生科技指數跌 2.33% 收 3,649.14 點。港台報道寫成交 2,295.5 億港元，恒指跌 453 點或 1.9% 收 22,841（整數）。金管局每日貨幣統計（頁面最後修訂日期 2026-11-19）：美元兌港元兌換保證仍為 7.75–7.85；貼現窗基本利率 4.25%；今日隔夜 HIBOR 2.29%；香港銀行公會一個月期 HIBOR 定價 2.68000%；港匯指數 100.5（+0.1）；開市總結餘及收市總結餘均為 54,186 百萬港元；貨幣市場運作 +0，外匯基金票據及債券利息 +0。聯儲 10/27–28 會議紀錄已於 11/18 發布，今早不是新一次利率決定；下次會議為 12 月 8–9 日（附經濟預測摘要）。國家統計局 11/16 已發布 10 月社零，今早未見更新官方中國消費數據；以上僅作背景，不涉及名單外股票。取價時港股周五尚未開市、美股尚未開市，故不引用 11/20 即市價。",
+      "whyItMatters": "對持倉黃金同股票 ETF 嘅新手來說，11/19 係一個三大美股指數同日都跌逾 2% 嘅交易日，SPYM 作為追蹤標普 500 嘅低費 ETF，單日跌幅（約 -1.99%）接近指數本身（約 -2.02%），但仍有費用同追蹤差異，唔等於任何一隻成分股嘅完整表現。GLD 反映嘅係黃金 ETF 嘅收市價，同現貨或期金報價可以唔完全一樣。金管局數據顯示兌換保證同基本利率未變，隔夜拆息由 11/18 的 2.20% 升至 2.29%，總結餘維持 541.86 億港元。呢啲係已完成時段同官方統計，唔係對周五走勢嘅預測。",
+      "whatToWatch": "下次 FOMC 為 12 月 8–9 日（附經濟預測摘要）。港股今日（11/20）09:30 開市，美股周五仍有一個常規時段；週線要待兩地收市後先確定。留意金管局其後的每日流動性數據。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-19",
+          "title": "GLD, SPYM, VEU, ^DJI, ^GSPC, ^IXIC, ^VIX daily regular-session closes",
+          "url": "https://finance.yahoo.com/quote/GLD"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-19",
+          "title": "Stock market today: Live updates",
+          "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-19",
+          "title": "Gold prices fall as Treasury yields, dollar climb",
+          "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html"
+        },
+        {
+          "category": "wire",
+          "publisher": "Xinhua",
+          "date": "2026-11-19",
+          "title": "Hong Kong stocks close lower",
+          "url": "https://english.news.cn/20261119/be7298f0e45449a482671fd680aa0fae/c.html"
+        },
+        {
+          "category": "official",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-11-19",
+          "title": "Daily Monetary Statistics",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "wire",
+          "publisher": "RTHK",
+          "date": "2026-11-19",
+          "title": "Hang Seng Index close and turnover",
+          "url": "https://news.rthk.hk/rthk/en/component/k2/1878452-20261119.htm"
+        }
+      ]
+    },
+    {
+      "id": "spcx-no-new-official-ir-after-1106",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：今早可核實的公司 IR 新聞稿最新仍是 11/6 董事會變動；Yahoo 11/19 收 138.43（前收 11/18 143.50，約 -3.53%）",
+      "summary": "持倉 SPCX。公司投資者關係網站為動態載入頁面。今早仍可打開 11/6 官方稿「SpaceX Thanks Don Harrison for His Service on the Board」，未另核實到新於該日的公司 IR 新聞稿。11/19 美股常規交易日，Yahoo 收 138.43，較 11/18 收市 143.50 約 -3.53%。同一交易日美股三大指數各跌逾 2%（見宏觀／ETF 一則）。CNBC 11/19 另有馬斯克就 Starshield 的第三方報道，以及 Anthropic 首日掛牌的市場報道；這些不是 SpaceX 公司公告，本簡報標為第三方·非公告、未核實，亦不會把 ANT 或其他名單外代號加入覆蓋名單。取價時間為 2026-11-20 08:30 Asia/Hong_Kong，不引用尚未開始的周五美股即市價。",
+      "whyItMatters": "對持倉 SPCX 嘅新手來說，要分清「公司 IR 已公布」同「傳媒或社交平台轉述」。今早未見到新嘅官方融資、業績或董事會稿，11/19 收市跌幅係已完成交易日嘅價格，發生喺美股普遍下跌嘅交易日，唔等於有新嘅公司公告。第三方就 Starshield 或估值比較嘅報道，要等公司或監管文件先可以核實。",
+      "whatToWatch": "公司 IR 會否就融資、發射或董事會發布新公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-11-06",
+          "title": "SpaceX Thanks Don Harrison for His Service on the Board",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-19",
+          "title": "SPCX daily regular-session close",
+          "url": "https://finance.yahoo.com/quote/SPCX"
+        }
+      ]
+    },
+    {
+      "id": "nvda-ca-ag-subpoena-and-ubs-event",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：加州司法部長 11/19 公布向 Nvidia 送達調查傳票，詢問先進晶片或機密是否可能流入中國、以及公司有否誤導投資者；公司新聞室同日宣布將於 12/1 出席瑞銀科技及 AI 會議；Yahoo 11/19 收 145.98（前收 11/18 150.96，約 -3.30%）",
+      "summary": "研究名單 NVDA。加州司法部 11/19 新聞稿寫：司法部長 Rob Bonta 當日向 Nvidia 送達調查傳票（investigative subpoena），與「前執行長黃仁勳同涉嫌中國間諜有婚外關係」的報道有關；加州司法部正在詢問，其先進晶片或機密資料是否可能流入中國，以及 Nvidia 有否誤導投資者及公眾；傳票取得的資料將用以評估 Nvidia 的行為是否違反加州法律。這是調查步驟，不是判決，亦不等於已經認定違法。今早在公司新聞室及投資者關係最新列表中，未見 Nvidia 就該傳票發表對應聲明。公司新聞室 11/19 另發官方稿：Nvidia 將於 12 月 1 日（星期二）上午 6:35 太平洋時間，在第 30 屆瑞銀全球科技及人工智能會議（30th Annual UBS Global Technology and AI Conference）發言，可在 investor.nvidia.com 收聽即時網絡廣播，重播保留 90 日。今早投資者關係新聞列表及新聞室列表，仍列出 11/17 第三季（財政 2027）業績稿；靜態頁面未列出新的第三季 10-Q 或官方逐字稿。Yahoo 11/19 收 145.98，較 11/18 收市 150.96 約 -3.30%。取價時間為 2026-11-20 08:30 Asia/Hong_Kong。",
+      "whyItMatters": "對研究 NVDA 嘅新手來說，調查傳票係監管機構要求公司提供資料嘅步驟，本身唔等於罰款或法庭判決，亦唔等於已經證明有人違法。官方稿用「詢問是否可能」同「評估是否違反法律」來表述，閱讀時要把「司法部在查什麼」同「公司有沒有官方回應、有沒有後續起訴或和解」分開。12/1 嘅瑞銀會議係已排期嘅金融界活動，不是新一份季度業績。",
+      "whatToWatch": "公司會否就該傳票或調查發表聲明；12/1 瑞銀會議網絡廣播；官方仍稱 10-Q 將於業績後數週提交，留意 IR 會否上載 10-Q 或官方逐字稿。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "official",
+          "publisher": "California Department of Justice, Office of the Attorney General",
+          "date": "2026-11-19",
+          "title": "Attorney General Bonta Serves Investigative Subpoena on Nvidia",
+          "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-19",
+          "title": "NVIDIA Announces Upcoming Event for Financial Community",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-17",
+          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-19",
+          "title": "NVDA daily regular-session close",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ]
+    },
+    {
+      "id": "msft-house-briefing-request-no-new-ir",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：眾議院中國問題特別委員會 11/18 新聞稿稱，已要求微軟就「向字節跳動出售 AI 雲端服務並讓其使用 OpenAI 模型」的報道作出兩黨聯席簡報；公司 Source 最新業務稿仍是 11/18 與 Intel 的 Azure 合作，Ignite 進行至 11/20；Yahoo 11/19 收 498.30（前收 11/18 508.29，約 -1.97%）",
+      "summary": "研究名單 MSFT。美國眾議院中國問題特別委員會（Select Committee on the CCP）11/18 新聞稿寫：當日有報道稱微軟正洽談向字節跳動出售 AI 雲端服務，並讓其使用 OpenAI 模型；委員會已要求微軟就這項潛在交易的細節作出兩黨聯席簡報（bipartisan briefing）。主席 John Moolenaar 在稿中表示，微軟不應向字節跳動出售 AI 工具。這是立法機構的新聞稿及簡報要求，本身不是判決或禁令，亦不是微軟公司公告。今早微軟 Source RSS 最新官方業務稿，仍是 11/18「Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure」；11/19 可見的是一則醫學研究播客，不是新的業績或雲端交易公告。Ignite 會議日期為 11/17–11/20，今日是議程最後一天。Yahoo 11/19 收 498.30，較 11/18 收市 508.29 約 -1.97%。取價時間為 2026-11-20 08:30 Asia/Hong_Kong。",
+      "whyItMatters": "對研究 MSFT 嘅新手來說，委員會要求「簡報」係了解情況嘅監督步驟，通常仲唔係罰款或禁令。稿件把「記者報道中的洽談」同「委員會要求說明」寫在一起；目前未見微軟 Source 就字節跳動雲端安排作出對應公司公告，所以唔好把委員會新聞稿當成已經敲定的商業合約。11/18 同 Intel 擴大 Azure 基礎設施合作，仍然係最近嘅公司官方業務稿。",
+      "whatToWatch": "微軟會否就委員會簡報要求或相關報道作出官方說明；Ignite 11/20 結束後公司會否再上載會議材料。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "official",
+          "publisher": "House Select Committee on the CCP",
+          "date": "2026-11-18",
+          "title": "Moolenaar: Microsoft Should Not Sell AI to ByteDance",
+          "url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-microsoft-should-not-sell-ai-to-bytedance"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Source",
+          "date": "2026-11-18",
+          "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
+          "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-19",
+          "title": "MSFT daily regular-session close",
+          "url": "https://finance.yahoo.com/quote/MSFT"
+        }
+      ]
+    },
+    {
+      "id": "icbc-no-new-ir-after-1112",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：今早港交所標題搜尋未見新於 11/12 之後的公告；最新仍是二級資本債券第七期發行完畢，以及 11/27 臨時股東會；Yahoo 11/19 收 7.865（前收 11/18 7.935，約 -0.88%）",
+      "summary": "研究名單 1398.HK。今早港交所上市公司信息標題搜尋（英文結果頁）列出的最近公告，最新仍是 11/12 二級資本債券第七期（債券通）發行完畢（2026111200891.pdf），其後未見 11/19 或 11/20 的新公告。11/9 臨時股東會相關文件仍在列表中，會議日期 11/27 未見更改。Yahoo 11/19 收 7.865，較 11/18 收市 7.935 約 -0.88%。取價時間為 2026-11-20 08:30 Asia/Hong_Kong，港股周五早市尚未開市，故不引用 11/20 即市價。",
+      "whyItMatters": "對研究 1398 嘅新手來說，今早未有新嘅資本工具或股東會改期公告，11/19 收市係已完成交易日嘅價格。下一件已排期嘅公司事項，仍然係 11/27 嘅臨時股東會。",
+      "whatToWatch": "11/27 臨時股東會；其後會否有表決結果或新的資本工具公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Industrial and Commercial Bank of China",
+          "date": "2026-11-12",
+          "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Industrial and Commercial Bank of China",
+          "date": "2026-11-09",
+          "title": "Notice of the Third Extraordinary General Meeting of 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900646.pdf"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-19",
+          "title": "1398.HK daily regular-session close",
+          "url": "https://finance.yahoo.com/quote/1398.HK"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "investigative-subpoena",
+      "title": "調查傳票（investigative subpoena）",
+      "titleEn": "investigative subpoena",
+      "what": "調查傳票（investigative subpoena）係監管或執法機構在調查階段，向公司或個人發出的正式書面要求，命令對方在限期內提交文件、數據或作證。它用來收集資料，以便評估是否有違反法律的情況。傳票本身不是起訴書，也不是罰款或法庭判決。",
+      "whyItMatters": "新手見到「傳票」或「調查」時，可能會以為已經定罪或公司業務已被禁止。其實這一階段通常只是要求提供資料。要分開三件事：機構在查什麼、公司有沒有公開回應、以及之後會否出現起訴、和解或不採取行動的結果。在有官方結論之前，傳票只能說明「有一項調查正在進行」。",
+      "whereToday": "加州司法部 2026-11-19 新聞稿寫，司法部長 Rob Bonta 當日向 Nvidia 送達調查傳票，詢問先進晶片或機密是否可能流入中國，以及公司有否誤導投資者及公眾；並寫明取得的資料將用以評估是否違反加州法律。今早公司新聞室未見就該傳票發表對應聲明。",
+      "whatToWatch": "公司會否發表聲明；加州司法部會否有後續公開行動；NVIDIA 12/1 瑞銀會議及之後會否上載 10-Q。唔構成買賣建議。",
+      "relatedTickers": [
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/41e99f70bc56814ba982c26c38278ae4"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Thanks Don Harrison for His Service on the Board",
+        "date": "2026-11-06",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金股份",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普 500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return — on-Exchange repurchase of 1,752,000 Class B shares on 19 November 2026 for cancellation, plus 18,000 share-scheme shares",
+        "date": "2026-11-19",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900880_c.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
+        "date": "2026-11-18",
+        "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+        "date": "2026-11-17",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+        "date": "2026-11-12",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-20.mp3",
+  "audioScriptChars": 1054,
+  "audioVoice": "gTTS-zh-TW"
+}
