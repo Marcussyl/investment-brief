@@ -1,0 +1,354 @@
+{
+  "date": "2026-11-21",
+  "stories": [
+    {
+      "id": "xiaomi-nddr-share-buyback-1120",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：港交所 11/20 翌日披露報表顯示，交易日 11/20 在聯交所回購 181 萬股 B 類，最高 27.7 港元、最低 27.42 港元，總額 49,919,619 港元，擬註銷；同日就股份計劃向非董事參與人發行 2,000 股新 B 類；第三季業績仍訂於 11/24 公布；Yahoo 11/20 收 27.64（前收 11/19 28.52，約 -3.09%）",
+      "summary": "持倉 1810.HK。港交所 11/20 翌日披露報表（首席財務官 Alain Lam 呈交，提交日期 2026-11-20）顯示：B 類於 11/19 期初結餘 21,321,441,891 股；交易日 11/20 在聯交所以場內方式回購 1,810,000 股 B 類，最高每股 27.7 港元、最低 27.42 港元，付出總額 49,919,619 港元，擬註銷（B 部列加權平均每股 27.58 港元）。同日就股份計劃向非董事參與人發行 2,000 股新 B 類（每股 2.7 港元）。期末 B 類 21,321,443,891 股。備註寫明 11/19 已發行股份（不包括庫存股份）為 25,740,639,757 股（A 類 4,419,197,866 股、B 類 21,321,441,891 股）。B 部仍列出 10/27 至 11/19 已回購但尚未註銷的股份，並新增 11/20 該 1,810,000 股。購回授權於 2026-06-02 通過，授權上限 2,583,952,309 股；截至該報表，根據授權已回購 157,956,000 股，佔授權通過當日已發行股份（不包括庫存股份）0.61%；暫止期截至 2026-12-20。第三季／首九個月未經審核業績仍按 10/23 公告訂於 11/24 公布；今早未另見更改該日期的新公告。Yahoo 11/20 收 27.64，較 11/19 收市 28.52 約 -3.09%。取價時間為 2026-11-21 上午 Asia/Hong_Kong；今日週末港股休市，故引用周五正規時段收市價。",
+      "whyItMatters": "對持倉 1810 嘅新手來說，呢份係場內回購嘅法定翌日披露，同 11/19 那份回購報表係另一個交易日嘅新回購，唔係註銷舊股份。181 萬股會先出現在「已回購但尚未註銷」清單，要等之後註銷，已發行股數先會再減。同期發行 2,000 股新 B 類，規模遠細過當日回購。單日回購相對逾 200 億股已發行 B 類仍然很小，也解釋唔到當日約 3.09% 嘅跌幅，更宜一併睇港股科技指數當日下跌。11/24 先係第三季未經審核業績日。",
+      "whatToWatch": "11/24 董事會會議及第三季／首九個月未經審核業績；其後會否再提交翌日披露報表（新回購或註銷）。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-11-20",
+          "title": "翌日披露報表（股份發行人 ── 已發行股份或庫存股份變動、股份購回及/或在場内出售庫存股份）",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000979_c.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-11-20",
+          "title": "Next Day Disclosure Return (Equity issuer - changes in issued shares or treasury shares, share buybacks and/or on-market sales of treasury shares)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000978.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "1810.HK daily regular-session close",
+          "url": "https://finance.yahoo.com/quote/1810.HK"
+        }
+      ]
+    },
+    {
+      "id": "spcx-apollo-gpu-financing-pricing-1120",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：Apollo 11/20 新聞稿宣布已為 SpaceX 訂價約 440 億美元優先及次順位票據，用於購買 GPU 及相關設備，並稱因超額認購而上調規模、將交付 NVIDIA Vera Rubin；此數字高於 SpaceX 自身 10/26 IR 所載約 400 億美元具約束力的主融資租賃承諾。今早 SpaceX IR 未見同日確認 440 億美元訂價的新稿。Yahoo 11/20 收 127.79（前收 11/19 138.43，約 -7.69%）",
+      "summary": "持倉 SPCX。Apollo Global Management 2026-11-20 新聞稿宣布，該公司與高盛已成功為 SpaceX（納斯達克：SPCX）訂價約 440 億美元的優先及次順位票據，用以購買 GPU 及相關設備；稿件稱交易因投資人需求強勁而超額認購並上調規模，將為 SpaceX 的地面運算建設交付「下一代 NVIDIA Vera Rubin 晶片」，並稱這是迄今規模最大的 GPU 融資。租賃時程預計在 2027 年上半年設備交付後開始。錨定承諾方包括 Apollo、高盛及其管理的基金，以及貝萊德、高盛資產管理與 KKR 顧問的資本帳戶。這則是安排行（Apollo）的官方新聞稿，不是 SpaceX 自身 IR。SpaceX 最近一次公司新聞稿仍可核實的是 2026-10-26：當時公司宣布已達成具約束力的承諾，將訂立約 400 億美元的主融資租賃（master finance lease），向 Apollo 管理實體租入 GPU 及相關設備，同樣寫明將交付 NVIDIA Vera Rubin，並註明完成租賃仍須滿足特定交割條件，預期於 2026 年底前完成，租賃時程預計在 2027 年上半年設備交付後開始。今早查閱 SpaceX IR 更新頁，未見 11/20 由公司自行確認「已訂價約 440 億美元」或上調規模的新稿。Yahoo 11/20 收 127.79，較 11/19 收市 138.43 約 -7.69%。今日週末美股休市。",
+      "whyItMatters": "對持倉 SPCX 嘅新手，要分開兩份官方文件同兩組數字：10/26 公司 IR 寫嘅係「約 400 億美元、具約束力但仍待交割條件」嘅承諾；11/20 Apollo 稿寫嘅係「約 440 億美元已訂價、超額認購並上調規模」。後者由安排行公布，顯示融資可能由承諾進入訂價／銀團階段，但在 SpaceX 自己刊發對應更新或 8-K 之前，440 億美元不應被當成公司已確認的最終金額。租賃要等 2027 年上半年交付後先開始，亦唔等於晶片已經裝機。周五股價下跌發生在沒有公司自身新公告的交易日，不應把單日跌幅直接歸因於這筆融資。",
+      "whatToWatch": "SpaceX 會否就訂價或上調規模發表 IR 或提交 8-K；租賃會否如 10/26 稿所述在 2026 年底前完成交割。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Apollo Global Management IR",
+          "date": "2026-11-20",
+          "title": "Apollo and Goldman Sachs Announce Pricing of $44 Billion SpaceX GPU Financing",
+          "url": "https://ir.apollo.com/news-events/press-releases/detail/662/apollo-and-goldman-sachs-announce-pricing-of-44-billion"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-10-26",
+          "title": "SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-11-06",
+          "title": "SpaceX Thanks Don Harrison for His Service on the Board",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "SPCX daily regular-session close",
+          "url": "https://finance.yahoo.com/quote/SPCX"
+        }
+      ]
+    },
+    {
+      "id": "macro-etf-us-hk-session-gld-spym-veu",
+      "ticker": "SPYM",
+      "title": "宏觀／ETF：CNBC 指美股周五標普 500 跌 3.7% 收 6,910.39、道指跌 1.93% 收 48,147.33，兩者較收市高位低約 10%、進入技術性調整；納指跌 5.28% 收 22,617.73，年迄今跌 2.7%。當週道指跌 8%、納指約跌 10%、標普 500 跌 8.6%。持倉 ETF 同日 Yahoo：SPYM 收 81.27（約 -3.55%）、VEU 收 73.78（約 -3.30%）、GLD 收 322.87（約 -3.67%）。新華社：恒指周五收 22,410.8（跌 1.89%）。CNBC 引述路透：現貨金跌 2.81% 報 3,520.05 美元，為 2025 年 9 月以來低位",
+      "summary": "今日週末美股與港股休市，以下為周五正規時段。CNBC 周五收市報道寫，納斯達克綜合指數跌 5.28%，收 22,617.73，並轉為今年以來下跌（報道寫年迄今跌 2.7%）；標普 500 跌 3.7%，收 6,910.39；道瓊斯工業平均指數跌 949.73 點，或 1.93%，收 48,147.33。報道寫，標普 500 與道指均較其收市高位低 10%，進入技術性調整（correction）；納斯達克 100 指數當日跌 5.6%，並在盤中一度較近期高位低 20%，進入熊市區間。就整個交易週，CNBC 寫：道指跌 8%，為 2020 年 3 月以來最差一週；納指約跌 10%，為六年多來最大單週回調；標普 500 跌 8.6%，為 2025 年 4 月美國公布大規模關稅後最差一週。Yahoo 圖表顯示，追蹤標普 500 的 SPYM 周五收 81.27，較 11/19 收市 84.26 約 -3.55%（對 11/13 收 88.77 約 -8.45%）；VEU 收 73.78，較 11/19 收 76.30 約 -3.30%；GLD 收 322.87，較 11/19 收 335.18 約 -3.67%。CNBC 並引述路透：現貨金周五跌 2.81%，報每盎司 3,520.05 美元，為 2025 年 9 月以來低位，LSEG 數據顯示當週約跌 8.9%。新華社周五收市電訊：恒指跌 1.89%，收 22,410.8 點；恒生中國企業指數跌 1.77%，收 7,554.37 點；恒生科技指數跌 3.78%，收 3,511.14 點。港台報道寫，恒指成交 2,703 億港元（稿中寫 HK$270.3 billion）。Yahoo 顯示工商銀行（1398.HK）周五收 7.885，較 11/19 收 7.865 約 +0.25%；今早港交所標題搜尋未見新於 11/12 二級資本債券發行完畢公告之後的公司公告，11/27 臨時股東會日期仍有效。取價時間為 2026-11-21 上午 Asia/Hong_Kong。指數收市點位與百分比以 CNBC、新華社對正規時段的描述為準；ETF 收市價以 Yahoo 為準。",
+      "whyItMatters": "持倉 SPYM 跟踪標普 500，單日同週線方向通常接近指數，但仍有費用同複製差異。VEU 覆盖美國以外股票，周五跌幅與美股同向，但港股恒指跌幅細過美股主要指數。GLD 在股票大跌嘅同一日續跌，說明「避險資產會自動上升」並唔係每日成立；CNBC 引述路透把金價壓力與較強美元及加息預期放在一起。技術性調整同盤中熊市區間係市場對跌幅幅度嘅慣用標籤（約 10% 與 20%），唔係監管機構嘅正式宣告，也不等於下一步一定續跌或反彈。1398.HK 當日微升，只係相對恒指較抗跌，並冇新公告解釋。",
+      "whatToWatch": "下一個正規交易時段為周一；12/8 至 12/9 FOMC 會議。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-20",
+          "title": "Stock market news for Nov. 20, 2026",
+          "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "GLD, SPYM, VEU, 1398.HK, ^DJI, ^GSPC, ^IXIC daily regular-session closes",
+          "url": "https://finance.yahoo.com/quote/SPYM"
+        },
+        {
+          "category": "wire",
+          "publisher": "Xinhua",
+          "date": "2026-11-20",
+          "title": "Hong Kong's Hang Seng Index closes 1.89 pct lower",
+          "url": "https://english.news.cn/20261120/07ee086c83444a9da07602e52b091b33/c.html"
+        },
+        {
+          "category": "wire",
+          "publisher": "RTHK",
+          "date": "2026-11-20",
+          "title": "HK, mainland slip as tech stocks take brunt of fears",
+          "url": "https://news.rthk.hk/rthk/en/component/k2/1878603-20261120.htm"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Industrial and Commercial Bank of China",
+          "date": "2026-11-12",
+          "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fed-cook-speech-hkma-1120",
+      "ticker": "SPYM",
+      "title": "宏觀：聯儲理事 Cook 11/20 講稿稱通脹已連續 67 個月高於 2% 目標，並估計 10 月 PCE 按年升 3.8%、核心 PCE 升 3.2%；她支持 9 月把利率目標區間上調至 3.75%–4.00%，但在 10 月維持利率的決定中投反對票、傾向再加 0.25 個百分點，並警告有「落後於形勢」風險。金管局 11/20 日終數據：兌換保證仍為 7.75–7.85，基本利率 4.25%，隔夜 HIBOR 2.38%",
+      "summary": "聯儲理事 Lisa Cook 於 2026-11-20 發表題為〈The U.S. Economy in Global Context〉的講稿。她寫，美國經濟增長強勁且正在加快，勞動市場仍然穩固，但通脹已連續 67 個月高於聯儲 2% 目標；並根據上週公布的數據估計，10 月個人消費開支（PCE）物價指數按年升 3.8%，剔除食品和能源的核心 PCE 按年升 3.2%。在貨幣政策部分，她回顧 FOMC 在 9 月把聯邦基金利率目標區間上調至 3-3/4% 至 4%（即 3.75% 至 4.00%），她當時支持該決定；10 月會議決定維持利率不變，她投下反對票，並寫自己傾向再上調 1/4 個百分點。她寫，若再延遲加息，就有落後於形勢（behind the curve）的風險；一旦落後，日後可能需要更多、更大幅度的加息才能追上。這是一位理事的個人立場和投票紀錄，不是整場 FOMC 已決定在 12 月加息。聯儲公布的會議日程顯示，下次 FOMC 會議為 12 月 8 至 9 日。金管局每日貨幣統計（2026-11-20）：兌換保證弱方 7.85、強方 7.75，基本利率 4.25%，隔夜 HIBOR 2.38%（11/19 為 2.29%），一個月 HIBOR 約 2.71167%；當日外匯交易相關欄位顯示為 +0。本文沒有看到金管局公布觸發兌換保證或進行干預的說明。Yahoo 顯示美元兌港元（HKD=X）周五約 7.8426，仍在區間之內。",
+      "whyItMatters": "對持有美股 ETF（例如 SPYM）同關注港元聯繫匯率嘅新手，要分開「一位理事嘅公開判斷」同「委員會即將作出嘅決定」。Cook 把 9 月已加息、10 月暫停而她反對、以及她認為還應再加息，寫得很清楚。港元在 7.75 至 7.85 區間內與美元掛鈎，美國利率路徑往往會影響港元拆息，但單日匯價仍在區間內，並唔等於金管局已經或即將行動。隔夜 HIBOR 由 11/19 嘅 2.29% 升至 11/20 嘅 2.38%，只係拆息嘅一日變動。",
+      "whatToWatch": "12 月 8 至 9 日 FOMC 會議及決議；其後金管局每日貨幣統計中的兌換保證與 HIBOR。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "official",
+          "publisher": "Board of Governors of the Federal Reserve System",
+          "date": "2026-11-20",
+          "title": "Speech by Governor Cook on the U.S. economy in global context",
+          "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm"
+        },
+        {
+          "category": "official",
+          "publisher": "Board of Governors of the Federal Reserve System",
+          "date": "2026-11-21",
+          "title": "Meeting calendars and information",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "official",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-11-20",
+          "title": "Daily Monetary Statistics (end of day 20 November 2026)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "HKD=X daily close",
+          "url": "https://finance.yahoo.com/quote/HKD=X"
+        }
+      ]
+    },
+    {
+      "id": "nvda-friday-selloff-and-reuters-sec-sources",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：Yahoo 11/20 收 125.53（前收 11/19 145.98，約 -14.01%）；CNBC 指這是連續第七週收低，為 2008 年金融海嘯以來最長週線連跌，並稱期間股價累跌 46%、市值約減 2.6 萬億美元、現約 3 萬億美元。路透引述知情人士稱證交會正在檢視可能的會計問題——證交會拒絕置評，公司未即時回覆，屬未經官方確認。公司新聞室未見就該報道發表對應聲明",
+      "summary": "研究名單 NVDA。Yahoo 11/20 收 125.53，較 11/19 收市 145.98 約 -14.01%；對 11/13 收 162.85 約 -22.92%。CNBC 報道，輝達周五跌 14%，連續第七個交易日及第七週收低，為 2008 年金融海嘯以來最長的週線連跌；並寫這段期間股價累跌 46%，市值約減少 2.6 萬億美元，目前市值約 3 萬億美元，排在蘋果、微軟與 Alphabet 之後。同一篇報道提到，路透當日報道證交會檢視會計問題後，跌勢進一步擴大。路透 11/20 引述兩名知情人士稱，證交會執法人員正在檢視輝達可能涉及的會計問題；路透並寫明：未能立即確定調查何時啟動、具體針對哪些會計議題，調查本身並非違法證據，許多案件會在未採取執法行動的情況下結束；證交會發言人拒絕置評，輝達發言人未即時回覆。這是傳媒引述消息來源的報道，不是證交會或公司公告，亦未經本文獨立核證。今早 NVIDIA 新聞室未見就該路透報道發表對應聲明。公司最近可核實的新聞室稿，仍包括 11/17 第三季（財政 2027）業績，以及 11/19 宣布將於 12/1 出席瑞銀科技及 AI 會議。",
+      "whyItMatters": "對研究 NVDA 嘅新手，周五約 14% 嘅收市跌幅同「連續第七週收低」係可核實嘅市場價格事實（Yahoo／CNBC）。但「證交會正在查會計問題」目前只係路透引述知情人士，證交會同公司都未公開確認調查範圍或結論，唔應當成已經立案、已經違法或已經影響出貨的事實。市值同倍數係報道當日的描述，會隨股價變動。",
+      "whatToWatch": "公司或證交會會否正式回應；12/1 瑞銀會議及之後會否上載 10-Q。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-20",
+          "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+        },
+        {
+          "category": "wire",
+          "publisher": "Reuters",
+          "date": "2026-11-20",
+          "title": "US SEC's Nvidia probe is examining potential accounting issues, sources say",
+          "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-17",
+          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-19",
+          "title": "NVIDIA Announces Upcoming Event for Financial Community",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "NVDA daily regular-session close",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ]
+    },
+    {
+      "id": "msft-no-new-ir-friday-close",
+      "ticker": "MSFT",
+      "title": "Microsoft（MSFT）：今早公司 Source 未見新於 11/18 與 Intel 的 Azure 合作、以及 11/17 Ignite 主稿之後的重大業務公告；Yahoo 11/20 收 484.52（前收 11/19 498.30，約 -2.77%），跌幅細過納指同日 5.28%。CNBC 另報道總統川普周五稱或禁止美企在海外興建資料中心並課以「重大稅負」，但他同時說尚未向幕僚宣布，亦未說明稅率或法律依據，屬未經立法的口頭表述",
+      "summary": "研究名單 MSFT。今早查閱 Microsoft Source 及公司 RSS，未見 11/20 就業績、指引或重大交易發表的新新聞室稿。最近可核實的業務稿仍是 11/18「Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure」，以及 11/17 Ignite 相關主稿。Yahoo 11/20 收 484.52，較 11/19 收市 498.30 約 -2.77%；對 11/13 收 523.88 約 -7.51%。同日納指跌 5.28%、標普 500 跌 3.7%（CNBC）。CNBC 另報道，美國總統川普周五在白宮記者會表示，美國企業將被禁止在其他國家興建資料中心，若仍要興建，他將課以「tremendous tax」（重大稅負）；報道並寫，他同時說自己甚至還沒向幕僚宣布這項想法。CNBC 指 Alphabet、Amazon、Microsoft、Meta 與 Oracle 等雲端業者已在海外建有資料中心，上述公司代表當時未即時回覆置評請求；川普未說明稅率、實施方式或法律依據。這不是法案、行政命令或公司公告。",
+      "whyItMatters": "對研究 MSFT 嘅新手，周五收市跌幅可以用 Yahoo 核對，而且當日跌幅細過納指，說明同一交易日大型科技股之間都可以有明顯差別。至於「禁止海外資料中心並加重大稅負」，目前只係總統喺記者會上的口頭表述，連報道都寫明他尚未向幕僚宣布，更未見法律文本，唔應當成已經生效的政策。",
+      "whatToWatch": "公司會否就海外資料中心或稅務相關提問發表說明；後續若有正式行政或立法文件，再對照內容。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Microsoft Source",
+          "date": "2026-11-18",
+          "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
+          "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/"
+        },
+        {
+          "category": "company",
+          "publisher": "Microsoft Source",
+          "date": "2026-11-17",
+          "title": "Microsoft Ignite 2026: Empowering human ambition, intelligence and trust",
+          "url": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-20",
+          "title": "Trump says he would ban US companies from building data centers overseas and impose a 'tremendous tax'",
+          "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "MSFT daily regular-session close",
+          "url": "https://finance.yahoo.com/quote/MSFT"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "technical-correction",
+      "title": "技術性調整（technical correction）",
+      "titleEn": "technical correction",
+      "what": "技術性調整（technical correction）係市場參與者常用的描述，通常指股價指數較近期高位回落約 10%。它用來標記一段已經出現的跌幅幅度，不是監管機構的正式宣告，也不是對下一步漲跌的預測。與之相對，市場有時把較近期高位回落約 20% 稱為進入熊市區間（bear market），同樣只是慣用標籤。",
+      "whyItMatters": "新手見到「進入調整」或「進入熊市」時，可能會以為有官方已經宣布市場完結，或自己必須立刻買賣。其實這些用詞只係在描述「已經跌了多少」，並唔會自動改變一隻 ETF 嘅追蹤規則，也不等於下一個交易日一定續跌或反彈。同一個交易週裡，不同指數、板塊同個股嘅跌幅都可以差很遠。",
+      "whereToday": "CNBC 周五收市報道寫，標普 500 收 6,910.39、跌 3.7%，道指收 48,147.33、跌 1.93%，兩者均較其收市高位低 10%，進入技術性調整；納斯達克 100 指數當日跌 5.6%，並在盤中一度較近期高位低 20%，進入熊市區間。追蹤標普 500 的持倉 ETF SPYM，Yahoo 顯示同日收 81.27，約跌 3.55%。",
+      "whatToWatch": "下一個正規交易時段為周一；12 月 8 至 9 日 FOMC 會議。唔構成買賣建議。",
+      "relatedTickers": [
+        "SPYM",
+        "VEU",
+        "MSFT",
+        "NVDA"
+      ],
+      "notionUrl": "https://app.notion.com/p/41f99f70bc5681509f7be50060ae2f4b"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Thanks Don Harrison for His Service on the Board",
+        "date": "2026-11-06",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金股份",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普 500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return — on-Exchange repurchase of 1,810,000 Class B shares on 20 November 2026 for cancellation, plus 2,000 share-scheme shares",
+        "date": "2026-11-20",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000979_c.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
+        "date": "2026-11-18",
+        "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+        "date": "2026-11-17",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+        "date": "2026-11-12",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-21.mp3",
+  "audioScriptChars": 3500,
+  "audioVoice": "gTTS-zh-TW"
+}

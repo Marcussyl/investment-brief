@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "disclaimer": "第三方·非公告，唯供參考，唔構成買賣建議。官方公布及公司新聞室／IR 已另行標示。",
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "timezone": "Asia/Hong_Kong",
-  "itemCount": 20,
+  "itemCount": 19,
   "watchlist": {
     "with_news": [
       "NVDA",
+      "SPCX",
       "1810",
-      "MSFT",
-      "SPCX"
+      "MSFT"
     ],
     "without_news": [
       "GLD",
@@ -21,282 +21,273 @@
   "items": [
     {
       "id": 1,
-      "title": "加州司法部長向 Nvidia 送達調查傳票，詢問晶片或機密是否可能流入中國",
-      "toc": "加州司法部長向 Nvidia 送達調查傳票",
-      "summary": "加州司法部 11 月 19 日新聞稿寫，司法部長 Rob Bonta 當日向 Nvidia 送達調查傳票，與前執行長黃仁勳相關報道有關；司法部正在詢問先進晶片或機密資料是否可能流入中國，以及公司有否誤導投資者及公眾。稿件寫明，傳票取得的資料將用以評估是否違反加州法律。這是官方調查步驟，不是判決。",
-      "source": "加州司法部",
-      "date": "2026年11月19日",
-      "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia",
+      "title": "路透獨家：知情人士稱美國證交會正在檢視輝達會計實務",
+      "toc": "路透：證交會檢視輝達會計實務",
+      "summary": "路透 11 月 20 日引述兩名知情人士報道，美國證券交易委員會執法人員正在檢視輝達（NVIDIA）可能涉及的會計問題。華爾街日報週二已報道證交會在調查輝達，但當時未能確定調查重點；路透稱，會計面向是其首次披露。證交會發言人拒絕置評，輝達發言人未即時回覆。路透寫明，未能立即確定調查何時啟動、具體針對哪些會計議題，且調查本身並非違法證據，許多案件會在未採取執法行動的情況下結束。",
+      "source": "路透社",
+      "date": "2026年11月21日",
+      "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
       "tickers": [
         "NVDA"
       ],
-      "origin": "官方公布",
-      "impact": "可能／市場關注：官方把出口管制與信息披露問題，從新聞報道推進到州層級的資料蒐集階段。市場或會關注公司會否回應、以及聯邦層面是否有平行監督，但傳票本身並不等於已經認定違法或限制出貨。",
-      "newbieTake": "可留意 Nvidia 會否發表聲明，以及 12 月 1 日瑞銀會議或後續 10-Q 有否相關說明。以上皆非買賣建議。"
+      "origin": "第三方·非公告",
+      "impact": "此事可能令市場把輝達近期的治理與出口管制風波，連同財務披露透明度一併關注。路透亦提到，公司去年調整地區營收表達方式後，新加坡從地理拆分中移除，相關報道近日再被提起，但路透並未斷言這就是證交會調查的具體標的。",
+      "newbieTake": "可留意輝達或證交會後續是否有正式回應、以及即將公布的 10-Q 等定期申報是否補充說明。以上皆非買賣建議。"
     },
     {
       "id": 2,
-      "title": "小米提交 11/19 翌日披露報表：在聯交所回購 175.2 萬股 B 類，總額約 4,998 萬港元",
-      "toc": "小米 11/19 翌日披露：回購 175.2 萬股 B 類",
-      "summary": "港交所 11 月 19 日翌日披露報表顯示，小米於交易日 11 月 19 日在聯交所回購 1,752,000 股 B 類，最高 28.64 港元、最低 28.46 港元，總額 49,981,581.6 港元，擬註銷；同日就股份計劃向非董事參與人發行 18,000 股新 B 類。第三季未經審核業績仍訂於 11 月 24 日公布。",
-      "source": "港交所 / 小米",
-      "date": "2026年11月19日",
-      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900880_c.pdf",
+      "title": "輝達週五收市跌 14%，寫下 2008 年金融海嘯以來最長週線連跌",
+      "toc": "輝達週五跌 14%，週線連跌創 2008 年來最長",
+      "summary": "CNBC 報道，輝達週五股價下跌 14%，連續第七個交易日和下滑的第七週收低，為 2008 年金融海嘯以來最長的週線連跌。報道指，這段期間股價累跌 46%，市值約減少 2.6 萬億美元，目前市值約 3 萬億美元，排在蘋果、微軟與 Alphabet 之後。CNBC 並提到，路透當日報道證交會檢視會計問題後，跌勢進一步擴大。",
+      "source": "CNBC",
+      "date": "2026年11月21日",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
       "tickers": [
-        "1810"
+        "NVDA"
       ],
-      "origin": "公司新聞室/IR",
-      "impact": "可能／市場關注：這是持倉名單上小米的法定場內回購披露，屬已完成交易日的事實更新，並不預告後續回購規模或 11 月 24 日業績內容。",
-      "newbieTake": "可對照 11 月 24 日第三季業績，以及其後會否再出現回購或註銷的翌日披露。以上皆非買賣建議。"
+      "origin": "第三方·非公告",
+      "impact": "連跌週數與單日跌幅可能反映投資人對執行長交接、出口管制與更廣泛 AI 資本開支前景的關注，但不應解讀為對後市方向的確定判斷。同日的證交會相關報道，可能成為短線情緒的額外變數。",
+      "newbieTake": "可對照公司已公布的財報與後續法說、以及是否有監管或董事會的補充說明，而不宜只看單日或單週漲跌。以上皆非買賣建議。"
     },
     {
       "id": 3,
-      "title": "Anthropic 納斯達克首日收市升 17%，全面攤薄市值約 1.8 萬億美元",
-      "toc": "Anthropic 首日收市升 17%，市值約 1.8 萬億",
-      "summary": "CNBC 報道，Anthropic 週四在納斯達克以代號 ANT 掛牌，收市報 97.17 美元，升 17%；開市報 111.50 美元。公司週三以每股 83 美元發行約 9.8 億股，募資 813 億美元。按收市價計，全面攤薄市值約 1.8 萬億美元，當日成交逾 8.46 億股。招股書顯示，截至 9 月 30 日九個月收入 332.4 億美元，按年升約 1,200%；發行後 Amazon 持股約 14.7%、Google 約 13.7%。報道並指，NVIDIA 在發行完成後的私募中，同意購入約 100 億美元 Anthropic Class N 普通股。",
+      "title": "參議院銀行委員會主席辦公室：黃仁勳將公開作證，日期尚未宣布",
+      "toc": "黃仁勳將赴參議院銀行委員會公開作證",
+      "summary": "CNBC 報道，美國參議院銀行委員會主席蒂姆·斯科特（Tim Scott）辦公室發言人週五表示，輝達前執行長黃仁勳出席該委員會時將公開作證。斯科特本週稍早已確認黃仁勳同意出席，但細節原本並不清楚；公開聽證日期尚未宣布，斯科特起初曾要求他在 12 月 3 日出席。黃仁勳另已同意在 12 月 1 日接受三個眾議院委員會的閉門、逐字記錄面談。斯科特週三曾對 CNBC 表示，希望在耶誕節前聽取黃仁勳與商務部長 Howard Lutnick 的證詞。",
       "source": "CNBC",
-      "date": "2026年11月19日",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-      "tickers": [],
+      "date": "2026年11月21日",
+      "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+      "tickers": [
+        "NVDA"
+      ],
       "origin": "第三方·非公告",
-      "impact": "這是繼週三定價之後的實際掛牌結果，為生成式 AI 公司提供一項可被公開追蹤的估值與成交基準。市場亦可能把 ANT 首日表現，連同雲端與晶片供應商（包括作為投資者及合作夥伴的 NVIDIA）的相互曝險一併解讀。",
-      "newbieTake": "可對照招股文件中的收入與持股披露，並觀察後續數個交易日的成交與公司如何描述算力採購安排。以上皆非買賣建議。"
+      "impact": "公開作證若成行，可能讓出口管制、客戶審查與公司治理等議題進入更公開的國會紀錄，市場或會關注問答內容及輝達如何回應，而非把行程本身視為結論。",
+      "newbieTake": "可先標記眾議院 12 月 1 日閉門面談，以及參議院是否公布公開聽證日期。以上皆非買賣建議。"
     },
     {
       "id": 4,
-      "title": "眾議院公布文件：商務部已批准向中國企業出售逾 87.9 萬顆 AI 晶片",
-      "toc": "商務部已批准向中國出售逾 87.9 萬顆 AI 晶片",
-      "summary": "CNBC 報道，美國眾議院外交委員會週四公布文件指，商務部工業與安全局（BIS）截至 2026 年 5 月，已批准向包括阿里巴巴、騰訊在內的中國企業出售逾 87.9 萬顆 AI 晶片；委員會稱部分批准對象被美國國防部列為「中國軍工企業」。委員會引用的資料顯示，12 月至 5 月期間，NVIDIA 與 AMD 向中國提出的銷售申請共約 340 萬顆。公開的許可申請亦包括字節跳動、特斯拉上海廠及百度。共和黨眾議員 Mast 稱，NVIDIA 向 BIS 提交的申請名單中，Maginfra 與 New Matrix 涉嫌是走私前哨；商務部、AMD 及 NVIDIA 當時未即時回應置評要求。",
+      "title": "川普稱與習近平談及黃仁勳；貝森特稱輝達 H200 對華出口政策未變",
+      "toc": "川普稱與習談及黃仁勳，貝森特指 H200 政策未變",
+      "summary": "CNBC 報道，美國總統川普週五在白宮記者會表示，他與中國國家主席習近平討論了對輝達前執行長黃仁勳的看法，並轉述習近平稱其「brilliant」；川普並說「很希望看到黃仁勳得到第二次機會」。CNBC 引述熟悉情況的人士稱，輝達董事會目前並未考慮讓他回歸。財政部長斯科特·貝森特（Scott Bessent）稍早在 CNBC 表示，他與中方官員的會談並未提及黃仁勳，並稱美方已同意 H200 是可售予中國的門檻級晶片，「會按計劃繼續」，在被問及輝達已停止對華銷售 H200 時，他說「預期政策不會有改變」。",
       "source": "CNBC",
-      "date": "2026年11月19日",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "date": "2026年11月20日",
+      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
       "tickers": [
         "NVDA"
       ],
       "origin": "第三方·非公告",
-      "impact": "文件被解密公開，可能加大國會對現行出口許可審批的監督，也把 NVIDIA、AMD 對華及相關中間商的出貨路徑，再次置於政策焦點。後續聽證會及商務部如何說明既有許可，或會影響業界對「已批准但尚未完成的出貨」的預期。",
-      "newbieTake": "可留意黃仁勳 12 月 1 日的眾議院閉門約談，以及 NVIDIA、AMD 或商務部是否就這批許可作出正式說明。以上皆非買賣建議。"
+      "impact": "言論可能讓市場重新檢視美國對華先進晶片出口的執行尺度，以及輝達董事會人事安排是否仍與白宮公開表態存在落差。目前這仍是政策表述與公司立場並陳，尚未等同新的書面規則。",
+      "newbieTake": "可留意商務部或輝達是否就 H200 對華銷售與出口許可發出正式說明，以及國會聽證會是否追問同一議題。以上皆非買賣建議。"
     },
     {
       "id": 5,
-      "title": "川普：再等兩三年，或允許輝達 Blackwell 晶片賣中國",
-      "toc": "川普：兩三年後或允許 Blackwell 賣中國",
-      "summary": "科技新報引述彭博報道，美國總統川普在中國深圳出席 APEC 期間接受福斯新聞專訪時表示，未來美國可能允許 NVIDIA 將 Blackwell AI 晶片出售給中國，但前提是這款晶片已不再是市場上最先進的產品。他說：「兩、三年後，如果我還在任，我會說可以了，你們現在可以出售 Blackwell，因為屆時他們會有其他產品。」並提到 NVIDIA「已經在研發取代 Blackwell 晶片的新產品」。報道亦指出，川普總統任期將於 2029 年 1 月結束。",
-      "source": "科技新報",
-      "date": "2026年11月19日",
-      "url": "https://technews.tw/2026/11/19/trump-2-3-years-or-allow-nvidia-blackwell-chips-china-sales/",
+      "title": "川普揚言禁止美企在海外興建資料中心，違者將面臨「重大稅負」",
+      "toc": "川普揚言對海外資料中心課「重大稅負」",
+      "summary": "CNBC 報道，美國總統川普週五在白宮記者會表示，美國企業將被禁止在其他國家興建資料中心，若仍要興建，他將課以「tremendous tax」（重大稅負）。他同時說，自己甚至還沒向幕僚宣布這項想法，「現在才告訴在場的人」。報道指出，Alphabet、Amazon、Microsoft、Meta 與 Oracle 等雲端業者已在海外建有資料中心；上述公司代表未即時回覆置評請求。川普未說明稅率、實施方式或法律依據。",
+      "source": "CNBC",
+      "date": "2026年11月21日",
+      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
       "tickers": [
-        "NVDA"
+        "MSFT"
       ],
       "origin": "第三方·非公告",
-      "impact": "這只是總統受訪時的方向性表述，並非正式出口許可或法規修訂。若日後真的放寬，時點可能落在更新一代產品已經上市之後；在此之前，業界仍須以現行出口管制為準。",
-      "newbieTake": "可觀察白宮或商務部是否把這段談話寫進具體的許可條件或時間表，而不是只停留在訪問內容。以上皆非買賣建議。"
+      "impact": "若後續形成可執行措施，可能影響雲端業者的海外布局與延遲、資料在地化需求；但目前仍是總統口頭宣示，實施路徑與國會授權都尚未明確，市場宜先觀察是否出現具體行政命令或立法草案。",
+      "newbieTake": "可追蹤白宮、財政部或國會是否提出書面方案，以及微軟等雲端業者是否就此發表官方回應。以上皆非買賣建議。"
     },
     {
       "id": 6,
-      "title": "路透：黃仁勳辭職後可提名兩名董事，仍可左右輝達董事會",
-      "toc": "路透：黃仁勳辭職後仍可提名兩名董事",
-      "summary": "科技新報引述路透報道，NVIDIA 共同創辦人黃仁勳雖已辭去執行長職務，但按公司委託書及文件，持有至少 3% 投票權且持有滿三年的股東，有權在年度股東大會前，把最多兩名董事候選人列入公司委託書供股東投票。路透指黃仁勳及其基金會目前持有約 3.5% 股份，且持有時間已超過三年，因此符合提名資格。報道同時寫明，被提名人仍須經股東投票通過，若違反公司內部規章或章程，公司亦可能把人選排除在候選名單之外。輝達年度股東大會通常於每年 6 月舉行。",
-      "source": "科技新報",
-      "date": "2026年11月20日",
-      "url": "https://finance.technews.tw/2026/11/20/jensen-can-still-nominate-two-directors-after-stepping-down/",
+      "title": "Apollo 與高盛宣布為 SpaceX 訂價約 440 億美元 GPU 融資，將交付輝達 Vera Rubin",
+      "toc": "Apollo 與高盛為 SpaceX 訂價約 440 億美元 GPU 融資",
+      "summary": "Apollo Global Management 11 月 20 日新聞稿宣布，該公司與高盛已成功為 SpaceX（納斯達克：SPCX）訂價約 440 億美元的優先及次順位票據，用以購買 GPU 及相關設備。新聞稿稱，交易因投資人需求強勁而超額認購並上調規模，將為 SpaceX 的地面運算建設交付「下一代 NVIDIA Vera Rubin 晶片」，並稱這是迄今規模最大的 GPU 融資。租賃時程預計在 2027 年上半年設備交付後開始。錨定承諾方包括 Apollo、高盛及其管理的基金，以及貝萊德、高盛資產管理與 KKR 顧問的資本帳戶。",
+      "source": "Apollo IR",
+      "date": "2026年11月21日",
+      "url": "https://ir.apollo.com/news-events/press-releases/detail/662/apollo-and-goldman-sachs-announce-pricing-of-44-billion",
       "tickers": [
+        "SPCX",
         "NVDA"
       ],
-      "origin": "第三方·非公告",
-      "impact": "這顯示黃仁勳即使不再擔任執行長，仍可能透過持股門檻保留對董事會組成的程序影響力，但並不等於可以自行委任董事或恢復經營權。市場關注點可能從短期接任安排，延伸到明年股東會的提名名單。",
-      "newbieTake": "可等待公司後續委託書或股東會文件，核實提名時程、獨立董事資格及是否有人被正式提名。以上皆非買賣建議。"
+      "origin": "公司新聞室/IR",
+      "impact": "這筆融資可能顯示太空與雲端運算業者仍在以大規模租賃結構取得新一代 GPU，市場或會關注其對輝達出貨時程，以及 SpaceX 地面算力布局的資金成本。新聞稿并未說明 SpaceX 自身的資產負債表列示方式。",
+      "newbieTake": "可待 SpaceX 或相關融資文件披露更多租賃與交付條款，並對照輝達後續對 Vera Rubin 出貨進度的說明。以上皆非買賣建議。"
     },
     {
       "id": 7,
-      "title": "AMD 遭空頭機構指控涉中國曝險，股價週四收市跌 7.72%",
-      "toc": "AMD 遭空頭指控涉中國曝險，收市跌 7.72%",
-      "summary": "CNBC 報道，AMD 股價週四收市跌 7.72%，報 489.19 美元，因投資機構 Hunterbrook Media 發布報告，指美國把中國伺服器商浪潮信息（IEIT Systems）列入實體清單後，該公司仍持續取得較新的 AMD 韌體。Hunterbrook 披露自身對 AMD 持有空頭倉，並稱新出口規定可能收緊 AMD 海外業務，指其逾兩成收入來自中國及香港客戶。AMD 發言人回應指，相關說法「扭曲了 AMD 的業務實況與關係」，並強調公司遵守適用的美國出口管制法規。CNBC 寫明未獨立核實報告內容。",
+      "title": "CNBC：SpaceX 子公司 Cursor 告知國會，正考慮停用中國開源權重模型",
+      "toc": "Cursor 告知國會考慮停用中國開源權重模型",
+      "summary": "CNBC 報道，在衆議院國土安全委員會與中國問題特設委員會一份將於週五公布、並提前提供給 CNBC 的報告中，SpaceX 旗下人工智慧程式設計平台 Cursor 已告知委員會，正因「地緣政治風險」考慮逐步停用中華人民共和國開發的開源權重模型。報道指，SpaceX 於 8 月完成對 Cursor 的收購，隱含股權價值 600 億美元；Cursor 的 Composer 2 編碼模型建立在中國月之暗面（Moonshot AI）的 Kimi K2.5 之上。Cursor、SpaceX 與 DoorDash 未回覆 CNBC 置評請求。",
       "source": "CNBC",
-      "date": "2026年11月19日",
-      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "在美國收緊 AI 晶片出口、並加大對亞洲轉運路徑審查的背景下，空頭報告可能令市場更仔細檢視 AMD 的韌體、授權與地區收入結構。由於報告方同時持有空頭倉，且內容尚未被獨立核實，後續仍須看監管機構或公司能否提供更多可核對的說明。",
-      "newbieTake": "可對照公司後續聲明或監管文件，而不是只看單日股價反應；亦應記得報告機構已披露持有空頭倉。以上皆非買賣建議。"
-    },
-    {
-      "id": 8,
-      "title": "英特爾簽下先進 18A 製程首名外部客戶，暫未公布名稱",
-      "toc": "英特爾簽下 18A 製程首名外部客戶",
-      "summary": "CNBC 報道，英特爾執行長陳立武週三在德州奧斯汀 TomorrowX Summit 表示，公司剛簽下 18A 晶片的首名外部客戶，但沒有公布對方名稱。英特爾技術長 Pushkar Ranade 在 X 補充，該客戶是採用 18A-P 製程節點，該節點已於 6 月進入風險試產。陳立武同場並宣布，微軟是英特爾最先進封裝技術 EMIB 的首個公開具名客戶。報道形容，這是英特爾多年推動晶圓代工、爭取為非自有產品代工的一個里程碑。",
-      "source": "CNBC",
-      "date": "2026年11月19日",
-      "url": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "首名外部 18A 客戶有助證明英特爾代工服務開始接到付費訂單，但在客戶名稱、產能規模與量產時程公布之前，對營收貢獻仍不宜過度解讀。微軟成為 EMIB 公開客戶，則顯示先進封裝可能比邏輯製程更快有具名採用案例。",
-      "newbieTake": "可等待英特爾或客戶是否在後續活動或財報中具名，並留意 18A-P 由風險試產走向放量的時程。以上皆非買賣建議。"
-    },
-    {
-      "id": 9,
-      "title": "美光新加坡 HBM 先進封裝廠首部機台進駐，預計 2027 年初產出",
-      "toc": "美光新加坡 HBM 封裝廠首部機台進駐",
-      "summary": "科技新報報道，美光 11 月 19 日在新加坡高頻寬記憶體（HBM）先進封裝廠舉行首部機台移入儀式，把第一台製程設備送進無塵室。美光全球封裝測試資深副總裁 Kok Sing Chen 表示，建廠進展順利，預計 2027 年初開始首批產出。該廠於 2025 年 1 月動土，總投資約 70 億美元，相關投資將持續至 2030 年後；報道並指，美光 2026 年 1 月亦為先進晶圓製造廠動土，該廠將成為其 NAND 卓越製造中心的一環，預計 2028 年下半年開始晶圓產出。HBM 封裝廠初期約創造 1,400 個工作機會，連同晶圓廠合計約新增 3,000 個職位。",
-      "source": "科技新報",
-      "date": "2026年11月19日",
-      "url": "https://finance.technews.tw/2026/11/19/micron-singapore-hbm-advanced-packaging-plant-installs-first-machine/",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "首部機台進駐代表新加坡 HBM 封裝產能由土建進入裝機階段，若 2027 年初能如期產出，將為美光在亞洲增加一處靠近需求的先進封裝據點。實際貢獻仍取決於後續機台進駐節奏、良率與客戶認證。",
-      "newbieTake": "可追蹤美光後續是否公布更多機台進駐、試產或客戶認證時程，而不是只看動土與移機儀式。以上皆非買賣建議。"
-    },
-    {
-      "id": 10,
-      "title": "DigiTimes：Google 擬為與聯發科合作的 AI 晶片直接採購 HBM",
-      "toc": "傳 Google 擬直接採購 HBM、繞過 Broadcom",
-      "summary": "DigiTimes 標題指 Google 擬繞過 Broadcom，為與聯發科合作開發的 AI 晶片直接採購高頻寬記憶體（HBM）。免費導言寫道，此舉有機會減少以十億美元計的採購成本，並改變三星電子、SK 海力士及美光與主要客戶的談判方式。（英文版正文可能需訂閱，以上僅按標題及免費導言整理，未引用付費欄數字。）",
-      "source": "DigiTimes",
-      "date": "2026年11月19日",
-      "url": "https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "若雲端業者改為直接向記憶體廠採購 HBM，仲介或封裝夥伴在供應鏈中的議價位置可能被削弱，記憶體廠與大型終端客戶的談判也可能更集中。由於付費正文未完整取得，現階段不宜把「可能節省以十億美元計成本」理解為已落實的合約金額。",
-      "newbieTake": "可等待 Google、聯發科或記憶體廠是否有正式說明，或後續非付費報道能否補充採購時程與供應商。以上皆非買賣建議。"
-    },
-    {
-      "id": 11,
-      "title": "DigiTimes：日月光子公司擬投資 2,489 億元在仁武興建 AI 測試廠",
-      "toc": "日月光子公司擬投資 2,489 億建 AI 測試廠",
-      "summary": "DigiTimes 報道，日月光投控子公司台灣福雷電子，將投資 2,489 億元（約 75.4 億美元）在高雄仁武產業園區 J 區興建新的 K52 廠，工程預計於 2028 年及 2029 年分期完工。報道指，K 區與 J 區合計預期年營收約 1,173 億元，並創造 3,300 個工作機會，以擴大當地先進半導體測試聚落。（英文版正文可能需訂閱，以上僅按標題及免費導言整理。）",
-      "source": "DigiTimes",
-      "date": "2026年11月19日",
-      "url": "https://www.digitimes.com/news/a20261119PD228/testing-taiwan-ase-plant-subsidiary.html",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "若投資與工期按報道落實，南台灣在 AI 相關測試產能將再擴一輪，可能緩解先進封裝測試瓶頸，但資本開支規模大、完工年期較後，對近兩年營收的即時影響仍須觀察實際裝機與客戶導入進度。",
-      "newbieTake": "可留意日月光或其子公司是否發布正式投資公告，核對金額、完工時程與產品定位。以上皆非買賣建議。"
-    },
-    {
-      "id": 12,
-      "title": "IEA：全球資料中心用電到 2030 年可能倍增至約 1,000 TWh",
-      "toc": "IEA：資料中心用電到 2030 年可能倍增",
-      "summary": "CNBC 報道，國際能源署（IEA）警告，在其「既有政策情境」（Stated Policies Scenario）下，全球資料中心用電到 2030 年可能倍增，年用電量約達 1,000 太瓦時（TWh），並可能令電網吃緊、拖延新項目。IEA 指，供應鏈緊張、地方反對及電網容量有限，都可能拖慢興建；在部分地區，等候接電的資料中心合計容量已超過當地現有高峰需求。若電網未能升級，網絡或更擠塞、可靠度下降，新項目接電等待時間也可能拉長。",
-      "source": "CNBC",
-      "date": "2026年11月19日",
-      "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "這把 AI 與雲端擴張的限制，從晶片供應進一步拉到電力與電網。對規劃中的大型資料中心而言，接電時程與地方阻力，可能跟機櫃與加速器交期同樣關鍵。",
-      "newbieTake": "可留意主要雲端業者或資料中心商，是否在擴建計劃中同步說明電網接駁、備用電源或延期風險。以上皆非買賣建議。"
-    },
-    {
-      "id": 13,
-      "title": "NVIDIA 與微軟把加速運算由 Azure 延伸至 Windows PC",
-      "toc": "NVIDIA 與微軟把加速運算延伸至 Windows PC",
-      "summary": "NVIDIA 官方博客報道，公司與微軟在 Microsoft Ignite 擴大合作，增加由 NVIDIA Vera Rubin NVL72 系統驅動的 Azure 虛擬機器供應，並把 NVIDIA 開源模型及客製化能力引入 Microsoft Foundry；微軟亦以 NVIDIA Dynamo 推論軟體支援其模型後訓練，並以 NVIDIA RTX PRO 6000 Blackwell GPU 處理 Bing 搜尋模型。雙方還合作把機密運算延伸至裸機及機架級 AI 基礎設施，並在 Azure Local 支援 Nemotron 3.5、RTX PRO 6000 Blackwell，以及 Jetson Thor、Jetson Orin 等邊緣平台。報道並指，雙方將為 GPU 加速的 Windows 365 Cloud PC 引入 Direct Stream，有限預覽已開放登記，公開預覽計劃於 2027 年初進行。",
-      "source": "NVIDIA Blog",
       "date": "2026年11月20日",
-      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-      "tickers": [
-        "NVDA",
-        "MSFT"
-      ],
-      "origin": "公司新聞室",
-      "impact": "這顯示兩家公司把合作從雲端訓練／推論，延伸到開源模型客製、地端部署及 Windows 雲端電腦。對企業客戶而言，重點可能是 Vera Rubin 在 Azure 的實際供貨節奏，以及 Foundry、Azure Local 能否把模型訓練到落地連成一套可管理的流程。",
-      "newbieTake": "可在 Azure 或 Foundry 產品頁核對 Vera Rubin 虛擬機器、Nemotron 模型及 Cloud PC Direct Stream 的供應範圍與預覽時程。以上皆非買賣建議。"
-    },
-    {
-      "id": 14,
-      "title": "Google 推出 Gemini 4 Neon，主打快速完成複雜工程與知識工作",
-      "toc": "Google 推出 Gemini 4 Neon",
-      "summary": "Google 官方博客宣布推出 Gemini 4 Neon，定位為在複雜軟件工程、知識工作與科學流程上，以較快速度完成端到端任務的模型。公司稱 Neon 在 Artificial Analysis Intelligence Index 以 xhigh 思考層級取得 61 分、總排名第 3。定價為每百萬輸入 token 3 美元（快取輸入 0.15 美元）、每百萬輸出 token 15 美元，上下文長度為 100 萬 token。Neon 即日起在 Gemini API（Google AI Studio）、Gemini for business，以及付費 Google AI Pro／Ultra 用戶的 Google Antigravity 與 Gemini 應用程式推出；面向資安防禦的 Neon for cyber，則將在未來數日向 Fairwind Program 的受信任用戶開放。",
-      "source": "Google Blog",
-      "date": "2026年11月19日",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "tickers": [],
-      "origin": "公司新聞室",
-      "impact": "Google 把 Neon 放在既有 Gemini 4 產品線中，強調速度、成本與代理式工作流程，並同步推出資安防禦版本。對開發者與企業而言，實際差異仍取決於 API 供應穩定性、評測以外的真實任務表現，以及與較大模型（如 Carbon）的分工是否清晰。",
-      "newbieTake": "若已是付費 Gemini 用戶或 API 開發者，可在模型選單核對 Neon 是否已上線，並對照官方模型卡了解適用場景與限制。以上皆非買賣建議。"
-    },
-    {
-      "id": 15,
-      "title": "蘋果正開發自家 AI 智能體，以期與 OpenAI、Anthropic 競爭",
-      "toc": "傳蘋果開發自家 AI 智能體",
-      "summary": "富途快訊轉載華爾街見聞報道（原文來源：華爾街見聞，內容引述彭博）指，蘋果正開發可代替用戶完成任務的自主人工智能智能體，正式面世最早要到明年年底。報道並指，蘋果 11 月 18 日在官網新增高級工程經理職缺，負責一款主動式、智能體化的 AI 助手，描述包括編寫程式、瀏覽網頁、控制應用程式，以及在裝置上代用戶操作，並強調私密性。",
-      "source": "富途快訊",
-      "date": "2026年11月20日",
-      "url": "https://news.futunn.com/post/1005095283/apple-is-developing-its-own-ai-agents-to-compete-with",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "若招聘描述屬實，顯示蘋果希望把智能體更深嵌入自家裝置與應用生態，並以隱私作為差異化，但距離可交付產品仍有一段時間。在 OpenAI、Anthropic、Meta 等消費級智能體已經迭代的情況下，市場更可能先觀察蘋果會否把時程寫進正式產品規劃。",
-      "newbieTake": "可核對蘋果職缺頁的原始描述，並等待公司是否在後續發表會或開發者活動中正式介紹相關功能。以上皆非買賣建議。"
-    },
-    {
-      "id": 16,
-      "title": "馬斯克指責澤連斯基就烏克蘭 Starshield 限速「並非總是說實話」",
-      "toc": "馬斯克反駁澤連斯基有關 Starshield 限速的說法",
-      "summary": "CNBC 報道，SpaceX 創辦人馬斯克在《紐約時報》Dealbook Summit 上，被問及烏克蘭總統澤連斯基有關 Starshield 遭到限速的說法時回應：「那是錯的……我不想讓你太震驚，但澤連斯基並非總是說實話。」澤連斯基週三曾表示，部分地區的 Starshield 限速仍然存在，影響攔截俄羅斯導彈與無人機的能力。馬斯克區分商業衛星網絡 Starlink 與由美國政府運作的軍用系統 Starshield，稱 Starlink 設有速度限制，因為它並非用於進攻性軍事行動；Starshield 的任何行動則由美國國防部決定。他並說，澤連斯基實際上是要求把商業 Starlink 用於軍事行動，而 SpaceX 一如衝突開始以來予以拒絕。CNBC 已向烏克蘭外交部查詢，當時未獲回覆。",
-      "source": "CNBC",
-      "date": "2026年11月19日",
-      "url": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
       "tickers": [
         "SPCX"
       ],
       "origin": "第三方·非公告",
-      "impact": "這是對本週稍早有關烏克蘭 Starshield／Starlink 限速爭議的最新公開回應，把責任再次指向商業條款與美國政府對 Starshield 的控制權。雙方說法並不一致，事件對戰場通訊與 SpaceX 政府合約的影響，仍取決於華府與基輔後續如何說明。",
-      "newbieTake": "可對照美國國防部或烏克蘭官方是否就限速來源作出說明，而不只看雙方公開隔空交鋒。以上皆非買賣建議。"
+      "impact": "若 Cursor 確實調整模型供應來源，可能影響其產品技術棧與合規表述，也反映美國國會對中國開源權重模型進入美企產品的關注正在升高。目前仍屬委員會報告中的規劃表述，尚未見到公司官方公告。",
+      "newbieTake": "可對照該眾議院報告全文是否公開，以及 Cursor 或 SpaceX 之後有沒有產品或供應鏈的正式說明。以上皆非買賣建議。"
     },
     {
-      "id": 17,
-      "title": "Nginx 緊急修補 10 個漏洞，其中 5 個恐遭遠端執行程式碼",
-      "toc": "Nginx 緊急修補 10 個漏洞，5 個屬遠端執行程式碼",
-      "summary": "iThome 報道，開源網頁伺服器 Nginx 於週三（11 月 18 日）發布 1.30.7 穩定版及 1.31.9 主線版，緊急修補 10 個安全漏洞，其中 5 個屬遠端執行程式碼漏洞，資安業者 Xint 稱之為 nginx2root。相關編號包括 CVE-2026-123007、CVE-2026-123634、CVE-2026-123633、CVE-2026-121810 及 CVE-2026-113425。報道指，CVE-2026-123007 與 CVE-2026-123633 為 HTTP/2 相關漏洞，未經身分驗證的攻擊者可能在受影響伺服器執行任意命令，CVSS 4.0 評分皆為 9.2；前者可追溯至 2015 年的 Nginx 1.9.5，後者自 2021 年的 1.19.7 起存在。W3Techs 估計全球接近 30% 網站採用 Nginx。",
-      "source": "iThome",
-      "date": "2026年11月19日",
-      "url": "https://www.ithome.com.tw/news/180651",
+      "id": 8,
+      "title": "Anthropic 行使綠鞋後 IPO 募資總額達 935 億美元，次日收市跌 8.5%",
+      "toc": "Anthropic 綠鞋後募資 935 億美元，次日收跌 8.5%",
+      "summary": "CNBC 報道，Anthropic 承銷商已行使超额配售（綠鞋）選擇權，使本次 IPO 募資總額達到 935 億美元：週三原已募得 813 億美元，另再取得 122 億美元。公司表示，共以每股 83 美元出售 11.27 億股 A 類普通股。除此之外，包括 AMD、Google、Microsoft、NVIDIA 等科技公司參與的 260 億美元 N 類私募亦已完成，Anthropic 週五稱，若計入私募，發行合計總收益為 1,195 億美元（扣除發行費用前）。另篇 CNBC 報道指，該股週四開市報 111.50 美元、收市報 97.17 美元後，週五第一個完整交易日收市下跌 8.5%。",
+      "source": "CNBC",
+      "date": "2026年11月21日",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
       "tickers": [],
       "origin": "第三方·非公告",
-      "impact": "Nginx 使用面極廣，其中兩項高分遠端執行程式碼漏洞又存在多年，一旦出現公開利用程式，受影響的網站、反向代理與負載平衡器範圍可能很大。對維運團隊而言，這屬於應盡快升級的緊急修補，而不是低風險理論問題。",
-      "newbieTake": "若自行或透過雲端負載平衡使用 Nginx，應核對是否已升級至 1.30.7、1.31.9 或供應商提供的對應修補版本。以上皆非買賣建議。"
+      "impact": "綠鞋落地把本次發行規模進一步定錨，次日回吐則顯示新股仍可能隨整體科技股波動。私募名單包含雲端與晶片業者，市場或會把它視為算力供應關係的公開標尺，但不應據此對個別參與者股價作出方向判斷。",
+      "newbieTake": "可對照公司發行相關公告中的股數、綠鞋與私募安排，並觀察後續幾個交易日的成交，而非只看首日或次日單一漲跌。以上皆非買賣建議。"
     },
     {
-      "id": 18,
-      "title": "微軟 Agent Framework 套件遭植入惡意程式，鎖定 Azure 及 CI/CD 憑證",
-      "toc": "微軟 Agent Framework 套件遭植入惡意程式",
-      "summary": "iThome 引述資安業者 Wiz 分析報道，微軟用於開發 AI 代理的開源框架 Microsoft Agent Framework，其 Python 套件 agent-framework 在 PyPI 於 11 月 17 日出現惡意版本 1.26.1 及 1.26.2，企圖竊取 Azure、Azure DevOps 及 GitHub Actions 等環境的身分驗證憑證。兩個惡意版本均已從 PyPI 移除；研究人員當時指最新安全版本為 1.26.0，實際受害規模尚未確認。該套件每週下載量約 4.1 萬次。惡意程式會在 Python 啟動時自動執行，即使應用程式未使用框架功能，只要安裝了惡意版本仍可能受影響；1.26.2 還新增擷取 GitHub Actions OIDC 權杖的能力。攻擊者如何取得套件發布權限仍未查明。",
-      "source": "iThome",
-      "date": "2026年11月19日",
-      "url": "https://www.ithome.com.tw/news/180624",
-      "tickers": [
-        "MSFT"
-      ],
-      "origin": "第三方·非公告",
-      "impact": "這是針對熱門 AI 代理開發工具鏈的供應鏈攻擊，目標直指雲端與 CI/CD 憑證，可能讓攻擊者進入 Azure 或程式發布流程。即使官方套件頁已下架惡意版本，已安裝受影響版本的環境仍須檢查並輪替憑證。",
-      "newbieTake": "若專案或映像檔曾安裝 agent-framework 1.26.1 或 1.26.2，應改回 1.26.0 或後續安全版本，並檢查 Azure 與 GitHub Actions 存取紀錄。以上皆非買賣建議。"
-    },
-    {
-      "id": 19,
-      "title": "美國警告群暉 NAS、Apache Axis 等 4 款系統漏洞已遭積極利用",
-      "toc": "CISA：群暉 NAS、Apache Axis 等漏洞已遭利用",
-      "summary": "iThome 報道，美國網絡安全及基礎設施安全局（CISA）11 月 18 日表示，已掌握 4 個漏洞遭積極利用的證據，並將其納入已知遭利用漏洞名單（KEV），編號為 CVE-2024-10441、CVE-2026-40217、CVE-2026-90436 及 CVE-2026-90817，分別影響群暉 DiskStation Manager（DSM）、LiteLLM、Apache Axis 及 REDCap。除 CVE-2026-40217 的聯邦機構修補期限為 12 月 2 日外，其餘 3 個漏洞須在 3 天內（11 月 21 日）完成修補。報道並提到近期相關事故：群暉 10 月底警告的 C3RB3R 勒索攻擊曾利用 CVE-2024-10441；Rapid7 本週披露 CVE-2026-90436 的利用活動，目標包括採用 Apache Axis 的 Atlassian Confluence 與 N-able N-central。",
-      "source": "iThome",
-      "date": "2026年11月19日",
-      "url": "https://www.ithome.com.tw/news/180644",
+      "id": 9,
+      "title": "CNBC 引述彭博：CrowdStrike 正洽談收購 Zscaler，Zscaler 盤後升 18%",
+      "toc": "傳 CrowdStrike 洽購 Zscaler，後者盤後升 18%",
+      "summary": "CNBC 引述彭博報道，CrowdStrike 正在洽談收購資安業者 Zscaler，知情人士稱談判仍在進行。Zscaler 週五盤後一度升 18%，CrowdStrike 則下跌逾 8%。CrowdStrike 拒絕就報道置評，Zscaler 未即時回覆 CNBC 的置評請求。CNBC 指，CrowdStrike 目前市值約 2,350 億美元，Zscaler 約 320 億美元；若交易成事，規模可能名列資安業史上最大交易之一。報道並強調，談判未必會達成協議。",
+      "source": "CNBC",
+      "date": "2026年11月21日",
+      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
       "tickers": [],
       "origin": "第三方·非公告",
-      "impact": "CISA 將漏洞列入 KEV，代表已有真實利用，而不只是實驗室發現。群暉 NAS 與部分企業應用若暴露在互聯網且未修補，被勒索或入侵的風險較高；聯邦機構的修補期限也可供企業作為優先排序參考。",
-      "newbieTake": "若環境有使用群暉 DSM、LiteLLM、Apache Axis（或建基於其上的應用）或 REDCap，應核對官方修補並檢查是否已按供應商指引更新。以上皆非買賣建議。"
+      "impact": "市場可能把此事視為 AI 時代資安整併延續的訊號，但目前仍是未經雙方確認的洽談報道，最終是否成交、對價與反壟斷審查都尚未明朗。",
+      "newbieTake": "可等待兩家公司是否發布正式聲明，或後續是否有監管申報可核對。以上皆非買賣建議。"
     },
     {
-      "id": 20,
-      "title": "勒索軟體組織 The Gentlemen 聲稱入侵 NVIDIA，公司指或涉合作夥伴",
-      "toc": "勒索組織聲稱入侵 NVIDIA，公司指或涉夥伴",
-      "summary": "iThome 報道，勒索軟體組織 The Gentlemen 近日把 NVIDIA 列入其暗網資料勒索網站的受害者名單，聲稱已取得該公司資料，並威脅若未能達成協議，將在 10 天後公開。NVIDIA 發言人表示，公司正在調查一起可能影響第三方合作夥伴的事件，目前沒有發現 NVIDIA 自身系統或網絡受到影響的跡象，並會持續監控。報道亦指出，駭客未透露竊得資料類型與內容，沒有公布部分檔案以作證明，也未說明入侵時間，因此外界對其是否真的取得 NVIDIA 內部資料抱持懷疑。",
-      "source": "iThome",
-      "date": "2026年11月19日",
-      "url": "https://www.ithome.com.tw/news/180664",
+      "id": 10,
+      "title": "科技新報引述 The Information：輝達深入洽購擴散語言模型新創 Inception，金額至少 5 億美元",
+      "toc": "傳輝達洽購 Inception，金額至少 5 億美元",
+      "summary": "科技新報 11 月 20 日轉述 The Information 19 日引述三名知情人士的報道，稱輝達正與成立約兩年的 AI 新創 Inception 進行深入收購談判，交易金額至少 5 億美元，並可能另設員工績效獎勵（earnout）；雙方尚未正式宣布交易。Inception 專攻擴散式大型語言模型，執行長為史丹佛大學教授 Stefano Ermon。報道指，談判在黃仁勳 12 日辭職前便已展開，輝達計劃把相關技術用於 Nemotron 開放權重模型及機器人 AI。",
+      "source": "科技新報",
+      "date": "2026年11月20日",
+      "url": "https://finance.technews.tw/2026/11/20/nvidia-in-talks-to-acquire-inception-for-over-500m/",
       "tickers": [
         "NVDA"
       ],
       "origin": "第三方·非公告",
-      "impact": "目前公開資訊仍停留在駭客單方面聲稱，以及公司指事件可能涉及合作夥伴、自身系統未見受影響。在沒有可核對的外洩樣本或官方事件報告之前，不宜把「NVIDIA 本身已被攻入」當成既定事實。",
-      "newbieTake": "可等待 NVIDIA 或相關合作夥伴是否發布事件更新，以及勒索網站是否真正出示可驗證的資料。以上皆非買賣建議。"
+      "impact": "若交易落實，可能被視為輝達在模型與人才上的補充，但目前僅為媒體引述知情人士的洽談報道，金額、時程與交割條件都尚未由公司確認，也需留意其是否與既有收購審查環境產生聯想。",
+      "newbieTake": "可等待輝達或 Inception 的正式公告，或後續監管申報來核對交易是否成立。以上皆非買賣建議。"
+    },
+    {
+      "id": 11,
+      "title": "科技新報：中國相關 B300 算力長約傳出轉售潮，新雲端業者改向歐美尋找接手",
+      "toc": "傳中國相關 B300 算力長約出現轉售潮",
+      "summary": "科技新報 11 月 20 日報道，隨著美國擴大限制對中海外算力，市場出現連鎖反應。算力交易平台 Liquid Compute 執行長 Ronit Jain 在社群平台 X 表示，有「驚人數量」的新雲端業者（neoclouds）接洽該公司，希望把原先承諾給與中國有關的買家的長期 B300 容量，重新行銷至美國與西歐，理由是擔心對中提供運算服務的法規將更嚴格；他並預期 B300 價格將繼續下降。報道亦提到，日本上市資料中心業者 DataSection 近日大幅下修本年度財測，加劇市場對算力需求的緊張情緒。",
+      "source": "科技新報",
+      "date": "2026年11月20日",
+      "url": "https://technews.tw/2026/11/20/us-ai-compute-neoclouds-china/",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "若轉售規模屬實，可能影響短期 B300 租金與新雲端業者的合約結構，並與美國出口管制的外溢效應有關。這則消息主要來自業者公開發言與市場傳述，尚非官方統計。",
+      "newbieTake": "可對照後續是否有更多算力交易平台或資料中心業者提出可核對的合約與價格數據，以及美國相關立法或規則是否再收緊。以上皆非買賣建議。"
+    },
+    {
+      "id": 12,
+      "title": "iThome：中國駭客利用 VMware vCenter 零時差 CVE-2026-123890，博通已釋出更新",
+      "toc": "VMware vCenter 零時差已遭利用，博通呼籲盡速升級",
+      "summary": "iThome 報道，博通 11 月 19 日修補 VMware vCenter 重大等級身分驗證繞過漏洞 CVE-2026-123890，CVSS 評為 9.8 分；攻擊者若能經網路存取 vCenter，即可能繞過身分驗證、取得未經授權的系統存取，且除升級外沒有其他替代緩解方法。Google 威脅情報團隊與 Mandiant 其後指出，該漏洞的發現來自對中國駭客組織 Armory Castle（先前稱為 UNC5221）活動的調查，利用時間可追溯至 9 月初。受影響範圍亦包括含 vCenter 的 VMware Cloud Foundation、vSphere Foundation 與部分電信雲平台。",
+      "source": "iThome",
+      "date": "2026年11月20日",
+      "url": "https://www.ithome.com.tw/news/180674",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "由於漏洞已遭實際利用，且官方強調只能靠升級應對，企業虛擬化管理平台的修補時程可能成為近期資安營運重點。這對雲端與資料中心維運的影響，可能大於對單一上市公司股價的直接含義。",
+      "newbieTake": "可直接查閱博通／VMware 安全公告，確認所使用的 vCenter 及相關套件版本是否在修復清單內並完成升級。以上皆非買賣建議。"
+    },
+    {
+      "id": 13,
+      "title": "iThome：群暉警告 DSM、BeeStation 兩項重大漏洞，部分版本預計 20 日提供修補",
+      "toc": "群暉警告兩項重大漏洞，部分版本釋出修補",
+      "summary": "iThome 報道，群暉 11 月 19 日發布兩份重大等級資安公告，揭露 CVE-2026-120382 與 CVE-2026-123007，同時影響 DiskStation Manager（DSM）與 BeeStation OS。較嚴重的 CVE-2026-120382 存在於 OAuth API，CVSS 評 9.8 分，遠端攻擊者可任意讀取或寫入檔案並可能造成服務中斷；群暉預計 11 月 20 日先提供 DSM 7.3 與 7.4 更新，其他版本仍在製作，修補前建議停用 OAuth 服務套件。CVE-2026-123007 為本週 Nginx 相關漏洞之一，CVSS 評 8.1 分，修補前建議停用 HTTP/2。",
+      "source": "iThome",
+      "date": "2026年11月20日",
+      "url": "https://www.ithome.com.tw/news/180680",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "繼美國將部分群暉相關漏洞列入已知遭利用清單後，這是廠商就具體漏洞與修補時程的更新，對使用群暉 NAS 的機構與個人使用者較有直接關係。",
+      "newbieTake": "可到群暉安全公告核對型號與 DSM／BeeStation 版本，優先安裝已釋出的修補，並在更新前依官方建議評估臨時緩解措施。以上皆非買賣建議。"
+    },
+    {
+      "id": 14,
+      "title": "Oracle 釋出 Java 緊急更新修補 Java4Shell，台灣資安署呼籲盡速套用",
+      "toc": "Oracle 修補 Java4Shell，資安署籲盡速更新",
+      "summary": "科技新報轉述中央社報道，甲骨文釋出緊急安全性更新，修補影響 Java 開發環境（JDK）的嚴重漏洞 CVE-2026-114938，又稱 Java4Shell，資安署指其 CVSS v4.0 評分為 9.2 分。數發部資安署 11 月 19 日表示，攻擊者在未經身分驗證下即可能取得系統主控權或導致服務中斷，已於 18 日透過資安警訊與 N-ISAC 等聯防網絡，要求公務機關及關鍵基礎設施盡速完成版本比對並套用修補或採取緩解措施。",
+      "source": "科技新報",
+      "date": "2026年11月19日",
+      "url": "https://infosecu.technews.tw/2026/11/19/oracle-releases-major-java-security-update/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "Java 廣泛用於政府與企業網站及後端系統，此類高分漏洞若未及時修補，可能增加遠端入侵或服務中斷風險。目前報道重點是官方呼籲加速更新，而非已證實的大規模攻擊統計。",
+      "newbieTake": "可查閱 Oracle 與台灣資安署公告，比對所使用的 JDK 版本是否在受影響清單並完成修補。以上皆非買賣建議。"
+    },
+    {
+      "id": 15,
+      "title": "科技新報：研究人員公開 Windows 11「FastUnlock」鎖定畫面問題，微軟尚未發布修補",
+      "toc": "Windows 11 傳未修補鎖定畫面問題 FastUnlock",
+      "summary": "科技新報 11 月 20 日報道，資安研究人員公開一項名為 FastUnlock 的 Windows 11 問題，聲稱在能實體接觸裝置的前提下，可繞過鎖定畫面，並在特定條件下影響已啟用 BitLocker 的電腦；報道指問題與系統內建的「朗讀程式」（Narrator）等輔助功能有關。截至該文發稿，此事尚未有 CVE 編號，微軟也尚未公布修補程式或正式公告。報道並稱，研究者表示至少需要裝置上存在已連結線上 Microsoft 帳戶的使用者帳戶。",
+      "source": "科技新報",
+      "date": "2026年11月20日",
+      "url": "https://infosecu.technews.tw/2026/11/20/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes/",
+      "tickers": [
+        "MSFT"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "若問題屬實且尚未修補，可能提高對需實體保護之裝置（例如遺失、遭竊或未妥善看管的電腦）的資安關注。由於目前仍是研究人員公開、微軟尚未正式確認或出補丁，影響範圍仍有待官方說明。",
+      "newbieTake": "可密切留意微軟安全性更新或官方諮詢是否承認並提供修補，現階段不宜依非官方流傳步驟自行操作。以上皆非買賣建議。"
+    },
+    {
+      "id": 16,
+      "title": "摩根大通、Visa、萬事達確認第三方供應商資安事件，n0n 組織宣稱犯案",
+      "toc": "摩根大通、Visa、萬事達確認第三方供應商事件",
+      "summary": "BleepingComputer 11 月 20 日報道，摩根大通在社群平台宣布，為該行提供服務的第三方遭網路攻擊，初步調查認為攻擊者取用了供應商持有的部分行銷資料，其中可能包括部分客戶姓名與電郵；該行稱自身服務未中斷。Visa 向該媒體表示，事件涉及亞太區第三方服務供應商，Visa 系統未受影響，亦無卡號等支付資料外洩。萬事達則稱，其獲告知第三方事件導致特定權益計劃中一小部分持卡人的有限電郵地址（非支付資訊）曝光，支付網路未受影響。報道並指，勒索組織 n0n 宣稱犯案，並聲稱目標為雲端數據分析商 Qubole，但公司公開回應並未點名該供應商。",
+      "source": "BleepingComputer",
+      "date": "2026年11月20日",
+      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "目前三家機構均將事件界定為第三方供應商問題，並強調核心支付系統或銀行服務未中斷；市場較可能關注供應鏈資安與後續通知範圍，而非立即推論支付網絡本身受損。",
+      "newbieTake": "可留意各公司後續對受影響資料類型與通知範圍的正式說明，以及相關供應商是否公開回應。以上皆非買賣建議。"
+    },
+    {
+      "id": 17,
+      "title": "DigiTimes：三星手機記憶體採購成本前三季平均升 263%，售價僅升約 13%",
+      "toc": "三星手機記憶體採購成本傳前三季升 263%",
+      "summary": "DigiTimes 11 月 20 日報道，三星電子智慧型手機業務面臨成本壓力，因 AI 伺服器記憶體需求排擠行動記憶體供應。該報道稱，三星手機所用記憶體的平均採購價格，在 2026 年前三季較 2025 年全年平均上升 263%，而平均售價僅上升 13%。正文其餘細節位於付費牆之後，以上僅取公開標題與導言所述事實。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月20日",
+      "url": "https://www.digitimes.com/news/a20261119PD207/samsung-2026-business-mobile-price.html",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若導言數據屬實，可能顯示 AI 伺服器記憶體需求正向上游排擠手機等消費性產品的零件成本，市場或會關注手機品牌能否轉嫁成本，以及記憶體供應是否持續偏向資料中心。",
+      "newbieTake": "可待三星或其他手機與記憶體廠商後續法說、財報，核對行動記憶體價格與出貨結構是否與這則導言一致。以上皆非買賣建議。"
+    },
+    {
+      "id": 18,
+      "title": "DigiTimes：美國收緊先進晶圓與封裝規範，限制中資借第三地中介",
+      "toc": "傳美國收緊先進晶圓與封裝、限制第三地中介",
+      "summary": "DigiTimes 11 月 20 日報道，美國正進一步收緊先進半導體出口管制，範圍從中國企業經海外資料中心取得 AI 算力，延伸到先進晶片製造與封裝，並限制中資企業借助第三地中介。正文其餘細節位於付費牆之後，以上僅取公開標題與導言所述內容。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月20日",
+      "url": "https://www.digitimes.com/news/a20261118PD243/manufacturing-ic-osat-semiconductors-ic-design.html",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若規則確實擴及晶圓代工與封裝環節，可能影響既有的第三地接單或中介安排，並與近日多項對華算力管制形成疊加。由於全文未公開，實際條文、生效時點與例外條款仍有待官方文件核對。",
+      "newbieTake": "可追蹤美國商務部工業與安全局是否發布可核對的規則文本或新聞稿，再對照晶圓代工與封裝業者的正式說明。以上皆非買賣建議。"
+    },
+    {
+      "id": 19,
+      "title": "T客邦：小米在台灣推出 Watch S5 41mm、耳夾式耳機 Clip 與手環 11，預計 11 月 25 日開賣",
+      "toc": "小米台灣推出三款穿戴，預計 11/25 開賣",
+      "summary": "T客邦 11 月 20 日報道，小米在台灣發表 Xiaomi 18 Pro Series 的同時，同步推出三款穿戴裝置：Xiaomi Watch S5 41mm 智慧手錶、品牌首款耳夾式耳機 Xiaomi Clip，以及新款 Xiaomi 手環 11。報道寫，三款分別針對女性健康管理、開放式聆聽與通話收音，以及日常睡眠與跨系統通知，預計於 11 月 25 日上午 10 點在全台正式發售。這是第三方報道，不是港交所或公司 IR 公告。",
+      "source": "T客邦",
+      "date": "2026年11月20日",
+      "url": "https://www.techbang.com/posts/134977-xiaomi-watch-s5-clip-earbuds-smart-band-11",
+      "tickers": [
+        "1810"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "可能／市場關注：這是針對台灣市場的產品與開賣時程報道，有助了解小米在手機之外的穿戴產品線如何更新，但不等於集團整體銷售或 11 月 24 日即將公布的第三季業績已經披露。報道沒有提供全球出貨或收入數字。",
+      "newbieTake": "可把開賣時程與 11 月 24 日第三季／首九個月未經審核業績分開來看，後者才是法定業績日。以上皆非買賣建議。"
     }
   ]
 }
