@@ -1,197 +1,250 @@
 {
-  "updated": "2026-11-22",
-  "disclaimer": "第三方·非公告，唯供參考，唔構成買賣建議。官方公布及公司新聞室／IR 已另行標示。",
-  "date": "2026-11-22",
+  "updated": "2026-11-23T08:27:07+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. 本列表僅供參考，唔構成買賣建議。",
+  "date": "2026-11-23",
   "timezone": "Asia/Hong_Kong",
-  "itemCount": 12,
-  "watchlist": {
-    "with_news": [
-      "NVDA",
-      "SPCX",
-      "MSFT"
-    ],
-    "without_news": [
-      "GLD",
-      "SPYM",
-      "VEU",
-      "1810",
-      "01398"
-    ]
-  },
+  "itemCount": 17,
+  "watchlist": [
+    "SPCX",
+    "GLD",
+    "SPYM",
+    "VEU",
+    "1810.HK",
+    "MSFT",
+    "NVDA",
+    "1398.HK"
+  ],
   "items": [
     {
       "id": 1,
-      "title": "路透獨家：知情人士稱美國證交會正在檢視輝達會計實務",
-      "toc": "路透：證交會檢視輝達會計實務",
-      "summary": "路透 11 月 20 日引述兩名知情人士報道，美國證券交易委員會執法人員正在檢視輝達可能涉及的會計問題。華爾街日報週二已報道證交會在調查輝達，但當時未能確定調查重點；路透稱，會計面向是其首次披露。證交會發言人拒絕置評，輝達發言人未即時回覆。路透寫明，未能立即確定調查何時啟動、具體針對哪些會計議題，且調查本身並非違法證據，許多案件會在未採取執法行動的情況下結束。",
-      "source": "路透社",
-      "date": "2026年11月20日",
-      "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
-      "tickers": [
-        "NVDA"
-      ],
-      "origin": "第三方·非公告",
-      "impact": "此事可能令市場把輝達近期的治理與出口管制風波，連同財務披露透明度一併關注。路透並未斷言具體會計科目或客戶合約就是調查標的，也提醒許多調查最終不會變成執法行動。",
-      "newbieTake": "可留意輝達或證交會後續是否有正式回應，以及定期申報會否補充說明。以上皆非買賣建議。"
-    },
-    {
-      "id": 2,
-      "title": "特朗普稱希望黃仁勳道歉復任；貝森特指其會談未提及黃仁勳",
-      "toc": "特朗普談黃仁勳復任，與財長表述並存",
-      "summary": "CNBC 11 月 20 日報道，總統特朗普在白宮記者會上說，他與習近平討論過輝達前行政總裁黃仁勳，並引述對方稱其為「brilliant man」；特朗普並表示希望黃仁勳得到第二次機會。財長貝森特稍早在 CNBC 節目被問及黃仁勳有否在他與中方的會談中出現時，回答「no」。CNBC 其後引述一名政府官員稱，兩人說的是各自參與的談話，可以同時成立。半島電視台 11 月 21 日根據法新社與路透寫，輝達董事長 Harvey Jones 已在業績電話會議上表明，董事會一致接受辭職，不打算恢復其職位。",
-      "source": "CNBC",
-      "date": "2026年11月20日",
-      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "origin": "第三方·非公告",
-      "impact": "政治人物的公開期望，並不能等同公司董事會已經改變人事決定。現有的公司公開說明仍是不打算恢復其職位。市場可能繼續把領導層與對華晶片政策的評論放在同一條新聞線上，但兩者並不是同一份文件。",
-      "newbieTake": "閱讀時先分清「誰在說話」和「公司實際公布了什麼」；可留意公司或董事會有否另發聲明。以上皆非買賣建議。"
-    },
-    {
-      "id": 3,
-      "title": "黃仁勳將赴參議院銀行委員會公開作證，日期尚未公布",
-      "toc": "黃仁勳將赴參議院公開作證",
-      "summary": "CNBC 11 月 20 日報道，參議院銀行委員會主席、南卡羅來納州共和黨參議員 Tim Scott 的辦公室確認，前輝達行政總裁黃仁勳將在該委員會公開作證。黃仁勳亦已同意於 12 月 1 日，閉門接受眾議院三個委員會的書面記錄問询。參議院作證日期尚未公布；Scott 本周稍早曾希望在聖誕前聆聽黃仁勳與商務部長 Lutnick 的證詞。",
-      "source": "CNBC",
-      "date": "2026年11月20日",
-      "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "origin": "第三方·非公告",
-      "impact": "公開聽證可能把輝達的領導層、出口管制與合規議題，繼續放在公眾與國會視線，但作證安排本身不是對任何調查結果或股價的預告。",
-      "newbieTake": "可先記下已公布的 12 月 1 日眾議院閉門問询，以及參議院公開作證日期一旦宣布。以上皆非買賣建議。"
-    },
-    {
-      "id": 4,
-      "title": "科技新報：川普揚言對海外興建資料中心的美企課重稅，但未說明法律依據",
-      "toc": "川普揚言對海外資料中心課重稅",
-      "summary": "科技新報 11 月 21 日報道，美國總統川普周五在白宮簡報會上表示，如果美國企業想在海外興建資料中心，「他們可以這麼做，但我們將對他們課徵非常高的稅」，並稱希望有關建設留在美國。稿件寫明，他並未詳細說明將如何執行，以及可能依據哪些法律授權。CNBC 同日報道引述他說「我還沒有向我的人宣布這件事」，並寫微軟、Amazon、Google、Oracle 等雲端業者的代表未即時回覆查詢。",
-      "source": "科技新報",
-      "date": "2026年11月21日",
-      "url": "https://technews.tw/2026/11/21/trump-data-centers-abroad-tax/",
-      "tickers": [
-        "MSFT"
-      ],
-      "origin": "第三方·非公告",
-      "impact": "若日後真的立法或公布執行細節，可能影響美資雲端業者的海外擴張成本與選址，但目前仍是未經立法、細節未公布的口頭表述。微軟是 Active 觀察名單上有雲端基礎設施的研究名稱，但這則報道並沒有等於公司已改變資本開支計劃。",
-      "newbieTake": "可留意白宮或相關部門會否把「重大稅負」寫成有法律文本的政策，以及微軟等公司會否發聲明。以上皆非買賣建議。"
-    },
-    {
-      "id": 5,
-      "title": "Anthropic 創紀錄上市撞上美股科技近年最差一週，周五收 88.91 美元",
-      "toc": "Anthropic 上市撞上科技股大跌週",
-      "summary": "CNBC 11 月 21 日報道，Anthropic 周四在納斯達克上市，募資 935 億美元，另有科技巨頭按發行價認購 260 億美元；股票開市報 111.50 美元，首日升 17%，報道稱市值升至 1.8 萬億美元。周五收市報 88.91 美元。稿件寫，同一週納指五日跌 10%，為 2020 年新冠疫情初期以來最差一週；輝達當週跌 23%，為 18 年來最大週跌幅。",
-      "source": "CNBC",
-      "date": "2026年11月21日",
-      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "origin": "第三方·非公告",
-      "impact": "市場可能繼續辯論，人工智能應用公司的股價會否與晶片及資料中心供應鏈同步波動。這是新上市公司首兩日的價格記錄，並不是對後續走勢的預測，也不等於輝達或其他 Active 名稱的基本面已經出現新的公司公告。",
-      "newbieTake": "可把「首日升幅」和「次日收市價」分開看，並對照公司後續的業績或算力供應說明，而不是只看上市首日的熱鬧程度。以上皆非買賣建議。"
-    },
-    {
-      "id": 6,
-      "title": "iThome：博通修補 VMware vCenter 重大身分驗證繞過漏洞，稱只能升級、沒有其他緩解方法",
-      "toc": "VMware vCenter 重大漏洞須升級修補",
-      "summary": "iThome 11 月 20 日報道，博通 11 月 19 日發布公告，修補 VMware vCenter、VMware Tools 及 SDDC Manager 當中 5 個漏洞，其中以 vCenter 重大身分驗證繞過漏洞 CVE-2026-123890 最受關注。稿件寫，該漏洞存在於 vCenter 的 VMware Directory Service 元件，攻擊者只要能透過網路存取 vCenter，即可能繞過身分驗證取得未經授權存取，CVSS 評為 9.8 分；除了套用更新之外沒有其他替代緩解措施。受影響平台亦包括 VMware Cloud Foundation、vSphere Foundation 及部分電信雲產品。",
-      "source": "iThome",
-      "date": "2026年11月20日",
-      "url": "https://www.ithome.com.tw/news/180673",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "雲端與企業虛擬化基礎設施若未及時升級，可能面臨未授權存取風險，並在供應鏈上引起客戶與資安團隊關注。這是基礎設施安全事件，並不直接等於任何 Active 觀察名單公司已發布相關財務影響。",
-      "newbieTake": "可留意博通／VMware 官方公告與後續是否有實際遭利用的更新說明，以及企業用戶的修補進度。以上皆非買賣建議。"
-    },
-    {
-      "id": 7,
-      "title": "AWS Aurora DSQL 開放跨洲多區域叢集，單一區域故障後仍可讀寫",
-      "toc": "AWS Aurora DSQL 支援跨洲多區域",
-      "summary": "iThome 11 月 20 日報道，Amazon Aurora DSQL 新增多區域叢集的跨洲部署支援，企業可把不同洲的兩個 AWS 區域連成同一個邏輯資料庫，兩地應用程式可同時讀寫並維持強一致性。若其中一個區域故障，另一區域仍可繼續處理讀寫。叢集由兩個可讀寫的主動區域及第三個見證區域組成；見證區域不提供應用程式連線、也不保存資料解密金鑰，而是儲存加密交易日誌。AWS 提醒，跨洲同步提交可能增加寫入延遲，且少數故障復原情境可能短暫出現連線或交易錯誤。",
-      "source": "iThome",
-      "date": "2026年11月20日",
-      "url": "https://www.ithome.com.tw/news/180686",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "這類功能可能令企業在考慮資料主權、法規落地與災難備援時，有多一個跨洲部署選項，也提醒延遲與重試機制仍要自行評估。報道沒有涉及 Active 觀察名單公司的新訂單或財報數字。",
-      "newbieTake": "可把「兩個區域都能讀寫」理解成備援與就近接取，同時記住跨洲距離可能換來更高延遲。以上皆非買賣建議。"
-    },
-    {
-      "id": 8,
-      "title": "科技新報轉載：微軟在 Ignite 推出 AI 透明度倡議，聯同逾 40 家機構推動開放管治做法",
-      "toc": "微軟再刊 AI 透明度倡議",
-      "summary": "科技新報 11 月 21 日以公關稿形式報道，微軟主席兼行政總裁 Satya Nadella 已在 11 月 17 日 Ignite 宣布「AI 透明度倡議」，聯同客戶及合作夥伴建立適用於不同模型及供應商的共通、開放安全與管治做法。倡議包括擴大參與美國國家標準與技術研究院（NIST）相關標準工作，並與包括 Accenture、Adobe、KPMG、Mastercard 及 Volvo Cars 在內的逾 40 家機構合作；微軟亦計劃把成果融入 Microsoft AI、Foundry 及 Copilot。這是對 11 月 17 日已公布內容的再刊，不是周末新出的業績。",
-      "source": "科技新報",
-      "date": "2026年11月21日",
-      "url": "https://infosecu.technews.tw/2026/11/21/microsoft-launches-ai-transparency-initiative/",
-      "tickers": [
-        "MSFT"
-      ],
-      "origin": "第三方·非公告",
-      "impact": "企業若更大規模部署可自行採取行動的 AI 代理，可能更關注如何「看見、驗證、管控」模型行為。這則倡議屬於行業標準與產品規劃層面的宣布，並不等於已經改變微軟的短期收入指引。",
-      "newbieTake": "可回到 11 月 17 日的公司 Source 原稿對照細節，並留意後續會否出現可獨立驗證的技術規格，而不只是倡議名稱。以上皆非買賣建議。"
-    },
-    {
-      "id": 9,
-      "title": "電子時報：台積電稱將遵守美國新規，取消中國晶片設計業者一項免許可豁免",
-      "toc": "台積電稱將遵守美國新的晶片豁免規則",
-      "summary": "DigiTimes 電子時報 11 月 20 日報道，台積電表示將遵守美國新的出口規則；該規則取消中國晶片設計業者過往可在海外晶圓廠、在無需許可的情況下取得先進晶片製造的一條途徑。報道並寫，這項規則的影響範圍不只限於人工智能處理器。",
-      "source": "DigiTimes 電子時報",
-      "date": "2026年11月20日",
-      "url": "https://www.digitimes.com/news/a20261120VL218/tsmc-taiwan-chips-communications-samsung.html",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "若規則按報道執行，可能改變部分中國設計業者把先進製程訂單放在海外晶圓廠的安排，並影響相關供應鏈的合規流程。稿件沒有把這項規則直接寫成 Active 觀察名單上任何一間公司的新訂單或新禁令。",
-      "newbieTake": "可留意美國官方規則文本與台積電後續正式說明，而不只是轉述標題。以上皆非買賣建議。"
-    },
-    {
-      "id": 10,
-      "title": "電子時報：特朗普稱黃仁勳應道歉並重返輝達",
-      "toc": "電子時報轉述特朗普希望黃仁勳復任",
-      "summary": "DigiTimes 電子時報 11 月 21 日報道，美國總統特朗普表示，黃仁勳應道歉並返回輝達。這則周末稿與 CNBC、半島電視台所載的周五記者會內容屬同一事件線，屬第三方轉述，並不是輝達公司新聞室的新聲明。",
-      "source": "DigiTimes 電子時報",
-      "date": "2026年11月21日",
-      "url": "https://www.digitimes.com/news/a20261121VL200/nvidia-donald-trump-jensen-huang-taiwan-taipei.html",
-      "tickers": [
-        "NVDA"
-      ],
-      "origin": "第三方·非公告",
-      "impact": "周末的雙語轉述可能令亞洲讀者在周一開市前持續看到同一則人事與政治評論，但公司董事會較早前的公開立場仍是不打算恢復其職位。",
-      "newbieTake": "可把這則轉述對照 CNBC 或路透的原稿，並等待公司若有正式回應。以上皆非買賣建議。"
-    },
-    {
-      "id": 11,
-      "title": "富途快訊：SpaceX 確認 Dragon 濺落，完成第 35 次國際空間站商業補給任務",
-      "toc": "SpaceX 確認 Dragon 濺落（CRS-35）",
-      "summary": "富途快訊 11 月 21 日引述 SpaceX 稱，Dragon 飛船濺落海面已確認，完成第 35 次國際空間站商業補給服務任務。NASA 同日太空站博客核對：無人駕駛 Dragon 於太平洋時間下午 2:03 在洛杉磯附近太平洋濺落，並寫該飛船於 11 月 20 日中部時間上午 11:05 從太空站解離。原文來源：SpaceX／可對照 NASA 官方博客。",
-      "source": "富途快訊",
-      "date": "2026年11月21日",
-      "url": "https://news.futunn.com/flash/1005274971/spacex-the-splashdown-of-the-dragon-spacecraft-has-been-confirmed",
+      "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California",
+      "toc": "SpaceX 發射 NROL-136 機密衛星",
+      "summary": "Space.com 報道，SpaceX 於 2026 年 11 月 22 日美東時間上午 7 時 23 分（加州當地上午 4 時 23 分），以 Falcon 9 從范登堡太空軍基地 SLC-4E 發射美國國家偵察局 NROL-136 任務，將一批機密衛星送入近地軌道。一級助推器 B1097 為第 14 次飛行，升空約七分半後降落於 Landing Zone 4；報道指這是該局今年第六次由 SpaceX 執行、把有效載荷送入近地軌道的任務。",
+      "source": "Space.com",
+      "date": "2026年11月22日",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
       "tickers": [
         "SPCX"
       ],
       "origin": "第三方·非公告",
-      "impact": "這是已在運行的商業補給合約完成濺落，屬於營運消息，並不是 SpaceX 就周五 GPU 融資訂價發出的新 IR 確認，也不自動改寫該筆融資的條款或時間表。",
-      "newbieTake": "可把補給任務與融資新聞分開看，並以 NASA 或公司 IR 作為交叉核對。以上皆非買賣建議。"
+      "impact": "此為例行發射報道，並非公司業績或融資公告，但顯示 SpaceX 持續承辦美國國家偵察局的近地軌道發射。市場可能會把發射節奏與回收次數，視為該公司運營執行力的觀察指標之一。",
+      "newbieTake": "新手可繼續留意官方或可靠航天媒體是否公布後續發射窗，以及是否有新的任務說明，以上皆非買賣建議。"
     },
     {
-      "id": 12,
-      "title": "科技新報：路透稱美證交會正調查輝達會計處理方式",
-      "toc": "科技新報轉述路透證交會報道",
-      "summary": "科技新報 11 月 21 日以「輝達再遭政府盯上」為題，轉述路透關於美國證交會正在調查輝達會計處理方式的報道。此為第三方中文轉述，細節仍應以路透 11 月 20 日原稿為準；證交會與公司當時分別拒絕置評、未即時回覆，調查本身亦非違法證據。",
-      "source": "科技新報",
-      "date": "2026年11月21日",
-      "url": "https://technews.tw/2026/11/21/nvidia-us-sec-investigation/",
+      "id": 2,
+      "title": "Bessent says we \"need answers\" on role Nvidia played in sending AI chips to China, suggests Alice Huang is \"kind of a canard\"",
+      "toc": "貝森特：仍需輝達交代對華晶片問題",
+      "summary": "美國財長貝森特（Scott Bessent）11 月 22 日在 CBS《Face the Nation》表示，政府仍未收到他早前要求輝達就出口管制合規問題在 10 日內作出的交代，並稱已與臨時管理層、首席董事及律師接觸，「我們確實需要答案」。被問及是否贊成黃仁勳復職時，他說要先看「責任停在哪一層」；他又稱黃仁勳與涉嫌間諜 Alice Huang 的關係「有點像是轉移視線」（kind of a canard），重點應是公司合規文化。報道並提到，黃仁勳已同意到參議院銀行委員會作證，並將於 12 月初接受眾議院委員會問話。",
+      "source": "CBS News",
+      "date": "2026年11月22日",
+      "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/",
       "tickers": [
         "NVDA"
       ],
       "origin": "第三方·非公告",
-      "impact": "中文科技媒體在周末持續轉載同一則未經官方確認的調查報道，可能令相關討論在亞洲時段延續，但並沒有在路透原稿之外提供新的官方文件。",
-      "newbieTake": "遇到轉述稿時，宜回到原通訊社報道核對「誰說的、公司有沒有回應」。以上皆非買賣建議。"
+      "impact": "這是對周五以來「黃仁勳應否復任」討論的新進展：華府一方面要公司交代對華晶片合規，另一方面未排除復職可能，但強調須先釐清責任層級。市場可能會關注臨時管理層何時回應，以及 12 月初的國會問話安排。",
+      "newbieTake": "新手可先看輝達或國會後續是否公布作證日期與公開證詞，不宜把訪問言論理解成人事已定，以上皆非買賣建議。"
+    },
+    {
+      "id": 3,
+      "title": "三星電子至 2029 年記憶體產能幾近售罄，客戶搶簽長約至 2031 年",
+      "toc": "傳三星記憶體產能預訂至 2029 年",
+      "summary": "科技新報轉述韓國《Economy Tribune》引述業界知情人士指，三星電子 2027 年至 2029 年的記憶體產能已有絕大部分透過客戶合約預訂，部分客戶還尋求把長期供應合約延長至 2031 年。報道稱，緊張情況已由 HBM 擴散至通用型 DRAM 與企業級 NAND；其中 2027 年通用型 DRAM 晶圓供應能力據稱已基本售罄。文章並提到，三星在上月 29 日的第三季業績會上表示，已與 10 家主要客戶簽訂長期供應合約、另與 10 家洽談，目標是在 2030 年前以長約鎖定約 60% 至 70% 記憶體總產能，且已簽長約納入價格下限條款。",
+      "source": "科技新報",
+      "date": "2026年11月23日",
+      "url": "https://finance.technews.tw/2026/11/23/samsung-electronics-memory-production-capacity-is-nearly-sold-out-through-2029/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若屬實，代表 AI 資料中心需求可能令記憶體供應緊張從 HBM 延伸到通用 DRAM 與企業級 SSD，客戶更傾向提前數年鎖定產能。這仍是第三方引述知情人士的說法，並非三星就「預訂至 2029 年」發表的正式公告，實際交貨與價格仍取決於後續產能與合約執行。",
+      "newbieTake": "新手可把這則視為供應鏈傳聞，下一步可對照三星或同業後續業績說明會是否親自說明長約覆蓋範圍，以上皆非買賣建議。"
+    },
+    {
+      "id": 4,
+      "title": "傳軟銀曾想砸 1 兆美元買 SK 海力士，計畫已擱置",
+      "toc": "傳軟銀曾研議收購 SK 海力士後擱置",
+      "summary": "科技新報轉述美國科技媒體《The Information》11 月 20 日引述知情人士報道，軟銀集團執行長孫正義近期曾接洽華爾街金融機構，探詢斥資高達 1 兆美元收購韓國記憶體大廠 SK 海力士的融資可能性。軟銀回應目前不再積極考慮這項收購計畫；SK 海力士則發聲明表示並不知悉報道所述計畫，並強調外資收購須事先取得韓國政府核准。稿件寫明，相關消息來自匿名知情人士，雙方是否曾實際展開洽談及具體條件均未獲證實。",
+      "source": "科技新報",
+      "date": "2026年11月23日",
+      "url": "https://technews.tw/2026/11/23/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-of-sk-hynix/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若屬實，這會是涉及 AI 所需高頻寬記憶體（HBM）供應商的超大規模收購傳聞，但目前雙方都未證實有正式交易，軟銀亦表示已不再積極考慮。市場或會把它視為記憶體與 AI 供應鏈戰略價值受關注的訊號，而非已宣布的併購案。",
+      "newbieTake": "新手可先分清這是第三方引述知情人士的傳聞，下一步可看軟銀或 SK 海力士有沒有正式公告或監管申報，以上皆非買賣建議。"
+    },
+    {
+      "id": 5,
+      "title": "Rapidus 2 奈米製程傳出瓶頸，SRAM 良率掛零使日本半導體復興面臨考驗",
+      "toc": "傳 Rapidus 2 奈米 SRAM 良率仍為零",
+      "summary": "科技新報轉述彭博社報道，日本晶圓代工廠 Rapidus 採用環繞式閘極（GAA）架構的 2 奈米製程，未能在 2026 年夏季達成 SRAM 功能單元的關鍵開發里程碑，據稱目前 SRAM 良率仍為 0%；北海道千歲市 IIM-1 晶圓廠亦傳出無塵室微粒污染問題，為原定 2027 財年下半年量產目標增添變數。Rapidus 仍強調將依照原定計畫，最遲於 2028 年 3 月底前啟動量產。稿件並提醒，啟動量產並不等於達到穩定的大規模量產。",
+      "source": "科技新報",
+      "date": "2026年11月23日",
+      "url": "https://finance.technews.tw/2026/11/23/rapiduss-2nm-process-yield-hits-zero/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若報道屬實，日本先進製程自主化時程可能面臨延遲風險，但這仍是第三方報道，並非 Rapidus 自行公布「良率為零」的正式技術公告。市場或會關注後續 SRAM 驗證與量產時程有沒有更新說明。",
+      "newbieTake": "可留意 Rapidus 或日本官方後續有沒有就 2 奈米進度發布置說明，並把「啟動量產」與「穩定量產」分開看，以上皆非買賣建議。"
+    },
+    {
+      "id": 6,
+      "title": "台股上週崩跌 7,641 點！國安基金證實進場、金管會祭「全面禁空令」救市",
+      "toc": "台股單週跌 7,641 點，限空令 23 日起實施",
+      "summary": "科技新報報道，受輝達執行長黃仁勳辭任及美國 AI 監管等消息影響，台股上週單週下跌 7,641.83 點、跌幅 17.5%，其中 11 月 16 日跌 2,635.04 點、11 月 20 日再跌 2,393.60 點，盤中最低觸及 35,959 點，超過 300 家上市櫃公司打入跌停，為 1991 年以來最大單週跌點。金管會 11 月 21 日宣布，自 11 月 23 日起實施第三波穩市措施，包括全面禁止平盤以下放空，並將最低融券保證金成數由 130% 調高至 150%。國安基金亦於 11 月 21 日證實，已在 11 月 6 日取得授權後進場執行安定任務。",
+      "source": "科技新報",
+      "date": "2026年11月22日",
+      "url": "https://finance.technews.tw/2026/11/22/total-no-fly-zone/",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "台灣是全球半導體與 AI 伺服器供應鏈重鎮，這輪急跌與後續限空、護盤措施，可能影響開週後的交易流動性與波動。市場或會觀察 11 月 23 日起措施上路後，相關供應鏈的交投與氣氛是否有所變化，但政策效果仍屬未知。",
+      "newbieTake": "新手可留意金管會措施自今日（11 月 23 日）起生效，以及台股開市後的官方說明，以上皆非買賣建議。"
+    },
+    {
+      "id": 7,
+      "title": "東南亞手機出貨量暴跌 36%，小米首度超越三星奪越南市佔王",
+      "toc": "小米越南市佔首超三星，東南亞出貨年減 36%",
+      "summary": "電子時報 11 月 23 日報道，2026 年第 3 季東南亞智慧型手機出貨量年減 36%；三星電子雖然守住該區出貨量第一的位置，但在越南卻首度被小米超越、退居第二。稿件引述韓媒 Theelec、Chosun Biz 等，並指中國手機製造商的追擊力道日益強勁。公開可見的導言未再列出各國具體市佔百分比。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月23日",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000775391_02S2XP4DL68X140O1NKND",
+      "tickers": [
+        "1810.HK"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "這是區域出貨與單一市場排名的第三方產業報道，顯示小米在越南的份額有所推進，但東南亞整體出貨同期明顯收縮。對觀察名單上的小米而言，宜把它理解為單一季度、單一區域的市佔變化，而不是全球出貨的完整結論。",
+      "newbieTake": "可留意小米後續業績或完整市調報告，是否公布分區出貨與市佔數字，以上皆非買賣建議。"
+    },
+    {
+      "id": 8,
+      "title": "伺服器 CPU 轉向類 CoWoS，日月光與矽品產能傳 2027 年首超 Amkor",
+      "toc": "傳日月光矽品類 CoWoS 產能 2027 年超 Amkor",
+      "summary": "電子時報 11 月 23 日報道，全球先進封裝市場持續供不應求，台積電 CoWoS 封裝產能維持滿載，並優先供應給 AI 加速器客戶，使伺服器 CPU 訂單轉向 OSAT 陣營，逐步由日月光、矽品、Amkor 承接，推升「類 CoWoS 封裝」產能需求。標題指日月光與矽品相關產能將在 2027 年首度超越 Amkor。全文部分內容需會員登入，公開導言未再披露具體產能數字或客戶名單。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月23日",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000775524_TGL6AGA51TNQUR5ZD5JVD",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若屬實，反映 AI 加速器優先占用領先封裝產能後，伺服器 CPU 可能更多改走 OSAT 的類 CoWoS 路線，先進封裝供應鏈的角色分工或會再被關注。這是產業報道而非公司公告，實際產能與超車時點仍有待後續驗證。",
+      "newbieTake": "可對照日月光、矽品或同業後續法說，是否親自說明類 CoWoS 產能與伺服器 CPU 訂單，以上皆非買賣建議。"
+    },
+    {
+      "id": 9,
+      "title": "美國航班停飛事件追查，FAA 暫停 Juniper 路由器部署",
+      "toc": "FAA 暫停部署 Juniper 路由器待驗證",
+      "summary": "電子時報 11 月 23 日報道，美國日前發生嚴重航空交通中斷，稿件指超過 1.8 萬個航班取消，空中交通管制系統一度癱瘓近 5 小時，並稱是自 911 恐怖攻擊以來最嚴重的航空交通中斷事件。美國聯邦航空總署（FAA）已宣布暫停部署更多 Juniper Networks 路由器，直到完成額外測試與安全驗證。公開可見的導言未再說明中斷是否已認定由該路由器引起。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月23日",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000775365_4GV4EL0K5KOD0T6CBHP1E",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "這則把近日航空系統中斷，連接到航管設備更新與驗證程序，可能令市場關注空管現代化與網路設備供應鏈的安全驗證節奏。目前可見內容是「暫停部署、等待額外測試」，並未等同已有最終事故調查結論。",
+      "newbieTake": "可留意 FAA 或 Juniper 後續有沒有公布調查或測試結果，不宜把「暫停部署」直接理解成已確認故障原因，以上皆非買賣建議。"
+    },
+    {
+      "id": 10,
+      "title": "得州重啟數據中心審批，465 個項目等待推進，算力落地仍有障礙",
+      "toc": "得州恢復數據中心環評，完整報告 12 月才交",
+      "summary": "富途快訊轉述金十數據報道（並引述路透社、美聯社刊載的《得州論壇報》），得州環境質量委員會（TCEQ）已恢復數據中心環境許可的正常審查，將按適用法規逐項評估申請；此前因州長要求調查數據中心對電網及社區影響，相關審批一度暫停。報道指 TCEQ 上周五接獲通知，確認電網方面已完成資訊收集；在 465 個受調查項目中，93% 已作出回覆，但完整結果仍計劃於 12 月 10 日提交得州公共事業委員會。稿件並提醒，審批恢復並不意味項目能夠立即開工或形成新增算力。",
+      "source": "富途快訊",
+      "date": "2026年11月22日",
+      "url": "https://news.futunn.com/post/1005278350/texas-resumes-data-center-approvals-with-465-projects-awaiting-advancement",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "美國重要數據中心據點恢復審批，可能讓已排隊的項目重新進入行政程序，但完整電網影響報告尚未公布，實際開工與算力落地仍可能受設備交期和選址制約。這與新增已完工產能不是同一回事。",
+      "newbieTake": "可先記下 12 月 10 日報告與後續公開會議，觀察官方如何把調查結果納入許可決定，以上皆非買賣建議。"
+    },
+    {
+      "id": 11,
+      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "toc": "美國家情報總監稱技術中斷或再出現",
+      "summary": "CNBC 報道，美國國家情報總監 Jay Clayton 11 月 22 日在 CNN《State of the Union》表示，在航空運輸及微軟 Outlook 等系統出現技術中斷後，民眾應為「路上的顛簸」作準備。政府官員大體上排除這些中斷（報道指亦曾拖慢銀行交易）是協調式或人工智慧網絡攻擊的說法。Clayton 稱，企業與政府為適應 AI 時代升級系統時，中斷可能持續出現，並提到在運算與應用出現階躍變化時，投資網絡安全與系統升級的同時，也要預期過程中會有中斷。",
+      "source": "CNBC",
+      "date": "2026年11月22日",
+      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "訪問把近日航空與雲端／電郵中斷，放到 AI 時代系統升級的背景下討論，微軟 Outlook 被點名為受影響系統之一。這較像高層對基礎設施風險的提醒，並非針對單一產品的新漏洞公告，實際成因仍以官方與企業後續說明為準。",
+      "newbieTake": "若近日用到航空、銀行或 Outlook 等服務，可先看相關機構有沒有新的故障說明或維護通知，以上皆非買賣建議。"
+    },
+    {
+      "id": 12,
+      "title": "AI生成的修補程式碼近5成全是垃圾，Linux架構師崩潰：未經驗證程式碼浪費的是大家的時間成本",
+      "toc": "Linux 維護者縮減審查，指 AI 補丁品質差",
+      "summary": "T客邦報道，Linux 核心記憶體管理領域維護者 Lorenzo Stoakes 宣布大幅縮減審查範圍，不再擔任核心記憶體管理、記憶體回收及相關 Rust 記憶體管理等範疇的審查人員，改為聚焦自己直接維護的部分。他引述在審查佇列中的觀察指，低品質 AI 生成修補的比例已逼近五成，令維護者把大量時間花在篩選未經驗證的提交。文章並提到，核心創始人 Linus Torvalds 對工程師善用 AI 態度相對開放，但並不代表可以放寬安全驗證；部分子系統已對帶有 AI 痕跡或未充分測試的提交採取更嚴格甚至直接駁回的做法。",
+      "source": "T客邦",
+      "date": "2026年11月22日",
+      "url": "https://www.techbang.com/posts/134898-lorenzo-stoakes-quits-linux-roles-over-ai-code",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "事件反映生成式 AI 降低了提交程式碼的成本，但開源專案的人工審查能量沒有同步增加，可能影響 Linux 等基礎軟體的維護節奏。對雲端、晶片與裝置供應鏈來說，這較像工程文化與品質風險的警訊，而不是單一商業產品的立即故障。",
+      "newbieTake": "對開源或 AI 編程工具有興趣的讀者，可再對照 Phoronix 等開發者社群後續討論，以及各核心子系統有沒有公布新的提交規範，以上皆非買賣建議。"
+    },
+    {
+      "id": 13,
+      "title": "研究爆料AI模型對非英文不友善：Token消耗差17倍，連上下文記憶力都縮水",
+      "toc": "研究：非英語 Token 消耗最多差 17 倍",
+      "summary": "T客邦轉述《Rest of World》報道的「人工智慧語言公平研究聯盟」評測，指主流大型語言模型處理非英語文本時，分詞效率差距明顯：在測試的 200 種語言中，處理相同內容的 Token 消耗量最高可相差 17 倍；即使在最常用的前 20 種語言，差異亦約在 1.5 至 5 倍。研究人員稱此額外成本為「分詞器稅」（Tokenizer Tax），除了推高 API 費用，也會更快填滿上下文視窗，削弱長文本記憶與推理表現。",
+      "source": "T客邦",
+      "date": "2026年11月22日",
+      "url": "https://www.techbang.com/posts/134563-ai-tokenizer-language-tax-non-english",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若評測屬實，非英語市場的開發成本與模型可用上下文可能系統性較差，這對多語種 AI 應用與亞洲市場部署或有參考意義。這是第三方評測報道，並非模型商自行公布的計費或架構變更。",
+      "newbieTake": "若日常用中文或其他非英語提示詞，可留意各模型商後續有沒有公布分詞或計費調整，並比較同一任務在不同模型的實際 Token 用量，以上皆非買賣建議。"
+    },
+    {
+      "id": 14,
+      "title": "Anthropic 研究員宣稱利用 Claude，解開困擾數學界超過 150 年黎曼猜想難題",
+      "toc": "Anthropic 研究員稱與 Claude 證明黎曼猜想",
+      "summary": "科技新報報道，Anthropic 研究人員 Levent Alpöge 於 11 月 20 日在個人網站發布 4 頁說明，聲稱已提出黎曼猜想的證明，並公開以 Lean 撰寫的形式化程式碼；他稱與 Claude 合作後，研究最後階段的進展遠超預期。Anthropic 拒絕回應。麻省理工學院研究科學家 Andrew Sutherland 表示，已在自己的電腦上驗證該證明，並看到至少另外三名專業數學家以不同系統完成驗證，但數學界仍需數年時間深入研究。報道同時提到，另有一份號稱全由人工完成的廣義黎曼猜想證明，美國數學會主席 Ravi Vakil 其後表示已有人指出當中問題，須待疑問解決才可能被學界接受。",
+      "source": "科技新報",
+      "date": "2026年11月21日",
+      "url": "https://technews.tw/2026/11/21/anthropic-solve-riemann-problem-with-claude/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若最終獲數學界認可，這會是生成式 AI 協助攻克重大數學難題的高關注案例；但目前仍屬研究者自行公布、部分同行初步驗證的階段，距離正式承認尚遠。市場或許會把它視為 AI 科研能力的敘事材料，而不宜當成已確認的科學定論。",
+      "newbieTake": "可觀察數學社群或 Clay Mathematics Institute 後續有沒有正式評估或勘誤，在此之前宜把報道理解為「宣稱」而非已獲確認，以上皆非買賣建議。"
+    },
+    {
+      "id": 15,
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "toc": "GL.iNet 雲端漏洞遭利用感染路由器",
+      "summary": "BleepingComputer 報道，GL.iNet 確認攻擊者利用其雲端遠端管理服務漏洞，在客戶的路由器及 KVM 裝置安裝自訂惡意程式，部分用戶回報出現後門與反向 shell。該公司 11 月 20 日的安全公告稱攻擊路徑已封鎖、雲端漏洞已修復，新裝置不能再循同一途徑受感染，但已中招裝置上的惡意程式不會因此自動清除。公司尚未公布攻擊手法、受影響客戶數量，或裝置是否有資料被竊，並正調查連接受感染 KVM 的電腦是否亦遭入侵；穩定版安全韌體原定 11 月 22 日釋出。",
+      "source": "BleepingComputer",
+      "date": "2026年11月22日",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "這是已獲廠商確認、並已出現實際感染的雲端管理漏洞，影響的是遠端管理路由器與 KVM 這類可通向內網電腦的裝置。對使用有關產品的企業或個人而言，重點可能是盡快檢查指標並升級韌體，而不是等待未公開的細節。",
+      "newbieTake": "若有使用 GL.iNet 路由器或 KVM，可依官方公告檢查是否出現異常行程，並安裝其公布的最新安全韌體，以上皆非買賣建議。"
+    },
+    {
+      "id": 16,
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "toc": "Signal 將阻擋 Siri、Gemini 擷取對話",
+      "summary": "BleepingComputer 引述 Signal 總裁 Meredith Whittaker 的網誌指，Signal 將推出新防護，在 iOS 27 封鎖截圖，並在可偵測到 AI 助理試圖讀取畫面的 Android 版本上，阻止系統內建的 Siri、Gemini 擷取對話內容。Whittaker 指，Siri 的 Onscreen Awareness 與 Google Gemini Intelligence 等系統級功能，可在對話顯示於畫面時擷取內容，使資料離開 Signal 的控制範圍。報道並指，Signal 目前無法在 macOS 提供截圖封鎖，建議 macOS 27 用戶把應用加入 Siri 的排除清單。",
+      "source": "BleepingComputer",
+      "date": "2026年11月22日",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "事件凸顯作業系統內建 AI 助理與加密通訊應用在隱私上的衝突，可能令市場更關注蘋果、Google 等平台未來會否提供更清楚的系統級退出或揭露機制。這是應用層的防護措施，並不等於所有擷取途徑都已被堵住。",
+      "newbieTake": "使用 Signal 的讀者可留意應用後續更新，macOS 用戶若擔心 Siri 讀取畫面，可參考官方建議檢查系統設定，以上皆非買賣建議。"
+    },
+    {
+      "id": 17,
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "toc": "BADBOX 3.0 復活，日均 400 億廣告請求",
+      "summary": "BleepingComputer 引述 HUMAN Satori 研究團隊指，廣告詐騙殭屍網路 BADBOX 在早前多次打擊後以 3.0 變種重現，高峰期每日約產生 400 億次欺詐性廣告競價請求，相當於該平台觀察到的聯網電視（CTV）流量逾 4%，體量超過此前紀錄保持者 VASTFLUX 的三倍。惡意程式主要感染廉價手機、平板及運行 Android Open Source Project 的串流電視盒，以隱藏視窗播放廣告並作流量代理。Google 早前曾指 BADBOX 2.0 在 2025 年 4 月前已感染逾 1,000 萬部 Android 裝置。",
+      "source": "BleepingComputer",
+      "date": "2026年11月21日",
+      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "這顯示針對廉價 Android 裝置與聯網電視盒的廣告詐騙網路，即使經過大規模斷網與訴訟，仍可能重建更大流量。對廣告科技與消費電子供應鏈而言，市場可能會更關注裝置出廠映像、第三方韌體與應用商店的防護是否足夠。",
+      "newbieTake": "若使用來路不明或極度廉價的 Android 電視盒，可留意官方或安全機構後續的查殺建議，並避免安裝非官方應用，以上皆非買賣建議。"
     }
   ]
 }

@@ -1,0 +1,402 @@
+{
+  "date": "2026-11-23",
+  "stories": [
+    {
+      "id": "macro-etf-correction-thanksgiving-week-1123",
+      "ticker": "SPYM",
+      "title": "宏觀／ETF：港股今日開市，承接上週五美股急挫。路透社寫，標普500跌3.70%、收6,910.39；道指跌1.93%、收48,147.33；納斯達克綜合指數跌5.28%、收22,617.73。CNBC 11/20刊出、11/21更新的報道寫，標普500與道指已較收市紀錄回落超過10%，進入技術性調整（correction）；納指轉為2026年內下跌，較窄的納斯達克100盤中一度較高位回落超過20%。香港電台引述外電寫，恒生指數上週五跌430點、或1.9%，收22,410，成交2,703億港元；恒生科技指數跌3.8%，收3,511。本週美國為感恩節短週：週四紐約證交所全日休市，週五提早於下午1:00（美東）收市；香港仍如常開市五天。CNBC「下周展望」列出今日（周一）美東9:45公布標普全球11月製造業及服務業PMI初值；美國經濟分析局官方日程核對，週三（11/25）上午8:30將發布第三季GDP第二次估算與企業盈利，以及10月個人收入與支出（含PCE）。聯儲理事會行事曆顯示，FOMC下次會議仍為12月8至9日（附經濟預測摘要）。財長貝森特11/22在CBS《Face the Nation》稱，市場認為聯儲若過度收緊或屬政策錯誤；這是行政部門官員的公開表述，不是議息決定。金管局每日貨幣統計仍截至11/20 18:30：兌換保證7.75–7.85，基本利率4.25%，隔夜HIBOR 2.38%。持倉ETF最近正規交易日仍為周五Yahoo：SPYM收81.27（前收11/19 84.26，約-3.55%）、VEU收73.78（前收76.30，約-3.30%）。今早未採用未經主要行情源核對的期貨報價作為收市。",
+      "summary": "今日是周末之後第一個港股交易日，上週五美股三大指數急挫的收市數字已經核對：路透社與CNBC均寫標普500跌3.70%收6,910.39、道指跌1.93%收48,147.33、納指跌5.28%收22,617.73。CNBC其後把標普500與道指描述為已進入較前高回落超過10%的技術性調整；納指轉為年內下跌。香港電台寫恒指上週五收22,410。本週美國為感恩節短週，港美交易時段並不對稱。金管局最新公開日統計仍是周五傍晚那一版，尚未滾到11/23。持倉ETF的Yahoo正規收市同樣停在11/20。",
+      "whyItMatters": "新手宜分清三件事：一是上週五已核對的現金市場收市；二是「技術性調整」只是市場慣用描述（通常指主要指數較近期高位回落10%或以上），並不是交易所或監管機構的正式宣布，也與「熊市」（慣常指回落20%或以上）不是同一回事；三是本週行事曆——今日有標普全球PMI初值，週三有PCE與第三季GDP第二次估算，FOMC仍在12月8至9日。追蹤標普500的SPYM，以及追蹤美國以外股票的VEU，會受基準指數波動影響，但單日或單週升跌並不等於基金本身的長期回報已經改變。美元息口變化有時會影響港元拆息或美元兌港元，但只要匯率仍在7.75至7.85兌換保證區間內，並不自動等於金管局已經或即將干預。另，彭博經《星報》11/22轉載的報道描述中國奢侈消費更趨選擇性，只作已勾選的宏觀背景，相關品牌不在今日Active觀察名單。唔構成買賣建議。",
+      "whatToWatch": "今日美東9:45的標普全球11月製造業及服務業PMI初值；週三美國經濟分析局的10月個人收入與支出（含PCE）及第三季GDP第二次估算；金管局今日傍晚前後會否更新每日貨幣統計；以及本週四、五美股休市或提早收市時，港股仍正常開市的時段差異。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "Reuters",
+          "date": "2026-11-20",
+          "title": "Tech leads global stocks rout, Treasury yields fall",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-20/"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-20",
+          "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+          "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-20",
+          "title": "S&P 500 correction: Five forces behind the market sell-off",
+          "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-20",
+          "title": "Is the bull market cracking? What to watch for next week after the AI washout",
+          "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+        },
+        {
+          "category": "wire",
+          "publisher": "RTHK",
+          "date": "2026-11-20",
+          "title": "HK, mainland slip as tech stocks take brunt of fears",
+          "url": "https://news.rthk.hk/rthk/en/component/k2/1878603-20261120.htm"
+        },
+        {
+          "category": "wire",
+          "publisher": "CBS News",
+          "date": "2026-11-22",
+          "title": "Transcript: Treasury Secretary Scott Bessent on Face the Nation, Nov. 22, 2026",
+          "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/"
+        },
+        {
+          "category": "official",
+          "publisher": "U.S. Bureau of Economic Analysis",
+          "date": "2026-11-23",
+          "title": "News Release Schedule",
+          "url": "https://www.bea.gov/news/schedule"
+        },
+        {
+          "category": "official",
+          "publisher": "Board of Governors of the Federal Reserve System",
+          "date": "2026-11-18",
+          "title": "Monetary Policy: Federal Open Market Committee calendars",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "official",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-11-20",
+          "title": "Daily Monetary Statistics (as of 18:30, 20/11/2026)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "wire",
+          "publisher": "Bloomberg via The Star",
+          "date": "2026-11-22",
+          "title": "Coach, Ralph Lauren defy China slump",
+          "url": "https://www.thestar.com.my/business/business-news/2026/11/22/coach-ralph-lauren-defy-china-slump"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "SPYM and VEU regular-session closes",
+          "url": "https://finance.yahoo.com/quote/SPYM"
+        }
+      ]
+    },
+    {
+      "id": "gld-friday-14month-low-monday-asia-snapshot",
+      "ticker": "GLD",
+      "title": "黃金ETF（GLD）：路透社寫，現貨金上週五跌2.81%，至每盎司3,520.09美元，為約14個月低位，並錄得8個月以來最大單週跌幅；現貨銀跌4.22%，至每盎司40.95美元。CNBC同日較早（約美東下午2:36）寫現貨金跌2.8%至3,518.50美元，盤中低見3,513.54美元，當週累計約跌9.5%；12月期金跌4.5%，至3,519.10美元。兩個現貨數字對應不同時點，不宜合併成單一「官方收市」。澳洲廣播公司週一早上約10:20（澳洲東部夏令時間，約香港時間7:20）的快照寫，現貨金報每盎司3,577美元，較其對照價上升1.3%，這只是亞洲早段報價，不是紐約收市，也不是GLD的正規交易收市。央視財經11/21報道寫，11/20盤中期金與現貨均跌破每盎司3,550美元，11/21內地部分金飾品牌把足金飾品報價下調至每克1,056至1,068元人民幣，較前一日每克下調20至34元。Yahoo 11/20 GLD收322.87（前收11/19 335.18，約-3.67%）。",
+      "summary": "上週五現貨金跌至約14個月低位，與股市急挫同一天出現，顯示黃金並非在每一輪風險逃避中都會立刻上漲。持倉黃金ETF（GLD）的最近正規收市仍是周五Yahoo的322.87。週一亞洲早段現貨金回升的報價，只是盤中快照，美股和紐約黃金市場隨後才開市，並不代表上週跌勢已經結束或逆轉。內地金飾克價下調反映零售端跟隨國際金價調整，不是對未來金價的預測。",
+      "whyItMatters": "GLD追蹤實物黃金，現貨金波動會影響其資產價值，但單位價格還涉及費用和買賣差價。新手宜分清現貨金、期金，以及金飾「克價」：克價是零售標價，通常包含工費和品牌溢價，下跌並不等於手中飾品可以按同一價格套現。唔構成買賣建議。",
+      "whatToWatch": "今日隨後的美國時段現貨與GLD報價，以及週三的10月PCE；不要把亞洲早段快照當成已完成的反轉。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "Reuters",
+          "date": "2026-11-20",
+          "title": "Tech leads global stocks rout, Treasury yields fall",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-20/"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-20",
+          "title": "Gold's slide deepens as AI rout, rate hike bets hurt bullion",
+          "url": "https://www.cnbc.com/2026/11/20/gold-federal-reserve-price-dollar-metals.html"
+        },
+        {
+          "category": "wire",
+          "publisher": "ABC News",
+          "date": "2026-11-23",
+          "title": "Markets live updates: Wall St crashes to correction territory and ASX opens lower",
+          "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602"
+        },
+        {
+          "category": "wire",
+          "publisher": "央視財經",
+          "date": "2026-11-21",
+          "title": "多家品牌宣布：下调金饰克价",
+          "url": "https://jingji.cctv.com/2026/11/21/ARTIwU0JVLKvIpo2RDGkmJog261121.shtml"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "GLD regular-session close",
+          "url": "https://finance.yahoo.com/quote/GLD"
+        }
+      ]
+    },
+    {
+      "id": "spacex-nrol-136-vandenberg-1122",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：公司發射頁寫，11/22（周日）太平洋時間上午4:23，Falcon 9由加州范登堡太空軍基地SLC-4E升空，執行NROL-136任務；該一級助推器為第14次飛行，級間分離後降落於范登堡Landing Zone 4。美國國家偵察局（NRO）同日新聞稿寫，任務於美東時間上午7:23成功發射，助推器安全返回LZ-4，並把這次稱為該局今年第4次「proliferated」發射。4:23太平洋時間與7:23美東時間一致。今早SpaceX IR新聞稿列表最新仍是11/6董事會變動，未見就此次發射另發新聞稿。一級助推器機體編號未在官方頁寫明，第三方報道的編號今早不採用。Yahoo 11/20收127.79（前收11/19 138.43，約-7.69%）。",
+      "summary": "周日NROL-136已由SpaceX官方發射頁及NRO新聞稿同時確認：范登堡凌晨發射、助推器返回LZ-4。這是任務執行的官方說明，不是新的業績或融資公告，IR頁亦未就此次任務另發稿。周五Yahoo收市仍是最近一次正規交易。",
+      "whyItMatters": "對持倉名單上的SpaceX來說，可核實的是發射與回收已經完成，以及NRO把它列為今年較多次的近地軌道相關發射之一。發射節奏反映運營執行，但單次任務並不等於財務結果或融資進度有新官方數字。唔構成買賣建議。",
+      "whatToWatch": "後續官方發射時間表，以及公司IR是否就運營或融資發表新稿。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX",
+          "date": "2026-11-22",
+          "title": "NROL-136 launch",
+          "url": "https://www.spacex.com/launches/nrol136"
+        },
+        {
+          "category": "official",
+          "publisher": "National Reconnaissance Office",
+          "date": "2026-11-22",
+          "title": "NRO Successfully Launches NROL-136 November 22",
+          "url": "https://www.nro.gov/news-media-featured-stories/news-media-press-releases/Archived-Press-Releases/Press-Release-Article/Article/4655832/nro-successfully-launches-nrol-136-november-22/"
+        },
+        {
+          "category": "company",
+          "publisher": "SpaceX IR",
+          "date": "2026-11-06",
+          "title": "SpaceX Thanks Don Harrison for His Service on the Board",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "SPCX regular-session close",
+          "url": "https://finance.yahoo.com/quote/SPCX"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-board-q3-1124-nddr-1120",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：10/23《董事會會議日期》公告寫，董事會將於11/24（星期二）舉行會議，以考慮及批准公司及其附屬公司截至2026年9月30日止三個月及九個月的未經審核綜合第三季度業績。今早港交所標題搜尋未見11/21至11/23的新公告，最新仍是11/20 18:08的翌日披露報表。該報表寫，已發行股份（不包括庫存股份）在11/19期初為21,321,441,891股，11/20因股份獎勵計劃向非董事參與者發行2,000股新股，期末為21,321,443,891股。同一報表列出已回購但尚未註銷的股份，其中包括11/20在聯交所回購1,810,000股B類，成交均價27.58港元，最高27.70港元、最低27.42港元，總額49,919,619港元，全部擬註銷、未記入庫存；約佔相關事件前已發行股份（不包括庫存股份）的0.007%。由首席財務官林世偉提交。這些文件是會議安排及股份變動披露，並不是第三季業績本身。Yahoo 11/20收27.64港元（前收11/19 28.52，約-3.09%）。港股今日尚未開市，沒有11/23正式收市。",
+      "summary": "明日董事會將審議尚未公布的第三季及首九個月未經審核業績，實際數字要以會議後刊發的業績公告為準。今早未見比11/20翌日披露報表更新的港交所文件。該報表已披露周五在場內回購181萬股、尚未註銷，以及2,000股獎勵計劃新股。",
+      "whyItMatters": "香港上市公司公布季度業績前，通常會先宣布董事會會議日期。未經審核是指數字尚未經核數師完成審計，仍可能與日後經審核數字有差異。已披露的回購可減少日後流通股數，但單日回購量相對已發行股本很小，也不等於公司對股價作出保證，更不能當成業績預告。唔構成買賣建議。",
+      "whatToWatch": "周二（11/24）董事會會議後刊發的第三季及首九個月業績公告；若今日有場內回購，翌日披露報表通常會在收市後出現。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-10-23",
+          "title": "DATE OF BOARD MEETING",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-11-20",
+          "title": "Next Day Disclosure Return (Equity issuer - changes in issued shares, share repurchase and/or on-market sale of treasury shares)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000978.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / Xiaomi Corporation",
+          "date": "2026-11-20",
+          "title": "翌日披露報表（股份發行人 ── 已發行股份或庫存股份變動、股份購回及/或在場內出售庫存股份）",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000979_c.pdf"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "1810.HK regular-session close",
+          "url": "https://finance.yahoo.com/quote/1810.HK"
+        }
+      ]
+    },
+    {
+      "id": "nvda-sec-accounting-sources-bessent-1122",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：路透社11/20獨家、11/21更新的報道引述兩名知情人士稱，美國證交會執法人員正在審視輝達可能涉及的會計問題；證交會發言人拒絕置評，輝達發言人當時未即時回覆。路透寫明，未能立即確定調查何時啟動、具體針對哪些會計議題，且調查本身並非違法證據，許多案件會在未採取執法行動的情況下結束。財長貝森特11/22在CBS《Face the Nation》稱，當局仍未取得他就出口管制合規所要求的交代，並說「我們確實需要答案」；他稱與黃仁勳及Alice Huang相關的說法「有點像是轉移視線」，重點應是合規文化。這是內閣官員訪問，不是證交會或公司公告。今早NVIDIA新聞室未見21至23日就證交會報道或貝森特訪問發表聲明，最新財務類新聞稿仍是11/17第三季（FY2027）業績。Yahoo 11/20收125.53（前收11/19 145.98，約-14.01%）。",
+      "summary": "路透引述匿名消息指證交會把會計處理列為調查重點，但未說明具體科目或何時立案，公司與證交會在該稿中均未置評。周日貝森特公開表示，對華晶片合規問題仍未得到他要求的答案。公司新聞室今早仍未見回應稿。周五Yahoo收市約跌14%，是最近一次正規交易。",
+      "whyItMatters": "對研究名單上的輝達來說，這是監管與合規消息，不是新的業績數字。調查報道並不等於已認定會計違規，內閣訪問也不能取代公司或證交會的正式文件。把路透的「約13%」盤中描述與Yahoo正規收市（約-14.01%）混為同一數字並不恰當。唔構成買賣建議。",
+      "whatToWatch": "輝達新聞室或證交會是否出現正式回應或文件，以及公司後續定期申報會否補充說明。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "Reuters",
+          "date": "2026-11-20",
+          "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
+          "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+        },
+        {
+          "category": "wire",
+          "publisher": "CBS News",
+          "date": "2026-11-22",
+          "title": "Transcript: Treasury Secretary Scott Bessent on Face the Nation, Nov. 22, 2026",
+          "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/"
+        },
+        {
+          "category": "wire",
+          "publisher": "CBS News",
+          "date": "2026-11-22",
+          "title": "Bessent says we need answers on role Nvidia played in sending AI chips to China",
+          "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/"
+        },
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-17",
+          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "NVDA regular-session close",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ]
+    },
+    {
+      "id": "icbc-egm-hshare-cutoff-1123",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：11/9《2026年第三次臨時股東會通知》通函訂於11/27（周五）下午2:50在北京復興門內大街55號總行舉行會議。普通決議為選舉周姬為非執行董事；特別決議包括發行資本工具及總損失吸收能力合格非資本債務工具（發行規模不超過人民幣9,500億元或等值外幣，其中包含此前已批、尚未發行的人民幣1,900億元），以及2027年集團金融債券發行計劃（集團發行不超過人民幣3,500億元，不包括具有補充資本性質的次級金融債券）。這些是授權上限，不是已經完成全數發行。H股將於11/24（星期二）至11/27（星期五）（包括首尾兩天）暫停辦理股份過戶登記；凡於今日（11/23，星期一）營業時間結束時名列備存於香港的股東名冊之H股股東均有權出席。如欲出席而尚未登記過戶文件，須於今日下午4:30或之前，把過戶文件連同股票交回香港中央證券登記有限公司。今早港交所標題搜尋未見11/21至11/23的新公告，最新仍是11/12二級資本債券第七期發行完畢。會議尚未舉行，沒有表決結果。Yahoo 11/20收7.885港元（前收11/19 7.865，約+0.25%），為今日Active名單上週五唯一收升的代號。",
+      "summary": "今日是11/27臨時股東會的H股登記截止日：下午4:30前未交回過戶文件者，可能趕不及名列有權出席的股東名冊。暫停過戶由明日開始，並不是停牌，也不等於股份不能買賣。議程是已披露的董事選舉與大額發行授權，不是新的業績公告。周末沒有新的港交所文件。",
+      "whyItMatters": "暫停辦理股份過戶登記是為了確定誰有權出席或投票，不是停止交易。在暫停期間買入的股份，往往要等到恢復辦理過戶後才會反映在名冊上。授權發行上限獲通過，也不等於全部金額已經或必定發行。唔構成買賣建議。",
+      "whatToWatch": "今日下午4:30的過戶文件截止，以及11/27臨時股東會結果公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Industrial and Commercial Bank of China Limited",
+          "date": "2026-11-09",
+          "title": "Notice of the Third Extraordinary Shareholders’ Meeting of 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900580.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "Industrial and Commercial Bank of China Limited",
+          "date": "2026-11-09",
+          "title": "2026 年第三次臨時股東會通知（公司網站）",
+          "url": "https://v.icbc.com.cn/userfiles/resources/icbcltd/download/2026/Announce20261109_2.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "HKEX / ICBC",
+          "date": "2026-11-12",
+          "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+        },
+        {
+          "category": "market",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-20",
+          "title": "1398.HK regular-session close",
+          "url": "https://finance.yahoo.com/quote/1398.HK"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "thanksgiving-short-week",
+      "title": "感恩節短週（Thanksgiving short week）",
+      "titleEn": "Thanksgiving short week / early close",
+      "what": "感恩節短週是美國市場對感恩節所在那一周的習慣叫法：週四（感恩節）紐約證交所全日休市，週五通常提早收市（今年CNBC寫的是美東下午1:00）。香港沒有這個假期，聯交所仍按正常五日交易。短週指的是美國交易所的開市時間被縮短，不是全球市場都休息，也不是港股自動跟着停市。",
+      "whyItMatters": "新手若同時看美股ETF（例如SPYM、VEU、GLD）和港股（例如小米、工商銀行），容易以為「這個星期每天都會同一個時間開市收市」。其實週四美股全日沒有正規交易，週五美國時段較短，港股卻仍正常開市；消息和價格更新的節奏會不對稱。提早收市有時也伴隨較薄的成交，但不應被理解成一定較波動或一定較平靜。",
+      "whereToday": "今日是感恩節短週的周一，港股開市、美股稍後才開市。CNBC 11/20「下周展望」列出週四紐約證交所因感恩節休市、週五提早於下午1:00收市；週三則有美國經濟分析局的10月個人收入與支出及第三季GDP第二次估算。上週五美股已先錄得急挫，並被描述為進入技術性調整，因此本週的時段差異特別值得分清。",
+      "whatToWatch": "本週四美股全日休市、週五提早收市時，港股仍正常交易；以及週三PCE與GDP第二次估算的官方公布。唔構成買賣建議。",
+      "relatedTickers": [
+        "SPYM",
+        "VEU",
+        "GLD"
+      ],
+      "notionUrl": "https://app.notion.com/p/42199f70bc5681cca7f3f77dd75ab98c"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Thanks Don Harrison for His Service on the Board",
+        "date": "2026-11-06",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金股份",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普 500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "Next Day Disclosure Return — on-Exchange repurchase of 1,810,000 Class B shares on 20 November 2026 for cancellation, plus 2,000 share-scheme shares",
+        "date": "2026-11-20",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000979_c.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
+        "date": "2026-11-18",
+        "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+        "date": "2026-11-17",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+        "date": "2026-11-12",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-23.mp3",
+  "audioScriptChars": 3490,
+  "audioVoice": "gTTS-zh-TW"
+}
