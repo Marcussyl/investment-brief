@@ -1,0 +1,233 @@
+{
+  "updated": "2026-11-24T08:32:32+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. 本列表僅供參考，唔構成買賣建議。",
+  "date": "2026-11-24",
+  "timezone": "Asia/Hong_Kong",
+  "itemCount": 16,
+  "watchlist": 8,
+  "items": [
+    {
+      "id": 1,
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "toc": "輝達董事會宣布黃仁勳即時復職",
+      "summary": "輝達新聞室11月23日宣布，董事會一致通過，黃仁勳即時復職為總裁兼行政總裁，並重新擔任董事。聲明寫，董事會在一連串討論後對其坦誠與領導能力感到滿意，並稱收到美國政府高層意見，有信心復職不構成國家安全風險；同時重申獨立董事委員會的調查將進行至結束，公司亦將新設首席合規官，並成立國家安全與出口管制委員會。",
+      "source": "NVIDIA Newsroom",
+      "date": "2026年11月23日",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "公司新聞室/IR",
+      "impact": "這是公司治理與人事安排的官方公告，不是新的業績指引。市場可能會把領導層恢復視為短期情緒催化，但聲明同時寫明調查與合規監督仍會繼續，相關不確定性並未自動消失。",
+      "newbieTake": "新手可把公司新聞室聲明、第三方對股價的報道，以及仍在進行的獨立調查分開閱讀，並等待後續官方說明。以上皆非買賣建議。"
+    },
+    {
+      "id": 2,
+      "title": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia",
+      "toc": "美股週一急升，納指錄2025年4月以來最佳單日",
+      "summary": "CNBC寫，美股週一在輝達宣布黃仁勳復職後急升：標普500升4.73%收7,237.17，納斯達克綜合指數升6.51%收24,089.56，同創2025年4月以來最佳單日；道指升3.01%收49,595.31。報道寫微軟升逾1%，美光升19%、超微升近7%。這是市場報道，不是公司業績公告。",
+      "source": "CNBC",
+      "date": "2026年11月23日",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "SPCX"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "單日大幅反彈出現在上週技術性調整之後，可能提振短期風險情緒，但不自動代表調整已經結束，相關股份也不會以同一幅度變動。",
+      "newbieTake": "可把指數收市、個別股份收市與公司官方聲明分開核對，並留意本週美國感恩節短週的交易時段。以上皆非買賣建議。"
+    },
+    {
+      "id": 3,
+      "title": "Nvidia server partners reportedly suspend shipments to Southeast Asia following new US export rules",
+      "toc": "傳輝達伺服器夥伴暫停東南亞出貨",
+      "summary": "DigiTimes 11月23日報道，部分輝達伺服器供應商據報暫停向東南亞出貨；稿件並寫，公司加強對最終客戶的審查，也使該地區的人工智能晶片出貨變得更加困難。這是供應鏈層面的第三方報道，不是輝達新聞室公告。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月23日",
+      "url": "https://www.digitimes.com/news/a20261123VL212/nvidia-southeast-asia-ai-server-shipments.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "若出貨審核確實收緊，市場可能關注東南亞資料中心與伺服器鏈的交期，但實際影響仍要看官方規則與公司後續說明，現階段不宜把「據報」當成已確認的出貨禁令。",
+      "newbieTake": "新手可等待公司或官方出口管制文件是否有對應說明，不要只根據供應鏈傳聞推斷出貨已經停止。以上皆非買賣建議。"
+    },
+    {
+      "id": 4,
+      "title": "Chip prices set to rise through 2027, driving semiconductor growth",
+      "toc": "傳晶片價格升勢或延至2027年",
+      "summary": "DigiTimes 11月23日報道，根據積體電路設計公司的近期觀察，晶片價格料將延續至2027年；稿件寫晶圓代工廠已確認調升價格，封測（OSAT）業者預期將跟進。這是行業觀察報道，並非單一公司的正式調價公告。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月23日",
+      "url": "https://www.digitimes.com/news/a20261123PD231/2027-growth-demand-revenue-chips.html",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若代工與封測報價續升，可能影響伺服器、手機與汽車晶片的成本節奏，但不同產品線與客戶合約時點並不相同，不能理解成所有晶片已經同步漲價。",
+      "newbieTake": "可留意後續是否有代工或設計公司在法說會或公告中確認價格與產能安排。以上皆非買賣建議。"
+    },
+    {
+      "id": 5,
+      "title": "HPE's AI server demand drives fiscal fourth-quarter growth",
+      "toc": "慧與：AI伺服器需求推動第四季增長",
+      "summary": "DigiTimes 11月24日報道，慧與科技（HPE）財政第四季業績顯示業務進一步轉向人工智能基礎設施，伺服器需求推高營收並改善經營獲利。詳細數字以公司自身業績公告為準，本稿為行業媒體對業績的轉述。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月24日",
+      "url": "https://www.digitimes.com/news/a20261124VL202/hpe-growth-demand-revenue-business.html",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "市場可能把伺服器廠商的出貨與獲利，當作觀察人工智能基礎建設需求的參考之一，但單一季度結果不能外推整個供應鏈的後續訂單。",
+      "newbieTake": "閱讀時應回到公司官方業績資料核對營收與指引，並與媒體轉述分開。以上皆非買賣建議。"
+    },
+    {
+      "id": 6,
+      "title": "Apple enters silicon photonics race with optical packaging hires for custom chips",
+      "toc": "蘋果增聘矽光子與光學封裝人才",
+      "summary": "DigiTimes 11月23日報道，蘋果加強招聘矽光子與光學封裝專才，外界因此推測公司可能加快把相關技術導入下一代資料中心晶片。稿件屬招聘動向與推測，蘋果並未在該報道中發表正式產品時程。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月23日",
+      "url": "https://www.digitimes.com/news/a20261123PD222/apple-photonics-silicon-packaging-chips.html",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若自研光學封裝確實推進，市場可能關注資料中心互連與先進封裝供應鏈的長期布局，但招聘本身不等于產品已經量產或已有出貨時間表。",
+      "newbieTake": "可等待蘋果或供應鏈是否在後續正式場合說明相關計畫，而不要把招聘傳聞當成已經宣布的產品。以上皆非買賣建議。"
+    },
+    {
+      "id": 7,
+      "title": "AI 成網攻加速器：零時差漏洞翻倍、平均 11 天遭駭，雲端系統恐 3 小時內淪陷",
+      "toc": "科技新報：AI加快網攻節奏",
+      "summary": "科技新報11月24日綜合11月21日至22日發布的國際資安報告與外媒分析寫，駭客日益利用自動化與AI工具壓縮偵察與漏洞利用時間，部分雲端系統恐在3至6小時內遭攻陷。報道引述加拿大網路安全中心指出，攻擊性AI工具降低技術門檻；並轉述分析稱，自具備網攻能力的開源模型問世後，全球零時差漏洞數量約略翻倍，漏洞從公開到遭利用的平均時間由約一個月縮至11天。",
+      "source": "TechNews 科技新報",
+      "date": "2026年11月24日",
+      "url": "https://infosecu.technews.tw/2026/11/24/latest-battlefront-ai-cybersecurity/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若攻擊節奏確實加快，雲端與企業資安防護的修補時效可能更受市場關注，但報道是對多份研究的綜合轉述，不是單一漏洞的官方公告。",
+      "newbieTake": "可把這類研究數字視為風險背景，並在遇到具體漏洞時核對廠商或政府機構的修補建議。以上皆非買賣建議。"
+    },
+    {
+      "id": 8,
+      "title": "三星 SDI 進攻 AI 資料中心，儲能、UPS、BBU 三路並進",
+      "toc": "三星SDI佈局AI資料中心電池",
+      "summary": "科技新報11月23日報道，三星SDI正把電池應用延伸到人工智能資料中心，涵蓋大型儲能系統、不斷電系統（UPS）以及伺服器端備援電池模組（BBU）。稿件指出，隨AI伺服器功率提高，資料中心除了整體供電容量，還須應付GPU運算帶來的瞬間負載變化。",
+      "source": "TechNews 科技新報",
+      "date": "2026年11月23日",
+      "url": "https://technews.tw/2026/11/23/samsung-sdi-targets-ai-data-centers-three-pronged-approach-energy-storage-ups-bbu/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "市場可能把資料中心供電與備援電池，視為AI基礎設施投資中的配套環節，但產品布局報道並不等于已經公布的出貨或獲利指引。",
+      "newbieTake": "可留意公司後續是否在正式業績或產品公告中量化相關業務。以上皆非買賣建議。"
+    },
+    {
+      "id": 9,
+      "title": "三星機海戰術升級，2027 年一口氣推 5 摺疊機、1 卷軸手機",
+      "toc": "傳三星2027年擴大摺疊與卷軸手機陣容",
+      "summary": "科技新報11月23日報道，有資料庫與爆料人士指三星可能在2027年推出多達6款摺疊或卷軸裝置，包括傳聞中的Galaxy Z Fold 9系列、Z Flip 9、Z TriFold 2及採用卷軸螢幕的Z Slide。報道寫相關機型名稱、規格與時程尚未獲三星證實。",
+      "source": "TechNews 科技新報",
+      "date": "2026年11月23日",
+      "url": "https://technews.tw/2026/11/23/galaxy-foldable-phone-rollable-phone/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若產品線確實擴大，市場可能關注摺疊手機供應鏈的規格競爭，但目前仍屬未經公司確認的傳聞，不宜當成已公布的發表時程。",
+      "newbieTake": "等待三星官方發表或認證文件，再核對機型與上市時間。以上皆非買賣建議。"
+    },
+    {
+      "id": 10,
+      "title": "微軟Entra Connect Health漏洞遭利用，企業管理員聯絡資訊與租用戶資料外洩",
+      "toc": "微軟Entra Connect Health遭利用",
+      "summary": "iThome 11月24日報道，微軟證實身分識別監控服務Microsoft Entra Connect Health的API漏洞遭利用，導致部分企業租用戶的管理員聯絡資訊及組態資料外洩。微軟已於11月19日在伺服器端完成修補，並表示未發現密碼、權杖或有效金鑰外洩，也未發現監控組態被修改；公司提醒企業防範針對管理員的網路釣魚。",
+      "source": "iThome",
+      "date": "2026年11月24日",
+      "url": "https://www.ithome.com.tw/news/180716",
+      "tickers": [
+        "MSFT"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "這是已修補的雲端身分服務資安事件，市場可能關注企業客戶通知與後續釣魚風險，但報道並未把它等同於微軟核心生產系統全面失守。",
+      "newbieTake": "使用相關服務的企業可按微軟指引檢查通知、日誌與高權限帳號防護，一般投資者則等待官方安全通知即可。以上皆非買賣建議。"
+    },
+    {
+      "id": 11,
+      "title": "雲端服務Rackspace Spot遭入侵，攻擊者可讀取客戶叢集內的機密資料",
+      "toc": "Rackspace Spot叢集憑證遭濫用",
+      "summary": "iThome 11月24日報道，Rackspace託管式Kubernetes平臺Spot因憑證外洩遭入侵，攻擊者曾在部分客戶叢集建立未經授權的Pod並讀取Secrets。攻擊活動約介於11月17日至18日，平臺其後暫停存取並清理環境，至臺灣時間11月22日凌晨才恢復服務，公司並要求客戶輪替權杖與憑證。",
+      "source": "iThome",
+      "date": "2026年11月24日",
+      "url": "https://www.ithome.com.tw/news/180726",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "雲端託管Kubernetes的憑證外洩，可能引發市場對多租戶平臺安全與服務中斷的關注，但影響範圍要以業主通知與客戶是否完成憑證輪替為準。",
+      "newbieTake": "若有使用該平臺，應依照業者通知輪替憑證並檢查日誌；這不是對個別上市公司的投資結論。以上皆非買賣建議。"
+    },
+    {
+      "id": 12,
+      "title": "新加坡CSA警告Apache HTTP/2重大漏洞已遭積極利用，公開PoC也已流傳",
+      "toc": "CSA警告Apache HTTP/2漏洞遭利用",
+      "summary": "iThome 11月23日報道，新加坡網路安全局於11月17日警告，Apache HTTP Server的HTTP/2模組漏洞CVE-2026-119618據報已遭積極利用，且已有公開概念驗證程式。該漏洞CVSS評分為8.1，可能導致遠端執行程式碼；受影響版本為啟用mod_http2的Apache 2.4.55至2.4.70，Apache已於11月11日發布2.4.71修補。",
+      "source": "iThome",
+      "date": "2026年11月23日",
+      "url": "https://www.ithome.com.tw/news/180711",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "廣泛使用的網頁伺服器出現已遭利用的遠端程式碼執行漏洞，可能提高企業緊急修補的優先順序，但官方警告並未量化全球受害規模。",
+      "newbieTake": "系統管理者應核對是否仍使用受影響版本並更新至2.4.71或後續修補版本。以上皆非買賣建議。"
+    },
+    {
+      "id": 13,
+      "title": "Cisco Expressway重大漏洞遭利用，攻擊者入侵企業並內部環境取得Root權限",
+      "toc": "Cisco Expressway漏洞已有實際攻擊",
+      "summary": "iThome 11月23日報道，CISA於11月20日把思科視訊通訊閘道Expressway重大漏洞CVE-2026-76466列入已知遭利用漏洞名單。資安公司F6稱發現首起實際攻擊：攻擊者入侵執行X15.5.3的Expressway，取得root權限並嘗試在內部網路橫向移動。該漏洞CVSS為9.8，思科已於10月下旬公布並修補。",
+      "source": "iThome",
+      "date": "2026年11月23日",
+      "url": "https://www.ithome.com.tw/news/180705",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "被列入CISA已知遭利用名單，通常意味機構應優先修補；這是針對特定產品版本的安全事件，不宜外推為思科全部產品線的營運問題。",
+      "newbieTake": "使用Expressway的機構應核對版本與官方修補公告，並檢查是否有異常的叢集或權限活動。以上皆非買賣建議。"
+    },
+    {
+      "id": 14,
+      "title": "黃仁勳正式重返輝達 CEO！董事會全票通過復職、台指期夜盤狂飆漲停",
+      "toc": "T客邦：黃仁勳復職與台指期夜盤",
+      "summary": "T客邦11月23日報道，輝達董事會全票通過黃仁勳復職為執行長，並提及臺灣股指期貨夜盤隨消息大幅上漲。復職本身應以輝達新聞室聲明為準；期貨夜盤波動是市場即時反應，不是公司公告，也不等於次日現貨開盤結果。",
+      "source": "T客邦",
+      "date": "2026年11月23日",
+      "url": "https://www.techbang.com/posts/135048-jensen-huang-returns-as-nvidia-ceo-taiwan-futures-surge",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "亞洲衍生工具對美國公司消息的即時反應，可能影響隔夜情緒，但夜盤漲停或急升並不能代表現貨市場的正式收市，也不改變公司調查仍會繼續的事實。",
+      "newbieTake": "應回到公司新聞室核對人事決定，並把期貨夜盤視為另一時段的價格，而不是已完成的正式收市。以上皆非買賣建議。"
+    },
+    {
+      "id": 15,
+      "title": "三星2027至2029年存储产能据悉大部分已被锁定 部分客户寻求将长约延至2031年",
+      "toc": "傳三星2027至2029年記憶體產能多已被鎖定",
+      "summary": "富途轉載的要聞寫，三星2027至2029年儲存（記憶體）產能據悉大部分已被鎖定，部分客戶尋求把長約延至2031年。原文來源：財聯社。這是供應鏈層面的第三方傳述，不是三星官方產能公告，亦未在本則標題中給出已核對的合約金額。",
+      "source": "富途快訊",
+      "date": "2026年11月24日",
+      "url": "https://news.futunn.com/post/1005376730/samsung-s-memory-production-capacity-for-2027-2029-is-reportedly",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "若長約確實鎖定未來產能，市場可能解讀為記憶體供應仍然緊張，但「據悉」尚未等於公司已公布的產能或價格指引。",
+      "newbieTake": "可等待三星或主要客戶是否在正式說明中證實長約年限與產能安排。以上皆非買賣建議。"
+    },
+    {
+      "id": 16,
+      "title": "富途早报 | 特朗普、万斯及“其他相关方”亲自介入，黄仁勳重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+      "toc": "富途早報：輝達復職、小米今日業績",
+      "summary": "富途資訊11月24日早報匯整多則隔夜消息，包括輝達宣布黃仁勳復職，以及小米將於今日公布業績等。原文來源：富途資訊。復職與小米業績安排應分別以輝達新聞室及小米投資者關係／港交所文件為準，早報屬匯總轉述，不是上述公司的公告正文。",
+      "source": "富途快訊",
+      "date": "2026年11月24日",
+      "url": "https://news.futunn.com/post/1005392621/futu-morning-brief-trump-vance-and-other-relevant-parties-personally",
+      "tickers": [
+        "NVDA",
+        "1810.HK"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "早報有助一次看到隔夜科技與觀察名單相關標題，但把多則消息寫在同一篇，並不能替代各公司的原始聲明與業績公告。",
+      "newbieTake": "看到匯總標題後，應點進公司新聞室或交易所文件核對原文，尤其是今晚小米第三季業績是否已經刊出。以上皆非買賣建議。"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "date": "2026-11-24",
+  "stories": [
+    {
+      "id": "macro-etf-rebound",
+      "ticker": "SPYM",
+      "title": "宏觀／ETF：美股週一大幅反彈，港股週一微跌後今日開市將先消化外圍；閃速PMI放緩、威廉斯稱通脹仍有工作要做",
+      "summary": "CNBC寫，美股週一在輝達董事會宣布黃仁勳即時復職後急升：標普500升4.73%、收7,237.17；納斯達克綜合指數升6.51%、收24,089.56；兩者同錄得2025年4月以來最佳單日表現。道瓊斯工業平均指數升1,447.98點，或3.01%，收49,595.31。報道寫，上週五三大指數已較近期高位回落超過10%，進入技術性調整；上週是納指與道指六年多以來最差一週，標普500則錄得2025年4月以來最大單週跌幅；較窄的納斯達克100上週五收市時距熊市（較高位回落接近20%）不遠。同一稿亦寫，微軟週一升逾1%。Yahoo Finance顯示，持倉ETF正規收市為11月23日：SPYM收85.04（前收11/20 81.27，約+4.64%）、VEU收76.69（前收73.78，約+3.94%）；研究名單上的微軟收492.50（約+1.65%）。香港電台寫，恒生指數週一跌27點、或0.1%，收22,383，成交2,530.9億港元；恒生科技指數跌0.1%，收3,508；國企指數跌0.3%，收7,527。內地方面，上證指數升0.15%收3,538，深成指升1.93%收10,454，創業板指升3.08%收2,280；南韓綜指則跌3.31%，收4,708。港股週一收市時，美股反彈尚未完成，今日（週二）開市才會首先面對這輪外圍變化。今早港股尚未開市，未採用期貨報價作為收市。S&P Global 11月23日美東9:45公布的美國11月閃速PMI顯示：綜合產出指數54.6（10月55.9），為四個月低位；服務業商業活動指數54.7（10月56.1），亦為四個月低位；製造業PMI 54.5（10月54.9），製造業產出指數53.7（10月54.5），同為三個月低位。數據於11月12日至20日收集，指數仍高於50，代表繼續擴張但步伐放慢。紐約聯儲總裁約翰·威廉斯同日在University of Mount Saint Vincent發表講稿〈The Economic Mixdown〉，並在金管／央行摘要中重申：「把通脹帶回2%是100%必要的。」以及「我們必須隨時間採取行動，確保通脹及時、並且在可持續的基礎上回到2%的目標。要完成這件事，仍然有工作要做。」他預計今年整體通脹約3.5%，明年放緩至略高於2%，2028年回到2%目標；這是他個人展望，不是FOMC聲明。CNBC寫，他沒有直接評論12月議息，而是指向10月底會議後仍要累積更多資訊的表述；該稿並寫，市場幾乎完全計入政策利率從現時3.75%至4%目標區間上調25個基點，這只是市場定價描述，不是議息決定。本週美國為感恩節短週：週四紐約證交所全日休市，週五提早於美東下午1:00收市；香港仍如常開市。美國經濟分析局日程核對，週三（11/25）上午8:30將發布第三季GDP第二次估算與企業盈利，以及10月個人收入與支出（含PCE）。聯儲理事會行事曆顯示，FOMC下次會議仍為12月8至9日（附經濟預測摘要）。金管局每日貨幣統計截至11月23日18:30：兌換保證仍為7.75–7.85，基本利率4.25%，隔夜HIBOR 2.51%（11月20日為2.38%），一個月期HIBOR定價2.77089%。",
+      "whyItMatters": "單日大幅反彈發生在上週技術性調整之後，並不自動代表調整已經結束，也不等於指數已回到先前高位。SPYM會隨標普500起伏，VEU則受美國以外市場影響；兩隻ETF同日都可以和恒生指數方向不一致，單日升跌也不等於基金長期回報已經改變。閃速PMI是初步調查、仍屬擴張區間，不能替代週三的PCE與GDP第二次估算。威廉斯的講話是聯儲官員個人觀點，市場對12月加息的定價隨時會隨數據改變。只要美元兌港元仍在兌換保證區間內，並不自動等於金管局已經干預。",
+      "whatToWatch": "今日港股開市如何消化週一美股反彈、週三PCE與GDP第二次估算、以及感恩節短週美國時段（週四休市、週五提早收市）與港股正常五日交易的不對稱。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-23",
+          "title": "Stock market news for Nov. 23, 2026",
+          "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+        },
+        {
+          "category": "wire",
+          "publisher": "RTHK",
+          "date": "2026-11-23",
+          "title": "HK slips as mainland, Kospi diverge amid stocks push",
+          "url": "https://news.rthk.hk/rthk/en/component/k2/1878944-20261123.htm"
+        },
+        {
+          "category": "official",
+          "publisher": "S&P Global",
+          "date": "2026-11-23",
+          "title": "S&P Global Flash US PMI (November 2026)",
+          "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/18abd879261e464fbcc1bc22d4ea64eb"
+        },
+        {
+          "category": "official",
+          "publisher": "Federal Reserve Bank of New York",
+          "date": "2026-11-23",
+          "title": "The Economic Mixdown",
+          "url": "https://www.newyorkfed.org/newsevents/speeches/2026/wil261123"
+        },
+        {
+          "category": "official",
+          "publisher": "Federal Reserve Bank of New York",
+          "date": "2026-11-23",
+          "title": "Key Takeaways from President Williams’s Speech on the Economic Outlook and Monetary Policy",
+          "url": "https://tellerwindow.newyorkfed.org/2026/11/23/key-takeaways-from-president-williamss-speech-on-the-economic-outlook-and-monetary-policy-28/"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-23",
+          "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+          "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+        },
+        {
+          "category": "official",
+          "publisher": "U.S. Bureau of Economic Analysis",
+          "date": "2026-11-24",
+          "title": "News Release Schedule",
+          "url": "https://www.bea.gov/news/schedule"
+        },
+        {
+          "category": "official",
+          "publisher": "Board of Governors of the Federal Reserve System",
+          "date": "2026-11-24",
+          "title": "Monetary Policy: Federal Open Market Committee calendars",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "official",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-11-23",
+          "title": "Daily Monetary Statistics (18:30, 23/11/2026)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-23",
+          "title": "Daily unadjusted closes for SPYM, VEU and MSFT",
+          "url": "https://finance.yahoo.com/"
+        }
+      ]
+    },
+    {
+      "id": "gld-rebound",
+      "ticker": "GLD",
+      "title": "黃金ETF（GLD）：現貨金自逾一年低位反彈，GLD週一收升約3.14%",
+      "summary": "CNBC週一美東下午1:35的報道寫，現貨金升3.4%，至每盎司3,650.62美元，此前上週五曾跌至2025年9月以來最低水平；該稿並寫，金價上週累計跌逾9%，因人工智能相關股份急挫，部分投資者出售黃金以籌集現金或滿足按金要求。這是午後時點，不是紐約現貨的單一官方收市，也不等於GLD的正規交易收市。同一稿寫，現貨銀升5%，至每盎司43.23美元。Yahoo Finance顯示，GLD週一收333.02（前收11/20 322.87，約+3.14%）。投資者正等待週三公布的10月PCE，作為下一步觀察通脹與利率預期的官方數據。",
+      "whyItMatters": "黃金並非在每一輪股市反彈或下跌中都會朝同一方向移動。現貨金的盤中快照與GLD收市價對應不同時點，不宜合併成單一「官方收市」。單日反彈出現在上週大幅下跌之後，並不自動等於已經確認底部，也不保證升勢會持續。",
+      "whatToWatch": "今日現貨與GLD的正規報價，以及週三PCE。不要把單一午後快照當成已完成的趨勢反轉。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-23",
+          "title": "Gold rises from 14-month low as markets await US inflation data",
+          "url": "https://www.cnbc.com/2026/11/23/gold-rises-from-14-month-low-as-markets-await-us-inflation-data.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-23",
+          "title": "SPDR Gold Shares (GLD) historical prices",
+          "url": "https://finance.yahoo.com/quote/GLD/history/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-jefferies",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：杰富瑞啟動覆蓋並給予買入評級及210美元目標價；股份週一收升約4.35%",
+      "summary": "CNBC 11月23日報道，投資銀行杰富瑞（Jefferies）啟動對SpaceX的研究覆蓋，給予買入評級，目標價210美元；報道寫，該目標價較股份上一次收市價高出64%。分析員Sheila Kahyaoglu在給客戶的報告中說，SpaceX的工程能力使其在進入地球軌道的運力方面占據主導，並認為這一基礎將支撐太空與連接業務的持久高增長。報道把報告中有關人工智能市場規模、算力規劃等數字歸於杰富瑞的假設，不是公司當日公告。CNBC並引述LSEG數據稱，覆蓋SpaceX的44名分析員中，有34人給予買入或強力買入評級；又寫該股過去一個月跌逾13%，今年稍早以當時紀錄規模的首次公開發售上市，其後已跌至低於135美元的招股價。這些評級、目標價與比較都只是第三方意見，不是投資建議，也不保證股價會達到該水平。Yahoo Finance顯示，SPCX週一收133.35（前收11/20 127.79，約+4.35%），該收市同時出現在更廣泛的人工智能相關股份反彈之中。今早SpaceX IR新聞稿列表最新仍是11月6日董事會變動，未見就評級報告或週一交易另發公告。",
+      "whyItMatters": "啟動覆蓋是券商開始發表研究報告並通常同時給予評級和目標價，並不是公司本身的業績、融資或發射公告，也不改變已發行股份數目。目標價建基於分析員假設，不同機構可以有完全不同的結論，而且可以隨時調整。週一收升亦同時出現在更廣泛的市場反彈之中，不宜單獨理解為評級報告的全部效果。",
+      "whatToWatch": "公司IR是否有新的官方公告或發射說明，以及後續是否有其他機構更新研究。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-23",
+          "title": "Jefferies initiates SpaceX at buy with $210 price target",
+          "url": "https://www.cnbc.com/2026/11/23/spacex-jefferies-buy-price-target.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-23",
+          "title": "Space Exploration Technologies Corp. (SPCX) daily close",
+          "url": "https://finance.yahoo.com/quote/SPCX"
+        },
+        {
+          "category": "ir",
+          "publisher": "SpaceX IR",
+          "date": "2026-11-06",
+          "title": "SpaceX IR updates (latest reviewed: Don Harrison board service, 6 Nov 2026)",
+          "url": "https://ir.spacex.com/updates/default.aspx"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-q3-preview",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：今晚公布第三季業績並舉行電話會議；週一翌日披露報表顯示繼續回購並發行獎勵計劃新股",
+      "summary": "小米投資者關係網站寫，公司計劃於2026年11月24日（星期二）公布2026年第三季業績，並於當日晚上7時30分（北京時間）舉行投資者電話會議／網絡廣播，高級管理層將回顧第三季財務及業務表現，並分享對未來發展的看法。10月23日《董事會會議日期》公告亦已訂於今日舉行會議，以考慮及批准截至2026年9月30日止三個月及九個月的未經審核綜合業績。今早簡報截稿時，尚未見到已刊發的業績公告，實際數字要以稍後的正式公告為準。另外，公司於11月23日向港交所提交的《翌日披露報表》寫，已發行股份（不包括庫存股份）在11月20日開始時為21,321,443,891股，11月23日因股份計劃向非董事參與者發行106,000股新股（每股發行價0.82港元），期末為21,321,549,891股。同一報表的購回報告寫，11月23日在聯交所以場內方式購回1,815,000股B類（證券代號01810，人民幣櫃台81810），每股最高購回價27.58港元、最低27.44港元，付出價格總額49,926,838.5港元，成交量加權平均價27.51港元；該批股份擬予註銷，並非持作庫存股份。報表寫，購回授權於2026年6月2日獲通過，授權可購回股份總數為2,583,952,309股；根據該授權已購回159,771,000股，約佔決議通過當日已發行股份（不包括庫存股份）的0.62%。由首席財務官林世偉提交。這些文件是會議安排及股份變動披露，並不是第三季業績本身。Yahoo 11月23日收27.52港元（前收11/20 27.64，約-0.43%）。今早港股尚未開市，沒有11月24日正式收市。",
+      "whyItMatters": "今晚公布的是未經審核季度業績，數字要以公告為準，不應提前假設結果。翌日披露報表確認公司在11月23日仍有在市場回購股份，且該批股份擬予註銷；同時亦有因獎勵計劃發行新股。回購與新股發行會朝不同方向影響已發行股數，單日回購量相對已發行股本很小，也不等於公司對股價作出保證。電話會議是管理層解釋業績的場合，內容應與正式公告一併閱讀。",
+      "whatToWatch": "今日傍晚及晚上是否刊出第三季業績公告，以及7時30分電話會議的官方說明。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "ir",
+          "publisher": "Xiaomi IR",
+          "date": "2026-11-24",
+          "title": "Xiaomi Corporation 2026 Third Quarter Results Announcement",
+          "url": "https://xiaomi.gcs-web.com/events/event-details/xiaomi-corporation-2026-third-quarter-results-announcement"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKEX",
+          "date": "2026-10-23",
+          "title": "Date of Board Meeting",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1023/2026102301169.pdf"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKEX",
+          "date": "2026-11-23",
+          "title": "翌日披露報表（已發行股份變動及股份購回）",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301139_c.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-23",
+          "title": "Xiaomi Corporation (1810.HK) daily close",
+          "url": "https://finance.yahoo.com/quote/1810.HK"
+        }
+      ]
+    },
+    {
+      "id": "nvda-huang-reinstated",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：董事會宣布黃仁勳即時復職為總裁兼行政總裁；獨立委員會調查仍會完成",
+      "summary": "輝達新聞室11月23日宣布，董事會一致通過，黃仁勳即時復職為總裁兼行政總裁，並重新擔任董事。聲明寫，董事會是在與黃仁勳進行一連串討論和會面後作出決定，並對其坦誠程度及領導能力感到滿意；過程中董事會收到美國政府高層的意見，並基於這些意見，有信心其復職不構成國家安全風險。董事長Harvey C. Jones說，董事會相信黃仁勳是領導公司的合適人選，其復職符合股東、員工、合作夥伴和客戶的最佳利益；他將繼續擔任董事長。聲明感謝Colette Kress在兼任臨時行政總裁期間的工作，她會繼續擔任首席財務官。聲明亦重申：鑒於近期有報道指黃仁勳曾成為外國情報工作的目標，董事會已成立僅由獨立董事組成的委員會展開調查，並聘請獨立法律顧問協助，該調查將進行至結束；黃仁勳完全支持並承諾配合。董事會近日另成立國家安全與出口管制委員會；公司將招聘新的首席合規官，向提名與公司治理委員會匯報，並會繼續配合進行中的政府調查和查詢。CNBC引述特朗普總統在《Squawk on the Street》的訪問，稱他曾與董事會溝通並認為黃仁勳「沒有做錯」；這是行政部門官員的公開表述，不是公司公告，也不是調查結論。Yahoo Finance顯示，NVDA週一收165.05（前收11/20 125.53，約+31.48%）。CNBC報道寫，這是該股2003年5月以來最佳單日。最新財務類新聞稿仍是11月17日第三季（FY2027）業績，復職聲明並未修改該份業績數字。",
+      "whyItMatters": "復職是公司治理和人事安排的公司公告，股價單日大幅波動反映市場對領導層變動的即時反應，但不能用來推斷業績、出口管制或調查結果。公司明確寫獨立委員會調查仍會完成，並新增合規與國家安全監督架構，意味相關不確定性並未因復職而自動消失。總統或官員的公開評論，與董事會已作出的人事決定、以及仍在進行的調查，屬於不同層次的資訊，應分開閱讀。",
+      "whatToWatch": "獨立委員會調查或政府查詢是否有後續官方說明，以及公司是否就合規架構或出口管制再發公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "ir",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-23",
+          "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-23",
+          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-23",
+          "title": "Stock market news for Nov. 23, 2026",
+          "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-23",
+          "title": "NVIDIA Corporation (NVDA) daily close",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ]
+    },
+    {
+      "id": "icbc-book-closure",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：H股即日起至週五暫停辦理股份過戶登記；臨時股東會仍訂於週五舉行",
+      "summary": "11月9日《2026年第三次臨時股東會通知》通函訂於11月27日（星期五）下午2:50在北京復興門內大街55號總行舉行會議。普通決議為選舉周姬為非執行董事；特別決議包括發行資本工具及總損失吸收能力合格非資本債務工具（發行規模不超過人民幣9,500億元或等值外幣，其中包含此前已批、尚未發行的人民幣1,900億元），以及2027年集團金融債券發行計劃（集團發行不超過人民幣3,500億元，不包括具有補充資本性質的次級金融債券）。這些是授權上限，不是已經完成全數發行。通函寫，H股將於11月24日（星期二）至11月27日（星期五）（包括首尾兩天）暫停辦理股份過戶登記；凡於11月23日（星期一）營業時間結束時名列備存於香港的股東名冊之H股股東均有權出席。今早港交所標題搜尋未見11月23日至24日的新公告，最新仍是11月12日二級資本債券第七期發行完畢。會議尚未舉行，沒有表決結果。Yahoo 11月23日收7.770港元（前收11/20 7.885，約-1.46%）。今早港股尚未開市，沒有11月24日正式收市。",
+      "whyItMatters": "暫停辦理股份過戶登記是為確定有權出席股東會的股東名單，並不是停牌，也不等於會議已經通過任何決議。授權發行上限獲通過後，實際發行仍要視後續安排而定，不能把上限理解成已經借到或已經發行的金額。",
+      "whatToWatch": "週五臨時股東會是否如期舉行，以及會後是否刊發表決結果公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "HKEX",
+          "date": "2026-11-09",
+          "title": "2026年第三次臨時股東會通知",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900580.pdf"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKEX",
+          "date": "2026-11-12",
+          "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7)",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-23",
+          "title": "ICBC (1398.HK) daily close",
+          "url": "https://finance.yahoo.com/quote/1398.HK"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "initiate-coverage",
+      "title": "啟動覆蓋（initiate coverage）",
+      "titleEn": "Initiate coverage",
+      "what": "啟動覆蓋是投資銀行或券商研究部門，開始對某家已上市（或即將被該機構正式跟進）的公司發表研究報告，並通常同時給予投資評級（例如買入、持有、賣出）和目標價。它是研究機構的意見發布，不是上市公司自己的業績、融資或監管公告，也不等於交易所或監管機構對該股作出指示。",
+      "whyItMatters": "新手看到「買入評級」或「目標價高出某個百分比」，容易以為那是已經發生的事實或保證。其實目標價建基於分析員的假設，不同機構可以得出完全不同的結論，而且之後可以隨時上調或下調。啟動覆蓋有時會與當日股價波動同時出現，但單日升跌還可能受到大市或其他消息影響，不能自動理解成報告的全部效果。",
+      "whereToday": "CNBC 11月23日報道，杰富瑞啟動對SpaceX的研究覆蓋，給予買入評級，目標價210美元，並寫該目標價較股份上一次收市價高出64%。報道亦引述LSEG數據，指當時有44名分析員覆蓋該股、其中34人給予買入或強力買入評級。這些都是第三方意見。Yahoo顯示SPCX當日收133.35美元，約升4.35%，同時處於更廣泛的人工智能相關股份反彈之中。公司IR未就這份報告另發公告。",
+      "whatToWatch": "留意後續是否有公司官方公告，或其他機構更新評級；評級調整本身仍只是意見，唔構成買賣建議。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/42299f70bc56810aa3eefe28fcf54305"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Thanks Don Harrison for His Service on the Board",
+        "date": "2026-11-06",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金股份",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普 500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "翌日披露報表：11月23日在聯交所回購 1,815,000 股 B 類（擬註銷），並就股份計劃發行 106,000 股新股",
+        "date": "2026-11-23",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1123/2026112301139_c.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
+        "date": "2026-11-18",
+        "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+        "date": "2026-11-23",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+        "date": "2026-11-12",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-24.mp3",
+  "audioScriptChars": 3478,
+  "audioVoice": "gTTS-zh-TW"
+}
