@@ -1,0 +1,324 @@
+{
+  "date": "2026-11-26",
+  "stories": [
+    {
+      "id": "macro-etf-thanksgiving-pce-gdp",
+      "ticker": "SPYM",
+      "title": "宏觀／ETF：美股週三早段急跌後收回大部分跌幅，收市表現分歧；官方已公布10月PCE與第三季GDP第二次估算；今日美國感恩節全日休市",
+      "summary": "CNBC寫，週三美股早段由人工智能相關股份帶動大幅下跌，道瓊斯工業平均指數盤中最多跌逾1,100點、或2.2%，納斯達克綜合指數最多跌4.6%，標普500最多跌3.2%，其後大部分跌幅被收回。截稿時CNBC與Yahoo Finance的正規收市一致：道指升164.25點，或0.33%，收50,182.95；標普500跌0.25%，收7,182.78；納斯達克綜合指數跌0.62%，收23,585.80。CNBC並寫，輝達週三下跌接近4%。Yahoo Finance顯示持倉ETF週三收市：SPYM收84.37（前收84.61，約-0.28%）、VEU收76.42（前收76.35，約+0.09%）；研究名單上的微軟收489.93（約-1.25%），輝達收149.30（約-3.91%）。美國經濟分析局週三上午8:30（美東時間）發布的官方數字顯示：10月個人收入按月升0.7%，個人消費支出（PCE）按月升0.3%；PCE物價指數按月升0.3%、按年升3.8%，剔除食品與能源的核心PCE物價指數按月亦升0.3%、按年升3.3%；實質PCE按月幾乎持平（表格為0.0%）。同一天公布的第三季實質國內生產總值第二次估算為按年率計算升4.3%，較初值3.4%上修0.9個百分點；對私人國內購買者的實質最終銷售亦由4.9%上修至5.8%。下次個人收入與支出（含11月PCE）以及第三季GDP第三次估算，均訂於12月23日發布。港台報道，恒生指數週三高開低走，失守22,000點，收市報21,966點，跌253點，或1.14%，再創逾一年半新低，連跌七個交易日；臨近收市低見21,915點，主板成交額近2,300億港元。同一稿寫，恒生科技指數收3,378點，跌88點、近3%，連跌11個交易日。Yahoo Finance的最近成交價亦顯示恒生指數21,966.01、國企指數7,384.94。今早港股尚未開市，未採用期貨報價作為收市。紐約證交所行事曆確認，今日（11月26日，星期四）為感恩節，美股全日休市；翌日（11月27日，星期五）提早於美東下午1:00收市。香港仍如常開市。聯儲理事會行事曆顯示，FOMC下次會議仍為12月8至9日（附經濟預測摘要）。金管局每日貨幣統計截至11月25日18:30：兌換保證仍為7.75–7.85，基本利率4.25%，隔夜HIBOR 2.44%（11月24日為2.63%），一個月期HIBOR定價2.87893%，港匯指數100.6（升0.1）。當日外匯交易及其他貨幣市場運作記錄為零，並不自動等於兌換保證已被觸發。港台並寫，部分汽車及消費股逆市造好；這些並不是本輪Active Watchlist上的名字，只作為中國消費氣氛的背景。CNBC亦提到，投資情緒受到白宮對十多個主要貿易夥伴（包括中國與歐盟）公布新一輪關稅消息影響；關稅細節以官方文本為準，此處不引用未經核對的稅率。",
+      "whyItMatters": "週三美股早段跌幅很大，但收市時道指已轉升、標普與納指的跌幅也明顯收窄，單看收市或單看盤中低位，都容易得出不完整的印象。SPYM會隨標普500起伏，VEU則受美國以外市場影響，兩隻ETF同一日不必同向。PCE是聯儲觀察通脹時常用的官方數據，第二次估算則會修正第三季經濟增長的初值；兩者都已正式發布，但並不自動等於12月議息已經做出決定。今日美國休市、週五提早收市，港股卻正常開市，外圍參考會出現時差。只要美元兌港元仍在兌換保證區間內，並不自動等於金管局已經干預。",
+      "whatToWatch": "今日港股開市如何消化週三美股科技股波動與已公布的PCE、GDP第二次估算，以及週五美股提早收市與港股正常交易的不對稱。下次PCE與GDP第三次估算訂於12月23日，FOMC會議為12月8至9日。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-25",
+          "title": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
+          "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+        },
+        {
+          "category": "official",
+          "publisher": "U.S. Bureau of Economic Analysis",
+          "date": "2026-11-25",
+          "title": "Personal Income and Outlays, October 2026",
+          "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
+        },
+        {
+          "category": "official",
+          "publisher": "U.S. Bureau of Economic Analysis",
+          "date": "2026-11-25",
+          "title": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026",
+          "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"
+        },
+        {
+          "category": "wire",
+          "publisher": "RTHK",
+          "date": "2026-11-25",
+          "title": "恒指跌穿22000點　連跌7個交易日　晶片及AI相關股份大跌",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1879227-20261125.htm"
+        },
+        {
+          "category": "official",
+          "publisher": "NYSE Group",
+          "date": "2026-11-26",
+          "title": "Holidays & Trading Hours (Thanksgiving 2026; Friday early close 1:00 p.m. ET)",
+          "url": "https://www.nyse.com/trade/hours-calendars/"
+        },
+        {
+          "category": "official",
+          "publisher": "Board of Governors of the Federal Reserve System",
+          "date": "2026-11-26",
+          "title": "Monetary Policy: Federal Open Market Committee calendars",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "official",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-11-25",
+          "title": "Daily Monetary Statistics (18:30, 25/11/2026)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-25",
+          "title": "Daily unadjusted closes for major US indexes, Hang Seng, SPYM, VEU, MSFT and NVDA",
+          "url": "https://finance.yahoo.com/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-fcc-starmind-authorization",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：美國聯邦通信委員會部分批准「Starmind」軌道數據中心系統，最多100萬顆衛星；股份週三收升約1.30%",
+      "summary": "美國聯邦通信委員會（FCC）太空局2026年11月25日通過備忘意見、命令及授權（DA 26-1273），就Space Exploration Holdings, LLC申請的SpaceX軌道數據中心系統（又稱Starmind；呼號S00798；檔案SAT-LOA-20260108-00016）作出「部分批准、部分延後」（GRANTED-IN-PART/DEFERRED-IN-PART），並附帶條件。授權範圍是最多100萬顆非地球同步軌道衛星，在高度約500至1,002公里、每層跨度50公里的軌道殼層運行，作為太空數據中心；主要通訊擬使用光學鏈路，本次批准的無線頻譜僅涵蓋備用及緊急遙測、追蹤與指令（TT&C），使用18.8–19.3 GHz（衛星至地球）及28.6–29.1 GHz（地球至衛星），且為不受保護、不可干擾他人的基礎。部署里程碑包括：不遲於2033年11月25日部署並營運首顆獲授權衛星；不遲於2035年11月25日達致獲授權上限的10%；不遲於2038年11月25日達致50%；不遲於2040年11月25日完成其餘衛星。命令寫明，Viasat、Kuiper Systems LLC（Amazon）及美國天文學會的反對申請被駁回；同時，SpaceX就600公里以上衛星不以大氣層再入方式處置的豁免請求被延後，公司在部署這類衛星前須另行申請修改授權。被授權人可於發布起30日內拒絕附條件的批准，逾期則視為正式接受。這是監管機構的授權文件，不是SpaceX自己的業績或收入公告，也不等於衛星已經發射或數據中心已經投入商業營運。SpaceX投資者關係頁面截稿時未見就此事刊發獨立新聞稿。Yahoo Finance顯示，SPCX週三收127.44美元，較前收125.81美元約升1.30%。",
+      "whyItMatters": "對持倉名單上的SpaceX來說，這是一項來自美國通信監管機構的正式授權，確定公司可以在附帶條件下推進軌道數據中心星座，但批准範圍主要是備用無線指令鏈路，光學通訊與實際部署仍取決於後續執行、修改申請與里程碑。部分批准並不自動等於商業計劃已經兌現，延後的廢棄物處置豁免也說明有些技術與合規問題尚未完結。單日股價升跌更不能代表授權的長期影響已經被完整定價。",
+      "whatToWatch": "是否出現SpaceX或證交所後續公告、公司會否在30日內接受或拒絕附條件批准，以及就600公里以上衛星處置方法提交的修改申請。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "official",
+          "publisher": "Federal Communications Commission",
+          "date": "2026-11-25",
+          "title": "Space Exploration Holdings, LLC Application for Launch and Operating Authority for the SpaceX Orbital Data Center System (DA 26-1273)",
+          "url": "https://www.fcc.gov/document/fcc-authorizes-1-million-satellites-data-centers-space"
+        },
+        {
+          "category": "official",
+          "publisher": "Federal Communications Commission",
+          "date": "2026-11-25",
+          "title": "DA-26-1273A1 (Memorandum Opinion and Order and Authorization, text)",
+          "url": "https://docs.fcc.gov/public/attachments/DA-26-1273A1.txt"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-25",
+          "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-25",
+          "title": "SPCX daily unadjusted close",
+          "url": "https://finance.yahoo.com/quote/SPCX"
+        }
+      ]
+    },
+    {
+      "id": "gld-rebound-thanksgiving-eve",
+      "ticker": "GLD",
+      "title": "黃金ETF（GLD）：週三收升約0.61%；現貨金盤中先急跌後收回，屬第三方行情報道",
+      "summary": "Yahoo Finance顯示，SPDR黃金股份（GLD）週三收327.45美元，較前收325.45美元約升0.61%。Kitco（第三方行情報道，非ETF發行人公告）寫，現貨金週三美盤後段自早段急跌中回升，一度跌破每盎司3,450美元後收回3,570美元上方，截稿附近報約3,576.30美元，升約21.20美元或0.60%，當日波幅約3,426.40至3,590.00美元。Kitco把回升與美國國債收益率回落、美股自早段低位反彈放在一起討論，同時提到當日公布的經濟增長上修與通脹數據仍然偏高。這些現貨報價與歸因都不是State Street或世界黃金協會的公告，也不等於GLD的資產淨值已經按同一幅度變動。今日美國感恩節黃金相關期貨與ETF交易時段亦會受假期影響，不宜把假期外的即時報價當成週三正規收市。",
+      "whyItMatters": "GLD追蹤金條價格，單日升跌會隨現貨金及美元利率預期波動，但不等於黃金的長期保值角色已經改變。週三早段現貨金曾出現頗大的盤中波幅，收市卻轉為溫和上升，只看收市或只看盤中低位都可能得出不同印象。官方PCE與GDP數字可以影響市場對利率路徑的討論，但並不自動決定金價下一步方向。",
+      "whatToWatch": "週五美股提早收市前後GLD的正規報價，以及金管局兌換保證區間是否維持。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-25",
+          "title": "GLD daily unadjusted close",
+          "url": "https://finance.yahoo.com/quote/GLD"
+        },
+        {
+          "category": "wire",
+          "publisher": "Kitco News",
+          "date": "2026-11-25",
+          "title": "Gold, silver reverse early losses as Wall Street rebounds ahead of Thanksgiving - Kitco PM Report",
+          "url": "https://www.kitco.com/news/article/2026-11-25/gold-silver-reverse-early-losses-wall-street-rebounds-ahead-thanksgiving"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-first-session-after-q3",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：業績後首個港股正規時段收升約0.23%，但盤中波幅較大",
+      "summary": "小米已於11月24日刊發截至2026年9月30日止三個月及九個月的未經審核合併業績。昨日簡報指出，11月25日才是港股消化該公告的首個正規時段。Yahoo Finance顯示，1810.HK週三開26.86港元，高見28.66港元、低見26.46港元，收26.56港元，較前收26.50港元約升0.23%，成交約2.471億股。收市升幅不大，但盤中上下波幅明顯寬於收市變化，說明當日買賣並不便宜地收在同一價位附近。這只是市場報價，不是公司對業績的補充公告。截稿時未見小米於11月25日就業績再刊發新的港交所公告。",
+      "whyItMatters": "業績數字已經印在公司公告裏，第一個交易日的收市升跌，並不能自動證明市場已經「完整消化」或「尚未消化」整份業績。出貨量、平均售價、毛利率和汽車分部損益要分開看，單看股價一日變化更容易以偏概全。",
+      "whatToWatch": "是否有後續的港交所公告或投資者關係補充資料，以及後續正規時段的成交與報價。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Xiaomi / HKEX",
+          "date": "2026-11-24",
+          "title": "截至2026年9月30日止三個月及九個月之業績公告",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400539_c.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-25",
+          "title": "1810.HK daily unadjusted open, high, low, close and volume",
+          "url": "https://finance.yahoo.com/quote/1810.HK"
+        }
+      ]
+    },
+    {
+      "id": "nvda-giveback-creditwatch",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：股份週三再跌約3.91%；第三方報道標普把評級列入負面信用觀察，屬非公司公告",
+      "summary": "Yahoo Finance顯示，輝達週三收149.30美元，較前收155.38美元約跌3.91%，為董事會11月23日宣布黃仁勳復職後連續第二個下跌的正規交易日。公司新聞室最新正式公告仍是11月23日的董事會復職決定；截稿時未見輝達就週三股價或信用評級刊發新的公司公告。Investing.com稿件（經Yahoo Finance轉載，第三方·非公告）寫，標普全球評級週三把輝達列入CreditWatch負面觀察，理由包括管理與治理架構、董事會獨立性、行政人員監督及接班安排，以及出口管制與中國業務相關的地緣風險討論；稿件引述標普指，公司競爭地位、技術領先與財務狀況的看法此刻未變，若在未來約90日內下調，幅度很可能限於一個級距，除非調查或新的披露顯示聲譽或業務前景受損。這不是輝達的公司公告，也不是已完成的評級下調。CNBC則報道週三人工智能相關股份回吐，輝達跌幅接近4%，與Yahoo收市約-3.91%大致相符。",
+      "whyItMatters": "股價連續回吐，並不自動推翻或確認11月23日的董事會決定。信用觀察是評級機構對未來可能調整的提示，本身不是降級，更不是公司盈利指引。治理與出口管制相關的討論若要核對，仍應等待公司公告、監管文件或評級機構自己的正式報告。",
+      "whatToWatch": "輝達新聞室或證交所是否有後續正式披露，以及標普或其他評級機構是否刊發可核對的正式報告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-23",
+          "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "Investing.com via Yahoo Finance",
+          "date": "2026-11-25",
+          "title": "S&P puts NVIDIA on CreditWatch over governance concerns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-puts-nvidia-creditwatch-over-192625970.html",
+          "verified": false
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-25",
+          "title": "Tech stocks plummet as Huang comeback rally fizzles ahead of Thanksgiving",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-25",
+          "title": "NVDA daily unadjusted close",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ]
+    },
+    {
+      "id": "icbc-egm-friday",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：H股暫停辦理股份過戶登記持續至今日，第三次臨時股東會訂於明日舉行",
+      "summary": "根據工商銀行较早前的港交所公告，為2026年第三次臨時股東會，H股將由2026年11月24日起至11月27日止（包括首尾兩日）暫停辦理股份過戶登記；於11月23日收市時名列香港股東名冊的H股股東，方有權出席會議並投票。會議訂於2026年11月27日（星期五）下午2時50分，在北京西城區復興門內大街55號總行舉行。議案包括選舉非執行董事，以及授權發行不超過人民幣9,500億元的資本及總損失吸收能力（TLAC）工具、2027年不超過人民幣3,500億元金融債券計劃等；細節以公司通函及公告為準。暫停過戶並不停止股份在市場買賣。Yahoo Finance顯示，1398.HK週三收7.66港元，較前收7.685港元約跌0.33%。截稿時未見銀行於11月25日就股東會再刊發新的結果公告（結果應待會議舉行後）。",
+      "whyItMatters": "臨時股東會要處理的是董事選舉與資本工具授權，屬於公司資本結構與治理安排，並不是當日業績公布。暫停過戶只決定誰有權投票，並不自動等於股份不能交易，也不等於議案已經通過。",
+      "whatToWatch": "明日股東會後是否刊發表決結果公告，以及暫停過戶於11月27日結束後的股份過戶安排。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC / HKEX",
+          "date": "2026-11-09",
+          "title": "2026年第三次臨時股東會通告／暫停辦理H股過戶登記安排",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900580.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-25",
+          "title": "1398.HK daily unadjusted close",
+          "url": "https://finance.yahoo.com/quote/1398.HK"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "orbital-data-center-odc",
+      "title": "軌道數據中心（orbital data center／ODC）",
+      "titleEn": "Orbital data center (ODC)",
+      "what": "軌道數據中心是指把運算與資料處理設備放到在軌衛星上，而不是只放在地面機房。衛星之間可以用光學（激光）鏈路互傳資料，地面則用無線電做遙測、追蹤與指令，或作備用通訊。它仍是數據中心的一種構想，只是機房改到近地軌道。",
+      "whyItMatters": "新手若只看到「批准100萬顆衛星」，容易以為運算能力已經上天、或收入已經入帳。其實監管機構批准的，往往先是發射與操作權限，而且可能只涵蓋備用無線電頻率；真正的數據傳輸、供電、散熱、太空垃圾處置和商業客戶合約，都還要後續執行與披露。部署通常還設有分年里程碑，逾期未達標可能影響授權。",
+      "whereToday": "FCC於11月25日部分批准SpaceX的Starmind軌道數據中心系統，最多100萬顆衛星，主要通訊擬使用光學鏈路，本次無線授權僅及備用及緊急TT&C，並設下2033至2040年的部署里程碑；600公里以上衛星的非大氣層處置豁免被延後。",
+      "whatToWatch": "公司會否就授權發表投資者關係公告，以及稍後會否提交有關高軌道衛星處置方法的修改申請。",
+      "relatedTickers": [
+        "SPCX"
+      ],
+      "notionUrl": "https://app.notion.com/p/42499f70bc5681e498bfcffd270a98d5"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX Thanks Don Harrison for His Service on the Board",
+        "date": "2026-11-06",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金股份",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普 500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "截至2026年9月30日止三個月及九個月之業績公告",
+        "date": "2026-11-24",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400539_c.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
+        "date": "2026-11-18",
+        "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+        "date": "2026-11-23",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+        "date": "2026-11-12",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-26.mp3",
+  "audioScriptChars": 3463,
+  "audioVoice": "gTTS-zh-TW"
+}
