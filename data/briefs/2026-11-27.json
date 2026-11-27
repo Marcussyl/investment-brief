@@ -1,0 +1,343 @@
+{
+  "date": "2026-11-27",
+  "stories": [
+    {
+      "id": "macro-etf-hk-rebound-us-closed",
+      "ticker": "SPYM",
+      "title": "宏觀／ETF：港股周四結束7連跌，恒指收22,226.88點、升約1.19%；美股感恩節全日休市，今日提早於美東下午1:00收市；隔夜HIBOR升至3.52%，貼現窗錄得20億港元拆出",
+      "summary": "港台報道，周四港股結束7日跌勢，恒生指數早段曾升逾570點，午後升幅收窄，收報22,226點，升260點，升幅約1.2%，成交額逾2,124億港元；科技指數升逾1%，報3,417點，結束11連跌。中國日報香港版刊出的收市數字較細：恒指收22,226.88點，升1.19%；恒生中國企業指數收7,493.34點，升1.47%；恒生科技指數收3,417.38點，升1.16%。港台英文稿並寫，主板成交額2,124.5億港元，國企指數升108點或1.5%至7,493。Yahoo Finance的最近成交價與上述收市一致：恒指22,226.88、國企指數7,493.34。Yahoo亦顯示持倉名單上的小米（1810.HK）周四收26.60港元，較週三26.56港元約升0.15%；研究名單上的工商銀行（1398.HK）收7.84港元，較週三7.66港元約升2.35%。港台並寫，四大內銀升逾1%至逾2%，三桶油升近2%至逾4%；汽車股走勢不一，理想汽車公布上季業績後升8%收市，比亞迪股份跌近2%，部分內需股向下。這些並不是本輪Active Watchlist上的名字，只作為中國消費氣氛的背景。美國方面，紐約證交所行事曆與CNBC均確認，昨日（11月26日，星期四）為感恩節，美股全日休市；今日（11月27日，星期五）提早於美東下午1:00收市。因此持倉ETF與美股研究名單的最近正規收市，仍是週三（11月25日）：Yahoo顯示SPYM收84.37（前收84.61，約-0.28%）、VEU收76.42（前收76.35，約+0.09%）、GLD收327.45（前收325.45，約+0.61%）；微軟收489.93（約-1.25%），輝達收149.30（約-3.91%）；道指收50,182.95，升164.25點或0.33%；標普500收7,182.78，跌0.25%；納斯達克綜合指數收23,585.80，跌0.62%。今早港股尚未開市，未採用期貨或盤前報價作為收市。聯儲理事會行事曆顯示，FOMC下次會議仍為12月8至9日（附經濟預測摘要）。金管局每日貨幣統計截至11月26日18:30：兌換保證仍為7.75–7.85，基本利率4.25%，今日隔夜HIBOR 3.52%（11月25日為2.44%），香港銀行公會一個月期HIBOR定價2.93506%（11月25日為2.87893%），港匯指數100.5（跌0.1）。當日外匯交易及其他貨幣市場運作記錄為零，並不自動等於兌換保證已被觸發；但貼現窗今日運作錄得+2,000百萬港元（20億港元），收市總結餘在貼現窗之後為561.12億港元，進行貼現窗活動前為541.11億港元。預測在退還貼現窗拆出資金後，11月27日總結餘約541.14億港元。港台英文稿亦提到，內地股市大致持平，並指市場關注白宮週三對包括中國在內的多個貿易夥伴提出新一輪關稅的消息；關稅細節以官方文本為準，此處不引用未經核對的稅率。",
+      "whyItMatters": "周四港股反彈、結束連跌，但美股當日完全沒有正規交易，不能把港股升幅直接理解成美股已經同步回升。SPYM會隨標普500起伏，VEU則受美國以外市場影響，兩隻ETF的最近收市仍是週三的數字。隔夜HIBOR上升、並有銀行向金管局貼現窗拆入資金，反映短期港元拆息偏緊，但外匯交易紀錄為零，並不自動等於聯繫匯率的兌換保證已被觸發。今日美國提早收市、港股正常交易，外圍參考會出現時差。",
+      "whatToWatch": "今日港股開市如何消化周四反彈與已公布的PCE、GDP第二次估算，以及今晚美股感恩節後、提早收市的半日市。下次FOMC會議為12月8至9日。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "RTHK",
+          "date": "2026-11-26",
+          "title": "恒指升幅收窄至260點收市　結束7連跌",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1879372-20261126.htm"
+        },
+        {
+          "category": "wire",
+          "publisher": "RTHK",
+          "date": "2026-11-26",
+          "title": "Mainland flat as HK, region rise on US holiday break",
+          "url": "https://news.rthk.hk/rthk/en/component/k2/1879380-20261126.htm"
+        },
+        {
+          "category": "wire",
+          "publisher": "China Daily Hong Kong",
+          "date": "2026-11-26",
+          "title": "Hang Seng Index closes 1.19% higher",
+          "url": "https://www.chinadailyhk.com/hk/article/643250"
+        },
+        {
+          "category": "official",
+          "publisher": "NYSE Group",
+          "date": "2026-11-27",
+          "title": "Holidays & Trading Hours (Thanksgiving 2026; Friday early close 1:00 p.m. ET)",
+          "url": "https://www.nyse.com/trade/hours-calendars/"
+        },
+        {
+          "category": "official",
+          "publisher": "Board of Governors of the Federal Reserve System",
+          "date": "2026-11-27",
+          "title": "Monetary Policy: Federal Open Market Committee calendars",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "official",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-11-26",
+          "title": "Daily Monetary Statistics (18:30, 26/11/2026)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-26",
+          "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
+          "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-26",
+          "title": "Daily unadjusted closes for Hang Seng, HSCE, 1810.HK and 1398.HK (26 Nov); US indexes and ETFs through 25 Nov",
+          "url": "https://finance.yahoo.com/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-trump-accounts-share-contribution",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：公司新聞稿宣布向每個目前有效的Trump Account捐出一股新發行A類普通股，行政總裁將按公司捐出股數作個人配對；美股周四休市，最近收市仍為週三127.44美元",
+      "summary": "SpaceX投資者關係頁面2026年11月25日刊發題為「SpaceX to Invest in the Next Generation of Americans」的更新。公司宣布，承諾向每個目前有效的Trump Account（稿件稱之為協助美國兒童建立長期儲蓄的稅務優惠投資帳戶）捐出一股新發行的A類普通股。稿件並寫，行政總裁Elon Musk作為其「向美國每個孩子捐出一股SpaceX股份」承諾的一部分，將按SpaceX捐出的股數作個人配對；總裁兼營運長Gwynne Shotwell則另行宣布，個人贈出超過200萬股SpaceX股份。稿件強調，公司希望下一代美國人也能持有正在建設未來基礎設施、並致力令生命多行星化的公司股權，以獲得長遠利益。同一稿的前瞻性陳述提醒，有關擬作出的A類普通股貢獻涉及難以預測、且許多非公司所能控制的風險、或有事項與不確定因素，包括第三方及政府批准。這是公司投資者關係公告，但並不是已經完成過戶或已經量化攤薄影響的業績文件；公告沒有寫明「目前有效」帳戶的數量，也沒有寫明將發行多少股。CNBC同日報道（第三方·非公告）引述白宮10月稱已開立近7,000萬個Trump Account，其中逾6,000萬個為自動登記，但有多少被視為「有效」並不清楚；CNBC並引述Musk在社交平台X的帖文稱，公司那一股將於下月過戶，他本人那一股則會在禁售期於明年6月屆滿後過戶。上述過戶時間表並未出現在公司這份新聞稿本文，屬第三方引述，尚未經公司新聞稿核對。截稿時未見公司就11月25日聯邦通信委員會部分批准Starmind軌道數據中心系統另發獨立新聞稿。Yahoo Finance顯示，SPCX最近正規收市仍為週三127.44美元，較前收125.81美元約升1.30%；周四美股休市，沒有新的官方收市。",
+      "whyItMatters": "對持倉名單上的SpaceX來說，這是公司自己刊發的股權貢獻安排，而且寫明公司部分是「新發行」A類普通股，因此理論上可能增加已發行股數；但公告沒有給出帳戶數目或發行規模，前瞻性陳述亦提到仍須視乎第三方及政府批准，所以不能把「每股一股」直接換算成已知的攤薄或估值影響。行政總裁與營運長的個人配對或贈股，性質上也不同於公司新發行。單日股價更不能在美股休市的日子被更新。",
+      "whatToWatch": "是否出現後續的發行、過戶或監管批准披露，以及公司會否補充「有效」帳戶範圍與時間表。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "SpaceX Investor Relations",
+          "date": "2026-11-25",
+          "title": "SpaceX to Invest in the Next Generation of Americans",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/"
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "CNBC",
+          "date": "2026-11-25",
+          "title": "SpaceX, Elon Musk to donate one share each to active Trump Accounts",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+          "verified": false
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-25",
+          "title": "SPCX daily unadjusted close (last regular session 25 Nov; US markets closed 26 Nov)",
+          "url": "https://finance.yahoo.com/quote/SPCX"
+        }
+      ]
+    },
+    {
+      "id": "gld-no-session-thanksgiving",
+      "ticker": "GLD",
+      "title": "黃金ETF（GLD）：美國感恩節周四全日休市，沒有新的官方收市；最近收市仍為週三327.45美元，約升0.61%",
+      "summary": "SPDR Gold Shares（GLD）在紐約證交所Arca上市，跟隨美國假期行事曆。周四感恩節美股全日休市，GLD沒有正規交易時段，因此不能把現貨金或期貨盤中波動當成這隻ETF的官方收市。Yahoo Finance顯示，GLD最近正規收市仍為11月25日（星期三）327.45美元，較前收325.45美元約升0.61%。今日美股提早於美東下午1:00收市，若當日有成交，才會出現新的官方收市。截稿時未見發行人格外刊發與昨日休市有關的基金公告。",
+      "whyItMatters": "黃金現貨或期貨在假期仍可能交易，但GLD是上市股份，只有交易所開市才有官方收市價。把假期的現貨報價直接當成持倉ETF已經漲跌，容易看錯。",
+      "whatToWatch": "今日美股半日市結束後的GLD官方收市，以及金管局與聯儲後續的利率與匯率數據。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "official",
+          "publisher": "NYSE Group",
+          "date": "2026-11-27",
+          "title": "Holidays & Trading Hours (Thanksgiving 2026; Friday early close 1:00 p.m. ET)",
+          "url": "https://www.nyse.com/trade/hours-calendars/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-25",
+          "title": "GLD daily unadjusted close (last regular session 25 Nov)",
+          "url": "https://finance.yahoo.com/quote/GLD"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-share-awards-thursday-close",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：公司於11月25日根據股份計劃授出5,783.0912萬股獎勵股份；股份周四收26.60港元，約升0.15%",
+      "summary": "小米集團11月25日刊發的港交所公告（中、英文版本）寫，董事會宣布於2026年11月25日根據2023年股份計劃，向4,442名選定參與者（包括本集團僱員及服務供應商）獎勵合共57,830,912股獎勵股份；其中僱員參與者57,379,744股，服務供應商參與者451,168股，獎勵代價為零。獎勵股份於授出日期之收市價為每股26.56港元；歸屬期為2026年11月26日至2030年11月25日。公告並寫，對於授予僱員參與者的若干獎勵，授出日期至首個歸屬日期少於12個月，但授出時間由行政或合規要求釐定，並非與相關僱員參與者的表現有關。績效方面，基於時間的歸屬時間表一般適用，將歸屬的若干股份數量可與選定參與者（及在若干情況下其所在部門）於相關期間的業績排名掛鈎，部分獎勵股份則不受績效目標所限；公告亦載有回補機制。同日，小米香港根據2024年小米香港股份計劃，向3名為小米香港集團僱員的選定參與者授出合共125,200份小米香港購股權。這是上市規則規定的授出公告，不是新的季度業績。Yahoo Finance顯示，1810.HK周四收26.60港元，較週三收市26.56港元約升0.15%。",
+      "whyItMatters": "股份獎勵與購股權是公司用作挽留員工的制度，授出時代價可以是零，但股份通常要在歸屬期內、並可能要達到績效條件後才真正落到參與者手中。新發行或預留股份若最終歸屬，有可能增加已發行股數，但單看一次授出數量，並不能自動得出對現有股東的攤薄比例，更不能把授出當日的收市升跌理解成市場已經消化了這項安排。",
+      "whatToWatch": "後續是否有歸屬、發行或計劃授權變動的公告。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "Xiaomi / HKEX",
+          "date": "2026-11-25",
+          "title": "根據2023年股份計劃授出獎勵及根據2024年小米香港股份計劃授出小米香港購股權",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501216_c.pdf"
+        },
+        {
+          "category": "company",
+          "publisher": "Xiaomi / HKEX",
+          "date": "2026-11-25",
+          "title": "Grant of Awards pursuant to the 2023 Share Scheme and Grant of XMHK Options pursuant to the 2024 Xiaomi HK Share Scheme",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501215.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-26",
+          "title": "1810.HK daily unadjusted close",
+          "url": "https://finance.yahoo.com/quote/1810.HK"
+        }
+      ]
+    },
+    {
+      "id": "nvda-sea-shipment-pause-creditwatch",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：第三方報道公司暫停向東南亞四國出貨伺服器，路透未能即時核實；CNBC引述標普指AA評級未來約90日或被下調一個級距；美股周四休市，最近收市仍為週三149.30美元",
+      "summary": "輝達新聞室11月26日只有GeForce NOW社群稿，未見就出貨或評級發表公司公告。CNA引述路透報道，《金融時報》周四引述三名知情人士稱，輝達已通知製造合作夥伴，停止向馬來西亞、新加坡、泰國及印尼四個東南亞國家出貨伺服器；路透寫明未能即時核實該報道。科技新報同日綜合外媒寫，戴爾及美超微等把輝達晶片整合至伺服器的製造商，已通知上述四國買家目前不允許相關訂單出貨，持續多久尚不清楚，公司及其合作夥伴正設法釐清美國最新出口管制並尋求合規供貨方式；該稿並寫，截至刊出時輝達已拒絕就新聞置評，戴爾、美超微等亦尚未對外回應。電子時報中文稿亦引述金融時報，指事涉美國商務部工業安全局相關新規。CNBC周四另引述兩名知情人士寫，晶片賣家已告知「新雲」（neocloud）業者，若任何算力會租給中國企業，將不會供應輝達晶片；稿件把這與商務部工業安全局11月19日生效、收緊中國企業遠端使用美國先進算力的規則聯繫起來，並寫輝達與該局截稿時未即時回應置評請求。美國貿易代表Jamieson Greer週三在CNBC節目稱，商務部上週發布規則，旨在封堵經東南亞走私或經第三國資料中心遠端存取等「漏洞」。上述出貨與供貨限制均屬第三方·非公告，不是輝達新聞室文件。另外，CNBC11月25日晚間（美東時間）報道，標普全球評級在週三的說明中，把輝達列入「CreditWatch、負面含義」，並指若公司在管理與治理框架上繼續出現「不足」，未來約90日內評級可能被下調一個級距；稿件寫輝達目前為AA評級（第三高），標普引述行政總裁人事及潛在出口管制違規問題，認為董事會結構、組成與有效性等治理框架暴露弱點，並打算與董事會及管理層會面。這不是評級已經下調，也不是公司公告。Yahoo Finance顯示，NVDA最近正規收市仍為週三149.30美元，較前收155.38美元約跌3.91%；周四沒有新的官方收市。",
+      "whyItMatters": "若報道屬實，美國出口管制的執行範圍可能從「晶片不能直接運進中國」，延伸到東南亞伺服器出貨以及雲端算力能不能租給中國客戶；但路透未能核實、公司拒絕置評，現階段仍應視為未確認消息。信用觀察是評級機構對未來可能調整的提示，本身不是降級，更不是盈利指引。美股休市的日子，也不能用新的收市價去「印證」這些報道。",
+      "whatToWatch": "輝達新聞室、證交所或美國商務部是否刊出可核對的正式說明，以及標普會否發表後續評級行動。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "NVIDIA Newsroom",
+          "date": "2026-11-26",
+          "title": "Latest News (no company announcement on shipment pause as of this morning)",
+          "url": "https://nvidianews.nvidia.com/news/latest"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNA citing Reuters / Financial Times",
+          "date": "2026-11-26",
+          "title": "Nvidia halts chip shipments to Southeast Asia, FT reports",
+          "url": "https://www.channelnewsasia.com/business/nvidia-halts-chip-shipments-southeast-asia-ft-reports-6584251",
+          "verified": false
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-11-26",
+          "title": "美國封堵中國 AI 算力漏洞，輝達緊急喊停東南亞四國伺服器出貨",
+          "url": "https://technews.tw/2026/11/26/nvidia-halts-server-shipments-to-four-southeast-asian-countries/",
+          "verified": false
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "CNBC",
+          "date": "2026-11-26",
+          "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+          "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+          "verified": false
+        },
+        {
+          "category": "thirdParty",
+          "publisher": "CNBC",
+          "date": "2026-11-25",
+          "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+          "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+          "verified": false
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-25",
+          "title": "NVDA daily unadjusted close (last regular session 25 Nov)",
+          "url": "https://finance.yahoo.com/quote/NVDA"
+        }
+      ]
+    },
+    {
+      "id": "icbc-egm-today",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：第三次臨時股東會訂於今日下午2時50分舉行，H股暫停辦理股份過戶登記至今日止；股份周四收7.84港元，約升2.35%",
+      "summary": "根據工商銀行較早前的港交所公告，為2026年第三次臨時股東會，H股由2026年11月24日起至11月27日止（包括首尾兩日）暫停辦理股份過戶登記；於11月23日收市時名列香港股東名冊的H股股東，方有權出席會議並投票。會議訂於2026年11月27日（星期五）下午2時50分，在北京西城區復興門內大街55號總行舉行。議案包括選舉非執行董事，以及授權發行不超過人民幣9,500億元的資本及總損失吸收能力（TLAC）工具、2027年不超過人民幣3,500億元金融債券計劃等；細節以公司通函及公告為準。暫停過戶並不停止股份在市場買賣。Yahoo Finance顯示，1398.HK周四收7.84港元，較週三7.66港元約升2.35%。港台亦寫，周四四大內銀升逾1%至逾2%。截稿時會議尚未舉行，未見表決結果公告。",
+      "whyItMatters": "臨時股東會要處理的是董事選舉與資本工具授權，屬於公司資本結構與治理安排，並不是當日業績公布。暫停過戶只決定誰有權投票，並不自動等於股份不能交易，也不等於議案已經通過。周四股價上升，也不能預先代表今日議案的結果。",
+      "whatToWatch": "今日股東會後是否刊發表決結果公告，以及暫停過戶於今日結束後的股份過戶安排。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "company",
+          "publisher": "ICBC / HKEX",
+          "date": "2026-11-09",
+          "title": "2026年第三次臨時股東會通告／暫停辦理H股過戶登記安排",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1109/2026110900580.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-26",
+          "title": "1398.HK daily unadjusted close",
+          "url": "https://finance.yahoo.com/quote/1398.HK"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "discount-window",
+      "title": "貼現窗（Discount Window）",
+      "titleEn": "Discount Window",
+      "what": "貼現窗是金管局向合資格銀行提供的短期港元流動資金窗口：銀行可以用合資格抵押品，向金管局拆入隔夜資金。基本利率是貼現窗的基準利率之一。它處理的是銀行體系裡的短期港元短缺，和「美元兌港元觸及兌換保證、金管局在外匯市場買賣美元／港元」不是同一件事。",
+      "whyItMatters": "新手若只看到隔夜HIBOR上升，容易以為聯繫匯率已被觸發，或以為金管局已經在外匯市場干預。其實只要每日統計裡的外匯交易仍是零，就不自動等於兌換保證被觸發。相反，若「貼現窗今日運作」出現正數，代表有銀行當天向金管局拆入了資金，這可以解釋隔夜拆息為什麼會跳升，但不等於匯率制度已經轉變。",
+      "whereToday": "金管局11月26日18:30的每日貨幣統計顯示，隔夜HIBOR由11月25日的2.44%升至3.52%，貼現窗今日運作錄得+2,000百萬港元；兌換保證仍為7.75–7.85，當日外匯交易及其他貨幣市場運作均為零。",
+      "whatToWatch": "後續每日貨幣統計中的隔夜HIBOR、貼現窗數字，以及外匯交易是否仍為零。",
+      "relatedTickers": [
+        "SPYM",
+        "VEU"
+      ],
+      "notionUrl": "https://app.notion.com/p/42599f70bc5681658f3be5b5b2f739e2"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX to Invest in the Next Generation of Americans",
+        "date": "2026-11-25",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金股份",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普 500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "根據2023年股份計劃授出獎勵及根據2024年小米香港股份計劃授出小米香港購股權",
+        "date": "2026-11-25",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501216_c.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
+        "date": "2026-11-18",
+        "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+        "date": "2026-11-23",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "Announcement on the Completion of the Issuance of 2026 Tier 2 Capital Notes (Series 7) (Bond Connect)",
+        "date": "2026-11-12",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200891.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-27.mp3",
+  "audioScriptChars": 3497,
+  "audioVoice": "gTTS-zh-TW"
+}

@@ -1,0 +1,212 @@
+{
+  "updated": "2026-11-27T08:45:00+08:00",
+  "disclaimer": "非投資建議 / Not financial advice. 本列表僅供參考，唔構成買賣建議。",
+  "date": "2026-11-27",
+  "timezone": "Asia/Hong_Kong",
+  "itemCount": 14,
+  "watchlist": 8,
+  "items": [
+    {
+      "id": 1,
+      "title": "SpaceX to Invest in the Next Generation of Americans",
+      "toc": "SpaceX宣布向每個有效Trump Account捐出一股新發行A類股",
+      "summary": "SpaceX於11月25日在投資者關係頁宣布，承諾向每個目前有效的Trump Account捐出一股新發行A類普通股；行政總裁Elon Musk將按公司捐出股數作個人配對，總裁兼營運長Gwynne Shotwell則另行宣布個人贈出超過200萬股。稿件的前瞻性陳述提到，有關貢獻仍涉及第三方及政府批准等不確定因素。",
+      "source": "SpaceX IR",
+      "date": "2026年11月25日",
+      "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/",
+      "tickers": [
+        "SPCX"
+      ],
+      "origin": "公司新聞室／IR",
+      "impact": "市場可能會把這項安排理解成公司把部分股權擴至更廣泛持有人，又或關注新發行股份對現有股東的潛在攤薄；但公告沒有寫明有效帳戶數目或發行規模，因此現階段不宜把「每股一股」直接換算成已知影響。",
+      "newbieTake": "新手可先對照公司新聞稿與後續過戶或批准披露，而不是只看第三方對捐贈總值的估算。以上皆非買賣建議。"
+    },
+    {
+      "id": 2,
+      "title": "美國封堵中國 AI 算力漏洞，輝達緊急喊停東南亞四國伺服器出貨",
+      "toc": "外媒稱輝達暫停向東南亞四國出貨伺服器",
+      "summary": "科技新報11月26日綜合外媒報道，輝達已通知製造合作夥伴，暫停向馬來西亞、新加坡、泰國及印尼出貨搭載其晶片的伺服器，以配合美國最新出口管制，防止中國企業經第三國資料中心取得受限制算力。稿件引述知情人士指戴爾及美超微等已通知買家目前不允許相關訂單出貨，持續多久尚不清楚；並寫輝達已拒絕置評。此為第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026年11月26日",
+      "url": "https://technews.tw/2026/11/26/nvidia-halts-server-shipments-to-four-southeast-asian-countries/",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "若報道屬實，市場可能會關注美國管制是否從直接限制對華晶片出口，進一步延伸到東南亞伺服器供應鏈與雲端租賃；但公司尚未證實，影響範圍與持續時間仍不明。",
+      "newbieTake": "新手可等待輝達新聞室、證交所或美國商務部的正式說明，而不是把未經核實的出貨暫停當成已公告事實。以上皆非買賣建議。"
+    },
+    {
+      "id": 3,
+      "title": "Nvidia halts chip shipments to Southeast Asia, FT reports",
+      "toc": "路透轉述金融時報：未能即時核實輝達停運報道",
+      "summary": "CNA引述路透11月26日報道，《金融時報》引述三名知情人士稱，輝達已通知製造合作夥伴，停止向四個東南亞國家出貨伺服器。路透明確寫道，未能即時核實該報道。此為第三方·非公告。",
+      "source": "CNA / Reuters",
+      "date": "2026年11月26日",
+      "url": "https://www.channelnewsasia.com/business/nvidia-halts-chip-shipments-southeast-asia-ft-reports-6584251",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "通訊社加上「未能即時核實」，提醒這則停運消息的證據強度仍有限，市場關注可能存在，但不等於事件已被官方確認。",
+      "newbieTake": "新手看到「路透／金融時報引述知情人士」時，應同時留意稿件有沒有寫未能核實或公司拒絕置評。以上皆非買賣建議。"
+    },
+    {
+      "id": 4,
+      "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+      "toc": "CNBC：賣家要求新雲不得把算力租給中國企業",
+      "summary": "CNBC11月26日引述兩名知情人士報道，晶片賣家已告知新雲（neocloud）業者，若任何運算容量會租給中國企業，將不會供應輝達晶片。稿件把這與美國商務部工業安全局11月19日生效、收緊中國企業遠端使用美國先進算力的規則聯繫起來，並寫輝達與該局截稿時未即時回應置評。美國貿易代表Jamieson Greer週三在CNBC節目稱，相關規則旨在封堵經東南亞或第三國資料中心的間接存取漏洞。此為第三方·非公告。",
+      "source": "CNBC",
+      "date": "2026年11月26日",
+      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "市場可能會關注新雲業者的客戶結構與輝達供應是否因此重新分配；但這是賣家對業者的私下傳達與知情人士轉述，並不是輝達或商務部的新一份公開命令文本。",
+      "newbieTake": "新手可把重點放在11月19日已生效的遠端存取規則，以及後續是否出現可核對的執照或公司說明。以上皆非買賣建議。"
+    },
+    {
+      "id": 5,
+      "title": "不願任由美國擺布，荷蘭反對擴大 ASML 出口限制",
+      "toc": "荷蘭貿易部長反對把MATCH Act擴大至ASML設備",
+      "summary": "科技新報11月27日引述路透報道，荷蘭貿易部長Sjoerd Sjoerdsma於26日表示，若美國《多邊硬體技術管制協調法案》（MATCH Act）獲通過，荷蘭將要求美國不要執行相關措施，以免損害ASML及其他歐洲科技企業。稿件寫，美國國會正協商是否於12月把該法案納入年度國防支出法案，內容包括可能對ASML浸潤式深紫外光（DUV）設備實施更嚴限制；ASML未對荷蘭政府最新表態置評。此為第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026年11月27日",
+      "url": "https://technews.tw/2026/11/27/netherlands-opposes-expanding-asml-export-restrictions-resists-us-dictation/",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "半導體設備出口管制若再擴大，市場可能會關注歐洲設備商與中國晶圓廠資本開支的不確定性；但法案尚未通過，荷蘭表態也不等於管制已經生效。",
+      "newbieTake": "新手可留意美國國會12月是否把MATCH Act納入國防支出法案，以及ASML或荷蘭政府會否發表正式立場。以上皆非買賣建議。"
+    },
+    {
+      "id": 6,
+      "title": "Exclusive: AI supply chain faces shipment delays as KYC expands",
+      "toc": "電子時報：美國新規擴大客戶審查，AI供應鏈出貨延誤",
+      "summary": "電子時報11月26日獨家稿（公開導言）寫，美國商務部工業安全局出口管制規則自2026年11月19日生效，擴大人工智慧伺服器供應鏈的客戶審查與出貨限制。完整細節需視原文其餘部分；此處只採用已公開的導言，屬第三方·非公告。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月26日",
+      "url": "https://www.digitimes.com/news/a20261126PD214/supply-chain-gpu-data-center-gtc-data.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "市場可能會把交期拉長、客戶身分審查變嚴，理解成AI伺服器出貨節奏的不確定性增加；但公開可見的只是導言，不宜推斷未展示的訂單數字。",
+      "newbieTake": "新手可對照11月19日生效的規則文本，以及後續供應商或公司是否證實交期變化。以上皆非買賣建議。"
+    },
+    {
+      "id": 7,
+      "title": "SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring",
+      "toc": "電子時報：SK海力士尋求台積電3奈米經驗以開發客製HBM",
+      "summary": "電子時報11月26日報道（公開導言）寫，SK海力士正在尋求具備台積電3奈米製程經驗的工程師，以開發客製化高頻寬記憶體（HBM）；美國同業美光則在韓國加快招聘，以支援亞洲擴張。此為第三方·非公告，公開可見的主要是導言。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月26日",
+      "url": "https://www.digitimes.com/news/a20261126VL224/sk-hynix-tsmc-micron-3nm-hbm.html",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "市場可能會關注記憶體廠為先進HBM招攬先進邏輯製程人才，反映客製化記憶體與先進封裝的競爭仍在進行；這並不直接等同於任何Active Watchlist公司的訂單已改變。",
+      "newbieTake": "新手可把這則理解成供應鏈人才與製程能力的背景，等待相關公司自己的產能或技術公告。以上皆非買賣建議。"
+    },
+    {
+      "id": 8,
+      "title": "US chip curbs will slow Asia data-center investment, Fitch says",
+      "toc": "惠譽：美國晶片管制料令亞太數據中心投資放慢並更篩選",
+      "summary": "路透11月26日引述惠譽評級稱，隨著美國收緊晶片管制，依賴中國客戶與美國先進半導體的業者將受壓，亞太數據中心投資料放慢並變得更篩選。新規則自11月19日生效，涵蓋對馬來西亞、新加坡、印尼及泰國的受管制晶片出貨執照，以及向中國企業提供顯著算力的海外數據中心。惠譽指新雲業者因需維持昂貴GPU高使用率而壓力最大，接近完工但未能確認晶片供應或客戶資格的項目也可能延後產生收入。此為第三方·非公告。",
+      "source": "Reuters / The Economic Times",
+      "date": "2026年11月26日",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-chip-curbs-will-slow-asia-data-center-investment-fitch-says/articleshow/136189442.cms",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "評級機構的行業判斷可能影響市場對亞洲數據中心融資與新雲商業模式的討論，尤其與輝達晶片供應及出口合規有關；但這不是輝達或數據中心業主的業績指引。",
+      "newbieTake": "新手可把惠譽說法當成行業風險提示，並對照後續是否有項目延期或融資條件收緊的可核對披露。以上皆非買賣建議。"
+    },
+    {
+      "id": 9,
+      "title": "網銀盜轉案逾百起，刑事局揭露偽冒短劇App散布Android木馬",
+      "toc": "刑事局：偽冒短劇App木馬濫用無障礙權限盜轉網銀",
+      "summary": "iThome11月26日報道，刑事局當日公布，今年9月至11月21日已受理逾100起網銀盜轉案件，累計財損超過1,742萬元，涉及22家金融機構客戶。警方在部分受害者手機發現偽冒短劇App的Android惡意程式，會誘使開啟無障礙權限，並在數十秒內自行取得12類權限，具備遠端操控、側錄密碼及讀取刪除簡訊等能力。刑事局尚未公布全部案件中有多少已確認涉及該木馬，也未公布惡意程式名稱。",
+      "source": "iThome",
+      "date": "2026年11月26日",
+      "url": "https://www.ithome.com.tw/news/180826",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "這類盜轉手法與手機權限濫用有關，可能令金融機構與監管機構加強App安全與交易驗證討論，屬於資安與金融基礎設施議題，並不直接對應Active Watchlist上的個股公告。",
+      "newbieTake": "新手可留意警方建議的防護步驟，以及銀行端會否加強深夜交易或生物辨識驗證，而不是把案件數字理解成某隻股票的利空。以上皆非買賣建議。"
+    },
+    {
+      "id": 10,
+      "title": "微軟全球大當機原因曝光！竟是4個月前埋下的Windows漏洞，官方祭出「紅色警戒」全面整頓",
+      "toc": "T客邦：微軟Code Red針對11月Exchange Online重大故障",
+      "summary": "T客邦11月26日報道，微軟因11月12至13日Outlook、Teams、Copilot等Microsoft 365服務中斷，啟動內部最高級別「Code Red」。稿件寫，執行長納德拉已公開致歉，並說明故障並非來自駭客攻擊或AI代理，而是7月引入、直至11月12日特定負載下才爆發的網路閘道程式缺陷。路透取得的內部備忘錄指，工程團隊曾在11個Teams群組交換超過1.1萬則訊息；Microsoft 365 Core總裁Jason Henderson把該事故視為Exchange Online史上對客戶影響最嚴重的事件，並提出未來重大故障爭取1小時內恢復等改善方向。此為第三方轉述內部備忘錄，不是一份獨立的證券交易所業績公告。",
+      "source": "T客邦",
+      "date": "2026年11月26日",
+      "url": "https://www.techbang.com/posts/135127-microsoft-global-outage-windows-vulnerability-cause",
+      "tickers": [
+        "MSFT"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "市場可能會關注微軟雲端服務的可靠性與復原目標，尤其是Azure／Microsoft 365對企業客戶的服務承諾；但「1小時內修復」是改善目標，稿件亦提醒並不代表目前已具備該能力。",
+      "newbieTake": "新手可等待微軟是否刊發正式的事故檢討或服務公告，而不是只看「紅色警戒」這個內部用詞。以上皆非買賣建議。"
+    },
+    {
+      "id": 11,
+      "title": "Claude Artifacts現在能直接安裝成電腦App",
+      "toc": "Anthropic讓Claude Artifacts可安裝為桌面應用（測試版）",
+      "summary": "T客邦11月26日報道，Anthropic為Claude的Artifacts功能推出「安裝為應用程式」選項，使用者可把生成的網頁應用或小工具，作為獨立軟體安裝到macOS與Windows桌面，並可選擇基礎權限或額外通知、快捷鍵、置頂等權限；高階場景甚至可授予完整電腦存取權限。該功能目前為Beta，正逐步向桌面版用戶開放。",
+      "source": "T客邦",
+      "date": "2026年11月26日",
+      "url": "https://www.techbang.com/posts/135116-claude-artifacts-standalone-desktop-app",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "這屬於生成式AI工具如何走出瀏覽器、進入桌面工作流程的產品進展，可能被視為AI應用分發方式的變化；它並不直接改寫Active Watchlist公司的已披露業績。",
+      "newbieTake": "新手可把它理解成產品功能更新，並留意權限分級與測試版範圍，而不是當成某家上市公司的正式收入公告。以上皆非買賣建議。"
+    },
+    {
+      "id": 12,
+      "title": "TRUMP: WILL PROBABLY SPEAK TO NVIDIA'S HUANG SOON",
+      "toc": "富途快訊：特朗普稱可能很快與輝達黃仁勳通話",
+      "summary": "富途／moomoo快訊引述路透，內容為「TRUMP: WILL PROBABLY SPEAK TO NVIDIA'S HUANG SOON」。這是快訊級官方談話轉述，並非輝達公司公告，也未提供通話時間或議題細節。原文來源：Reuters。",
+      "source": "富途快訊",
+      "date": "2026年11月27日",
+      "url": "https://www.moomoo.com/news/flash/1005938585/trump-will-probably-speak-to-nvidia-s-huang-soon",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "市場可能會把這句話理解成華府與輝達管理層仍有溝通空間，尤其在出口管制與治理議題受關注之際；但「可能很快通話」本身不是政策決定，也不等於管制將放寬或收緊。",
+      "newbieTake": "新手可等待雙方是否真的會面或刊出可核對的官方說明，而不是只根據一句快訊推斷結果。以上皆非買賣建議。"
+    },
+    {
+      "id": 13,
+      "title": "Huang is back in Nvidia, but Washington's chip squeeze on China is only tightening",
+      "toc": "電子時報：黃仁勳復職，但對華晶片管制仍在收緊",
+      "summary": "電子時報11月26日分析稿（公開導言）寫，黃仁勳在離開職務僅11天後重返輝達執掌，但華府對中國的晶片管制仍在收緊。完整論據需視原文其餘部分；此處只採用已公開導言，屬第三方·非公告。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月26日",
+      "url": "https://www.digitimes.com/news/a20261126VL219/nvidia-jensen-huang-chips-data.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "稿件把公司治理人事落地與出口管制收緊並列，市場可能會認為管理層不確定性下降，並不自動等於對華銷售限制放寬。",
+      "newbieTake": "新手可把復職公告與出口規則分開看：一個是公司董事會決定，一個是政府規則，兩者不必同一天同方向。以上皆非買賣建議。"
+    },
+    {
+      "id": 14,
+      "title": "S&P warns Nvidia credit rating could be cut over rising management and governance risk",
+      "toc": "CNBC：標普警告輝達AA評級未來約90日或被下調一個級距",
+      "summary": "CNBC11月25日晚間報道，標普全球評級在週三說明中把輝達列入CreditWatch（負面含義），並指若管理與治理框架繼續出現不足，未來約90日內評級可能被下調一個級距；稿件寫輝達目前為AA評級，標普提到董事會結構、組成、有效監督與接班安排等問題，並打算與董事會及管理層會面。這不是已完成的降級，也不是輝達公司公告。此為第三方·非公告。",
+      "source": "CNBC",
+      "date": "2026年11月25日",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "tickers": [
+        "NVDA"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "信用觀察可能令市場更關注治理與出口合規討論，但不等於評級已經下調，也不等於公司盈利指引被改寫。",
+      "newbieTake": "新手可分辨「列入觀察名單」與「已經降級」，並等待標普或公司後續可核對的文件。以上皆非買賣建議。"
+    }
+  ]
+}
