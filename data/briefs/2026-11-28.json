@@ -1,0 +1,347 @@
+{
+  "date": "2026-11-28",
+  "stories": [
+    {
+      "id": "macro-etf-friday-rally-weekend-closed",
+      "ticker": "SPYM",
+      "title": "宏觀／ETF：周五港股恒指收22,694.77點、升2.11%，科指升6.45%；美股感恩節後半日市標普500收7,297.49點、升約1.60%；今日周末兩邊休市",
+      "summary": "港台與新華社報道，周五（11月27日）港股造好。新華社寫，恒生指數升467.89點或2.11%，收報22,694.77點；主板成交額2,571.4億港元；恒生中國企業指數升150.84點或2.01%，收7,644.18點；恒生科技指數升220.5點或6.45%，收3,637.88點。港台中文稿亦寫，恒指午後最多升逾550點、高見22,781點，收市升467點或2.1%，成交額逾2,571億元；科技指數急升近6.5%，收報3,637點，並稱為逾一年半以來最大單日升幅。港台指當日為期指結算日，並提到國務院常務會議提出加力發揮「國家隊」穩市作用；人工智能概念及晶片股急升，但內銀股逆市偏軟，四大內銀跌逾2%。新華社列出席工銀收7.62港元、跌2.74%。Yahoo Finance顯示持倉名單上的小米（1810.HK）周五收27.80港元，較周四26.60港元約升4.51%；研究名單上的工商銀行（1398.HK）收7.625港元，較周四7.84港元約跌2.74%，與新華社一致。港台並寫，全星期恒指累計升近1.3%、科指升近3.6%，兩者都結束兩星期跌勢。新華社同日報道，國務院總理李強主持召開國務院常務會議，指出「資本市場事關經濟發展大局」，要求持續完善穩市機制、實施好存量政策並謀劃出臺增量政策，加力發揮「國家隊」穩市作用，進一步優化中央匯金公司的類「平準基金」功能，提供充足流動性保障。美國方面，紐約證交所行事曆確認周五提早於美東下午1:00收市。Yahoo顯示半日市後，標普500收7,297.49點，較週三（感恩節周四休市）7,182.78點約升1.60%；道指收50,774.94點，約升1.18%；納斯達克綜合指數收24,129.50點，約升2.31%。持倉ETF方面，SPYM收85.75美元（前收84.37，約+1.64%），VEU收77.89美元（前收76.42，約+1.92%）。研究名單上的微軟收492.85美元（約+0.60%），輝達收150.49美元（約+0.80%）。今日（11月28日，星期六）港股與美股均休市，以上均為周五已完成的正規收市，未採用期貨或周末場外報價作為收市。聯儲理事會行事曆顯示，FOMC下次會議仍為12月8至9日（附經濟預測摘要）。金管局每日貨幣統計截至11月27日18:30：兌換保證仍為7.75–7.85，基本利率4.25%，今日隔夜HIBOR 3.60%（11月26日為3.52%），香港銀行公會一個月期HIBOR定價3.13214%（11月26日為2.93506%），港匯指數100.5（不變）。當日外匯交易及其他貨幣市場運作記錄為零；貼現窗今日運作+0百萬港元，並錄得退還貼現窗拆出資金−2,000百萬港元，收市總結餘54,114百萬港元，與前日預測一致。預測11月30日及12月1日總結餘仍約54,114百萬港元。",
+      "whyItMatters": "周五港股與美股都錄得正規收市，和周四美股全日休市、只能用週三收市的情況不同。SPYM會隨標普500起伏，VEU則受美國以外市場影響；兩者周五都上升。不過，國務院提到加力發揮「國家隊」穩市，不等於所有中資股份一齊升：科指和大升的晶片股，與逆市下跌的內銀（包括工商銀行）走勢並不一致。今日周末兩邊休市，下一個正規交易時段是周一。隔夜HIBOR再升至3.60%，但外匯交易仍為零，並不自動等於兌換保證已被觸發；周五的貼現窗運作是零，總結餘回落主要是退還前一日拆出的20億港元。",
+      "whatToWatch": "周一港股與美股如何消化國務院穩市表述、周五半日市的升幅，以及後續每日貨幣統計中的HIBOR與外匯交易數字。下次FOMC會議為12月8至9日。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "wire",
+          "publisher": "RTHK",
+          "date": "2026-11-27",
+          "title": "港股高收467點　科指急升逾6%",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1879507-20261127.htm"
+        },
+        {
+          "category": "wire",
+          "publisher": "RTHK",
+          "date": "2026-11-27",
+          "title": "HK stocks rally as Beijing brings in 'national team'",
+          "url": "https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm"
+        },
+        {
+          "category": "wire",
+          "publisher": "Xinhua",
+          "date": "2026-11-27",
+          "title": "港股27日涨2.11% 收报22694.77点",
+          "url": "https://www.news.cn/gangao/20261127/e27d45d9f7c9447c87889042ace72867/c.html"
+        },
+        {
+          "category": "official",
+          "publisher": "Xinhua",
+          "date": "2026-11-27",
+          "title": "李强主持召开国务院常务会议",
+          "url": "http://www.news.cn/politics/leaders/20261127/a7c52bc55082444da343d42d738f28b8/c.html"
+        },
+        {
+          "category": "official",
+          "publisher": "NYSE Group",
+          "date": "2026-11-27",
+          "title": "Holidays & Trading Hours (Friday early close 1:00 p.m. ET)",
+          "url": "https://www.nyse.com/trade/hours-calendars/"
+        },
+        {
+          "category": "official",
+          "publisher": "Board of Governors of the Federal Reserve System",
+          "date": "2026-11-27",
+          "title": "Monetary Policy: Federal Open Market Committee calendars",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "category": "official",
+          "publisher": "Hong Kong Monetary Authority",
+          "date": "2026-11-27",
+          "title": "Daily Monetary Statistics (18:30, 27/11/2026)",
+          "url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/daily-monetary-statistics/"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-27",
+          "title": "Daily unadjusted closes for 1810.HK, 1398.HK, US indexes and Active ETFs through 27 Nov",
+          "url": "https://finance.yahoo.com/"
+        }
+      ]
+    },
+    {
+      "id": "spcx-friday-rally-ussf380",
+      "ticker": "SPCX",
+      "title": "SpaceX（SPCX）：周五半日市收133.59美元，較週三約升4.83%；CNBC引述行政總裁稱將每年再向美國兒童捐出一股；公司網頁顯示USSF-380瞄準今晚加州窗口",
+      "summary": "Yahoo Finance顯示，SpaceX（SPCX）在周五感恩節後、提早於美東下午1:00收市的半日市，收報133.59美元，較感恩節前週三收市127.44美元升約4.83%。這是公司股票的正規收市，不是場外或周末報價。CNBC報道（第三方·非公告）指，升幅出現在更廣泛的納指反彈之中，並且發生在行政總裁Elon Musk周四於社交平台X發文之後；該稿引述其帖文寫道：「I will be donating another share of SpaceX to all kids in America every year。」這是對公司11月25日投資者關係公告（向每個目前有效的Trump Account捐出一股新發行A類普通股，並由行政總裁按公司捐出股數作個人配對）的進一步表述，但「每年再捐一股」並未出現在該份公司新聞稿本文，屬於第三方引述，尚未經公司新一則新聞稿核對。CNBC並引述聯邦通信委員會主席Brendan Carr周五在該台節目表示，對SpaceX衛星的授權也會在業內產生連帶影響，並提到希望看到更多業者進入這個市場。公司發射頁面寫，Falcon 9的USSF-380任務瞄準11月28日星期六，自加州范登堡太空軍基地SLC-4E升空，四小時發射窗口於太平洋時間晚上8:39開啟（即香港時間11月29日星期日下午12:39）；如有需要，後備機會為11月29日星期日太平洋時間晚上6:26。一級助推器其後計劃降落在太平洋上的無人船Of Course I Still Love You。同一發射日程亦列出NG-25任務，窗口為11月29日美東時間10:40至11:00，自佛羅里達SLC-40升空。截稿時這些是公司公布的目標時間，並不是已經完成的發射結果。",
+      "whyItMatters": "SPCX是持倉名單上的名字。周五終於有正規收市，可以用來更新週三之後的價格，但不能把盤前、隔夜另類交易系統或周末議論中的升幅，當成已經鎖定的收市。行政總裁「每年再捐一股」的表述若屬實，會令市場繼續關注捐股規模、批准與潛在攤薄，但目前仍不是公司新一份已量化的發行文件。周末的發射窗口則是可核對的營運日程，和股價當日升跌不是同一件事。",
+      "whatToWatch": "公司是否就「每年再捐一股」發出正式新聞稿或監管披露，以及USSF-380、NG-25是否按公布窗口升空。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-27",
+          "title": "SPCX daily unadjusted close 27 Nov 2026",
+          "url": "https://finance.yahoo.com/quote/SPCX/"
+        },
+        {
+          "category": "wire",
+          "publisher": "CNBC",
+          "date": "2026-11-27",
+          "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+          "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+        },
+        {
+          "category": "official",
+          "publisher": "SpaceX",
+          "date": "2026-11-28",
+          "title": "USSF-380 Mission",
+          "url": "https://www.spacex.com/launches/ussf380"
+        },
+        {
+          "category": "official",
+          "publisher": "SpaceX",
+          "date": "2026-11-28",
+          "title": "Upcoming launches",
+          "url": "https://www.spacex.com/launches"
+        }
+      ]
+    },
+    {
+      "id": "gld-friday-rebound",
+      "ticker": "GLD",
+      "title": "黃金ETF（GLD）：周五半日市收334.40美元，較週三約升2.12%；路透指現貨金午後仍升約2.1%，並有望錄得三週以來首個週升，但加息預期仍在",
+      "summary": "Yahoo Finance顯示，SPDR Gold Shares（GLD）周五半日市收334.40美元，較感恩節前週三收市327.45美元約升2.12%。路透稿件（經Mint轉載，11月27日美東下午更新）寫，現貨金在美東下午2:01報每盎司3,639.61美元，升2.1%，早段曾升逾3%；並指金價有望錄得近3%的週升幅，結束此前連續兩週下跌，因買盤自本週稍早的15個月低位回補。同一稿寫，現貨金週三曾跌至每盎司3,426.35美元，為2025年8月下旬以來最低，背景是美國通脹數據強化了市場對聯儲將在下月及2027年初繼續加息的預期。路透並寫，美元仍接近約22個月高位、十年期美債收益率上升，令以美元計價的黃金對其他貨幣持有人更昂貴；12月交割的美國黃金期貨當時升2.9%，報每盎司3,637.60美元。上述現貨與期貨數字是稿件截稿時的盤中或當時報價，持倉要跟的是GLD周五已經完成的ETF收市。聯儲下次議息仍為12月8至9日。",
+      "whyItMatters": "GLD是持倉名單上的黃金ETF，會大致跟現貨金走，但兩者不是同一個報價。周五金價自週三低位反彈，並不自動等於加息預期已經扭轉：路透稿同時強調美元偏強、債息上升，以及聯儲前景仍然偏鷹。周末沒有新的正規美股收市，下一個可核對的GLD收市會在周一。",
+      "whatToWatch": "周一GLD如何消化周五反彈，以及12月8至9日FOMC前的美元、債息與官方通脹數據。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-27",
+          "title": "GLD daily unadjusted close 27 Nov 2026",
+          "url": "https://finance.yahoo.com/quote/GLD/"
+        },
+        {
+          "category": "wire",
+          "publisher": "Reuters via Mint",
+          "date": "2026-11-27",
+          "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+          "url": "https://www.livemint.com/market/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks-11795807102935.html"
+        },
+        {
+          "category": "official",
+          "publisher": "Board of Governors of the Federal Reserve System",
+          "date": "2026-11-27",
+          "title": "Monetary Policy: Federal Open Market Committee calendars",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-pengcheng-guangzhou-friday",
+      "ticker": "1810.HK",
+      "title": "小米（1810.HK）：股份周五收27.80港元，約升4.51%；第三方報道廣州車展上公司管理層稱澎程系列截至11月26日累計交付逾6萬輛——非公告",
+      "summary": "Yahoo Finance顯示，小米（1810.HK）周五收27.80港元，較周四26.60港元約升4.51%。第三方報道指，2026廣州國際車展開幕當天，小米汽車副總裁李肖爽宣布，截至11月26日，小米澎程系列已交付超過6萬輛；澎程SUV於9月12日開啟首批交付，約兩個半月達致上述累計數字。IT之家並寫，李肖爽提到10月澎程N90、N70分別在大型SUV及中大型SUV銷量取得領先位置，並稱官方調研顯示澎程用戶有50.3%為油車增換購、家庭用戶佔87.8%。匯港通訊經Yahoo轉載的稿件亦寫，澎程截至11月26日已交付逾6萬輛，並指車展期至12月6日。這些交付與用戶結構數字來自車展場合的管理層表述及第三方採訪稿，並不是港交所或公司通函裡的已審核銷量公告，因此標為第三方·非公告。截稿時未把券商目標價或評級寫入本簡報。",
+      "whyItMatters": "小米是持倉名單上的名字。周五股價明顯強於恒指整體升幅，但新聞面上最常被引用的是車展交付數字，而不是一份新的交易所公告。新手看到「交付逾6萬輛」時，應分清這是累計交付的管理層口述，還是已經刊登在公司公告裡、可逐項核對的數字；兩者的可核對程度不同。",
+      "whatToWatch": "後續公司是否把澎程交付或月度銷量寫進正式公告或定期報告，以及周一股價如何消化周五升幅。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-27",
+          "title": "1810.HK daily unadjusted close 27 Nov 2026",
+          "url": "https://finance.yahoo.com/quote/1810.HK/"
+        },
+        {
+          "category": "wire",
+          "publisher": "IT之家",
+          "date": "2026-11-27",
+          "title": "李肖爽宣布小米澎程系列汽車累計交付超6萬台，用時兩個半月",
+          "url": "https://www.ithome.com/1/033/166.htm"
+        },
+        {
+          "category": "wire",
+          "publisher": "Infocast via Yahoo Finance",
+          "date": "2026-11-27",
+          "title": "小米澎程截至昨日已交付逾6萬輛",
+          "url": "https://hk.finance.yahoo.com/news/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E6%88%AA%E8%87%B3%E6%98%A8%E6%97%A5%E5%B7%B2%E4%BA%A4%E4%BB%98%E9%80%BE6%E8%90%AC%E8%BC%9B-025700016.html"
+        }
+      ]
+    },
+    {
+      "id": "nvda-singapore-cannot-confirm",
+      "ticker": "NVDA",
+      "title": "NVIDIA（NVDA）：周五半日市收150.49美元，約升0.80%；科技新報引述新加坡副總理稱無法證實暫停向東南亞四國出貨伺服器的報道",
+      "summary": "Yahoo Finance顯示，輝達（NVDA）周五半日市收150.49美元，較週三149.30美元約升0.80%，升幅小於同日納斯達克綜合指數約2.31%。科技新報11月27日引述法新社報道，新加坡副總理顏金勇表示，當地正與企業協商，以了解美國收緊對輝達設計先進人工智能晶片出口管制的影響，但他無法證實有關輝達已暫停向馬來西亞、新加坡、泰國及印尼出貨伺服器的報道。稿件並再次引述《金融時報》等媒體的知情人士說法，指暫停或屬暫時性，以便釐清新許可要求；這部分仍是第三方·非公告，與昨日簡報所述「路透未能即時核實」並存，公司新聞室截稿時未見確認。同一日科技新報另稿引述報道，美國總統特朗普在佛羅里達州海湖俱樂部接受訪問時稱，根據他所掌握的資訊，足以認定輝達行政總裁黃仁勳「絕對沒問題」、絕非國家安全威脅，並稱政府介入協助其保住職位「對全世界是很棒的一件事」；被問及司法部尚未證實是否已作全面調查時，他稱判斷是基於所掌握的資訊。此亦為第三方·非公告，並不是司法部或公司的正式調查結論。",
+      "whyItMatters": "輝達仍是研究名單上的名字，不是已確認持倉。周五股價回升，但幅度細過大市科技指數，說明「半導體／AI股份周五都反彈」不能直接套用到每一隻股票。東南亞停運說仍然未經公司或新加坡官方證實；特朗普的公開表態也改變不了「調查或合規進展仍要以官方文件為準」這一點。",
+      "whatToWatch": "輝達新聞室、美國商務部或新加坡官方是否就出貨、許可作出證實或澄清，以及任何與行政總裁調查狀態有關的正式說明。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-27",
+          "title": "NVDA daily unadjusted close 27 Nov 2026",
+          "url": "https://finance.yahoo.com/quote/NVDA/"
+        },
+        {
+          "category": "wire",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-11-27",
+          "title": "美收緊先進 AI 晶片出口管制，東南亞 AI 基礎建設面臨考驗",
+          "url": "https://technews.tw/2026/11/27/us-tightens-ai-chip-export-controls-southeast-asia-ai-infrastructure-challenge/"
+        },
+        {
+          "category": "wire",
+          "publisher": "TechNews 科技新報",
+          "date": "2026-11-27",
+          "title": "川普稱黃仁勳絕非國安威脅，稱助他復職對世界是件好事",
+          "url": "https://technews.tw/2026/11/27/trump-jensen-huang-not-national-security-threat-return-office-good-world/"
+        }
+      ]
+    },
+    {
+      "id": "icbc-egm-poll-results",
+      "ticker": "1398.HK",
+      "title": "工商銀行（1398.HK）：第三次臨時股東會三項議案全部通過；股份周五收7.625港元，約跌2.74%，與恒指升勢背離",
+      "summary": "中國工商銀行於港交所刊登公告，宣布2026年第三次臨時股東會已於11月27日下午2時50分在北京總行舉行。有權表決普通股總數為356,406,257,089股；出席股東及其授權代表共5,451人，代表有表決權股份299,971,307,085股，佔84.1655%。三項議案全部以投票方式通過：一、選舉周濟女士為非執行董事，同意票99.5266%，為普通決議；公告寫其任職自本公告發佈後生效。二、關於發行資本工具和總損失吸收能力非資本債務工具的議案，同意票99.9944%，為特別決議。三、關於2027年度集團金融債券發行計劃的議案，同意票99.9943%，為特別決議。公告由董事長廖林主持，13名在任董事中12人列席，副董事長劉珺因其他公務安排未列席；H股股份過戶登記處香港中央證券登記有限公司擔任監票人，北京市金杜律師事務所律師見證並認為表決結果合法有效。本公告沒有在表決結果部分重述有關資本工具或金融債券的具體發行上限，規模仍以11月9日通函為準，此處不另行引用未經核對的額度。Yahoo Finance顯示，工商銀行H股周五收7.625港元，較周四7.84港元約跌2.74%；新華社收市稿亦寫跌2.74%、收7.62港元。港台指當日四大內銀跌逾2%，與恒指、科指升勢不一致。",
+      "whyItMatters": "工商銀行是研究名單上的名字。臨時股東會通過，代表董事任命和兩項發行授權已獲得股東同意，但通過授權並不等於債券或資本工具已經發行完畢，後續仍要看實際發行公告。同一日股份下跌，也提醒新手：大市因為穩市表述或科技股而上升時，銀行股不一定同步。",
+      "whatToWatch": "後續是否就資本工具、TLAC非資本債務工具或2027年金融債券出現實際發行公告，以及周一H股如何消化周五跌幅。唔構成買賣建議。",
+      "sources": [
+        {
+          "category": "filing",
+          "publisher": "HKEX / ICBC",
+          "date": "2026-11-27",
+          "title": "二零二六年十一月二十七日舉行的2026年第三次臨時股東會投票表決結果",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112701153_c.pdf"
+        },
+        {
+          "category": "filing",
+          "publisher": "HKEX / ICBC",
+          "date": "2026-11-27",
+          "title": "Third Extraordinary Shareholders’ Meeting of 2026 Held on 27 November 2026 Poll Results",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112701152.pdf"
+        },
+        {
+          "category": "market-data",
+          "publisher": "Yahoo Finance",
+          "date": "2026-11-27",
+          "title": "1398.HK daily unadjusted close 27 Nov 2026",
+          "url": "https://finance.yahoo.com/quote/1398.HK/"
+        },
+        {
+          "category": "wire",
+          "publisher": "Xinhua",
+          "date": "2026-11-27",
+          "title": "港股27日涨2.11% 收报22694.77点",
+          "url": "https://www.news.cn/gangao/20261127/e27d45d9f7c9447c87889042ace72867/c.html"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "national-team",
+      "title": "國家隊（national team）",
+      "titleEn": "National team",
+      "what": "「國家隊」是市場對官方背景投資者的俗稱，通常以中央匯金等機構為代表，在市場壓力較大時買入股票或相關基金，用意是穩定流動性和預期。這次國務院常務會議還提到，要進一步優化中央匯金公司的類「平準基金」功能。平準基金是一種由政府或官方機構在市場急升急跌時進場、試圖減低過度波動的資金安排；加「類」字，表示它被形容為相近的功能，並不等於已經宣布成立一支新的、有固定公開規模的新基金。",
+      "whyItMatters": "新手看到指數急升，容易以為所有相關股份都會一齊升，或以為「國家隊入場」已經是一筆可核對的已知買盤。其實會議表述針對的是穩市機制和流動性保障，本身不是對單一股份的保證，也不等於買盤金額已經披露。",
+      "whereToday": "新華社11月27日報道，李強主持召開國務院常務會議，指出「資本市場事關經濟發展大局」，並要求加力發揮「國家隊」穩市作用，進一步優化中央匯金公司的類「平準基金」功能，提供充足流動性保障。港台與新華社報道，恒指周五收22,694.77點，升2.11%，科技指數升6.45%；但四大內銀跌逾2%，工商銀行H股收7.625港元，約跌2.74%。",
+      "whatToWatch": "後續是否有更具體的穩市、入市或匯金功能安排披露，以及周一港股、A股如何消化這項會議表述。",
+      "relatedTickers": [
+        "1810.HK",
+        "1398.HK",
+        "VEU",
+        "SPYM"
+      ],
+      "notionUrl": "https://app.notion.com/p/42699f70bc56812c83a2dbb490226333"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "SPCX",
+      "nameCn": "SpaceX",
+      "exchange": "NASDAQ",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56811f85e5d6f7028dae6c",
+      "lastFiling": {
+        "title": "SpaceX to Invest in the Next Generation of Americans",
+        "date": "2026-11-25",
+        "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/"
+      }
+    },
+    {
+      "symbol": "GLD",
+      "nameCn": "SPDR 黃金股份",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc56814bb21af7b4871ddb3c",
+      "lastFiling": null
+    },
+    {
+      "symbol": "SPYM",
+      "nameCn": "SPDR 組合標普 500",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681c9b280fcfeedbdf553",
+      "lastFiling": null
+    },
+    {
+      "symbol": "VEU",
+      "nameCn": "Vanguard 全球（美國除外）",
+      "exchange": "NYSE Arca",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc5681be9d7ad6566aec901e",
+      "lastFiling": null
+    },
+    {
+      "symbol": "1810.HK",
+      "nameCn": "小米",
+      "exchange": "HKEX",
+      "role": "持倉",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568130ba14ee5ba6463207",
+      "lastFiling": {
+        "title": "根據2023年股份計劃授出獎勵及根據2024年小米香港股份計劃授出小米香港購股權",
+        "date": "2026-11-25",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1125/2026112501216_c.pdf"
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "nameCn": "微軟",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568100b3b1dadaf1e3527b",
+      "lastFiling": {
+        "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
+        "date": "2026-11-18",
+        "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "nameCn": "NVIDIA",
+      "exchange": "NASDAQ",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3cd99f70bc568149a1d1c0cb032ab90b",
+      "lastFiling": {
+        "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+        "date": "2026-11-23",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+      }
+    },
+    {
+      "symbol": "1398.HK",
+      "nameCn": "工商銀行",
+      "exchange": "HKEX",
+      "role": "研究",
+      "notesUrl": "https://app.notion.com/p/3ce99f70bc568077bee6cc71eb3c0387",
+      "lastFiling": {
+        "title": "二零二六年十一月二十七日舉行的2026年第三次臨時股東會投票表決結果",
+        "date": "2026-11-27",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112701153_c.pdf"
+      }
+    }
+  ],
+  "audioUrl": "data/audio/2026-11-28.mp3",
+  "audioScriptChars": 3460,
+  "audioVoice": "gTTS-zh-TW"
+}

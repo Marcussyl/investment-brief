@@ -1,212 +1,235 @@
 {
-  "updated": "2026-11-27T08:45:00+08:00",
+  "updated": "2026-11-28T08:45:00+08:00",
   "disclaimer": "非投資建議 / Not financial advice. 本列表僅供參考，唔構成買賣建議。",
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "timezone": "Asia/Hong_Kong",
-  "itemCount": 14,
+  "itemCount": 16,
   "watchlist": 8,
   "items": [
     {
       "id": 1,
-      "title": "SpaceX to Invest in the Next Generation of Americans",
-      "toc": "SpaceX宣布向每個有效Trump Account捐出一股新發行A類股",
-      "summary": "SpaceX於11月25日在投資者關係頁宣布，承諾向每個目前有效的Trump Account捐出一股新發行A類普通股；行政總裁Elon Musk將按公司捐出股數作個人配對，總裁兼營運長Gwynne Shotwell則另行宣布個人贈出超過200萬股。稿件的前瞻性陳述提到，有關貢獻仍涉及第三方及政府批准等不確定因素。",
-      "source": "SpaceX IR",
-      "date": "2026年11月25日",
-      "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/",
+      "title": "美收緊先進 AI 晶片出口管制，東南亞 AI 基礎建設面臨考驗",
+      "toc": "新加坡副總理：無法證實輝達停運東南亞四國",
+      "summary": "科技新報引述法新社報道，新加坡副總理顏金勇表示，當地正與企業協商，以了解美國收緊輝達設計先進AI晶片出口管制的影響，但他無法證實有關輝達已暫停向馬來西亞、新加坡、泰國及印尼出貨伺服器的報道。稿件並引述《金融時報》等媒體的知情人士說法，指暫停或屬暫時性，以便釐清新許可要求。此為第三方·非公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026年11月27日",
+      "url": "https://technews.tw/2026/11/27/us-tightens-ai-chip-export-controls-southeast-asia-ai-infrastructure-challenge/",
       "tickers": [
-        "SPCX"
+        "NVDA"
       ],
-      "origin": "公司新聞室／IR",
-      "impact": "市場可能會把這項安排理解成公司把部分股權擴至更廣泛持有人，又或關注新發行股份對現有股東的潛在攤薄；但公告沒有寫明有效帳戶數目或發行規模，因此現階段不宜把「每股一股」直接換算成已知影響。",
-      "newbieTake": "新手可先對照公司新聞稿與後續過戶或批准披露，而不是只看第三方對捐贈總值的估算。以上皆非買賣建議。"
+      "origin": "第三方·非公告",
+      "impact": "若出貨暫停屬實，市場可能關注東南亞作為資料中心樞紐、以及轉口與遠端算力路徑的不確定性；但新加坡官方目前未能證實，公司亦尚未公開確認。",
+      "newbieTake": "新手可同時對照公司新聞室、美國商務部或新加坡官方有沒有證實或澄清，而不是把未經核實的停運當成已公告事實。以上皆非買賣建議。"
     },
     {
       "id": 2,
-      "title": "美國封堵中國 AI 算力漏洞，輝達緊急喊停東南亞四國伺服器出貨",
-      "toc": "外媒稱輝達暫停向東南亞四國出貨伺服器",
-      "summary": "科技新報11月26日綜合外媒報道，輝達已通知製造合作夥伴，暫停向馬來西亞、新加坡、泰國及印尼出貨搭載其晶片的伺服器，以配合美國最新出口管制，防止中國企業經第三國資料中心取得受限制算力。稿件引述知情人士指戴爾及美超微等已通知買家目前不允許相關訂單出貨，持續多久尚不清楚；並寫輝達已拒絕置評。此為第三方·非公告。",
+      "title": "川普稱黃仁勳絕非國安威脅，稱助他復職對世界是件好事",
+      "toc": "特朗普稱黃仁勳絕非國安威脅",
+      "summary": "科技新報引述報道，美國總統特朗普在佛羅里達州海湖俱樂部接受訪問時表示，根據他所掌握的資訊，足以認定輝達行政總裁黃仁勳「絕對沒問題」、絕非國家安全威脅，並稱政府介入協助其保住職位「對全世界是很棒的一件事」。被問及司法部尚未證實是否已作全面調查時，他稱判斷是基於所掌握的資訊。此為第三方·非公告。",
       "source": "TechNews 科技新報",
-      "date": "2026年11月26日",
-      "url": "https://technews.tw/2026/11/26/nvidia-halts-server-shipments-to-four-southeast-asian-countries/",
+      "date": "2026年11月27日",
+      "url": "https://technews.tw/2026/11/27/trump-jensen-huang-not-national-security-threat-return-office-good-world/",
       "tickers": [
         "NVDA"
       ],
       "origin": "第三方·非公告",
-      "impact": "若報道屬實，市場可能會關注美國管制是否從直接限制對華晶片出口，進一步延伸到東南亞伺服器供應鏈與雲端租賃；但公司尚未證實，影響範圍與持續時間仍不明。",
-      "newbieTake": "新手可等待輝達新聞室、證交所或美國商務部的正式說明，而不是把未經核實的出貨暫停當成已公告事實。以上皆非買賣建議。"
+      "impact": "在黃仁勳復職後的國安與治理爭議仍未完全平息之際，市場可能關注白宮公開表態與司法部門是否另有正式說明之間的落差。",
+      "newbieTake": "可觀察司法部或輝達是否就調查狀態、出口管制合規或董事會監督作出公開更新。以上皆非買賣建議。"
     },
     {
       "id": 3,
-      "title": "Nvidia halts chip shipments to Southeast Asia, FT reports",
-      "toc": "路透轉述金融時報：未能即時核實輝達停運報道",
-      "summary": "CNA引述路透11月26日報道，《金融時報》引述三名知情人士稱，輝達已通知製造合作夥伴，停止向四個東南亞國家出貨伺服器。路透明確寫道，未能即時核實該報道。此為第三方·非公告。",
-      "source": "CNA / Reuters",
-      "date": "2026年11月26日",
-      "url": "https://www.channelnewsasia.com/business/nvidia-halts-chip-shipments-southeast-asia-ft-reports-6584251",
-      "tickers": [
-        "NVDA"
-      ],
+      "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+      "toc": "CNBC：中國晶片股創紀錄單日升幅，國務院提到國家隊穩市",
+      "summary": "CNBC報道，中國國務院總理李強主持的常務會議後，官方媒體公布要加力發揮「國家隊」（國家支持資金）穩市作用，中國晶片股帶動大市反彈。稿件引述Wind數據稱，科創半導體指數急升，CSI半導體指數40隻成分股升17.6%，為有紀錄以來最大單日升幅，並超過2024年底近17%的前高。此為第三方·非公告；會議原文見新華社稿。",
+      "source": "CNBC",
+      "date": "2026年11月27日",
+      "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+      "tickers": [],
       "origin": "第三方·非公告",
-      "impact": "通訊社加上「未能即時核實」，提醒這則停運消息的證據強度仍有限，市場關注可能存在，但不等於事件已被官方確認。",
-      "newbieTake": "新手看到「路透／金融時報引述知情人士」時，應同時留意稿件有沒有寫未能核實或公司拒絕置評。以上皆非買賣建議。"
+      "impact": "市場可能把這項高層穩市表述理解成對資本市場流動性的支持，尤其是半導體與科技股份的風險偏好；但會議表述本身並未公布具體買盤金額，也不等於所有相關股份都會同步上升。",
+      "newbieTake": "可先對照新華社的會議稿，再觀察後續是否有更具體的穩市或入市安排披露。以上皆非買賣建議。"
     },
     {
       "id": 4,
-      "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
-      "toc": "CNBC：賣家要求新雲不得把算力租給中國企業",
-      "summary": "CNBC11月26日引述兩名知情人士報道，晶片賣家已告知新雲（neocloud）業者，若任何運算容量會租給中國企業，將不會供應輝達晶片。稿件把這與美國商務部工業安全局11月19日生效、收緊中國企業遠端使用美國先進算力的規則聯繫起來，並寫輝達與該局截稿時未即時回應置評。美國貿易代表Jamieson Greer週三在CNBC節目稱，相關規則旨在封堵經東南亞或第三國資料中心的間接存取漏洞。此為第三方·非公告。",
+      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "toc": "CNBC：SpaceX周五半日市升約4.83%，Musk稱將每年再捐一股",
+      "summary": "CNBC報道，SpaceX股份在周五提早收市的半日市升4.83%，正值納指反彈，且發生在行政總裁Elon Musk周四於社交平台X發文之後；稿件引述其帖文稱，將每年再向美國所有兒童捐出一股SpaceX股份。這是對公司11月25日投資者關係公告的進一步表述，但「每年再捐一股」並未出現在該份公司新聞稿本文。此為第三方·非公告。Yahoo顯示該股周五收133.59美元。",
       "source": "CNBC",
-      "date": "2026年11月26日",
-      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "date": "2026年11月27日",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
       "tickers": [
-        "NVDA"
+        "SPCX"
       ],
       "origin": "第三方·非公告",
-      "impact": "市場可能會關注新雲業者的客戶結構與輝達供應是否因此重新分配；但這是賣家對業者的私下傳達與知情人士轉述，並不是輝達或商務部的新一份公開命令文本。",
-      "newbieTake": "新手可把重點放在11月19日已生效的遠端存取規則，以及後續是否出現可核對的執照或公司說明。以上皆非買賣建議。"
+      "impact": "市場可能繼續關注捐股規模、批准進度與潛在攤薄，但在公司未發出新的量化文件前，不宜把第三方轉述直接換算成已知發行股數。",
+      "newbieTake": "可等待公司是否就「每年再捐一股」刊登正式新聞稿或監管披露。以上皆非買賣建議。"
     },
     {
       "id": 5,
-      "title": "不願任由美國擺布，荷蘭反對擴大 ASML 出口限制",
-      "toc": "荷蘭貿易部長反對把MATCH Act擴大至ASML設備",
-      "summary": "科技新報11月27日引述路透報道，荷蘭貿易部長Sjoerd Sjoerdsma於26日表示，若美國《多邊硬體技術管制協調法案》（MATCH Act）獲通過，荷蘭將要求美國不要執行相關措施，以免損害ASML及其他歐洲科技企業。稿件寫，美國國會正協商是否於12月把該法案納入年度國防支出法案，內容包括可能對ASML浸潤式深紫外光（DUV）設備實施更嚴限制；ASML未對荷蘭政府最新表態置評。此為第三方·非公告。",
+      "title": "需求能見度低、供應鏈轉趨保守，2028 年 DRAM 合約價走跌風險升溫",
+      "toc": "TrendForce：基礎情境下2028年一般型DRAM合約價或轉跌",
+      "summary": "科技新報引述TrendForce最新記憶體產業研究，指2026年第四季上旬起，供應鏈因政策、融資與地緣因素重新檢視2027至2028年產銷規劃，DRAM採購動能略為放緩。基礎情境下，該機構預計2027年一般型DRAM價格漲幅將逐季收斂，甚至下半年持平，並於2028年轉為下跌；悲觀情境則假設需求下修更明顯，價格或自2027年第四季起反轉。此為第三方機構情境分析，並非公司公告。",
       "source": "TechNews 科技新報",
       "date": "2026年11月27日",
-      "url": "https://technews.tw/2026/11/27/netherlands-opposes-expanding-asml-export-restrictions-resists-us-dictation/",
-      "tickers": [],
+      "url": "https://technews.tw/2026/11/27/low-demand-visibility-conservative-supply-chains-2028-dram-contract-price-decline-risk/",
+      "tickers": [
+        "NVDA"
+      ],
       "origin": "第三方·非公告",
-      "impact": "半導體設備出口管制若再擴大，市場可能會關注歐洲設備商與中國晶圓廠資本開支的不確定性；但法案尚未通過，荷蘭表態也不等於管制已經生效。",
-      "newbieTake": "新手可留意美國國會12月是否把MATCH Act納入國防支出法案，以及ASML或荷蘭政府會否發表正式立場。以上皆非買賣建議。"
+      "impact": "市場可能關注記憶體供應鏈是否從短缺敘事轉向更謹慎的2027至2028年規劃；這類情境分析會隨後續需求與管制變化調整，並不是已經發生的合約價。",
+      "newbieTake": "可把TrendForce的基礎／悲觀情境當成觀察框架，再對照後續原廠或採購數據，而不是把它當成已經確定的價格路徑。以上皆非買賣建議。"
     },
     {
       "id": 6,
-      "title": "Exclusive: AI supply chain faces shipment delays as KYC expands",
-      "toc": "電子時報：美國新規擴大客戶審查，AI供應鏈出貨延誤",
-      "summary": "電子時報11月26日獨家稿（公開導言）寫，美國商務部工業安全局出口管制規則自2026年11月19日生效，擴大人工智慧伺服器供應鏈的客戶審查與出貨限制。完整細節需視原文其餘部分；此處只採用已公開的導言，屬第三方·非公告。",
-      "source": "DigiTimes 電子時報",
-      "date": "2026年11月26日",
-      "url": "https://www.digitimes.com/news/a20261126PD214/supply-chain-gpu-data-center-gtc-data.html",
+      "title": "廣達退出、矽品接手，友達華亞廠 197 億元交易案再拍板",
+      "toc": "友達公告將華亞廠售予矽品，交易金額維持197億元",
+      "summary": "科技新報報道，友達公告董事會通過，將桃園龜山華亞廠不動產及相關廠務附屬設施出售予日月光投控旗下封測廠矽品，交易總金額維持新台幣197億元（未稅），預估處分利益約104億元。該廠原擬售予廣達作為AI伺服器後段組裝、測試及驗證用途，但雙方未能就使用規格及交付時程達成共識，10月底終止交易。稿件並寫，矽品日前透露正與NVIDIA合作擴大下一代AI平台所需先進封裝產能，惟此次華亞廠的具體產能配置及投產時程仍待矽品進一步揭露。",
+      "source": "TechNews 科技新報",
+      "date": "2026年11月27日",
+      "url": "https://finance.technews.tw/2026/11/27/auo-spil/",
       "tickers": [
         "NVDA"
       ],
       "origin": "第三方·非公告",
-      "impact": "市場可能會把交期拉長、客戶身分審查變嚴，理解成AI伺服器出貨節奏的不確定性增加；但公開可見的只是導言，不宜推斷未展示的訂單數字。",
-      "newbieTake": "新手可對照11月19日生效的規則文本，以及後續供應商或公司是否證實交期變化。以上皆非買賣建議。"
+      "impact": "市場可能關注先進封裝及AI伺服器相關廠房如何在不同買家之間重新配置；但公告寫的是友達出售廠房，並不等於輝達或矽品已經公布新的產能時間表。",
+      "newbieTake": "可對照友達重訊、以及矽品後續是否說明華亞廠用途與時程。以上皆非買賣建議。"
     },
     {
       "id": 7,
-      "title": "SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring",
-      "toc": "電子時報：SK海力士尋求台積電3奈米經驗以開發客製HBM",
-      "summary": "電子時報11月26日報道（公開導言）寫，SK海力士正在尋求具備台積電3奈米製程經驗的工程師，以開發客製化高頻寬記憶體（HBM）；美國同業美光則在韓國加快招聘，以支援亞洲擴張。此為第三方·非公告，公開可見的主要是導言。",
+      "title": "TSMC's A14 ready for chip design",
+      "toc": "電子時報：台積電A14已可供晶片設計，目標2028年量產",
+      "summary": "電子時報11月27日報道，台積電次世代A14製程已可供晶片設計，並指這家全球最大晶圓代工廠正為其1.4奈米級技術準備在2028年進入量產。此為第三方·非公告。公開可見的導言未提供更多客戶或產能細節。",
       "source": "DigiTimes 電子時報",
-      "date": "2026年11月26日",
-      "url": "https://www.digitimes.com/news/a20261126VL224/sk-hynix-tsmc-micron-3nm-hbm.html",
+      "date": "2026年11月27日",
+      "url": "https://www.digitimes.com/news/a20261127VL211/tsmc-ic-design-production-capacity.html",
       "tickers": [],
       "origin": "第三方·非公告",
-      "impact": "市場可能會關注記憶體廠為先進HBM招攬先進邏輯製程人才，反映客製化記憶體與先進封裝的競爭仍在進行；這並不直接等同於任何Active Watchlist公司的訂單已改變。",
-      "newbieTake": "新手可把這則理解成供應鏈人才與製程能力的背景，等待相關公司自己的產能或技術公告。以上皆非買賣建議。"
+      "impact": "市場可能把「已可供設計」理解成先進製程時程又前進一步，但量產目標仍指向2028年，現階段不宜把這則標題理解成已經開始大量出貨。",
+      "newbieTake": "可等待台積電法說會或官方製程時程更新，核對A14是否仍以2028年量產為目標。以上皆非買賣建議。"
     },
     {
       "id": 8,
-      "title": "US chip curbs will slow Asia data-center investment, Fitch says",
-      "toc": "惠譽：美國晶片管制料令亞太數據中心投資放慢並更篩選",
-      "summary": "路透11月26日引述惠譽評級稱，隨著美國收緊晶片管制，依賴中國客戶與美國先進半導體的業者將受壓，亞太數據中心投資料放慢並變得更篩選。新規則自11月19日生效，涵蓋對馬來西亞、新加坡、印尼及泰國的受管制晶片出貨執照，以及向中國企業提供顯著算力的海外數據中心。惠譽指新雲業者因需維持昂貴GPU高使用率而壓力最大，接近完工但未能確認晶片供應或客戶資格的項目也可能延後產生收入。此為第三方·非公告。",
-      "source": "Reuters / The Economic Times",
-      "date": "2026年11月26日",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-chip-curbs-will-slow-asia-data-center-investment-fitch-says/articleshow/136189442.cms",
-      "tickers": [
-        "NVDA"
-      ],
+      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
+      "toc": "電子時報：中國擴產受設備交期與零件短缺拖慢",
+      "summary": "電子時報11月27日報道，中國晶圓廠仍在增加產能，但更長的設備交期開始拖慢進度；導言引述中芯國際指，全球半導體設備供應鏈仍然緊繃。此為第三方·非公告。公開可見的導言未列出完整交期數字。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月27日",
+      "url": "https://www.digitimes.com/news/a20261127PD213/china-semiconductors-capacity-expansion-component-equipment-smic.html",
+      "tickers": [],
       "origin": "第三方·非公告",
-      "impact": "評級機構的行業判斷可能影響市場對亞洲數據中心融資與新雲商業模式的討論，尤其與輝達晶片供應及出口合規有關；但這不是輝達或數據中心業主的業績指引。",
-      "newbieTake": "新手可把惠譽說法當成行業風險提示，並對照後續是否有項目延期或融資條件收緊的可核對披露。以上皆非買賣建議。"
+      "impact": "市場可能關注設備與零件瓶頸，會否限制中國本土產能釋放的速度，從而影響國產替代進度的預期。",
+      "newbieTake": "可對照中芯或其他晶圓廠後續在法說或公告中如何描述設備交期。以上皆非買賣建議。"
     },
     {
       "id": 9,
-      "title": "網銀盜轉案逾百起，刑事局揭露偽冒短劇App散布Android木馬",
-      "toc": "刑事局：偽冒短劇App木馬濫用無障礙權限盜轉網銀",
-      "summary": "iThome11月26日報道，刑事局當日公布，今年9月至11月21日已受理逾100起網銀盜轉案件，累計財損超過1,742萬元，涉及22家金融機構客戶。警方在部分受害者手機發現偽冒短劇App的Android惡意程式，會誘使開啟無障礙權限，並在數十秒內自行取得12類權限，具備遠端操控、側錄密碼及讀取刪除簡訊等能力。刑事局尚未公布全部案件中有多少已確認涉及該木馬，也未公布惡意程式名稱。",
-      "source": "iThome",
-      "date": "2026年11月26日",
-      "url": "https://www.ithome.com.tw/news/180826",
+      "title": "Global smartphone shipments to fall a further 6% in 2027 as memory squeeze persists",
+      "toc": "Counterpoint：預計全球智能手機出貨2026年跌13.9%、2027年再跌6%",
+      "summary": "電子時報引述Counterpoint Research於11月25日發布的Smartphone Market Outlook Tracker，預計全球智能手機出貨量2026年按年下跌13.9%，2027年再跌6%，並指記憶體供應緊絀持續。此為第三方機構預測，並非品牌公司公告。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月27日",
+      "url": "https://www.digitimes.com/news/a20261127PD220/smartphone-demand-recovery-2027-2028.html",
       "tickers": [],
       "origin": "第三方·非公告",
-      "impact": "這類盜轉手法與手機權限濫用有關，可能令金融機構與監管機構加強App安全與交易驗證討論，屬於資安與金融基礎設施議題，並不直接對應Active Watchlist上的個股公告。",
-      "newbieTake": "新手可留意警方建議的防護步驟，以及銀行端會否加強深夜交易或生物辨識驗證，而不是把案件數字理解成某隻股票的利空。以上皆非買賣建議。"
+      "impact": "若預測方向接近，市場可能關注手機品牌在記憶體成本上升時，會否進一步調整出貨或產品組合；這仍是展望，不是已經公布的年度實績。",
+      "newbieTake": "可把這項機構預測與各品牌後續出貨或業績說明對照，而不是把2027年跌幅當成已發生的事實。以上皆非買賣建議。"
     },
     {
       "id": 10,
-      "title": "微軟全球大當機原因曝光！竟是4個月前埋下的Windows漏洞，官方祭出「紅色警戒」全面整頓",
-      "toc": "T客邦：微軟Code Red針對11月Exchange Online重大故障",
-      "summary": "T客邦11月26日報道，微軟因11月12至13日Outlook、Teams、Copilot等Microsoft 365服務中斷，啟動內部最高級別「Code Red」。稿件寫，執行長納德拉已公開致歉，並說明故障並非來自駭客攻擊或AI代理，而是7月引入、直至11月12日特定負載下才爆發的網路閘道程式缺陷。路透取得的內部備忘錄指，工程團隊曾在11個Teams群組交換超過1.1萬則訊息；Microsoft 365 Core總裁Jason Henderson把該事故視為Exchange Online史上對客戶影響最嚴重的事件，並提出未來重大故障爭取1小時內恢復等改善方向。此為第三方轉述內部備忘錄，不是一份獨立的證券交易所業績公告。",
+      "title": "Bank of Korea flags risks to memory chip boom",
+      "toc": "韓國央行研究：若AI投資放緩，記憶體價格2028年或低於現時預測",
+      "summary": "電子時報11月27日報道，韓國央行11月26日發布的一項研究指出，若人工智能投資放緩、融資條件收緊，且中國製造商擴大生產，記憶體晶片價格到2028年可能明顯低於目前預測。此為第三方·非公告。",
+      "source": "DigiTimes 電子時報",
+      "date": "2026年11月27日",
+      "url": "https://www.digitimes.com/news/a20261127VL213/memory-exports-financing-investment-2027-2028.html",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "市場可能把這項官方研究視為對記憶體景氣「不會一直緊缺」的提醒，尤其是當需求或融資假設改變時。",
+      "newbieTake": "可留意韓國央行或主要記憶體廠後續如何更新對2027至2028年供需的看法。以上皆非買賣建議。"
+    },
+    {
+      "id": 11,
+      "title": "覺得ChatGPT額度掉很快？OpenAI證實GPT-6.2計費方式有誤，漏洞已修復並發放重置機會補償用戶",
+      "toc": "T客邦：OpenAI證實GPT-6.2計費錯誤已修復",
+      "summary": "T客邦報道，OpenAI證實已修復GPT-6.2上線初期的計費系統錯誤。稿件引述OpenAI Codex與ChatGPT負責人Thibault Sottiaux表示，先前多數用戶在使用GPT-6.2 Astra與Sol時，系統錯誤地以「折扣價」計算方案額度；修復後，完成相同工作量將消耗更多額度，Astra用戶觸及上限的速度將較上週加快40%，Sol則加快25%。OpenAI稱不會追溯少計的額度，並向Go、Plus、Pro及Business用戶各提供一次額外額度重置機會；Business用戶在2026年12月31日前可免費使用Fast Mode。此為第三方報道公司說明。",
       "source": "T客邦",
-      "date": "2026年11月26日",
-      "url": "https://www.techbang.com/posts/135127-microsoft-global-outage-windows-vulnerability-cause",
+      "date": "2026年11月27日",
+      "url": "https://www.techbang.com/posts/135226-openai-billing-bug-fix-astra-consumption-increase",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "市場可能關注計費修正後，高階模型的實際使用量與企業支出會如何變化；這是產品計費調整，並不是財務業績公告。",
+      "newbieTake": "可對照OpenAI後續是否在官方說明中重複這些補償與消耗速度數字。以上皆非買賣建議。"
+    },
+    {
+      "id": 12,
+      "title": "微軟高層霸氣喊話：Claude 與 ChatGPT 能做的，Copilot 做得更好且成本更低",
+      "toc": "T客邦轉述彭博：微軟高層稱Copilot成本更低",
+      "summary": "T客邦11月27日轉述彭博報道，微軟商業業務執行長Judson Althoff在Ignite大會期間表示，「Claude或ChatGPT能完成的任何任務，Copilot都能做得更好，而且成本更低」。稿件並稱，截至今年6月，Copilot付費企業用戶已突破3,000萬，相對微軟逾4.5億企業辦公用戶基數仍有拓展空間。原文來源：Bloomberg。此為第三方·非公告。",
+      "source": "T客邦",
+      "date": "2026年11月27日",
+      "url": "https://www.techbang.com/posts/135091-microsoft-copilot-better-cheaper-than-claude-chatgpt",
       "tickers": [
         "MSFT"
       ],
       "origin": "第三方·非公告",
-      "impact": "市場可能會關注微軟雲端服務的可靠性與復原目標，尤其是Azure／Microsoft 365對企業客戶的服務承諾；但「1小時內修復」是改善目標，稿件亦提醒並不代表目前已具備該能力。",
-      "newbieTake": "新手可等待微軟是否刊發正式的事故檢討或服務公告，而不是只看「紅色警戒」這個內部用詞。以上皆非買賣建議。"
-    },
-    {
-      "id": 11,
-      "title": "Claude Artifacts現在能直接安裝成電腦App",
-      "toc": "Anthropic讓Claude Artifacts可安裝為桌面應用（測試版）",
-      "summary": "T客邦11月26日報道，Anthropic為Claude的Artifacts功能推出「安裝為應用程式」選項，使用者可把生成的網頁應用或小工具，作為獨立軟體安裝到macOS與Windows桌面，並可選擇基礎權限或額外通知、快捷鍵、置頂等權限；高階場景甚至可授予完整電腦存取權限。該功能目前為Beta，正逐步向桌面版用戶開放。",
-      "source": "T客邦",
-      "date": "2026年11月26日",
-      "url": "https://www.techbang.com/posts/135116-claude-artifacts-standalone-desktop-app",
-      "tickers": [],
-      "origin": "第三方·非公告",
-      "impact": "這屬於生成式AI工具如何走出瀏覽器、進入桌面工作流程的產品進展，可能被視為AI應用分發方式的變化；它並不直接改寫Active Watchlist公司的已披露業績。",
-      "newbieTake": "新手可把它理解成產品功能更新，並留意權限分級與測試版範圍，而不是當成某家上市公司的正式收入公告。以上皆非買賣建議。"
-    },
-    {
-      "id": 12,
-      "title": "TRUMP: WILL PROBABLY SPEAK TO NVIDIA'S HUANG SOON",
-      "toc": "富途快訊：特朗普稱可能很快與輝達黃仁勳通話",
-      "summary": "富途／moomoo快訊引述路透，內容為「TRUMP: WILL PROBABLY SPEAK TO NVIDIA'S HUANG SOON」。這是快訊級官方談話轉述，並非輝達公司公告，也未提供通話時間或議題細節。原文來源：Reuters。",
-      "source": "富途快訊",
-      "date": "2026年11月27日",
-      "url": "https://www.moomoo.com/news/flash/1005938585/trump-will-probably-speak-to-nvidia-s-huang-soon",
-      "tickers": [
-        "NVDA"
-      ],
-      "origin": "第三方·非公告",
-      "impact": "市場可能會把這句話理解成華府與輝達管理層仍有溝通空間，尤其在出口管制與治理議題受關注之際；但「可能很快通話」本身不是政策決定，也不等於管制將放寬或收緊。",
-      "newbieTake": "新手可等待雙方是否真的會面或刊出可核對的官方說明，而不是只根據一句快訊推斷結果。以上皆非買賣建議。"
+      "impact": "市場可能把這類公開比較理解成微軟在企業AI助手市場強調價格與生態整合優勢，但報道中的成本估算來自委託研究與訪問，並不是公司業績指引。",
+      "newbieTake": "可留意微軟後續官方活動或業績會，是否更新Copilot付費用戶或商業化進度。以上皆非買賣建議。"
     },
     {
       "id": 13,
-      "title": "Huang is back in Nvidia, but Washington's chip squeeze on China is only tightening",
-      "toc": "電子時報：黃仁勳復職，但對華晶片管制仍在收緊",
-      "summary": "電子時報11月26日分析稿（公開導言）寫，黃仁勳在離開職務僅11天後重返輝達執掌，但華府對中國的晶片管制仍在收緊。完整論據需視原文其餘部分；此處只採用已公開導言，屬第三方·非公告。",
-      "source": "DigiTimes 電子時報",
-      "date": "2026年11月26日",
-      "url": "https://www.digitimes.com/news/a20261126VL219/nvidia-jensen-huang-chips-data.html",
-      "tickers": [
-        "NVDA"
-      ],
+      "title": "Anthropic股價重回IPO發行價上方，AI股反彈提振市場",
+      "toc": "富途快訊：Anthropic股價重回發行價上方",
+      "summary": "富途快訊報道，Anthropic股價重回IPO發行價上方，並指AI股反彈提振市場。快訊本身沒有提供收市價或發行價數字，此處不另行補上未經核對的報價。",
+      "source": "富途快訊",
+      "date": "2026年11月28日",
+      "url": "https://news.futunn.com/flash/1005877693/anthropic-s-share-price-returns-above-ipo-offering-level-ai",
+      "tickers": [],
       "origin": "第三方·非公告",
-      "impact": "稿件把公司治理人事落地與出口管制收緊並列，市場可能會認為管理層不確定性下降，並不自動等於對華銷售限制放寬。",
-      "newbieTake": "新手可把復職公告與出口規則分開看：一個是公司董事會決定，一個是政府規則，兩者不必同一天同方向。以上皆非買賣建議。"
+      "impact": "市場可能把個別新上市AI股份重返發行價，視為周五風險偏好回升的一部分，但不能以此推斷所有相關股份的走勢。",
+      "newbieTake": "如需核對價格，應查該股的交易所或行情頁，而不是只看快訊標題。以上皆非買賣建議。"
     },
     {
       "id": 14,
-      "title": "S&P warns Nvidia credit rating could be cut over rising management and governance risk",
-      "toc": "CNBC：標普警告輝達AA評級未來約90日或被下調一個級距",
-      "summary": "CNBC11月25日晚間報道，標普全球評級在週三說明中把輝達列入CreditWatch（負面含義），並指若管理與治理框架繼續出現不足，未來約90日內評級可能被下調一個級距；稿件寫輝達目前為AA評級，標普提到董事會結構、組成、有效監督與接班安排等問題，並打算與董事會及管理層會面。這不是已完成的降級，也不是輝達公司公告。此為第三方·非公告。",
-      "source": "CNBC",
-      "date": "2026年11月25日",
-      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "title": "美股收盤｜納指大漲2.3%，道指4連漲周漲5.5%；Anthropic漲11%，費半指數漲近5%，英偉達低開高走；黃金反彈",
+      "toc": "富途快訊轉述華爾街見聞：周五美股收市、輝達低開高走",
+      "summary": "富途要聞轉述華爾街見聞的美股收市稿，指納指升2.3%，並提到費半指數升近5%、輝達低開高走，以及黃金反彈。原文來源：華爾街見聞。具體收市數字以Yahoo等行情源核對：納斯達克綜合指數周五收24,129.50點，約升2.31%；輝達收150.49美元，約升0.80%。",
+      "source": "富途快訊",
+      "date": "2026年11月28日",
+      "url": "https://news.futunn.com/post/1005879150/us-stocks-close-nasdaq-surges-2-3-dow-posts-a",
+      "tickers": [
+        "NVDA",
+        "GLD"
+      ],
+      "origin": "第三方·非公告",
+      "impact": "周五半日市的科技反彈，可能令市場暫時緩解本週稍早的拋售情緒，但半日市成交與波動往往與正常全日市不同，不宜把它當成完整一週風險已經結束。",
+      "newbieTake": "周末沒有新的美股正規收市，下一個可核對的收市會在周一。以上皆非買賣建議。"
+    },
+    {
+      "id": 15,
+      "title": "美出口限令加速轉變！瑞銀：中國產 AI 晶片 2028 年市占率將突破 88%",
+      "toc": "科技新報轉述瑞銀：預計中國產AI晶片2028年本土市占88%",
+      "summary": "科技新報引述瑞銀預測，中國每年國產AI加速器出貨量可由2025年的170萬顆，增至2030年突破1,000萬顆。瑞銀證券中國科技研究主管Jimmy Yu指，中國業者在本土市場市占率預計2027年達83%、2028年再升至88%。瑞銀亦預期2027、2028年國產GPU出貨分別約370萬及550萬顆，但仍較預估需求低20%至30%，並指HBM短缺與先進製造產能有限將制約今明兩年出貨。此為第三方機構預測，並非公司或官方公告。",
+      "source": "TechNews 科技新報",
+      "date": "2026年11月27日",
+      "url": "https://technews.tw/2026/11/27/ubs-see-chinese-ai-chip-market-by-2028/",
       "tickers": [
         "NVDA"
       ],
       "origin": "第三方·非公告",
-      "impact": "信用觀察可能令市場更關注治理與出口合規討論，但不等於評級已經下調，也不等於公司盈利指引被改寫。",
-      "newbieTake": "新手可分辨「列入觀察名單」與「已經降級」，並等待標普或公司後續可核對的文件。以上皆非買賣建議。"
+      "impact": "市場可能關注出口管制會否加快中國本土加速器替代；但市占與出貨數字都是預測，實際進度仍取決於產能、HBM與客戶採用。",
+      "newbieTake": "可把瑞銀預測當成一種情景，再對照中國晶片業者後續出貨或客戶聲明，而不是當成已經實現的市占。以上皆非買賣建議。"
+    },
+    {
+      "id": 16,
+      "title": "西班牙要求大型資料中心符合能源與水效率標準，強化AI算力基礎建設的永續監管",
+      "toc": "iThome：西班牙擬對大型資料中心設能源與水效率標準",
+      "summary": "iThome報道，西班牙要求大型資料中心符合能源與水效率標準，以強化人工智能算力基礎建設的永續監管。此為第三方對外國監管動向的報道，細節以當地官方文本為準。",
+      "source": "iThome",
+      "date": "2026年11月27日",
+      "url": "https://www.ithome.com.tw/news/180859",
+      "tickers": [],
+      "origin": "第三方·非公告",
+      "impact": "市場可能關注歐洲對資料中心耗能與用水的規範，會否影響當地AI算力擴建的成本與時程。",
+      "newbieTake": "可留意西班牙或歐盟後續正式法規文本，而不是只看新聞標題。以上皆非買賣建議。"
     }
   ]
 }
